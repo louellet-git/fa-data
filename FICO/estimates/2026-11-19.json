@@ -1,0 +1,96 @@
+{
+  "ticker": "FICO",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 8.42,
+      "low": 7.87,
+      "high": 8.68,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 3.0
+    },
+    "+1q": {
+      "avg": 10.16,
+      "low": 9.66,
+      "high": 10.97,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 10.65,
+      "low": 9.0,
+      "high": 12.98,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 10.47,
+      "low": 9.58,
+      "high": 11.85,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 9.56,
+      "low": 8.85,
+      "high": 10.48,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 40.32,
+      "low": 36.76,
+      "high": 44.66,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 3.0
+    },
+    "+1y": {
+      "avg": 45.01,
+      "low": 37.39,
+      "high": 51.97,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 40.19,
+      "low": 40.19,
+      "high": 40.19,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 852.79,
+    "low": 650.0,
+    "high": 1230.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-09",
+    "+1y": "2028-09",
+    "+2y": "2029-09"
+  },
+  "ratings": {
+    "buy": 8.0,
+    "hold": 5.0,
+    "sell": 1.0
+  }
+}

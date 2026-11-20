@@ -1,0 +1,105 @@
+{
+  "ticker": "FOX",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.88,
+      "low": 0.81,
+      "high": 0.95,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.39,
+      "low": 1.39,
+      "high": 1.39,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 1.45,
+      "low": 1.45,
+      "high": 1.45,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.88,
+      "low": 1.88,
+      "high": 1.88,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.48,
+      "low": 0.48,
+      "high": 0.48,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 6.3,
+      "low": 6.0,
+      "high": 6.83,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 5.79,
+      "low": 5.5,
+      "high": 6.01,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 6.43,
+      "low": 6.4,
+      "high": 6.45,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 5.56,
+      "low": 5.56,
+      "high": 5.56,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 90.0,
+    "low": 85.0,
+    "high": 95.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-06",
+    "+1y": "2028-06",
+    "+2y": "2029-06",
+    "+3y": "2030-06"
+  },
+  "ratings": {
+    "buy": 2.0,
+    "hold": 0.0,
+    "sell": 0.0
+  }
+}

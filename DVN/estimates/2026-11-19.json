@@ -1,0 +1,105 @@
+{
+  "ticker": "DVN",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.45,
+      "low": 1.03,
+      "high": 1.72,
+      "numberOfAnalysts": 9.0,
+      "up": 4.0,
+      "down": 3.0
+    },
+    "+1q": {
+      "avg": 1.35,
+      "low": 0.89,
+      "high": 1.79,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 4.0
+    },
+    "+2q": {
+      "avg": 1.19,
+      "low": 0.46,
+      "high": 1.45,
+      "numberOfAnalysts": 8.0,
+      "up": 3.0,
+      "down": 2.0
+    },
+    "+3q": {
+      "avg": 1.2,
+      "low": 0.7,
+      "high": 1.54,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+4q": {
+      "avg": 1.28,
+      "low": 0.81,
+      "high": 1.64,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "0y": {
+      "avg": 5.53,
+      "low": 5.02,
+      "high": 5.85,
+      "numberOfAnalysts": 10.0,
+      "up": 6.0,
+      "down": 2.0
+    },
+    "+1y": {
+      "avg": 5.27,
+      "low": 2.86,
+      "high": 6.76,
+      "numberOfAnalysts": 11.0,
+      "up": 4.0,
+      "down": 4.0
+    },
+    "+2y": {
+      "avg": 5.18,
+      "low": 3.19,
+      "high": 6.5,
+      "numberOfAnalysts": 7.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+3y": {
+      "avg": 3.78,
+      "low": 2.06,
+      "high": 4.79,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 1.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 61.17,
+    "low": 44.0,
+    "high": 68.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 15.0,
+    "hold": 1.0,
+    "sell": 0.0
+  }
+}

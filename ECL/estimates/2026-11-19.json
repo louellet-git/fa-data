@@ -1,0 +1,105 @@
+{
+  "ticker": "ECL",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.19,
+      "low": 2.18,
+      "high": 2.21,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 1.87,
+      "low": 1.79,
+      "high": 1.95,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 4.0
+    },
+    "+2q": {
+      "avg": 2.32,
+      "low": 2.25,
+      "high": 2.4,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.56,
+      "low": 2.51,
+      "high": 2.61,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.62,
+      "low": 2.49,
+      "high": 2.7,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 8.16,
+      "low": 8.13,
+      "high": 8.2,
+      "numberOfAnalysts": 12.0,
+      "up": 5.0,
+      "down": 3.0
+    },
+    "+1y": {
+      "avg": 9.36,
+      "low": 8.95,
+      "high": 9.51,
+      "numberOfAnalysts": 12.0,
+      "up": 3.0,
+      "down": 3.0
+    },
+    "+2y": {
+      "avg": 10.72,
+      "low": 10.35,
+      "high": 10.96,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 12.41,
+      "low": 12.41,
+      "high": 12.41,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 349.23,
+    "low": 310.0,
+    "high": 385.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 14.0,
+    "hold": 0.0,
+    "sell": 0.0
+  }
+}

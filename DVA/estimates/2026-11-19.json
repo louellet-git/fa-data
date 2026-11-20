@@ -1,0 +1,105 @@
+{
+  "ticker": "DVA",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 4.27,
+      "low": 4.2,
+      "high": 4.34,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 3.73,
+      "low": 3.73,
+      "high": 3.73,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 4.27,
+      "low": 4.27,
+      "high": 4.27,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 4.51,
+      "low": 4.51,
+      "high": 4.51,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 4.88,
+      "low": 4.88,
+      "high": 4.88,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 14.66,
+      "low": 14.49,
+      "high": 14.98,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+1y": {
+      "avg": 17.34,
+      "low": 16.33,
+      "high": 18.41,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 21.63,
+      "low": 20.54,
+      "high": 22.71,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 27.14,
+      "low": 27.14,
+      "high": 27.14,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 227.75,
+    "low": 180.0,
+    "high": 287.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 2.0,
+    "hold": 1.0,
+    "sell": 1.0
+  }
+}

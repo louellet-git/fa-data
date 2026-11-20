@@ -1,0 +1,96 @@
+{
+  "ticker": "FDX",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 5.96,
+      "low": 3.76,
+      "high": 6.41,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 3.0
+    },
+    "+1q": {
+      "avg": 3.83,
+      "low": 3.47,
+      "high": 4.32,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 5.25,
+      "low": 4.65,
+      "high": 6.18,
+      "numberOfAnalysts": 7.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 4.32,
+      "low": 3.84,
+      "high": 4.65,
+      "numberOfAnalysts": 7.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 7.05,
+      "low": 6.12,
+      "high": 7.67,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 18.29,
+      "low": 18.2,
+      "high": 18.35,
+      "numberOfAnalysts": 8.0,
+      "up": 4.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 20.56,
+      "low": 18.47,
+      "high": 22.1,
+      "numberOfAnalysts": 10.0,
+      "up": 4.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 22.52,
+      "low": 19.76,
+      "high": 23.6,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 356.71,
+    "low": 160.0,
+    "high": 425.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 12.0,
+    "hold": 1.0,
+    "sell": 1.0
+  }
+}

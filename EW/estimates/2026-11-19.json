@@ -1,0 +1,105 @@
+{
+  "ticker": "EW",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.66,
+      "low": 0.64,
+      "high": 0.74,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 7.0
+    },
+    "+1q": {
+      "avg": 0.85,
+      "low": 0.79,
+      "high": 0.87,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 0.87,
+      "low": 0.84,
+      "high": 0.91,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.86,
+      "low": 0.83,
+      "high": 0.89,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.82,
+      "low": 0.75,
+      "high": 0.87,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 3.01,
+      "low": 3.0,
+      "high": 3.05,
+      "numberOfAnalysts": 12.0,
+      "up": 7.0,
+      "down": 2.0
+    },
+    "+1y": {
+      "avg": 3.4,
+      "low": 3.31,
+      "high": 3.48,
+      "numberOfAnalysts": 12.0,
+      "up": 7.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 3.83,
+      "low": 3.71,
+      "high": 3.97,
+      "numberOfAnalysts": 7.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 4.17,
+      "low": 4.15,
+      "high": 4.2,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 115.1,
+    "low": 97.0,
+    "high": 125.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 20.0,
+    "hold": 2.0,
+    "sell": 0.0
+  }
+}

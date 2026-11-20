@@ -1,0 +1,105 @@
+{
+  "ticker": "FOXA",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.81,
+      "low": 0.69,
+      "high": 0.93,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 1.25,
+      "low": 1.18,
+      "high": 1.31,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 1.47,
+      "low": 1.42,
+      "high": 1.51,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.96,
+      "low": 1.9,
+      "high": 2.01,
+      "numberOfAnalysts": 2.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.8,
+      "low": 0.58,
+      "high": 1.02,
+      "numberOfAnalysts": 2.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 6.13,
+      "low": 5.84,
+      "high": 6.83,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 3.0
+    },
+    "+1y": {
+      "avg": 5.72,
+      "low": 5.35,
+      "high": 6.01,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 6.46,
+      "low": 6.36,
+      "high": 6.56,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 5.72,
+      "low": 5.56,
+      "high": 5.87,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 80.56,
+    "low": 60.0,
+    "high": 95.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-06",
+    "+1y": "2028-06",
+    "+2y": "2029-06",
+    "+3y": "2030-06"
+  },
+  "ratings": {
+    "buy": 7.0,
+    "hold": 2.0,
+    "sell": 0.0
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "ticker": "ELV",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.25,
+      "low": 1.92,
+      "high": 3.02,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 5.0
+    },
+    "+1q": {
+      "avg": 11.78,
+      "low": 8.69,
+      "high": 13.46,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 4.0
+    },
+    "+2q": {
+      "avg": 7.98,
+      "low": 7.28,
+      "high": 9.78,
+      "numberOfAnalysts": 8.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 6.21,
+      "low": 4.99,
+      "high": 7.06,
+      "numberOfAnalysts": 8.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.85,
+      "low": 2.02,
+      "high": 7.73,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 29.16,
+      "low": 29.0,
+      "high": 29.42,
+      "numberOfAnalysts": 9.0,
+      "up": 9.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 30.01,
+      "low": 29.06,
+      "high": 30.76,
+      "numberOfAnalysts": 11.0,
+      "up": 8.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 33.91,
+      "low": 33.39,
+      "high": 34.7,
+      "numberOfAnalysts": 7.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 38.96,
+      "low": 35.63,
+      "high": 41.2,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 482.0,
+    "low": 406.0,
+    "high": 523.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 10.0,
+    "hold": 4.0,
+    "sell": 0.0
+  }
+}

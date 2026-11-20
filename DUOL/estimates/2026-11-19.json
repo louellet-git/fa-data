@@ -1,0 +1,105 @@
+{
+  "ticker": "DUOL",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.64,
+      "low": 0.44,
+      "high": 0.78,
+      "numberOfAnalysts": 6.0,
+      "up": 4.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 0.74,
+      "low": 0.64,
+      "high": 0.8,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 0.81,
+      "low": 0.72,
+      "high": 0.96,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.79,
+      "low": 0.74,
+      "high": 0.87,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.86,
+      "low": 0.71,
+      "high": 0.96,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 2.72,
+      "low": 2.53,
+      "high": 2.87,
+      "numberOfAnalysts": 6.0,
+      "up": 5.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 3.16,
+      "low": 2.95,
+      "high": 3.38,
+      "numberOfAnalysts": 6.0,
+      "up": 4.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 4.11,
+      "low": 3.56,
+      "high": 4.54,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 5.34,
+      "low": 5.34,
+      "high": 5.34,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 149.46,
+    "low": 108.0,
+    "high": 180.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 3.0,
+    "hold": 11.0,
+    "sell": 1.0
+  }
+}
