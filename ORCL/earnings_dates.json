@@ -1,0 +1,35 @@
+{
+  "ticker": "ORCL",
+  "updated": "2026-11-19",
+  "past": [
+    {
+      "date": "2026-09-10",
+      "fiscal_qtr_end": "2026-08",
+      "source": "nasdaq"
+    },
+    {
+      "date": "2026-06-10",
+      "fiscal_qtr_end": "2026-05",
+      "source": "nasdaq"
+    },
+    {
+      "date": "2026-03-10",
+      "fiscal_qtr_end": "2026-02",
+      "source": "nasdaq"
+    },
+    {
+      "date": "2025-12-10",
+      "fiscal_qtr_end": "2025-11",
+      "source": "nasdaq"
+    }
+  ],
+  "next": {
+    "date": "2026-12-09",
+    "time": "not-supplied",
+    "fiscal_quarter": "2026-11",
+    "eps_forecast": 1.56,
+    "estimates": 10.0,
+    "source": "nasdaq calendar"
+  },
+  "scanned_through": "2027-01-15"
+}

@@ -1,0 +1,105 @@
+{
+  "ticker": "OXY",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.8,
+      "low": 0.59,
+      "high": 2.8,
+      "numberOfAnalysts": 9.0,
+      "up": 4.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 1.6,
+      "low": 1.01,
+      "high": 2.35,
+      "numberOfAnalysts": 9.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 1.36,
+      "low": 0.92,
+      "high": 1.87,
+      "numberOfAnalysts": 9.0,
+      "up": 6.0,
+      "down": 1.0
+    },
+    "+3q": {
+      "avg": 1.27,
+      "low": 0.93,
+      "high": 1.66,
+      "numberOfAnalysts": 9.0,
+      "up": 5.0,
+      "down": 2.0
+    },
+    "+4q": {
+      "avg": 1.17,
+      "low": 0.82,
+      "high": 1.73,
+      "numberOfAnalysts": 9.0,
+      "up": 5.0,
+      "down": 2.0
+    },
+    "0y": {
+      "avg": 7.16,
+      "low": 5.55,
+      "high": 8.2,
+      "numberOfAnalysts": 11.0,
+      "up": 7.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 5.64,
+      "low": 3.8,
+      "high": 7.36,
+      "numberOfAnalysts": 12.0,
+      "up": 8.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 4.7,
+      "low": 3.95,
+      "high": 5.52,
+      "numberOfAnalysts": 7.0,
+      "up": 5.0,
+      "down": 1.0
+    },
+    "+3y": {
+      "avg": 4.27,
+      "low": 2.77,
+      "high": 5.53,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 69.72,
+    "low": 58.0,
+    "high": 80.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 7.0,
+    "hold": 11.0,
+    "sell": 0.0
+  }
+}

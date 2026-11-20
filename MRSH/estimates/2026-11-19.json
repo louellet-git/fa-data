@@ -1,0 +1,105 @@
+{
+  "ticker": "MRSH",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.2,
+      "low": 2.12,
+      "high": 2.28,
+      "numberOfAnalysts": 10.0,
+      "up": 2.0,
+      "down": 3.0
+    },
+    "+1q": {
+      "avg": 3.57,
+      "low": 3.47,
+      "high": 3.68,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 3.2,
+      "low": 3.1,
+      "high": 3.29,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.23,
+      "low": 2.1,
+      "high": 2.38,
+      "numberOfAnalysts": 7.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.43,
+      "low": 2.35,
+      "high": 2.59,
+      "numberOfAnalysts": 7.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 10.49,
+      "low": 10.4,
+      "high": 10.58,
+      "numberOfAnalysts": 14.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 11.43,
+      "low": 10.96,
+      "high": 11.65,
+      "numberOfAnalysts": 14.0,
+      "up": 5.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 12.36,
+      "low": 11.7,
+      "high": 12.82,
+      "numberOfAnalysts": 8.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 13.59,
+      "low": 13.59,
+      "high": 13.59,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 211.93,
+    "low": 180.0,
+    "high": 235.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 8.0,
+    "hold": 7.0,
+    "sell": 1.0
+  }
+}

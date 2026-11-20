@@ -1,0 +1,96 @@
+{
+  "ticker": "NUE",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 5.56,
+      "low": 3.41,
+      "high": 6.11,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 6.66,
+      "low": 3.83,
+      "high": 8.84,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 6.29,
+      "low": 3.74,
+      "high": 7.79,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 5.72,
+      "low": 3.91,
+      "high": 6.91,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 4.58,
+      "low": 3.6,
+      "high": 5.39,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 19.64,
+      "low": 19.16,
+      "high": 19.92,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 23.44,
+      "low": 20.15,
+      "high": 28.98,
+      "numberOfAnalysts": 7.0,
+      "up": 4.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 21.2,
+      "low": 20.24,
+      "high": 22.57,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 306.92,
+    "low": 295.0,
+    "high": 345.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 10.0,
+    "hold": 0.0,
+    "sell": 0.0
+  }
+}

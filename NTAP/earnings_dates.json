@@ -1,0 +1,14 @@
+{
+  "ticker": "NTAP",
+  "updated": "2026-11-19",
+  "past": [],
+  "next": {
+    "date": "2026-12-01",
+    "time": "after-hours",
+    "fiscal_quarter": "2026-10",
+    "eps_forecast": 2.13,
+    "estimates": 8.0,
+    "source": "nasdaq calendar"
+  },
+  "scanned_through": "2027-01-15"
+}

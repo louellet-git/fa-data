@@ -1,0 +1,105 @@
+{
+  "ticker": "MTD",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 14.95,
+      "low": 14.9,
+      "high": 14.99,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 10.16,
+      "low": 10.16,
+      "high": 10.16,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 12.29,
+      "low": 12.29,
+      "high": 12.29,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 14.13,
+      "low": 14.13,
+      "high": 14.13,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 16.56,
+      "low": 16.56,
+      "high": 16.56,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 47.83,
+      "low": 47.74,
+      "high": 47.92,
+      "numberOfAnalysts": 4.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 53.54,
+      "low": 53.0,
+      "high": 54.79,
+      "numberOfAnalysts": 4.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 59.87,
+      "low": 59.1,
+      "high": 60.64,
+      "numberOfAnalysts": 2.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 64.76,
+      "low": 64.76,
+      "high": 64.76,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 1705.0,
+    "low": 1200.0,
+    "high": 1930.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 4.0,
+    "hold": 5.0,
+    "sell": 1.0
+  }
+}

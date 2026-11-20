@@ -1,0 +1,105 @@
+{
+  "ticker": "MTB",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 5.0,
+      "low": 4.84,
+      "high": 5.14,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 4.67,
+      "low": 4.44,
+      "high": 5.07,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 5.36,
+      "low": 5.14,
+      "high": 5.67,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 5.56,
+      "low": 5.36,
+      "high": 5.88,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 5.75,
+      "low": 5.47,
+      "high": 6.16,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 19.48,
+      "low": 19.13,
+      "high": 19.92,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 21.24,
+      "low": 20.76,
+      "high": 22.26,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 23.67,
+      "low": 22.58,
+      "high": 25.0,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 24.35,
+      "low": 24.35,
+      "high": 24.35,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 244.5,
+    "low": 198.0,
+    "high": 294.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 5.0,
+    "hold": 10.0,
+    "sell": 2.0
+  }
+}

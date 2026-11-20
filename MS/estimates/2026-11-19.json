@@ -1,0 +1,105 @@
+{
+  "ticker": "MS",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.93,
+      "low": 2.72,
+      "high": 3.11,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 3.41,
+      "low": 3.17,
+      "high": 3.79,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 3.32,
+      "low": 3.04,
+      "high": 3.47,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.29,
+      "low": 3.09,
+      "high": 3.4,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.31,
+      "low": 3.14,
+      "high": 3.46,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 12.83,
+      "low": 12.65,
+      "high": 13.05,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 13.34,
+      "low": 11.8,
+      "high": 14.19,
+      "numberOfAnalysts": 9.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 12.91,
+      "low": 11.54,
+      "high": 13.82,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 12.9,
+      "low": 12.9,
+      "high": 12.9,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 214.36,
+    "low": 190.0,
+    "high": 262.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 7.0,
+    "hold": 8.0,
+    "sell": 0.0
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ticker": "NVDA",
+  "updated": "2026-11-19",
+  "past": [
+    {
+      "date": "2026-11-17",
+      "fiscal_qtr_end": "2026-10",
+      "source": "nasdaq"
+    },
+    {
+      "date": "2026-08-26",
+      "fiscal_qtr_end": "2026-07",
+      "source": "nasdaq"
+    },
+    {
+      "date": "2026-05-20",
+      "fiscal_qtr_end": "2026-04",
+      "source": "nasdaq"
+    },
+    {
+      "date": "2026-02-25",
+      "fiscal_qtr_end": "2026-01",
+      "source": "nasdaq"
+    }
+  ],
+  "next": {
+    "date": "2027-02-24",
+    "time": "-",
+    "fiscal_quarter": "",
+    "eps_forecast": null,
+    "estimates": null,
+    "source": "estimate: report date of a year ago + 364 days"
+  },
+  "scanned_through": "2027-01-15"
+}

@@ -1,0 +1,96 @@
+{
+  "ticker": "MPWR",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 7.37,
+      "low": 7.26,
+      "high": 7.56,
+      "numberOfAnalysts": 6.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 7.94,
+      "low": 7.49,
+      "high": 8.43,
+      "numberOfAnalysts": 6.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 8.84,
+      "low": 8.14,
+      "high": 9.37,
+      "numberOfAnalysts": 6.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 10.23,
+      "low": 9.2,
+      "high": 10.64,
+      "numberOfAnalysts": 6.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 11.2,
+      "low": 10.06,
+      "high": 12.11,
+      "numberOfAnalysts": 6.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 23.72,
+      "low": 23.44,
+      "high": 24.51,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 6.0
+    },
+    "+1y": {
+      "avg": 38.36,
+      "low": 34.92,
+      "high": 40.41,
+      "numberOfAnalysts": 8.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 49.93,
+      "low": 49.93,
+      "high": 49.93,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 1778.57,
+    "low": 1500.0,
+    "high": 2100.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 8.0,
+    "hold": 0.0,
+    "sell": 0.0
+  }
+}

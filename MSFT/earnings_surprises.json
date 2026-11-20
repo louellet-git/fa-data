@@ -1,0 +1,35 @@
+{
+  "ticker": "MSFT",
+  "source": "nasdaq",
+  "fetched": "2026-11-19",
+  "rows": [
+    {
+      "fiscal_qtr_end": "2026-09",
+      "date": "2026-10-28",
+      "eps": 4.89,
+      "consensus": 4.71,
+      "pct": 3.82
+    },
+    {
+      "fiscal_qtr_end": "2026-06",
+      "date": "2026-07-29",
+      "eps": 4.74,
+      "consensus": 4.21,
+      "pct": 12.59
+    },
+    {
+      "fiscal_qtr_end": "2026-03",
+      "date": "2026-04-29",
+      "eps": 4.27,
+      "consensus": 4.07,
+      "pct": 4.91
+    },
+    {
+      "fiscal_qtr_end": "2025-12",
+      "date": "2026-01-28",
+      "eps": 4.14,
+      "consensus": 3.88,
+      "pct": 6.7
+    }
+  ]
+}

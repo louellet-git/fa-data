@@ -1,0 +1,105 @@
+{
+  "ticker": "NDSN",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.46,
+      "low": 3.42,
+      "high": 3.49,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 2.63,
+      "low": 2.58,
+      "high": 2.67,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 3.09,
+      "low": 3.06,
+      "high": 3.11,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.52,
+      "low": 3.5,
+      "high": 3.53,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.72,
+      "low": 3.69,
+      "high": 3.75,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 11.86,
+      "low": 11.5,
+      "high": 12.0,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 12.75,
+      "low": 12.21,
+      "high": 13.0,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 13.98,
+      "low": 13.81,
+      "high": 14.15,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 15.47,
+      "low": 15.47,
+      "high": 15.47,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 364.0,
+    "low": 351.0,
+    "high": 375.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-10",
+    "+1q": "2027-01",
+    "+2q": "2027-04",
+    "+3q": "2027-07",
+    "+4q": "2027-10",
+    "0y": "2026-10",
+    "+1y": "2027-10",
+    "+2y": "2028-10",
+    "+3y": "2029-10"
+  },
+  "ratings": {
+    "buy": 3.0,
+    "hold": 1.0,
+    "sell": 0.0
+  }
+}

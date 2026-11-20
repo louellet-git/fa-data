@@ -1,0 +1,96 @@
+{
+  "ticker": "MRVL",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.79,
+      "low": 0.74,
+      "high": 0.82,
+      "numberOfAnalysts": 12.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 1.03,
+      "low": 0.98,
+      "high": 1.08,
+      "numberOfAnalysts": 12.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 1.15,
+      "low": 1.06,
+      "high": 1.29,
+      "numberOfAnalysts": 11.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.35,
+      "low": 1.18,
+      "high": 1.48,
+      "numberOfAnalysts": 11.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.59,
+      "low": 1.27,
+      "high": 1.75,
+      "numberOfAnalysts": 11.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 3.05,
+      "low": 2.87,
+      "high": 3.12,
+      "numberOfAnalysts": 15.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+1y": {
+      "avg": 6.08,
+      "low": 4.95,
+      "high": 6.91,
+      "numberOfAnalysts": 14.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 11.28,
+      "low": 8.33,
+      "high": 13.08,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 323.63,
+    "low": 175.0,
+    "high": 450.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-10",
+    "+1q": "2027-01",
+    "+2q": "2027-04",
+    "+3q": "2027-07",
+    "+4q": "2027-10",
+    "0y": "2027-01",
+    "+1y": "2028-01",
+    "+2y": "2029-01"
+  },
+  "ratings": {
+    "buy": 24.0,
+    "hold": 5.0,
+    "sell": 0.0
+  }
+}

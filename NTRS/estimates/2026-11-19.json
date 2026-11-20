@@ -1,0 +1,105 @@
+{
+  "ticker": "NTRS",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.08,
+      "low": 3.04,
+      "high": 3.11,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 2.99,
+      "low": 2.94,
+      "high": 3.08,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 3.3,
+      "low": 3.28,
+      "high": 3.35,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.31,
+      "low": 3.29,
+      "high": 3.34,
+      "numberOfAnalysts": 3.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.47,
+      "low": 3.44,
+      "high": 3.51,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 12.06,
+      "low": 11.21,
+      "high": 13.5,
+      "numberOfAnalysts": 8.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 12.97,
+      "low": 12.62,
+      "high": 13.25,
+      "numberOfAnalysts": 8.0,
+      "up": 4.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 14.27,
+      "low": 13.97,
+      "high": 14.7,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 15.33,
+      "low": 15.33,
+      "high": 15.33,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 182.54,
+    "low": 170.0,
+    "high": 194.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 2.0,
+    "hold": 8.0,
+    "sell": 2.0
+  }
+}

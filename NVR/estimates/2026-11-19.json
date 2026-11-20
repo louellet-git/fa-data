@@ -1,0 +1,96 @@
+{
+  "ticker": "NVR",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 98.1,
+      "low": 90.86,
+      "high": 105.42,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+1q": {
+      "avg": 58.33,
+      "low": 51.47,
+      "high": 65.2,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 86.4,
+      "low": 81.11,
+      "high": 91.68,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+3q": {
+      "avg": 89.75,
+      "low": 85.01,
+      "high": 94.49,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+4q": {
+      "avg": 96.23,
+      "low": 87.22,
+      "high": 105.24,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 342.45,
+      "low": 331.12,
+      "high": 355.58,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+1y": {
+      "avg": 339.17,
+      "low": 304.0,
+      "high": 357.42,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 5.0
+    },
+    "+2y": {
+      "avg": 373.41,
+      "low": 346.7,
+      "high": 400.12,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 1.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 6342.8,
+    "low": 4864.0,
+    "high": 7425.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 1.0,
+    "hold": 2.0,
+    "sell": 2.0
+  }
+}

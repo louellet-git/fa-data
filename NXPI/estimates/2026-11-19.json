@@ -1,0 +1,96 @@
+{
+  "ticker": "NXPI",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 4.03,
+      "low": 3.93,
+      "high": 4.25,
+      "numberOfAnalysts": 8.0,
+      "up": 4.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 3.67,
+      "low": 3.47,
+      "high": 3.85,
+      "numberOfAnalysts": 7.0,
+      "up": 4.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 4.02,
+      "low": 3.73,
+      "high": 4.34,
+      "numberOfAnalysts": 7.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 4.61,
+      "low": 4.35,
+      "high": 5.01,
+      "numberOfAnalysts": 7.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 4.79,
+      "low": 4.5,
+      "high": 5.2,
+      "numberOfAnalysts": 7.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 13.81,
+      "low": 13.56,
+      "high": 14.13,
+      "numberOfAnalysts": 12.0,
+      "up": 7.0,
+      "down": 4.0
+    },
+    "+1y": {
+      "avg": 16.89,
+      "low": 15.37,
+      "high": 18.46,
+      "numberOfAnalysts": 12.0,
+      "up": 5.0,
+      "down": 6.0
+    },
+    "+2y": {
+      "avg": 19.47,
+      "low": 19.47,
+      "high": 19.47,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 292.94,
+    "low": 175.0,
+    "high": 400.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 10.0,
+    "hold": 7.0,
+    "sell": 1.0
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ticker": "NTAP",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.13,
+      "low": 2.01,
+      "high": 2.29,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.98,
+      "low": 1.75,
+      "high": 2.39,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 2.08,
+      "low": 1.88,
+      "high": 2.43,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.02,
+      "low": 1.67,
+      "high": 2.45,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.27,
+      "low": 2.14,
+      "high": 2.53,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 8.32,
+      "low": 8.04,
+      "high": 9.29,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 9.09,
+      "low": 8.58,
+      "high": 10.81,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 11.37,
+      "low": 11.37,
+      "high": 11.37,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 213.53,
+    "low": 170.0,
+    "high": 300.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-10",
+    "+1q": "2027-01",
+    "+2q": "2027-04",
+    "+3q": "2027-07",
+    "+4q": "2027-10",
+    "0y": "2027-04",
+    "+1y": "2028-04",
+    "+2y": "2029-04"
+  },
+  "ratings": {
+    "buy": 6.0,
+    "hold": 12.0,
+    "sell": 0.0
+  }
+}

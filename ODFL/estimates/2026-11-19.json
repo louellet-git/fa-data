@@ -1,0 +1,105 @@
+{
+  "ticker": "ODFL",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.5,
+      "low": 1.47,
+      "high": 1.52,
+      "numberOfAnalysts": 8.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.4,
+      "low": 1.32,
+      "high": 1.44,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 1.83,
+      "low": 1.8,
+      "high": 1.85,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.88,
+      "low": 1.83,
+      "high": 1.94,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.69,
+      "low": 1.62,
+      "high": 1.77,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.96,
+      "low": 5.89,
+      "high": 6.01,
+      "numberOfAnalysts": 10.0,
+      "up": 9.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 6.75,
+      "low": 6.36,
+      "high": 7.22,
+      "numberOfAnalysts": 10.0,
+      "up": 4.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 7.76,
+      "low": 7.17,
+      "high": 8.37,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 7.99,
+      "low": 7.99,
+      "high": 7.99,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 217.63,
+    "low": 193.0,
+    "high": 245.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 7.0,
+    "hold": 10.0,
+    "sell": 0.0
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ticker": "MSI",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 5.05,
+      "low": 5.02,
+      "high": 5.08,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 3.27,
+      "low": 3.16,
+      "high": 3.41,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 4.11,
+      "low": 3.97,
+      "high": 4.31,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 4.62,
+      "low": 4.49,
+      "high": 4.73,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 5.6,
+      "low": 5.37,
+      "high": 5.82,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 16.08,
+      "low": 16.04,
+      "high": 16.1,
+      "numberOfAnalysts": 8.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 17.5,
+      "low": 17.04,
+      "high": 17.78,
+      "numberOfAnalysts": 8.0,
+      "up": 5.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 18.43,
+      "low": 17.44,
+      "high": 19.41,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 553.67,
+    "low": 476.0,
+    "high": 598.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 8.0,
+    "hold": 0.0,
+    "sell": 0.0
+  }
+}

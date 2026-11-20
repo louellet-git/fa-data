@@ -1,0 +1,105 @@
+{
+  "ticker": "MSFT",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 4.86,
+      "low": 4.81,
+      "high": 4.97,
+      "numberOfAnalysts": 14.0,
+      "up": 7.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 4.92,
+      "low": 4.74,
+      "high": 5.03,
+      "numberOfAnalysts": 13.0,
+      "up": 10.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 5.21,
+      "low": 4.89,
+      "high": 5.48,
+      "numberOfAnalysts": 12.0,
+      "up": 8.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 5.7,
+      "low": 5.33,
+      "high": 5.99,
+      "numberOfAnalysts": 11.0,
+      "up": 9.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 5.86,
+      "low": 5.58,
+      "high": 6.06,
+      "numberOfAnalysts": 11.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 19.91,
+      "low": 19.72,
+      "high": 20.18,
+      "numberOfAnalysts": 10.0,
+      "up": 8.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 23.81,
+      "low": 22.0,
+      "high": 24.6,
+      "numberOfAnalysts": 17.0,
+      "up": 14.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 29.27,
+      "low": 28.08,
+      "high": 30.93,
+      "numberOfAnalysts": 8.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 34.5,
+      "low": 33.2,
+      "high": 37.93,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 632.48,
+    "low": 440.0,
+    "high": 750.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-06",
+    "+1y": "2028-06",
+    "+2y": "2029-06",
+    "+3y": "2030-06"
+  },
+  "ratings": {
+    "buy": 34.0,
+    "hold": 4.0,
+    "sell": 0.0
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "ticker": "NFLX",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.67,
+      "low": 0.66,
+      "high": 0.71,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 10.0
+    },
+    "+1q": {
+      "avg": 0.92,
+      "low": 0.85,
+      "high": 0.95,
+      "numberOfAnalysts": 9.0,
+      "up": 1.0,
+      "down": 4.0
+    },
+    "+2q": {
+      "avg": 0.96,
+      "low": 0.92,
+      "high": 1.02,
+      "numberOfAnalysts": 9.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.0,
+      "low": 0.92,
+      "high": 1.06,
+      "numberOfAnalysts": 9.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.86,
+      "low": 0.82,
+      "high": 0.89,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 3.59,
+      "low": 3.55,
+      "high": 3.64,
+      "numberOfAnalysts": 15.0,
+      "up": 5.0,
+      "down": 7.0
+    },
+    "+1y": {
+      "avg": 3.74,
+      "low": 3.61,
+      "high": 3.9,
+      "numberOfAnalysts": 15.0,
+      "up": 3.0,
+      "down": 8.0
+    },
+    "+2y": {
+      "avg": 4.43,
+      "low": 4.13,
+      "high": 4.66,
+      "numberOfAnalysts": 9.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 4.97,
+      "low": 4.65,
+      "high": 5.47,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 85.0,
+    "low": 57.0,
+    "high": 125.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 23.0,
+    "hold": 9.0,
+    "sell": 2.0
+  }
+}

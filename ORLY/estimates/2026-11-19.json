@@ -1,0 +1,105 @@
+{
+  "ticker": "ORLY",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.77,
+      "low": 0.76,
+      "high": 0.79,
+      "numberOfAnalysts": 12.0,
+      "up": 2.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 0.8,
+      "low": 0.78,
+      "high": 0.83,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+2q": {
+      "avg": 0.96,
+      "low": 0.92,
+      "high": 0.99,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.03,
+      "low": 0.96,
+      "high": 1.07,
+      "numberOfAnalysts": 7.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.87,
+      "low": 0.83,
+      "high": 0.88,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 3.32,
+      "low": 3.26,
+      "high": 3.35,
+      "numberOfAnalysts": 14.0,
+      "up": 12.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 3.44,
+      "low": 0.38,
+      "high": 3.74,
+      "numberOfAnalysts": 15.0,
+      "up": 8.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 4.02,
+      "low": 3.85,
+      "high": 4.12,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 4.32,
+      "low": 4.15,
+      "high": 4.48,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 107.33,
+    "low": 96.0,
+    "high": 122.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 13.0,
+    "hold": 2.0,
+    "sell": 0.0
+  }
+}

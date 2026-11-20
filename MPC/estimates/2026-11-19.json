@@ -1,0 +1,105 @@
+{
+  "ticker": "MPC",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 23.5,
+      "low": 19.8,
+      "high": 27.04,
+      "numberOfAnalysts": 5.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 15.52,
+      "low": 11.48,
+      "high": 20.53,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+2q": {
+      "avg": 18.04,
+      "low": 15.24,
+      "high": 22.35,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 16.46,
+      "low": 14.96,
+      "high": 20.59,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 11.15,
+      "low": 7.97,
+      "high": 13.22,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 66.31,
+      "low": 56.46,
+      "high": 72.22,
+      "numberOfAnalysts": 7.0,
+      "up": 5.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 63.84,
+      "low": 51.35,
+      "high": 76.96,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 4.0
+    },
+    "+2y": {
+      "avg": 30.7,
+      "low": 13.16,
+      "high": 58.56,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 16.03,
+      "low": 16.03,
+      "high": 16.03,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 479.5,
+    "low": 425.0,
+    "high": 564.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 9.0,
+    "hold": 7.0,
+    "sell": 0.0
+  }
+}
