@@ -1,0 +1,161 @@
+{
+  "date": "2027-01-13",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-12",
+      "eps_forecast": 1.13,
+      "estimates": 7.0,
+      "last_year_report": "2026-01-14",
+      "last_year_eps": 0.98,
+      "market_cap": 337489232000.0
+    },
+    {
+      "symbol": "WFC",
+      "name": "Wells Fargo & Company",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-12",
+      "eps_forecast": 1.88,
+      "estimates": 8.0,
+      "last_year_report": "2026-01-14",
+      "last_year_eps": 1.76,
+      "market_cap": 242909725000.0
+    },
+    {
+      "symbol": "C",
+      "name": "Citigroup Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-12",
+      "eps_forecast": 2.39,
+      "estimates": 8.0,
+      "last_year_report": "2026-01-14",
+      "last_year_eps": 1.81,
+      "market_cap": 194221162000.0
+    },
+    {
+      "symbol": "INFY",
+      "name": "Infosys Limited",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-12",
+      "eps_forecast": 0.2,
+      "estimates": 4.0,
+      "last_year_report": "2026-01-14",
+      "last_year_eps": 0.21,
+      "market_cap": 47783924000.0
+    },
+    {
+      "symbol": "HOMB",
+      "name": "Home BancShares, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-12",
+      "eps_forecast": 0.65,
+      "estimates": 4.0,
+      "last_year_report": "2026-01-14",
+      "last_year_eps": 0.6,
+      "market_cap": 5802006500.0
+    },
+    {
+      "symbol": "UCB",
+      "name": "United Community Banks, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-12",
+      "eps_forecast": 0.82,
+      "estimates": 5.0,
+      "last_year_report": "2026-01-14",
+      "last_year_eps": 0.71,
+      "market_cap": 4372337200.0
+    },
+    {
+      "symbol": "FUL",
+      "name": "H. B. Fuller Company",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 1.38,
+      "estimates": 3.0,
+      "last_year_report": "2026-01-14",
+      "last_year_eps": 1.28,
+      "market_cap": 2592410370.0
+    },
+    {
+      "symbol": "XHG",
+      "name": "XChange TEC.INC",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 176293904.0
+    },
+    {
+      "symbol": "HOVR",
+      "name": "New Horizon Aircraft Ltd.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2026-01-14",
+      "last_year_eps": null,
+      "market_cap": 78535008.0
+    },
+    {
+      "symbol": "RFIL",
+      "name": "RF Industries, Ltd.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.18,
+      "estimates": 1.0,
+      "last_year_report": "2026-01-14",
+      "last_year_eps": 0.18,
+      "market_cap": 76476712.0
+    },
+    {
+      "symbol": "NTRP",
+      "name": "NextTrip, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2026-01-14",
+      "last_year_eps": null,
+      "market_cap": 12167167.0
+    },
+    {
+      "symbol": "LOOP",
+      "name": "Loop Industries, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2026-01-14",
+      "last_year_eps": null,
+      "market_cap": 10299453.0
+    },
+    {
+      "symbol": "BMRA",
+      "name": "Biomerica, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 5012875.0
+    },
+    {
+      "symbol": "FNGR",
+      "name": "FingerMotion, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 3716640.0
+    }
+  ]
+}

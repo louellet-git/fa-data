@@ -1,0 +1,95 @@
+{
+  "date": "2026-12-22",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "DRUG",
+      "name": "Bright Minds Biosciences Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-23",
+      "last_year_eps": null,
+      "market_cap": 203854080.0
+    },
+    {
+      "symbol": "LMNR",
+      "name": "Limoneira Co",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.08,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-23",
+      "last_year_eps": null,
+      "market_cap": 187847600.0
+    },
+    {
+      "symbol": "GHG",
+      "name": "GreenTree Hospitality Group Ltd.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": 0.08,
+      "market_cap": 103924248.0
+    },
+    {
+      "symbol": "CTOR",
+      "name": "Citius Oncology, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 51827724.0
+    },
+    {
+      "symbol": "CTXR",
+      "name": "Citius Pharmaceuticals, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 14020027.0
+    },
+    {
+      "symbol": "GTIM",
+      "name": "Good Times Restaurants Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 13197370.0
+    },
+    {
+      "symbol": "TRIB",
+      "name": "Trinity Biotech plc",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 4736494.0
+    },
+    {
+      "symbol": "YYAI",
+      "name": "AiRWA Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": 40.0,
+      "market_cap": 3344341.0
+    }
+  ]
+}

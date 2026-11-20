@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-27",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "CHA",
+      "name": "Chagee Holdings Limited",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.34,
+      "estimates": 2.0,
+      "last_year_report": "2025-11-28",
+      "last_year_eps": 0.29,
+      "market_cap": 2586750720.0
+    },
+    {
+      "symbol": "NAT",
+      "name": "Nordic American Tankers Limited",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.1,
+      "estimates": 1.0,
+      "last_year_report": "2025-11-28",
+      "last_year_eps": null,
+      "market_cap": 1306501630.0
+    },
+    {
+      "symbol": "XYF",
+      "name": "X Financial",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": 1.43,
+      "market_cap": 289253408.0
+    },
+    {
+      "symbol": "LEDS",
+      "name": "SemiLEDS Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-08",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 15719466.0
+    }
+  ]
+}

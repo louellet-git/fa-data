@@ -1,0 +1,35 @@
+{
+  "ticker": "XOM",
+  "source": "nasdaq",
+  "fetched": "2026-11-19",
+  "rows": [
+    {
+      "fiscal_qtr_end": "2026-09",
+      "date": "2026-10-30",
+      "eps": 4.23,
+      "consensus": 3.9,
+      "pct": 8.46
+    },
+    {
+      "fiscal_qtr_end": "2026-06",
+      "date": "2026-07-31",
+      "eps": 3.52,
+      "consensus": 3.68,
+      "pct": -4.35
+    },
+    {
+      "fiscal_qtr_end": "2026-03",
+      "date": "2026-05-01",
+      "eps": 1.16,
+      "consensus": 1.07,
+      "pct": 8.41
+    },
+    {
+      "fiscal_qtr_end": "2025-12",
+      "date": "2026-01-30",
+      "eps": 1.71,
+      "consensus": 1.68,
+      "pct": 1.79
+    }
+  ]
+}

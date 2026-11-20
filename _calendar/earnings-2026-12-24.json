@@ -1,0 +1,18 @@
+{
+  "date": "2026-12-24",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "SHOE",
+      "name": "Shoe Station Group, Inc.",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.25,
+      "estimates": 1.0,
+      "last_year_report": "2025-11-20",
+      "last_year_eps": 0.53,
+      "market_cap": 408844576.0
+    }
+  ]
+}

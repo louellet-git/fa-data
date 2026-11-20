@@ -1,0 +1,139 @@
+{
+  "date": "2027-01-12",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "JPM",
+      "name": "J P Morgan Chase & Co",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-12",
+      "eps_forecast": 5.94,
+      "estimates": 6.0,
+      "last_year_report": "2026-01-13",
+      "last_year_eps": 5.23,
+      "market_cap": 860709580000.0
+    },
+    {
+      "symbol": "BNY",
+      "name": "The Bank Of New York Mellon Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-12",
+      "eps_forecast": 2.37,
+      "estimates": 7.0,
+      "last_year_report": "2026-01-13",
+      "last_year_eps": 2.08,
+      "market_cap": 99454394000.0
+    },
+    {
+      "symbol": "DAL",
+      "name": "Delta Air Lines, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-12",
+      "eps_forecast": 1.42,
+      "estimates": 8.0,
+      "last_year_report": "2026-01-13",
+      "last_year_eps": 1.55,
+      "market_cap": 55843602000.0
+    },
+    {
+      "symbol": "BMNR",
+      "name": "BitMine Immersion Technologies, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2026-01-13",
+      "last_year_eps": 0.13,
+      "market_cap": 9691197400.0
+    },
+    {
+      "symbol": "CNXC",
+      "name": "Concentrix Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 2.57,
+      "estimates": 1.0,
+      "last_year_report": "2026-01-13",
+      "last_year_eps": 2.72,
+      "market_cap": 1849661700.0
+    },
+    {
+      "symbol": "UNTY",
+      "name": "Unity Bancorp, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-12",
+      "eps_forecast": 1.55,
+      "estimates": 2.0,
+      "last_year_report": "2026-01-13",
+      "last_year_eps": 1.41,
+      "market_cap": 574548670.0
+    },
+    {
+      "symbol": "PKE",
+      "name": "Park Aerospace Corp.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 6.0,
+      "last_year_report": null,
+      "last_year_eps": 0.15,
+      "market_cap": 534698080.0
+    },
+    {
+      "symbol": "BBCP",
+      "name": "Concrete Pumping Holdings, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.12,
+      "estimates": 1.0,
+      "last_year_report": "2026-01-13",
+      "last_year_eps": 0.09,
+      "market_cap": 493855520.0
+    },
+    {
+      "symbol": "SOTK",
+      "name": "Sono-Tek Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 0.01,
+      "estimates": 1.0,
+      "last_year_report": "2026-01-13",
+      "last_year_eps": 0.02,
+      "market_cap": 65527224.0
+    },
+    {
+      "symbol": "EDUC",
+      "name": "Educational Development Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 6.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 7416719.0
+    },
+    {
+      "symbol": "RMCF",
+      "name": "Rocky Mountain Chocolate Factory, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 6242724.0
+    },
+    {
+      "symbol": "VMAR",
+      "name": "Vision Marine Technologies Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 6.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 2341170.0
+    }
+  ]
+}

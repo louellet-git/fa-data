@@ -1,0 +1,95 @@
+{
+  "date": "2026-12-11",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "JOUT",
+      "name": "Johnson Outdoors Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-12",
+      "last_year_eps": null,
+      "market_cap": 506482464.0
+    },
+    {
+      "symbol": "PPIH",
+      "name": "Perma-Pipe International Holdings, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": 0.77,
+      "market_cap": 227088416.0
+    },
+    {
+      "symbol": "MSB",
+      "name": "Mesabi Trust",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": 0.21,
+      "market_cap": 198374544.0
+    },
+    {
+      "symbol": "AXR",
+      "name": "AMREP Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": 0.22,
+      "market_cap": 106709976.0
+    },
+    {
+      "symbol": "RENT",
+      "name": "Rent the Runway, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 82458856.0
+    },
+    {
+      "symbol": "PFX",
+      "name": "PhenixFIN Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.6,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-12",
+      "last_year_eps": 0.69,
+      "market_cap": 77695112.0
+    },
+    {
+      "symbol": "ZDGE",
+      "name": "Zedge, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.02,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-12",
+      "last_year_eps": 0.07,
+      "market_cap": 41135392.0
+    },
+    {
+      "symbol": "EDSA",
+      "name": "Edesa Biotech, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-12",
+      "last_year_eps": null,
+      "market_cap": 27817668.0
+    }
+  ]
+}

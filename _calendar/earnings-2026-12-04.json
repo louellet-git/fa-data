@@ -1,0 +1,51 @@
+{
+  "date": "2026-12-04",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "KNOP",
+      "name": "KNOT Offshore Partners LP",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.06,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-04",
+      "last_year_eps": 0.45,
+      "market_cap": 273321984.0
+    },
+    {
+      "symbol": "TORO",
+      "name": "Toro Corp.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": 0.01,
+      "market_cap": 122340032.0
+    },
+    {
+      "symbol": "TOUR",
+      "name": "Tuniu Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": 0.3,
+      "market_cap": 48235080.0
+    },
+    {
+      "symbol": "MNY",
+      "name": "MoneyHero Limited",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.0,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-05",
+      "last_year_eps": null,
+      "market_cap": 24882602.0
+    }
+  ]
+}

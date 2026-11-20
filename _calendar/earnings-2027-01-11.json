@@ -1,0 +1,51 @@
+{
+  "date": "2027-01-11",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "SIFY",
+      "name": "Sify Technologies Limited",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-12",
+      "eps_forecast": 0.0,
+      "estimates": 1.0,
+      "last_year_report": "2026-01-12",
+      "last_year_eps": null,
+      "market_cap": 906157060.0
+    },
+    {
+      "symbol": "ANIX",
+      "name": "Anixa Biosciences, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2026-01-12",
+      "last_year_eps": null,
+      "market_cap": 94209904.0
+    },
+    {
+      "symbol": "MOBX",
+      "name": "Mobix Labs, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 6823724.0
+    },
+    {
+      "symbol": "ALP",
+      "name": "Alpha Compute Corp",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2026-01-12",
+      "last_year_eps": null,
+      "market_cap": 3572400.0
+    }
+  ]
+}

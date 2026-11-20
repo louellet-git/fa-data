@@ -1,0 +1,105 @@
+{
+  "ticker": "ZTS",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.22,
+      "low": 1.14,
+      "high": 1.33,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 5.0
+    },
+    "+1q": {
+      "avg": 1.51,
+      "low": 1.41,
+      "high": 1.65,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 1.83,
+      "low": 1.65,
+      "high": 2.01,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.68,
+      "low": 1.6,
+      "high": 1.75,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.34,
+      "low": 1.14,
+      "high": 1.55,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 6.29,
+      "low": 6.22,
+      "high": 6.35,
+      "numberOfAnalysts": 7.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 6.35,
+      "low": 5.96,
+      "high": 6.64,
+      "numberOfAnalysts": 9.0,
+      "up": 1.0,
+      "down": 3.0
+    },
+    "+2y": {
+      "avg": 6.61,
+      "low": 6.26,
+      "high": 7.32,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 7.2,
+      "low": 7.2,
+      "high": 7.2,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 87.0,
+    "low": 74.0,
+    "high": 115.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 3.0,
+    "hold": 8.0,
+    "sell": 0.0
+  }
+}

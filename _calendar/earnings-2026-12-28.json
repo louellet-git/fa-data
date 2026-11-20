@@ -1,0 +1,62 @@
+{
+  "date": "2026-12-28",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "EBF",
+      "name": "Ennis, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 3.0,
+      "last_year_report": null,
+      "last_year_eps": 0.42,
+      "market_cap": 521040032.0
+    },
+    {
+      "symbol": "ENGN",
+      "name": "enGene Therapeutics Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 3.0,
+      "last_year_report": "2025-12-22",
+      "last_year_eps": null,
+      "market_cap": 123980184.0
+    },
+    {
+      "symbol": "SIF",
+      "name": "SIFCO Industries, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 3.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 91748056.0
+    },
+    {
+      "symbol": "MWYN",
+      "name": "Marwynn Holdings, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 3.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 31453244.0
+    },
+    {
+      "symbol": "MSS",
+      "name": "Maison Solutions Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.2,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-22",
+      "last_year_eps": 12.0,
+      "market_cap": 1844576.0
+    }
+  ]
+}

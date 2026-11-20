@@ -1,0 +1,282 @@
+{
+  "date": "2026-12-10",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 4.89,
+      "estimates": 11.0,
+      "last_year_report": "2025-12-11",
+      "last_year_eps": 4.34,
+      "market_cap": 485944492000.0
+    },
+    {
+      "symbol": "CIEN",
+      "name": "Ciena Corporation",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 1.77,
+      "estimates": 8.0,
+      "last_year_report": "2025-12-11",
+      "last_year_eps": 0.64,
+      "market_cap": 37800481000.0
+    },
+    {
+      "symbol": "LULU",
+      "name": "lululemon athletica inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.98,
+      "estimates": 10.0,
+      "last_year_report": "2025-12-11",
+      "last_year_eps": 2.59,
+      "market_cap": 11697710100.0
+    },
+    {
+      "symbol": "BIRK",
+      "name": "Birkenstock Holding plc",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.51,
+      "estimates": 9.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 0.6,
+      "market_cap": 5957753300.0
+    },
+    {
+      "symbol": "PL",
+      "name": "Planet Labs PBC",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": null,
+      "market_cap": 4384368100.0
+    },
+    {
+      "symbol": "FIZZ",
+      "name": "National Beverage Corp.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": 0.49,
+      "market_cap": 3502148350.0
+    },
+    {
+      "symbol": "RH",
+      "name": "RH",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.67,
+      "estimates": 8.0,
+      "last_year_report": "2025-12-11",
+      "last_year_eps": 1.71,
+      "market_cap": 2221238270.0
+    },
+    {
+      "symbol": "KMTS",
+      "name": "Kestra Medical Technologies, Ltd.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 5.0,
+      "last_year_report": "2025-12-11",
+      "last_year_eps": null,
+      "market_cap": 1685003140.0
+    },
+    {
+      "symbol": "VZLA",
+      "name": "Vizsla Silver Corp.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": "2025-12-11",
+      "last_year_eps": null,
+      "market_cap": 1055393340.0
+    },
+    {
+      "symbol": "UROY",
+      "name": "Uranium Royalty Corp.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-11",
+      "last_year_eps": null,
+      "market_cap": 980747650.0
+    },
+    {
+      "symbol": "NX",
+      "name": "Quanex Building Products Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.79,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-11",
+      "last_year_eps": 0.83,
+      "market_cap": 849617920.0
+    },
+    {
+      "symbol": "MITK",
+      "name": "Mitek Systems, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.11,
+      "estimates": 3.0,
+      "last_year_report": "2025-12-11",
+      "last_year_eps": 0.18,
+      "market_cap": 789190340.0
+    },
+    {
+      "symbol": "FEIM",
+      "name": "Frequency Electronics, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": null,
+      "last_year_eps": 0.18,
+      "market_cap": 696125440.0
+    },
+    {
+      "symbol": "FWDI",
+      "name": "Forward Industries, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.02,
+      "estimates": null,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 326571968.0
+    },
+    {
+      "symbol": "LOVE",
+      "name": "The Lovesac Company",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-11",
+      "last_year_eps": null,
+      "market_cap": 209139776.0
+    },
+    {
+      "symbol": "IMPP",
+      "name": "Imperial Petroleum Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": null,
+      "last_year_eps": 0.31,
+      "market_cap": 188993088.0
+    },
+    {
+      "symbol": "VRA",
+      "name": "Vera Bradley, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-11",
+      "last_year_eps": null,
+      "market_cap": 185902544.0
+    },
+    {
+      "symbol": "HOFT",
+      "name": "Hooker Furnishings Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.15,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-11",
+      "last_year_eps": 0.39,
+      "market_cap": 154502240.0
+    },
+    {
+      "symbol": "MAYS",
+      "name": "J. W. Mays, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 80631200.0
+    },
+    {
+      "symbol": "RFL",
+      "name": "Rafael Holdings, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 51503440.0
+    },
+    {
+      "symbol": "CMTL",
+      "name": "Comtech Telecommunications Corp.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-11",
+      "last_year_eps": null,
+      "market_cap": 33150992.0
+    },
+    {
+      "symbol": "BCTX",
+      "name": "BriaCell Therapeutics Corp.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 28393924.0
+    },
+    {
+      "symbol": "DXLG",
+      "name": "Destination XL Group, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 23012164.0
+    },
+    {
+      "symbol": "LIVE",
+      "name": "Live Ventures Incorporated",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 22975988.0
+    },
+    {
+      "symbol": "CIIT",
+      "name": "Tianci International, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 1728697.0
+    }
+  ]
+}

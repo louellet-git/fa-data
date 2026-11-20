@@ -1,0 +1,29 @@
+{
+  "date": "2027-01-08",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "HURC",
+      "name": "Hurco Companies, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 125705408.0
+    },
+    {
+      "symbol": "GMM",
+      "name": "Global Mofy AI Limited",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 89514064.0
+    }
+  ]
+}

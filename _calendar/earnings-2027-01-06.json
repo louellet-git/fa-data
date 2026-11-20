@@ -1,0 +1,194 @@
+{
+  "date": "2027-01-06",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "STZ",
+      "name": "Constellation Brands Inc",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 2.77,
+      "estimates": 8.0,
+      "last_year_report": "2026-01-07",
+      "last_year_eps": 3.06,
+      "market_cap": 24300286000.0
+    },
+    {
+      "symbol": "JEF",
+      "name": "Jefferies Financial Group Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 0.95,
+      "estimates": 2.0,
+      "last_year_report": "2026-01-07",
+      "last_year_eps": 0.96,
+      "market_cap": 9735696400.0
+    },
+    {
+      "symbol": "MSM",
+      "name": "MSC Industrial Direct Company, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 1.28,
+      "estimates": 3.0,
+      "last_year_report": "2026-01-07",
+      "last_year_eps": 0.99,
+      "market_cap": 6213672400.0
+    },
+    {
+      "symbol": "ACI",
+      "name": "Albertsons Companies, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 0.61,
+      "estimates": 6.0,
+      "last_year_report": "2026-01-07",
+      "last_year_eps": 0.69,
+      "market_cap": 6012765200.0
+    },
+    {
+      "symbol": "PSMT",
+      "name": "PriceSmart, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 5.0,
+      "last_year_report": null,
+      "last_year_eps": 1.29,
+      "market_cap": 5174601700.0
+    },
+    {
+      "symbol": "APLD",
+      "name": "Applied Digital Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 5.0,
+      "last_year_report": "2026-01-07",
+      "last_year_eps": null,
+      "market_cap": 4369494000.0
+    },
+    {
+      "symbol": "UNF",
+      "name": "Unifirst Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 2.28,
+      "estimates": 1.0,
+      "last_year_report": "2026-01-07",
+      "last_year_eps": 1.98,
+      "market_cap": 4363094000.0
+    },
+    {
+      "symbol": "AZZ",
+      "name": "AZZ Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 1.82,
+      "estimates": 4.0,
+      "last_year_report": "2026-01-07",
+      "last_year_eps": 1.52,
+      "market_cap": 3822036480.0
+    },
+    {
+      "symbol": "CALM",
+      "name": "Cal-Maine Foods, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 5.0,
+      "last_year_report": null,
+      "last_year_eps": 2.13,
+      "market_cap": 3289828350.0
+    },
+    {
+      "symbol": "RGC",
+      "name": "Regencell Bioscience Holdings Limited",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 5.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 2325697790.0
+    },
+    {
+      "symbol": "APOG",
+      "name": "Apogee Enterprises, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 0.81,
+      "estimates": 2.0,
+      "last_year_report": "2026-01-07",
+      "last_year_eps": 1.02,
+      "market_cap": 952421380.0
+    },
+    {
+      "symbol": "KRUS",
+      "name": "Kura Sushi USA, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": "2026-01-07",
+      "last_year_eps": null,
+      "market_cap": 298373696.0
+    },
+    {
+      "symbol": "RELL",
+      "name": "Richardson Electronics, Ltd.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 0.15,
+      "estimates": 2.0,
+      "last_year_report": "2026-01-07",
+      "last_year_eps": null,
+      "market_cap": 259152864.0
+    },
+    {
+      "symbol": "PCYO",
+      "name": "Pure Cycle Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 8.0,
+      "last_year_report": null,
+      "last_year_eps": 0.19,
+      "market_cap": 255673088.0
+    },
+    {
+      "symbol": "SAR",
+      "name": "Saratoga Investment Corp",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 0.5,
+      "estimates": 3.0,
+      "last_year_report": "2026-01-07",
+      "last_year_eps": 0.61,
+      "market_cap": 166954912.0
+    },
+    {
+      "symbol": "FC",
+      "name": "Franklin Covey Company",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 0.14,
+      "estimates": 4.0,
+      "last_year_report": "2026-01-07",
+      "last_year_eps": 0.07,
+      "market_cap": 150308352.0
+    },
+    {
+      "symbol": "RGP",
+      "name": "Resources Connection, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": "2026-01-07",
+      "last_year_eps": 0.01,
+      "market_cap": 88141304.0
+    }
+  ]
+}

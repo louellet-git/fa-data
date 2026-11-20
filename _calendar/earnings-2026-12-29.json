@@ -1,0 +1,18 @@
+{
+  "date": "2026-12-29",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "ELLO",
+      "name": "Ellomay Capital Ltd.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": null,
+      "last_year_eps": 0.92,
+      "market_cap": 246857648.0
+    }
+  ]
+}

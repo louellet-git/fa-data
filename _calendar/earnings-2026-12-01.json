@@ -1,0 +1,227 @@
+{
+  "date": "2026-12-01",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "CRWD",
+      "name": "CrowdStrike Holdings, Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.0,
+      "estimates": 13.0,
+      "last_year_report": "2025-12-02",
+      "last_year_eps": null,
+      "market_cap": 242703270000.0
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology, Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.79,
+      "estimates": 12.0,
+      "last_year_report": "2025-12-02",
+      "last_year_eps": 0.62,
+      "market_cap": 127624028000.0
+    },
+    {
+      "symbol": "OKTA",
+      "name": "Okta, Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.43,
+      "estimates": 10.0,
+      "last_year_report": "2025-12-02",
+      "last_year_eps": 0.31,
+      "market_cap": 34196721700.0
+    },
+    {
+      "symbol": "NTAP",
+      "name": "NetApp, Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 2.13,
+      "estimates": 8.0,
+      "last_year_report": "2025-11-25",
+      "last_year_eps": 1.63,
+      "market_cap": 33821388800.0
+    },
+    {
+      "symbol": "CPRT",
+      "name": "Copart, Inc.",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.41,
+      "estimates": 4.0,
+      "last_year_report": "2025-11-20",
+      "last_year_eps": 0.41,
+      "market_cap": 29143853100.0
+    },
+    {
+      "symbol": "MDB",
+      "name": "MongoDB, Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.08,
+      "estimates": 9.0,
+      "last_year_report": "2025-12-01",
+      "last_year_eps": null,
+      "market_cap": 24707434500.0
+    },
+    {
+      "symbol": "CRDO",
+      "name": "Credo Technology Group Holding Ltd",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 1.03,
+      "estimates": 6.0,
+      "last_year_report": "2025-12-01",
+      "last_year_eps": 0.44,
+      "market_cap": 23106807800.0
+    },
+    {
+      "symbol": "HQY",
+      "name": "HealthEquity, Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.96,
+      "estimates": 4.0,
+      "last_year_report": "2025-12-03",
+      "last_year_eps": 0.82,
+      "market_cap": 8049025500.0
+    },
+    {
+      "symbol": "GTLB",
+      "name": "GitLab Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 7.0,
+      "last_year_report": "2025-12-02",
+      "last_year_eps": null,
+      "market_cap": 7413700100.0
+    },
+    {
+      "symbol": "NIO",
+      "name": "NIO Inc.",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2025-11-25",
+      "last_year_eps": null,
+      "market_cap": 6940697600.0
+    },
+    {
+      "symbol": "BOX",
+      "name": "Box, Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.09,
+      "estimates": 3.0,
+      "last_year_report": "2025-12-02",
+      "last_year_eps": 0.02,
+      "market_cap": 5922957300.0
+    },
+    {
+      "symbol": "AEO",
+      "name": "American Eagle Outfitters, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.5,
+      "estimates": 7.0,
+      "last_year_report": "2025-12-02",
+      "last_year_eps": 0.53,
+      "market_cap": 3639692800.0
+    },
+    {
+      "symbol": "NCNO",
+      "name": "nCino, Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.16,
+      "estimates": 6.0,
+      "last_year_report": "2025-12-03",
+      "last_year_eps": 0.17,
+      "market_cap": 2295532290.0
+    },
+    {
+      "symbol": "ASAN",
+      "name": "Asana, Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 3.0,
+      "last_year_report": "2025-12-02",
+      "last_year_eps": null,
+      "market_cap": 2106525060.0
+    },
+    {
+      "symbol": "VSTS",
+      "name": "Vestis Corporation",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.17,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-01",
+      "last_year_eps": 0.03,
+      "market_cap": 1850241410.0
+    },
+    {
+      "symbol": "VLGEA",
+      "name": "Village Super Market, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 3.0,
+      "last_year_report": null,
+      "last_year_eps": 0.84,
+      "market_cap": 613574210.0
+    },
+    {
+      "symbol": "OOMA",
+      "name": "Ooma, Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.21,
+      "estimates": 6.0,
+      "last_year_report": "2025-12-08",
+      "last_year_eps": 0.14,
+      "market_cap": 488520000.0
+    },
+    {
+      "symbol": "CTRN",
+      "name": "Citi Trends, Inc.",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 8.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 376025664.0
+    },
+    {
+      "symbol": "CRNC",
+      "name": "Cerence Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.03,
+      "estimates": 1.0,
+      "last_year_report": "2025-11-19",
+      "last_year_eps": null,
+      "market_cap": 315707200.0
+    },
+    {
+      "symbol": "HERE",
+      "name": "Here Group Limited",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 8.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 84560920.0
+    }
+  ]
+}

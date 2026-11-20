@@ -1,0 +1,105 @@
+{
+  "ticker": "WSM",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.18,
+      "low": 2.0,
+      "high": 2.29,
+      "numberOfAnalysts": 11.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 3.33,
+      "low": 3.08,
+      "high": 3.5,
+      "numberOfAnalysts": 10.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 2.11,
+      "low": 1.98,
+      "high": 2.28,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.39,
+      "low": 2.31,
+      "high": 2.48,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.43,
+      "low": 2.17,
+      "high": 2.55,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 9.53,
+      "low": 9.35,
+      "high": 9.75,
+      "numberOfAnalysts": 12.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 10.54,
+      "low": 10.1,
+      "high": 11.01,
+      "numberOfAnalysts": 12.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 11.43,
+      "low": 10.85,
+      "high": 12.0,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 13.13,
+      "low": 12.69,
+      "high": 13.57,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 265.12,
+    "low": 240.0,
+    "high": 290.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-10",
+    "+1q": "2027-01",
+    "+2q": "2027-04",
+    "+3q": "2027-07",
+    "+4q": "2027-10",
+    "0y": "2027-01",
+    "+1y": "2028-01",
+    "+2y": "2029-01",
+    "+3y": "2030-01"
+  },
+  "ratings": {
+    "buy": 9.0,
+    "hold": 7.0,
+    "sell": 0.0
+  }
+}

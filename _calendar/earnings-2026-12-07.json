@@ -1,0 +1,73 @@
+{
+  "date": "2026-12-07",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "TOL",
+      "name": "Toll Brothers, Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 4.89,
+      "estimates": 7.0,
+      "last_year_report": "2025-12-08",
+      "last_year_eps": 4.58,
+      "market_cap": 13423053800.0
+    },
+    {
+      "symbol": "ODC",
+      "name": "Oil-Dri Corporation Of America",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": 1.06,
+      "market_cap": 1032752830.0
+    },
+    {
+      "symbol": "MOMO",
+      "name": "Hello Group Inc.",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": 0.29,
+      "market_cap": 627926460.0
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRX Gold Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-08",
+      "eps_forecast": 0.02,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-01",
+      "last_year_eps": 0.01,
+      "market_cap": 242208576.0
+    },
+    {
+      "symbol": "CANG",
+      "name": "Cango Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-01",
+      "last_year_eps": 1.9,
+      "market_cap": 60712512.0
+    },
+    {
+      "symbol": "JCTC",
+      "name": "Jewett-Cameron Trading Company",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-08",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 9733112.0
+    }
+  ]
+}

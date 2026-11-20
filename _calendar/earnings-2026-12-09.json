@@ -1,0 +1,238 @@
+{
+  "date": "2026-12-09",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 3.45,
+      "estimates": 10.0,
+      "last_year_report": "2025-12-11",
+      "last_year_eps": 1.61,
+      "market_cap": 1690103710000.0
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 1.56,
+      "estimates": 10.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": 1.95,
+      "market_cap": 344373297000.0
+    },
+    {
+      "symbol": "ADBE",
+      "name": "Adobe Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 5.11,
+      "estimates": 12.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": 4.55,
+      "market_cap": 88037040000.0
+    },
+    {
+      "symbol": "CHWY",
+      "name": "Chewy, Inc.",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.2,
+      "estimates": 8.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": 0.14,
+      "market_cap": 8319894000.0
+    },
+    {
+      "symbol": "CPB",
+      "name": "The Campbell's Company",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.44,
+      "estimates": 8.0,
+      "last_year_report": "2025-12-09",
+      "last_year_eps": 0.77,
+      "market_cap": 7267979300.0
+    },
+    {
+      "symbol": "MTN",
+      "name": "Vail Resorts, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 5.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": null,
+      "market_cap": 5589796900.0
+    },
+    {
+      "symbol": "UEC",
+      "name": "Uranium Energy Corp.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": null,
+      "market_cap": 2933861120.0
+    },
+    {
+      "symbol": "PLAB",
+      "name": "Photronics, Inc.",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.44,
+      "estimates": 3.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": 0.6,
+      "market_cap": 1597053310.0
+    },
+    {
+      "symbol": "VRSA",
+      "name": "Versa Bancorp",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.35,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": 0.24,
+      "market_cap": 1431077630.0
+    },
+    {
+      "symbol": "DAKT",
+      "name": "Daktronics, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.31,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": 0.35,
+      "market_cap": 927226300.0
+    },
+    {
+      "symbol": "OXM",
+      "name": "Oxford Industries, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": null,
+      "market_cap": 419841024.0
+    },
+    {
+      "symbol": "JILL",
+      "name": "J. Jill, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.59,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": 0.76,
+      "market_cap": 334416992.0
+    },
+    {
+      "symbol": "JACK",
+      "name": "Jack In The Box Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.44,
+      "estimates": 6.0,
+      "last_year_report": "2025-11-19",
+      "last_year_eps": 0.3,
+      "market_cap": 283662304.0
+    },
+    {
+      "symbol": "ASYS",
+      "name": "Amtech Systems, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.12,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": 0.08,
+      "market_cap": 207295920.0
+    },
+    {
+      "symbol": "ELVA",
+      "name": "Electrovaya Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.0,
+      "estimates": 4.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": 0.06,
+      "market_cap": 195019952.0
+    },
+    {
+      "symbol": "USAU",
+      "name": "U.S. Gold Corp.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": null,
+      "market_cap": 158675168.0
+    },
+    {
+      "symbol": "KEQU",
+      "name": "Kewaunee Scientific Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 12.0,
+      "last_year_report": null,
+      "last_year_eps": 0.91,
+      "market_cap": 100352728.0
+    },
+    {
+      "symbol": "NTRB",
+      "name": "Nutriband Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 12.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 58590392.0
+    },
+    {
+      "symbol": "CULP",
+      "name": "Culp, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": null,
+      "market_cap": 41517156.0
+    },
+    {
+      "symbol": "DLHC",
+      "name": "DLH Holdings Corp.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": null,
+      "market_cap": 41305152.0
+    },
+    {
+      "symbol": "SKIL",
+      "name": "Skillsoft Corp.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 1.11,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": 1.28,
+      "market_cap": 17017830.0
+    }
+  ]
+}

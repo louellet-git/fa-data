@@ -1,0 +1,106 @@
+{
+  "date": "2026-12-15",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "LEN",
+      "name": "Lennar Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 1.44,
+      "estimates": 7.0,
+      "last_year_report": "2025-12-16",
+      "last_year_eps": 2.03,
+      "market_cap": 19724308500.0
+    },
+    {
+      "symbol": "LEN.B",
+      "name": "Lennar Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": 2.03,
+      "market_cap": 19724308500.0
+    },
+    {
+      "symbol": "NDSN",
+      "name": "Nordson Corporation",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 3.46,
+      "estimates": 4.0,
+      "last_year_report": "2025-12-10",
+      "last_year_eps": 3.03,
+      "market_cap": 17954134000.0
+    },
+    {
+      "symbol": "WOR",
+      "name": "Worthington Enterprises, Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 0.7,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-16",
+      "last_year_eps": 0.65,
+      "market_cap": 2853122300.0
+    },
+    {
+      "symbol": "DLTH",
+      "name": "Duluth Holdings Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-16",
+      "last_year_eps": null,
+      "market_cap": 152400048.0
+    },
+    {
+      "symbol": "OGI",
+      "name": "Organigram Global Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.02,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-16",
+      "last_year_eps": null,
+      "market_cap": 94525376.0
+    },
+    {
+      "symbol": "CSPI",
+      "name": "CSP Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 72883064.0
+    },
+    {
+      "symbol": "GNSS",
+      "name": "Genasys Inc.",
+      "time": "after-hours",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.0,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-09",
+      "last_year_eps": null,
+      "market_cap": 61026292.0
+    },
+    {
+      "symbol": "NMTC",
+      "name": "NeuroOne Medical Technologies Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": "2025-12-16",
+      "last_year_eps": null,
+      "market_cap": 6931307.0
+    }
+  ]
+}

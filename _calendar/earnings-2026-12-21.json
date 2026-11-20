@@ -1,0 +1,117 @@
+{
+  "date": "2026-12-21",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "ABVX",
+      "name": "Abivax SA",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-15",
+      "last_year_eps": null,
+      "market_cap": 7314485800.0
+    },
+    {
+      "symbol": "VALU",
+      "name": "Value Line, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": 0.6,
+      "market_cap": 359428160.0
+    },
+    {
+      "symbol": "CSBR",
+      "name": "Champions Oncology, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": 0.02,
+      "market_cap": 61798448.0
+    },
+    {
+      "symbol": "HYFT",
+      "name": "MindWalk Holdings Corp.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-15",
+      "last_year_eps": null,
+      "market_cap": 42817060.0
+    },
+    {
+      "symbol": "NCPL",
+      "name": "Netcapital Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 23173256.0
+    },
+    {
+      "symbol": "ARKR",
+      "name": "Ark Restaurants Corp.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 15578598.0
+    },
+    {
+      "symbol": "HSCS",
+      "name": "HeartSciences Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-15",
+      "last_year_eps": null,
+      "market_cap": 11903890.0
+    },
+    {
+      "symbol": "IHT",
+      "name": "InnSuites Hospitality Trust",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 11449060.0
+    },
+    {
+      "symbol": "INHD",
+      "name": "Inno Holdings Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 2.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 5797336.0
+    },
+    {
+      "symbol": "OPTT",
+      "name": "Ocean Power Technologies, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.9,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-15",
+      "last_year_eps": null,
+      "market_cap": 3427294.0
+    }
+  ]
+}

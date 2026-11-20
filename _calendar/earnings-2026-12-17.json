@@ -1,0 +1,238 @@
+{
+  "date": "2026-12-17",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "ACN",
+      "name": "Accenture plc",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 3.9,
+      "estimates": 6.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 3.94,
+      "market_cap": 152127750000.0
+    },
+    {
+      "symbol": "CTAS",
+      "name": "Cintas Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 1.36,
+      "estimates": 9.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 1.21,
+      "market_cap": 88150671000.0
+    },
+    {
+      "symbol": "NKE",
+      "name": "Nike, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 0.34,
+      "estimates": 12.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 0.53,
+      "market_cap": 53931565000.0
+    },
+    {
+      "symbol": "HEI",
+      "name": "Heico Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 1.62,
+      "estimates": 6.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 1.33,
+      "market_cap": 47277134000.0
+    },
+    {
+      "symbol": "HEI.A",
+      "name": "Heico Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 1.33,
+      "market_cap": 47277134000.0
+    },
+    {
+      "symbol": "DRI",
+      "name": "Darden Restaurants, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 2.28,
+      "estimates": 11.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 2.08,
+      "market_cap": 27066122200.0
+    },
+    {
+      "symbol": "KEP",
+      "name": "Korea Electric Power Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 1.17,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 2.11,
+      "market_cap": 11670906900.0
+    },
+    {
+      "symbol": "FDS",
+      "name": "FactSet Research Systems Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 5.03,
+      "estimates": 6.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 4.51,
+      "market_cap": 11168909300.0
+    },
+    {
+      "symbol": "KMX",
+      "name": "CarMax Inc",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 0.43,
+      "estimates": 9.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 0.51,
+      "market_cap": 7239083000.0
+    },
+    {
+      "symbol": "BB",
+      "name": "BlackBerry Limited",
+      "time": "pre-market",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 0.04,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 0.04,
+      "market_cap": 5017702400.0
+    },
+    {
+      "symbol": "KBH",
+      "name": "KB Home",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 1.21,
+      "estimates": 7.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 1.92,
+      "market_cap": 2795085820.0
+    },
+    {
+      "symbol": "AVO",
+      "name": "Mission Produce, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.33,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 0.27,
+      "market_cap": 997780220.0
+    },
+    {
+      "symbol": "SCHL",
+      "name": "Scholastic Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-11",
+      "eps_forecast": 3.52,
+      "estimates": 2.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 2.57,
+      "market_cap": 722754750.0
+    },
+    {
+      "symbol": "FCEL",
+      "name": "FuelCell Energy, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": null,
+      "market_cap": 620444540.0
+    },
+    {
+      "symbol": "IA",
+      "name": "Innovative Solutions and Support, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": 0.27,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 0.34,
+      "market_cap": 333998560.0
+    },
+    {
+      "symbol": "UXIN",
+      "name": "Uxin Limited",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 171408624.0
+    },
+    {
+      "symbol": "OCC",
+      "name": "Optical Cable Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": 0.22,
+      "estimates": 1.0,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": 0.01,
+      "market_cap": 83026608.0
+    },
+    {
+      "symbol": "LFS",
+      "name": "LEIFRAS Co., Ltd.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": 0.05,
+      "market_cap": 48871616.0
+    },
+    {
+      "symbol": "SDA",
+      "name": "SunCar Technology Group Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": "2025-12-18",
+      "last_year_eps": null,
+      "market_cap": 25440018.0
+    },
+    {
+      "symbol": "BLIN",
+      "name": "Bridgeline Digital, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 7057192.0
+    },
+    {
+      "symbol": "PMCB",
+      "name": "PharmaCyte  Biotech, Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-10",
+      "eps_forecast": null,
+      "estimates": 1.0,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 3039887.0
+    }
+  ]
+}

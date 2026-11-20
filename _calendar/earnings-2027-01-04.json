@@ -1,0 +1,84 @@
+{
+  "date": "2027-01-04",
+  "fetched": "2026-11-19",
+  "source": "nasdaq calendar/earnings",
+  "rows": [
+    {
+      "symbol": "DJCO",
+      "name": "Daily Journal Corp. (S.C.)",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": null,
+      "last_year_eps": 30.61,
+      "market_cap": 794788930.0
+    },
+    {
+      "symbol": "IH",
+      "name": "iHuman Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": null,
+      "last_year_eps": 0.06,
+      "market_cap": 40890288.0
+    },
+    {
+      "symbol": "AURE",
+      "name": "Aurelion Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 34664560.0
+    },
+    {
+      "symbol": "CVM",
+      "name": "Cel-Sci Corporation",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 24272802.0
+    },
+    {
+      "symbol": "EZGO",
+      "name": "EZGO Technologies Ltd.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 2776754.0
+    },
+    {
+      "symbol": "DFSC",
+      "name": "DEFSEC Technologies Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 1524399.0
+    },
+    {
+      "symbol": "CETX",
+      "name": "Cemtrex Inc.",
+      "time": "not-supplied",
+      "fiscal_quarter": "2026-09",
+      "eps_forecast": null,
+      "estimates": null,
+      "last_year_report": null,
+      "last_year_eps": null,
+      "market_cap": 1493805.0
+    }
+  ]
+}

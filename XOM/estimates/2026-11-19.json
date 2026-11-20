@@ -1,0 +1,105 @@
+{
+  "ticker": "XOM",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 4.27,
+      "low": 3.5,
+      "high": 4.71,
+      "numberOfAnalysts": 7.0,
+      "up": 5.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 3.46,
+      "low": 0.89,
+      "high": 4.28,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 3.89,
+      "low": 3.25,
+      "high": 4.38,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.63,
+      "low": 3.16,
+      "high": 4.12,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.42,
+      "low": 2.33,
+      "high": 4.62,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 13.34,
+      "low": 12.41,
+      "high": 14.3,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 13.58,
+      "low": 11.82,
+      "high": 16.5,
+      "numberOfAnalysts": 10.0,
+      "up": 6.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 10.59,
+      "low": 5.45,
+      "high": 13.22,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 7.93,
+      "low": 5.74,
+      "high": 10.34,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 187.44,
+    "low": 162.0,
+    "high": 217.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 9.0,
+    "hold": 10.0,
+    "sell": 1.0
+  }
+}
