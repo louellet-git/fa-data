@@ -1,0 +1,105 @@
+{
+  "ticker": "AMCR",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.9,
+      "low": 0.78,
+      "high": 1.23,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 3.0
+    },
+    "+1q": {
+      "avg": 0.97,
+      "low": 0.95,
+      "high": 1.01,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 4.0
+    },
+    "+2q": {
+      "avg": 1.02,
+      "low": 0.79,
+      "high": 1.24,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.01,
+      "low": 0.97,
+      "high": 1.03,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+4q": {
+      "avg": 1.09,
+      "low": 0.93,
+      "high": 1.33,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 3.7,
+      "low": 1.84,
+      "high": 4.36,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 4.19,
+      "low": 3.81,
+      "high": 4.6,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 3.0
+    },
+    "+2y": {
+      "avg": 4.46,
+      "low": 4.25,
+      "high": 4.71,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 4.66,
+      "low": 4.53,
+      "high": 4.79,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 48.33,
+    "low": 44.0,
+    "high": 56.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 3.0,
+    "hold": 4.0,
+    "sell": 0.0
+  }
+}

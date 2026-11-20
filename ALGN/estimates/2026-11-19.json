@@ -1,0 +1,96 @@
+{
+  "ticker": "ALGN",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.55,
+      "low": 2.54,
+      "high": 2.56,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 2.17,
+      "low": 2.09,
+      "high": 2.36,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 2.44,
+      "low": 2.32,
+      "high": 2.58,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.67,
+      "low": 2.62,
+      "high": 2.74,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.86,
+      "low": 2.79,
+      "high": 3.0,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 9.21,
+      "low": 9.09,
+      "high": 9.41,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 4.0
+    },
+    "+1y": {
+      "avg": 10.27,
+      "low": 9.94,
+      "high": 10.76,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 5.0
+    },
+    "+2y": {
+      "avg": 10.91,
+      "low": 10.91,
+      "high": 10.91,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 187.89,
+    "low": 162.0,
+    "high": 210.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 7.0,
+    "hold": 4.0,
+    "sell": 1.0
+  }
+}

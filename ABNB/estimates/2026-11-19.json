@@ -1,0 +1,105 @@
+{
+  "ticker": "ABNB",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.88,
+      "low": 0.71,
+      "high": 1.43,
+      "numberOfAnalysts": 11.0,
+      "up": 1.0,
+      "down": 9.0
+    },
+    "+1q": {
+      "avg": 0.47,
+      "low": 0.25,
+      "high": 0.98,
+      "numberOfAnalysts": 9.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 1.59,
+      "low": 1.42,
+      "high": 2.25,
+      "numberOfAnalysts": 9.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.4,
+      "low": 2.88,
+      "high": 4.24,
+      "numberOfAnalysts": 9.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.14,
+      "low": 0.79,
+      "high": 1.88,
+      "numberOfAnalysts": 9.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.51,
+      "low": 5.0,
+      "high": 5.78,
+      "numberOfAnalysts": 13.0,
+      "up": 10.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 6.42,
+      "low": 5.91,
+      "high": 9.31,
+      "numberOfAnalysts": 14.0,
+      "up": 7.0,
+      "down": 5.0
+    },
+    "+2y": {
+      "avg": 7.23,
+      "low": 6.63,
+      "high": 8.33,
+      "numberOfAnalysts": 9.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 9.05,
+      "low": 7.64,
+      "high": 10.8,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 206.44,
+    "low": 161.0,
+    "high": 245.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 20.0,
+    "hold": 12.0,
+    "sell": 0.0
+  }
+}

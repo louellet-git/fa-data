@@ -1,0 +1,14 @@
+{
+  "ticker": "ACN",
+  "updated": "2026-11-19",
+  "past": [],
+  "next": {
+    "date": "2026-12-17",
+    "time": "pre-market",
+    "fiscal_quarter": "2026-11",
+    "eps_forecast": 3.9,
+    "estimates": 6.0,
+    "source": "nasdaq calendar"
+  },
+  "scanned_through": "2027-01-15"
+}

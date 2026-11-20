@@ -1,0 +1,96 @@
+{
+  "ticker": "ADSK",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.27,
+      "low": 2.12,
+      "high": 2.33,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 2.39,
+      "low": 2.22,
+      "high": 2.5,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 2.44,
+      "low": 2.29,
+      "high": 2.62,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.63,
+      "low": 2.42,
+      "high": 2.79,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.75,
+      "low": 2.55,
+      "high": 2.88,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 9.7,
+      "low": 9.42,
+      "high": 10.39,
+      "numberOfAnalysts": 12.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 10.93,
+      "low": 10.02,
+      "high": 12.09,
+      "numberOfAnalysts": 12.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 13.29,
+      "low": 12.77,
+      "high": 13.76,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 307.67,
+    "low": 215.0,
+    "high": 355.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-10",
+    "+1q": "2027-01",
+    "+2q": "2027-04",
+    "+3q": "2027-07",
+    "+4q": "2027-10",
+    "0y": "2027-01",
+    "+1y": "2028-01",
+    "+2y": "2029-01"
+  },
+  "ratings": {
+    "buy": 19.0,
+    "hold": 4.0,
+    "sell": 0.0
+  }
+}

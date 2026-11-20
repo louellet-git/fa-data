@@ -1,0 +1,105 @@
+{
+  "ticker": "AIG",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.04,
+      "low": 1.95,
+      "high": 2.1,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 2.26,
+      "low": 2.19,
+      "high": 2.33,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 2.16,
+      "low": 2.08,
+      "high": 2.24,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.03,
+      "low": 1.8,
+      "high": 2.16,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.3,
+      "low": 2.16,
+      "high": 2.36,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 8.17,
+      "low": 8.1,
+      "high": 8.25,
+      "numberOfAnalysts": 11.0,
+      "up": 7.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 8.7,
+      "low": 8.08,
+      "high": 9.15,
+      "numberOfAnalysts": 11.0,
+      "up": 3.0,
+      "down": 3.0
+    },
+    "+2y": {
+      "avg": 9.49,
+      "low": 9.0,
+      "high": 9.75,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 6.86,
+      "low": 6.86,
+      "high": 6.86,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 88.43,
+    "low": 81.0,
+    "high": 103.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 5.0,
+    "hold": 9.0,
+    "sell": 0.0
+  }
+}

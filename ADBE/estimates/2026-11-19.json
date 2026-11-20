@@ -1,0 +1,96 @@
+{
+  "ticker": "ADBE",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 5.11,
+      "low": 4.99,
+      "high": 5.16,
+      "numberOfAnalysts": 12.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 5.62,
+      "low": 5.23,
+      "high": 6.16,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 5.55,
+      "low": 5.35,
+      "high": 5.67,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 5.7,
+      "low": 5.49,
+      "high": 5.89,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 5.81,
+      "low": 5.63,
+      "high": 6.03,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 20.01,
+      "low": 19.87,
+      "high": 20.06,
+      "numberOfAnalysts": 14.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 22.66,
+      "low": 21.78,
+      "high": 23.36,
+      "numberOfAnalysts": 15.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 25.48,
+      "low": 24.56,
+      "high": 26.26,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 262.67,
+    "low": 195.0,
+    "high": 373.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-11",
+    "+1q": "2027-02",
+    "+2q": "2027-05",
+    "+3q": "2027-08",
+    "+4q": "2027-11",
+    "0y": "2026-11",
+    "+1y": "2027-11",
+    "+2y": "2028-11"
+  },
+  "ratings": {
+    "buy": 5.0,
+    "hold": 12.0,
+    "sell": 6.0
+  }
+}

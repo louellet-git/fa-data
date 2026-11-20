@@ -1,0 +1,105 @@
+{
+  "ticker": "ADP",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.9,
+      "low": 2.84,
+      "high": 2.96,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 3.71,
+      "low": 3.55,
+      "high": 3.81,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 2.95,
+      "low": 2.9,
+      "high": 3.05,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.09,
+      "low": 3.09,
+      "high": 3.1,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.23,
+      "low": 3.2,
+      "high": 3.27,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 12.38,
+      "low": 12.35,
+      "high": 12.42,
+      "numberOfAnalysts": 8.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 13.57,
+      "low": 13.46,
+      "high": 13.67,
+      "numberOfAnalysts": 5.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 14.86,
+      "low": 14.58,
+      "high": 15.17,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 15.66,
+      "low": 15.66,
+      "high": 15.66,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 303.07,
+    "low": 250.0,
+    "high": 345.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-06",
+    "+1y": "2028-06",
+    "+2y": "2029-06",
+    "+3y": "2030-06"
+  },
+  "ratings": {
+    "buy": 4.0,
+    "hold": 9.0,
+    "sell": 1.0
+  }
+}

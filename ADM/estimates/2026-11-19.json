@@ -1,0 +1,105 @@
+{
+  "ticker": "ADM",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.27,
+      "low": 1.02,
+      "high": 1.47,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 1.23,
+      "low": 1.15,
+      "high": 1.3,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 1.35,
+      "low": 1.15,
+      "high": 1.55,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.28,
+      "low": 1.15,
+      "high": 1.42,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.34,
+      "low": 1.15,
+      "high": 1.53,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.69,
+      "low": 5.63,
+      "high": 5.8,
+      "numberOfAnalysts": 3.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 5.64,
+      "low": 5.36,
+      "high": 5.8,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 5.6,
+      "low": 4.99,
+      "high": 5.9,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 4.65,
+      "low": 4.65,
+      "high": 4.65,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 80.2,
+    "low": 75.0,
+    "high": 90.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 0.0,
+    "hold": 5.0,
+    "sell": 0.0
+  }
+}

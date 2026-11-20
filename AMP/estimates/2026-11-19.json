@@ -1,0 +1,96 @@
+{
+  "ticker": "AMP",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 12.24,
+      "low": 12.12,
+      "high": 12.61,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 12.16,
+      "low": 11.55,
+      "high": 12.65,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 12.35,
+      "low": 12.09,
+      "high": 12.51,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 12.91,
+      "low": 12.37,
+      "high": 13.24,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+4q": {
+      "avg": 13.68,
+      "low": 13.3,
+      "high": 14.0,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 46.43,
+      "low": 46.02,
+      "high": 46.68,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 51.16,
+      "low": 50.54,
+      "high": 51.79,
+      "numberOfAnalysts": 7.0,
+      "up": 5.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 57.14,
+      "low": 55.57,
+      "high": 60.42,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 542.13,
+    "low": 447.0,
+    "high": 638.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 2.0,
+    "hold": 4.0,
+    "sell": 2.0
+  }
+}

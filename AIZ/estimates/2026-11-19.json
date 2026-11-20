@@ -1,0 +1,96 @@
+{
+  "ticker": "AIZ",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 5.78,
+      "low": 5.4,
+      "high": 6.05,
+      "numberOfAnalysts": 4.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 6.37,
+      "low": 6.02,
+      "high": 6.85,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 6.54,
+      "low": 6.14,
+      "high": 7.01,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 5.49,
+      "low": 5.13,
+      "high": 5.77,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+4q": {
+      "avg": 6.53,
+      "low": 6.03,
+      "high": 7.79,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 24.29,
+      "low": 23.91,
+      "high": 24.55,
+      "numberOfAnalysts": 6.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 24.52,
+      "low": 23.0,
+      "high": 26.0,
+      "numberOfAnalysts": 6.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 26.06,
+      "low": 24.0,
+      "high": 29.0,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 351.6,
+    "low": 320.0,
+    "high": 377.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 5.0,
+    "hold": 0.0,
+    "sell": 0.0
+  }
+}

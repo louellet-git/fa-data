@@ -1,0 +1,105 @@
+{
+  "ticker": "AMAT",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 4.35,
+      "low": 4.18,
+      "high": 4.59,
+      "numberOfAnalysts": 10.0,
+      "up": 7.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 4.55,
+      "low": 4.23,
+      "high": 4.64,
+      "numberOfAnalysts": 9.0,
+      "up": 7.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 4.89,
+      "low": 4.65,
+      "high": 5.05,
+      "numberOfAnalysts": 9.0,
+      "up": 6.0,
+      "down": 2.0
+    },
+    "+3q": {
+      "avg": 5.19,
+      "low": 4.81,
+      "high": 5.38,
+      "numberOfAnalysts": 9.0,
+      "up": 6.0,
+      "down": 2.0
+    },
+    "+4q": {
+      "avg": 5.57,
+      "low": 5.15,
+      "high": 5.84,
+      "numberOfAnalysts": 7.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 18.93,
+      "low": 17.65,
+      "high": 19.55,
+      "numberOfAnalysts": 14.0,
+      "up": 11.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 23.99,
+      "low": 21.3,
+      "high": 25.46,
+      "numberOfAnalysts": 10.0,
+      "up": 4.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 27.07,
+      "low": 26.73,
+      "high": 27.37,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 31.27,
+      "low": 30.46,
+      "high": 32.08,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 572.4,
+    "low": 430.0,
+    "high": 850.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2027-01",
+    "+1q": "2027-04",
+    "+2q": "2027-07",
+    "+3q": "2027-10",
+    "+4q": "2028-01",
+    "0y": "2027-10",
+    "+1y": "2028-10",
+    "+2y": "2029-10",
+    "+3y": "2030-10"
+  },
+  "ratings": {
+    "buy": 20.0,
+    "hold": 2.0,
+    "sell": 0.0
+  }
+}

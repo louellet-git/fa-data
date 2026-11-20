@@ -1,0 +1,105 @@
+{
+  "ticker": "AAPL",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.94,
+      "low": 2.86,
+      "high": 3.18,
+      "numberOfAnalysts": 10.0,
+      "up": 4.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 2.14,
+      "low": 1.87,
+      "high": 2.28,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 4.0
+    },
+    "+2q": {
+      "avg": 2.1,
+      "low": 1.86,
+      "high": 2.28,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.2,
+      "low": 1.67,
+      "high": 2.58,
+      "numberOfAnalysts": 8.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.15,
+      "low": 3.01,
+      "high": 3.27,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 9.45,
+      "low": 8.34,
+      "high": 10.5,
+      "numberOfAnalysts": 13.0,
+      "up": 3.0,
+      "down": 7.0
+    },
+    "+1y": {
+      "avg": 10.39,
+      "low": 8.57,
+      "high": 11.04,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+2y": {
+      "avg": 12.06,
+      "low": 11.6,
+      "high": 12.77,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 13.77,
+      "low": 13.0,
+      "high": 14.54,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 343.69,
+    "low": 261.0,
+    "high": 425.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-09",
+    "+1y": "2028-09",
+    "+2y": "2029-09",
+    "+3y": "2030-09"
+  },
+  "ratings": {
+    "buy": 15.0,
+    "hold": 8.0,
+    "sell": 6.0
+  }
+}

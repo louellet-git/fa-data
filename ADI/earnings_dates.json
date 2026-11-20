@@ -1,0 +1,14 @@
+{
+  "ticker": "ADI",
+  "updated": "2026-11-19",
+  "past": [],
+  "next": {
+    "date": "2026-11-24",
+    "time": "pre-market",
+    "fiscal_quarter": "2026-10",
+    "eps_forecast": 3.89,
+    "estimates": 10.0,
+    "source": "nasdaq calendar"
+  },
+  "scanned_through": "2027-01-15"
+}

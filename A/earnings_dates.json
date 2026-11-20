@@ -1,0 +1,14 @@
+{
+  "ticker": "A",
+  "updated": "2026-11-19",
+  "past": [],
+  "next": {
+    "date": "2026-11-23",
+    "time": "after-hours",
+    "fiscal_quarter": "2026-10",
+    "eps_forecast": 1.72,
+    "estimates": 7.0,
+    "source": "nasdaq calendar"
+  },
+  "scanned_through": "2027-01-15"
+}

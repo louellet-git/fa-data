@@ -1,0 +1,96 @@
+{
+  "ticker": "AFL",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.77,
+      "low": 1.68,
+      "high": 1.92,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.88,
+      "low": 1.84,
+      "high": 1.9,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 1.91,
+      "low": 1.87,
+      "high": 1.95,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.93,
+      "low": 1.9,
+      "high": 1.95,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.85,
+      "low": 1.81,
+      "high": 1.9,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 7.37,
+      "low": 6.89,
+      "high": 7.85,
+      "numberOfAnalysts": 8.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 7.76,
+      "low": 7.47,
+      "high": 8.86,
+      "numberOfAnalysts": 8.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 8.11,
+      "low": 7.94,
+      "high": 8.29,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 121.56,
+    "low": 101.0,
+    "high": 143.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 2.0,
+    "hold": 5.0,
+    "sell": 3.0
+  }
+}

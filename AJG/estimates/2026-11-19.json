@@ -1,0 +1,105 @@
+{
+  "ticker": "AJG",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.8,
+      "low": 2.72,
+      "high": 2.88,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 4.94,
+      "low": 4.88,
+      "high": 5.0,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 3.24,
+      "low": 3.12,
+      "high": 3.41,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+3q": {
+      "avg": 3.35,
+      "low": 3.2,
+      "high": 3.44,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+4q": {
+      "avg": 3.16,
+      "low": 3.01,
+      "high": 3.43,
+      "numberOfAnalysts": 7.0,
+      "up": 4.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 13.11,
+      "low": 13.02,
+      "high": 13.19,
+      "numberOfAnalysts": 13.0,
+      "up": 3.0,
+      "down": 5.0
+    },
+    "+1y": {
+      "avg": 14.77,
+      "low": 14.15,
+      "high": 15.5,
+      "numberOfAnalysts": 13.0,
+      "up": 6.0,
+      "down": 3.0
+    },
+    "+2y": {
+      "avg": 16.58,
+      "low": 15.69,
+      "high": 17.5,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+3y": {
+      "avg": 19.87,
+      "low": 19.87,
+      "high": 19.87,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 300.94,
+    "low": 275.0,
+    "high": 325.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 10.0,
+    "hold": 7.0,
+    "sell": 0.0
+  }
+}
