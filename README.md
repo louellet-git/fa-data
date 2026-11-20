@@ -40,7 +40,9 @@ git -C data/raw pull --depth 1
 | Daily prices | `<TICKER>/prices.json`, `<TICKER>/prices.meta.json` (the source of each file) | Nasdaq site; some files from Yahoo |
 | Estimates, price targets, surprises, earnings dates | `<TICKER>/estimates/`, `<TICKER>/earnings_dates.json`, `_calendar/` | Nasdaq site |
 | Option chain copies | `<TICKER>/options/` | Cboe delayed quotes |
-| Rate curves and inflation | `rates/` | Federal Reserve Board (GSW), Treasury, BLS |
+| Rate curves, inflation, daily bill rates | `rates/` | Federal Reserve Board (GSW), Treasury, BLS |
+| FedInvest end-of-day Treasury prices | `prices/` | TreasuryDirect (FedInvest) |
+| Futures and the VIX history | `futures/`, `vix/` | Cboe, CFTC, Atlanta Fed |
 | Corporate bond series | `bonds/` | FRED |
 | Bars of the option bots | `trading/` | Yahoo |
 

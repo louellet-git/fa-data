@@ -14,3 +14,7 @@ The date that each data set was downloaded from its source.
 | Rate curves (GSW, Treasury), CPI | `rates/` | 2026-11-19 |
 | Corporate bond series (FRED) | `bonds/`, 26 series | 2026-11-20 |
 | Bars of the option bots | `trading/` | 2026-11-19 |
+| Treasury daily bill rates | `rates/treasury_bill_rates_2026.csv` | 2026-11-20 |
+| FedInvest end-of-day Treasury prices | `prices/fedinvest_<date>.csv`: 2026-11-19 only; the last 60 business days follow | 2026-11-20 |
+| Futures: Cboe VX settlements, CFTC positions (12 roots), Atlanta Fed policy path | `futures/` (the Yahoo futures series are not in it: Yahoo answers 429 to the cloud) | 2026-11-20 |
+| Cboe VIX history | `vix/VIX_History.csv` | 2026-11-20 |
