@@ -1,0 +1,105 @@
+{
+  "ticker": "LYV",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": -1.39,
+      "low": -1.94,
+      "high": -1.03,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 3.0
+    },
+    "+1q": {
+      "avg": -0.15,
+      "low": -0.15,
+      "high": -0.15,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 0.59,
+      "low": 0.59,
+      "high": 0.59,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.45,
+      "low": 1.45,
+      "high": 1.45,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": -1.65,
+      "low": -1.65,
+      "high": -1.65,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 1.09,
+      "low": 0.56,
+      "high": 1.36,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 2.0
+    },
+    "+1y": {
+      "avg": 1.7,
+      "low": 0.38,
+      "high": 2.75,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 4.0
+    },
+    "+2y": {
+      "avg": 2.9,
+      "low": 1.91,
+      "high": 3.79,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 3.75,
+      "low": 1.6,
+      "high": 4.85,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 206.0,
+    "low": 167.0,
+    "high": 221.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 12.0,
+    "hold": 1.0,
+    "sell": 1.0
+  }
+}

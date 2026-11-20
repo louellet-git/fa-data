@@ -1,0 +1,105 @@
+{
+  "ticker": "MET",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.62,
+      "low": 2.52,
+      "high": 2.67,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 2.57,
+      "low": 2.41,
+      "high": 2.72,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 2.81,
+      "low": 2.63,
+      "high": 3.01,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.8,
+      "low": 2.71,
+      "high": 2.88,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.86,
+      "low": 2.82,
+      "high": 2.92,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 9.91,
+      "low": 7.19,
+      "high": 10.3,
+      "numberOfAnalysts": 10.0,
+      "up": 2.0,
+      "down": 3.0
+    },
+    "+1y": {
+      "avg": 10.75,
+      "low": 7.28,
+      "high": 11.5,
+      "numberOfAnalysts": 11.0,
+      "up": 4.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 11.89,
+      "low": 10.24,
+      "high": 12.39,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 11.7,
+      "low": 10.37,
+      "high": 13.03,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 114.55,
+    "low": 110.0,
+    "high": 131.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 11.0,
+    "hold": 1.0,
+    "sell": 0.0
+  }
+}

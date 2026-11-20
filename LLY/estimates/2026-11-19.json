@@ -1,0 +1,105 @@
+{
+  "ticker": "LLY",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 11.05,
+      "low": 10.4,
+      "high": 11.6,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 10.0,
+      "low": 10.0,
+      "high": 10.0,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 10.5,
+      "low": 10.5,
+      "high": 10.5,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 11.2,
+      "low": 11.2,
+      "high": 11.2,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 12.7,
+      "low": 12.7,
+      "high": 12.7,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 35.7,
+      "low": 35.18,
+      "high": 36.15,
+      "numberOfAnalysts": 8.0,
+      "up": 5.0,
+      "down": 2.0
+    },
+    "+1y": {
+      "avg": 50.71,
+      "low": 44.4,
+      "high": 59.81,
+      "numberOfAnalysts": 8.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 58.72,
+      "low": 54.94,
+      "high": 61.92,
+      "numberOfAnalysts": 3.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 59.82,
+      "low": 59.82,
+      "high": 59.82,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 1523.61,
+    "low": 940.0,
+    "high": 1700.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 22.0,
+    "hold": 1.0,
+    "sell": 1.0
+  }
+}

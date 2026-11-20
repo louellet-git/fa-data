@@ -1,0 +1,20 @@
+{
+  "ticker": "L",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {},
+  "analyst_price_targets": {
+    "mean": 220.0,
+    "low": 220.0,
+    "high": 220.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "targets"
+  ],
+  "ratings": {
+    "buy": 0.0,
+    "hold": 0.0,
+    "sell": 0.0
+  }
+}

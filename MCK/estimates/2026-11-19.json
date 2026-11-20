@@ -1,0 +1,105 @@
+{
+  "ticker": "MCK",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 10.81,
+      "low": 10.49,
+      "high": 11.1,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 13.41,
+      "low": 12.92,
+      "high": 13.67,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 10.67,
+      "low": 8.25,
+      "high": 11.5,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 12.19,
+      "low": 11.5,
+      "high": 13.19,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 12.89,
+      "low": 11.84,
+      "high": 13.75,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 46.09,
+      "low": 45.7,
+      "high": 46.4,
+      "numberOfAnalysts": 8.0,
+      "up": 8.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 52.08,
+      "low": 51.28,
+      "high": 52.73,
+      "numberOfAnalysts": 7.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 59.44,
+      "low": 57.8,
+      "high": 60.73,
+      "numberOfAnalysts": 4.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 66.02,
+      "low": 66.02,
+      "high": 66.02,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 1166.92,
+    "low": 913.0,
+    "high": 1260.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-03",
+    "+1y": "2028-03",
+    "+2y": "2029-03",
+    "+3y": "2030-03"
+  },
+  "ratings": {
+    "buy": 10.0,
+    "hold": 2.0,
+    "sell": 0.0
+  }
+}

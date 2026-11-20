@@ -1,0 +1,105 @@
+{
+  "ticker": "LMT",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 8.4,
+      "low": 8.2,
+      "high": 8.65,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 7.27,
+      "low": 6.9,
+      "high": 7.85,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 8.0,
+      "low": 7.73,
+      "high": 8.49,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 8.43,
+      "low": 8.26,
+      "high": 8.73,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 9.35,
+      "low": 8.83,
+      "high": 9.58,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 30.66,
+      "low": 30.5,
+      "high": 30.9,
+      "numberOfAnalysts": 8.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 33.65,
+      "low": 32.74,
+      "high": 35.48,
+      "numberOfAnalysts": 8.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 36.5,
+      "low": 35.2,
+      "high": 38.03,
+      "numberOfAnalysts": 4.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 39.87,
+      "low": 38.04,
+      "high": 41.7,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 653.76,
+    "low": 498.0,
+    "high": 835.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 8.0,
+    "hold": 8.0,
+    "sell": 1.0
+  }
+}

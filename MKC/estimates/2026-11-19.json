@@ -1,0 +1,96 @@
+{
+  "ticker": "MKC",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.77,
+      "low": 0.76,
+      "high": 0.78,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 0.65,
+      "low": 0.61,
+      "high": 0.73,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 0.75,
+      "low": 0.7,
+      "high": 0.81,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.88,
+      "low": 0.87,
+      "high": 0.89,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.94,
+      "low": 0.92,
+      "high": 0.96,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 3.09,
+      "low": 3.08,
+      "high": 3.11,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 3.21,
+      "low": 3.12,
+      "high": 3.32,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 3.42,
+      "low": 3.42,
+      "high": 3.42,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 52.63,
+    "low": 47.0,
+    "high": 59.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-11",
+    "+1q": "2027-02",
+    "+2q": "2027-05",
+    "+3q": "2027-08",
+    "+4q": "2027-11",
+    "0y": "2026-11",
+    "+1y": "2027-11",
+    "+2y": "2028-11"
+  },
+  "ratings": {
+    "buy": 5.0,
+    "hold": 5.0,
+    "sell": 0.0
+  }
+}

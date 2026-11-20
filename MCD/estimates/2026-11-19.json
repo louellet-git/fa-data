@@ -1,0 +1,105 @@
+{
+  "ticker": "MCD",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.19,
+      "low": 3.05,
+      "high": 3.32,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 8.0
+    },
+    "+1q": {
+      "avg": 3.0,
+      "low": 2.9,
+      "high": 3.08,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 3.48,
+      "low": 3.34,
+      "high": 3.62,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+3q": {
+      "avg": 3.67,
+      "low": 3.62,
+      "high": 3.73,
+      "numberOfAnalysts": 8.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.52,
+      "low": 3.44,
+      "high": 3.6,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 12.91,
+      "low": 12.64,
+      "high": 13.02,
+      "numberOfAnalysts": 14.0,
+      "up": 8.0,
+      "down": 4.0
+    },
+    "+1y": {
+      "avg": 13.6,
+      "low": 12.86,
+      "high": 14.16,
+      "numberOfAnalysts": 14.0,
+      "up": 1.0,
+      "down": 10.0
+    },
+    "+2y": {
+      "avg": 14.33,
+      "low": 14.05,
+      "high": 14.75,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+3y": {
+      "avg": 15.38,
+      "low": 15.24,
+      "high": 15.52,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 295.91,
+    "low": 230.0,
+    "high": 343.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 13.0,
+    "hold": 11.0,
+    "sell": 1.0
+  }
+}

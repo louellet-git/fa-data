@@ -1,0 +1,105 @@
+{
+  "ticker": "LNT",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.63,
+      "low": 0.43,
+      "high": 0.74,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 0.87,
+      "low": 0.86,
+      "high": 0.87,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 0.73,
+      "low": 0.72,
+      "high": 0.73,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.26,
+      "low": 1.26,
+      "high": 1.27,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.76,
+      "low": 0.75,
+      "high": 0.78,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 3.43,
+      "low": 3.4,
+      "high": 3.45,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 3.68,
+      "low": 3.64,
+      "high": 3.71,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 4.01,
+      "low": 3.95,
+      "high": 4.06,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 4.49,
+      "low": 4.49,
+      "high": 4.49,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 75.1,
+    "low": 68.0,
+    "high": 82.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 3.0,
+    "hold": 3.0,
+    "sell": 0.0
+  }
+}

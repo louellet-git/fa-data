@@ -1,0 +1,105 @@
+{
+  "ticker": "MAR",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.2,
+      "low": 3.15,
+      "high": 3.27,
+      "numberOfAnalysts": 6.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 3.01,
+      "low": 2.8,
+      "high": 3.29,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 3.61,
+      "low": 3.37,
+      "high": 3.95,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+3q": {
+      "avg": 3.41,
+      "low": 3.26,
+      "high": 3.61,
+      "numberOfAnalysts": 6.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.69,
+      "low": 3.52,
+      "high": 3.9,
+      "numberOfAnalysts": 6.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 12.09,
+      "low": 11.87,
+      "high": 12.2,
+      "numberOfAnalysts": 7.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 13.55,
+      "low": 13.08,
+      "high": 14.74,
+      "numberOfAnalysts": 11.0,
+      "up": 9.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 15.84,
+      "low": 15.55,
+      "high": 16.6,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 18.1,
+      "low": 18.1,
+      "high": 18.1,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 422.88,
+    "low": 360.0,
+    "high": 479.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 7.0,
+    "hold": 12.0,
+    "sell": 0.0
+  }
+}

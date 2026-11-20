@@ -1,0 +1,105 @@
+{
+  "ticker": "KR",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.17,
+      "low": 1.12,
+      "high": 1.25,
+      "numberOfAnalysts": 9.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.36,
+      "low": 1.33,
+      "high": 1.43,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 1.71,
+      "low": 1.61,
+      "high": 1.9,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.16,
+      "low": 1.02,
+      "high": 1.26,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.23,
+      "low": 1.07,
+      "high": 1.28,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.2,
+      "low": 5.12,
+      "high": 5.36,
+      "numberOfAnalysts": 11.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 5.51,
+      "low": 5.3,
+      "high": 6.01,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+2y": {
+      "avg": 5.92,
+      "low": 5.73,
+      "high": 6.27,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 5.36,
+      "low": 5.36,
+      "high": 5.36,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 70.11,
+    "low": 57.0,
+    "high": 85.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-10",
+    "+1q": "2027-01",
+    "+2q": "2027-04",
+    "+3q": "2027-07",
+    "+4q": "2027-10",
+    "0y": "2027-01",
+    "+1y": "2028-01",
+    "+2y": "2029-01",
+    "+3y": "2030-01"
+  },
+  "ratings": {
+    "buy": 11.0,
+    "hold": 7.0,
+    "sell": 0.0
+  }
+}
