@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "2023554",
   "filings": [
     {
@@ -44,6 +45,12 @@
       "report_date": "2025-05-07"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-30",
+    "form": "10-Q"
+  },
+  "sic": 3572,
+  "sic_description": "Computer Storage Devices",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "SNDK"
 }

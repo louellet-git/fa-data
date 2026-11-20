@@ -1,0 +1,26 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2090312",
+  "filings": [
+    {
+      "accession": "0002090312-26-000034",
+      "filed": "2026-11-12",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-12"
+    },
+    {
+      "accession": "0002090312-26-000013",
+      "filed": "2026-08-07",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-08-07"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-12",
+    "form": "10-Q"
+  },
+  "sic": 7389,
+  "sic_description": "Services-Business Services, NEC",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "MBGL"
+}

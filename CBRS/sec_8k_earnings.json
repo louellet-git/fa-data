@@ -1,0 +1,32 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2021728",
+  "filings": [
+    {
+      "accession": "0001628280-26-073366",
+      "filed": "2026-11-12",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-12"
+    },
+    {
+      "accession": "0001628280-26-056186",
+      "filed": "2026-08-12",
+      "items": "2.02,9.01",
+      "report_date": "2026-08-12"
+    },
+    {
+      "accession": "0001628280-26-044941",
+      "filed": "2026-06-23",
+      "items": "2.02,9.01",
+      "report_date": "2026-06-23"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-12",
+    "form": "10-Q"
+  },
+  "sic": 3674,
+  "sic_description": "Semiconductors & Related Devices",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "CBRS"
+}

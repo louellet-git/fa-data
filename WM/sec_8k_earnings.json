@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "823768",
   "filings": [
     {
@@ -236,6 +237,12 @@
       "report_date": "2017-04-26"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-28",
+    "form": "10-Q"
+  },
+  "sic": 4953,
+  "sic_description": "Refuse Systems",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "WM"
 }

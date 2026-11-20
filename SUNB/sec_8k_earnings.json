@@ -1,0 +1,32 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2083785",
+  "filings": [
+    {
+      "accession": "0001628280-26-061014",
+      "filed": "2026-09-09",
+      "items": "2.02,9.01",
+      "report_date": "2026-09-09"
+    },
+    {
+      "accession": "0001628280-26-044797",
+      "filed": "2026-06-23",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2026-06-23"
+    },
+    {
+      "accession": "0001628280-26-017014",
+      "filed": "2026-03-12",
+      "items": "2.02,9.01",
+      "report_date": "2026-03-12"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-09-09",
+    "form": "10-Q"
+  },
+  "sic": 7359,
+  "sic_description": "Services-Equipment Rental & Leasing, NEC",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "SUNB"
+}

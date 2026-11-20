@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "875320",
   "filings": [
     {
@@ -158,6 +159,12 @@
       "report_date": "2020-07-30"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-03",
+    "form": "10-Q"
+  },
+  "sic": 2834,
+  "sic_description": "Pharmaceutical Preparations",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "VRTX"
 }

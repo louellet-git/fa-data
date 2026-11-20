@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1140859",
   "filings": [
     {
@@ -200,6 +201,12 @@
       "report_date": "2019-01-31"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-08-05",
+    "form": "10-Q"
+  },
+  "sic": 5122,
+  "sic_description": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "COR"
 }

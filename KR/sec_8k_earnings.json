@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "56873",
   "filings": [
     {
@@ -188,6 +189,12 @@
       "report_date": "2019-06-20"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-09-18",
+    "form": "10-Q"
+  },
+  "sic": 5411,
+  "sic_description": "Retail-Grocery Stores",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "KR"
 }

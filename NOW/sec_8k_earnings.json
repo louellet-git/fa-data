@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1373715",
   "filings": [
     {
@@ -90,14 +91,14 @@
       "filed": "2023-04-26",
       "items": "2.02,5.02,9.01",
       "report_date": "2023-04-24"
-    },
-    {
-      "accession": "0001373715-23-000016",
-      "filed": "2023-01-25",
-      "items": "2.02,5.02,9.01",
-      "report_date": "2023-01-24"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-28",
+    "form": "10-Q"
+  },
+  "sic": 7372,
+  "sic_description": "Services-Prepackaged Software",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "NOW"
 }

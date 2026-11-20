@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1121788",
   "filings": [
     {
@@ -236,6 +237,12 @@
       "report_date": "2017-02-22"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-28",
+    "form": "10-Q"
+  },
+  "sic": 3812,
+  "sic_description": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "GRMN"
 }

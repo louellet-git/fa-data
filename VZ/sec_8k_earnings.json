@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "732712",
   "filings": [
     {
@@ -68,6 +69,12 @@
       "report_date": "2024-04-22"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-29",
+    "form": "10-Q"
+  },
+  "sic": 4813,
+  "sic_description": "Telephone Communications (No Radiotelephone)",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "VZ"
 }

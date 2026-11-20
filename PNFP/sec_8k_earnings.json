@@ -1,0 +1,38 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2082866",
+  "filings": [
+    {
+      "accession": "0002082866-26-000087",
+      "filed": "2026-10-21",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-10-21"
+    },
+    {
+      "accession": "0002082866-26-000075",
+      "filed": "2026-07-22",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-07-22"
+    },
+    {
+      "accession": "0002082866-26-000039",
+      "filed": "2026-04-22",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-04-22"
+    },
+    {
+      "accession": "0002082866-26-000008",
+      "filed": "2026-01-21",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-01-21"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-02",
+    "form": "10-Q"
+  },
+  "sic": 6021,
+  "sic_description": "National Commercial Banks",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "PNFP"
+}

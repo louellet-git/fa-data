@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1326801",
   "filings": [
     {
@@ -62,6 +63,12 @@
       "report_date": "2024-07-31"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-22",
+    "form": "10-Q"
+  },
+  "sic": 7370,
+  "sic_description": "Services-Computer Programming, Data Processing, Etc.",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "META"
 }

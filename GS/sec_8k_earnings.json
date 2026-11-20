@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "886982",
   "filings": [
     {
@@ -32,6 +33,12 @@
       "report_date": "2026-01-07"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-02",
+    "form": "10-Q"
+  },
+  "sic": 6211,
+  "sic_description": "Security Brokers, Dealers & Flotation Companies",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "GS"
 }

@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1086222",
   "filings": [
     {
@@ -168,14 +169,14 @@
       "filed": "2020-02-11",
       "items": "2.02,9.01",
       "report_date": "2020-02-11"
-    },
-    {
-      "accession": "0001086222-19-000229",
-      "filed": "2019-10-28",
-      "items": "2.02,9.01",
-      "report_date": "2019-10-28"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-06",
+    "form": "10-Q"
+  },
+  "sic": 7389,
+  "sic_description": "Services-Business Services, NEC",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "AKAM"
 }

@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1705696",
   "filings": [
     {
@@ -224,6 +225,12 @@
       "report_date": "2018-03-08"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-28",
+    "form": "10-Q"
+  },
+  "sic": 6798,
+  "sic_description": "Real Estate Investment Trusts",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "VICI"
 }

@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "91142",
   "filings": [
     {
@@ -302,6 +303,12 @@
       "report_date": "2015-04-24"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-29",
+    "form": "10-Q"
+  },
+  "sic": 3630,
+  "sic_description": "Household Appliances",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "AOS"
 }

@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1286681",
   "filings": [
     {
@@ -284,6 +285,12 @@
       "report_date": "2015-09-28"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-13",
+    "form": "10-Q"
+  },
+  "sic": 5140,
+  "sic_description": "Wholesale-Groceries & Related Products",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "DPZ"
 }

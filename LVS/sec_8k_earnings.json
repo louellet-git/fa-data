@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1300514",
   "filings": [
     {
@@ -434,6 +435,12 @@
       "report_date": "2009-07-30"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-23",
+    "form": "10-Q"
+  },
+  "sic": 7011,
+  "sic_description": "Hotels & Motels",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "LVS"
 }

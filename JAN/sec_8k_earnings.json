@@ -1,0 +1,32 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2100805",
+  "filings": [
+    {
+      "accession": "0001628280-26-068876",
+      "filed": "2026-11-02",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-11-02"
+    },
+    {
+      "accession": "0001628280-26-052603",
+      "filed": "2026-08-04",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-08-04"
+    },
+    {
+      "accession": "0001628280-26-030581",
+      "filed": "2026-05-05",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-05-05"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-03",
+    "form": "10-Q"
+  },
+  "sic": 6798,
+  "sic_description": "Real Estate Investment Trusts",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "JAN"
+}

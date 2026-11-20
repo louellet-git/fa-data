@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "68505",
   "filings": [
     {
@@ -224,6 +225,12 @@
       "report_date": "2018-02-01"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-04",
+    "form": "10-Q"
+  },
+  "sic": 3663,
+  "sic_description": "Radio & Tv Broadcasting & Communications Equipment",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "MSI"
 }

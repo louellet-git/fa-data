@@ -1,0 +1,92 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1635327",
+  "filings": [
+    {
+      "accession": "0001193125-26-446166",
+      "filed": "2026-11-04",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-11-04"
+    },
+    {
+      "accession": "0001193125-26-333800",
+      "filed": "2026-08-05",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-08-05"
+    },
+    {
+      "accession": "0001193125-26-208993",
+      "filed": "2026-05-06",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-06"
+    },
+    {
+      "accession": "0001193125-26-076569",
+      "filed": "2026-02-26",
+      "items": "2.02,9.01",
+      "report_date": "2026-02-26"
+    },
+    {
+      "accession": "0001193125-25-277558",
+      "filed": "2025-11-12",
+      "items": "2.02,9.01",
+      "report_date": "2025-11-12"
+    },
+    {
+      "accession": "0001193125-25-175427",
+      "filed": "2025-08-07",
+      "items": "2.02,9.01",
+      "report_date": "2025-08-07"
+    },
+    {
+      "accession": "0001193125-25-114887",
+      "filed": "2025-05-07",
+      "items": "2.02,9.01",
+      "report_date": "2025-05-07"
+    },
+    {
+      "accession": "0001193125-25-045587",
+      "filed": "2025-03-04",
+      "items": "2.02,9.01",
+      "report_date": "2025-03-04"
+    },
+    {
+      "accession": "0001193125-25-002855",
+      "filed": "2025-01-07",
+      "items": "2.02,9.01",
+      "report_date": "2025-01-07"
+    },
+    {
+      "accession": "0001193125-24-255936",
+      "filed": "2024-11-12",
+      "items": "2.02,9.01",
+      "report_date": "2024-11-12"
+    },
+    {
+      "accession": "0001193125-24-199772",
+      "filed": "2024-08-13",
+      "items": "2.02,9.01",
+      "report_date": "2024-08-13"
+    },
+    {
+      "accession": "0001193125-24-137654",
+      "filed": "2024-05-14",
+      "items": "2.02,9.01",
+      "report_date": "2024-05-14"
+    },
+    {
+      "accession": "0001193125-24-076962",
+      "filed": "2024-03-26",
+      "items": "2.02,9.01",
+      "report_date": "2024-03-26"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-04",
+    "form": "10-Q"
+  },
+  "sic": 7370,
+  "sic_description": "Services-Computer Programming, Data Processing, Etc.",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "FLUT"
+}

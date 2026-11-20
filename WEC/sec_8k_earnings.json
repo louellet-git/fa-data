@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "783325",
   "filings": [
     {
@@ -236,6 +237,12 @@
       "report_date": "2018-01-31"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-30",
+    "form": "10-Q"
+  },
+  "sic": 4931,
+  "sic_description": "Electric & Other Services Combined",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "WEC"
 }

@@ -1,0 +1,38 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1639723",
+  "filings": [
+    {
+      "accession": "0001628280-26-061136",
+      "filed": "2026-09-09",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-09-09"
+    },
+    {
+      "accession": "0001628280-26-042206",
+      "filed": "2026-06-10",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-06-10"
+    },
+    {
+      "accession": "0001628280-26-021033",
+      "filed": "2026-03-25",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-03-25"
+    },
+    {
+      "accession": "0001628280-25-057010",
+      "filed": "2025-12-15",
+      "items": "2.02,5.02,9.01",
+      "report_date": "2025-12-12"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-09-10",
+    "form": "10-Q"
+  },
+  "sic": 7372,
+  "sic_description": "Services-Prepackaged Software",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "NAVN"
+}

@@ -1,0 +1,44 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2064953",
+  "filings": [
+    {
+      "accession": "0002064953-26-000098",
+      "filed": "2026-11-04",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-04"
+    },
+    {
+      "accession": "0002064953-26-000085",
+      "filed": "2026-07-30",
+      "items": "2.02,9.01",
+      "report_date": "2026-07-30"
+    },
+    {
+      "accession": "0002064953-26-000045",
+      "filed": "2026-05-06",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-06"
+    },
+    {
+      "accession": "0002064953-26-000003",
+      "filed": "2026-02-11",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2026-02-11"
+    },
+    {
+      "accession": "0002064953-25-000013",
+      "filed": "2025-11-06",
+      "items": "2.02,9.01",
+      "report_date": "2025-11-06"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-04",
+    "form": "10-Q"
+  },
+  "sic": 2800,
+  "sic_description": "Chemicals & Allied Products",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "SOLS"
+}

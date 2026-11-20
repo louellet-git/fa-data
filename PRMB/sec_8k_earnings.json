@@ -1,0 +1,62 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2042694",
+  "filings": [
+    {
+      "accession": "0001279569-26-001044",
+      "filed": "2026-11-05",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-05"
+    },
+    {
+      "accession": "0001279569-26-000742",
+      "filed": "2026-08-05",
+      "items": "2.02,9.01",
+      "report_date": "2026-08-05"
+    },
+    {
+      "accession": "0001279569-26-000400",
+      "filed": "2026-05-07",
+      "items": "2.02",
+      "report_date": "2026-05-07"
+    },
+    {
+      "accession": "0001279569-26-000164",
+      "filed": "2026-02-26",
+      "items": "2.02,9.01",
+      "report_date": "2026-02-26"
+    },
+    {
+      "accession": "0001279569-25-001183",
+      "filed": "2025-11-06",
+      "items": "2.02,9.01",
+      "report_date": "2025-11-06"
+    },
+    {
+      "accession": "0001279569-25-000835",
+      "filed": "2025-08-07",
+      "items": "2.02,9.01",
+      "report_date": "2025-08-07"
+    },
+    {
+      "accession": "0001279569-25-000470",
+      "filed": "2025-05-08",
+      "items": "2.02,9.01",
+      "report_date": "2025-05-08"
+    },
+    {
+      "accession": "0001279569-25-000166",
+      "filed": "2025-02-20",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2025-02-20"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-05",
+    "form": "10-Q"
+  },
+  "sic": 2080,
+  "sic_description": "Beverages",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "PRMB"
+}

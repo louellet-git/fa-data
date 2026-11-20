@@ -1,0 +1,26 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2109150",
+  "filings": [
+    {
+      "accession": "0001628280-26-067394",
+      "filed": "2026-10-27",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-10-27"
+    },
+    {
+      "accession": "0001193125-26-318820",
+      "filed": "2026-07-28",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-07-28"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-10-27",
+    "form": "10-Q"
+  },
+  "sic": 3621,
+  "sic_description": "Motors & Generators",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "INIO"
+}

@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "91419",
   "filings": [
     {
@@ -278,6 +279,12 @@
       "report_date": "2015-06-04"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-08-26",
+    "form": "10-Q"
+  },
+  "sic": 2033,
+  "sic_description": "Canned, Fruits, Veg, Preserves, Jams & Jellies",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "SJM"
 }

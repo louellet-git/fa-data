@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1037038",
   "filings": [
     {
@@ -284,6 +285,12 @@
       "report_date": "2015-05-13"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-05",
+    "form": "10-Q"
+  },
+  "sic": 2320,
+  "sic_description": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "RL"
 }

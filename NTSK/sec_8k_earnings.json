@@ -1,0 +1,38 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2063196",
+  "filings": [
+    {
+      "accession": "0001193125-26-380188",
+      "filed": "2026-09-02",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-09-02"
+    },
+    {
+      "accession": "0001193125-26-255439",
+      "filed": "2026-06-03",
+      "items": "2.02,5.02,7.01,9.01",
+      "report_date": "2026-06-03"
+    },
+    {
+      "accession": "0001193125-26-102142",
+      "filed": "2026-03-11",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-03-11"
+    },
+    {
+      "accession": "0001193125-25-315967",
+      "filed": "2025-12-11",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2025-12-11"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-09-02",
+    "form": "10-Q"
+  },
+  "sic": 7372,
+  "sic_description": "Services-Prepackaged Software",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "NTSK"
+}

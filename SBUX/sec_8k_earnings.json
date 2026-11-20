@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "829224",
   "filings": [
     {
@@ -270,14 +271,14 @@
       "filed": "2016-04-21",
       "items": "2.02,9.01",
       "report_date": "2016-04-21"
-    },
-    {
-      "accession": "0000829224-16-000046",
-      "filed": "2016-01-21",
-      "items": "2.02,9.01",
-      "report_date": "2016-01-21"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-12",
+    "form": "10-K"
+  },
+  "sic": 5810,
+  "sic_description": "Retail-Eating & Drinking Places",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "SBUX"
 }

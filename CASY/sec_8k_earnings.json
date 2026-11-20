@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "726958",
   "filings": [
     {
@@ -590,6 +591,12 @@
       "report_date": "2011-08-08"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-09-08",
+    "form": "10-Q"
+  },
+  "sic": 5500,
+  "sic_description": "Retail-Auto Dealers & Gasoline Stations",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "CASY"
 }

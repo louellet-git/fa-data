@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "21076",
   "filings": [
     {
@@ -248,6 +249,12 @@
       "report_date": "2017-02-03"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-02",
+    "form": "10-Q"
+  },
+  "sic": 2842,
+  "sic_description": "Specialty Cleaning, Polishing and Sanitation Preparations",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "CLX"
 }

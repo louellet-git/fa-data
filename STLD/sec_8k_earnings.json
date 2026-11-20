@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1022671",
   "filings": [
     {
@@ -182,6 +183,12 @@
       "report_date": "2019-07-22"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-23",
+    "form": "10-Q"
+  },
+  "sic": 3312,
+  "sic_description": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "STLD"
 }

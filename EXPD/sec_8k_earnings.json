@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "746515",
   "filings": [
     {
@@ -380,6 +381,12 @@
       "report_date": "2015-05-06"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-04",
+    "form": "10-Q"
+  },
+  "sic": 4731,
+  "sic_description": "Arrangement of  Transportation of  Freight & Cargo",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "EXPD"
 }

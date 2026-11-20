@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "93556",
   "filings": [
     {
@@ -176,6 +177,12 @@
       "report_date": "2020-04-30"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-04",
+    "form": "10-Q"
+  },
+  "sic": 3420,
+  "sic_description": "Cutlery, Handtools & General Hardware",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "SWK"
 }

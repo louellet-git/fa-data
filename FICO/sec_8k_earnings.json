@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "814547",
   "filings": [
     {
@@ -290,6 +291,12 @@
       "report_date": "2015-01-29"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-06",
+    "form": "10-K"
+  },
+  "sic": 7389,
+  "sic_description": "Services-Business Services, NEC",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "FICO"
 }

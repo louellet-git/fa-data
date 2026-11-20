@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1283699",
   "filings": [
     {
@@ -164,6 +165,12 @@
       "report_date": "2020-05-06"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-28",
+    "form": "10-Q"
+  },
+  "sic": 4812,
+  "sic_description": "Radiotelephone Communications",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "TMUS"
 }

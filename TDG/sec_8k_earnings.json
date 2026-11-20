@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1260221",
   "filings": [
     {
@@ -224,6 +225,12 @@
       "report_date": "2018-11-06"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-10",
+    "form": "10-K"
+  },
+  "sic": 3728,
+  "sic_description": "Aircraft Parts & Auxiliary Equipment, NEC",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "TDG"
 }

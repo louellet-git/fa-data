@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "104169",
   "filings": [
     {
@@ -86,6 +87,12 @@
       "report_date": "2023-08-17"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-08-28",
+    "form": "10-Q"
+  },
+  "sic": 5331,
+  "sic_description": "Retail-Variety Stores",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "WMT"
 }

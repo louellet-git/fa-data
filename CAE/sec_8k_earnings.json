@@ -1,0 +1,23 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1173382",
+  "filings": [
+    {
+      "accession": "0001206212-05-000042",
+      "filed": "2005-02-18",
+      "items": "2.02",
+      "report_date": "2005-02-18"
+    },
+    {
+      "accession": "0001206212-04-000232",
+      "filed": "2004-11-12",
+      "items": "2.02",
+      "report_date": "2004-11-11"
+    }
+  ],
+  "latest_periodic": null,
+  "sic": 3690,
+  "sic_description": "Miscellaneous Electrical Machinery, Equipment & Supplies",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "CAE"
+}

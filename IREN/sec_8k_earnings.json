@@ -1,0 +1,62 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1878848",
+  "filings": [
+    {
+      "accession": "0001878848-26-000065",
+      "filed": "2026-11-05",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-05"
+    },
+    {
+      "accession": "0001878848-26-000051",
+      "filed": "2026-08-27",
+      "items": "2.02,9.01",
+      "report_date": "2026-08-27"
+    },
+    {
+      "accession": "0001140361-26-028871",
+      "filed": "2026-07-20",
+      "items": "2.02,9.01",
+      "report_date": "2026-07-20"
+    },
+    {
+      "accession": "0001878848-26-000028",
+      "filed": "2026-05-11",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-08"
+    },
+    {
+      "accession": "0001878848-26-000025",
+      "filed": "2026-05-08",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-07"
+    },
+    {
+      "accession": "0001878848-26-000014",
+      "filed": "2026-02-05",
+      "items": "2.02,9.01",
+      "report_date": "2026-02-05"
+    },
+    {
+      "accession": "0001878848-25-000079",
+      "filed": "2025-11-06",
+      "items": "2.02,9.01",
+      "report_date": "2025-11-06"
+    },
+    {
+      "accession": "0001878848-25-000062",
+      "filed": "2025-08-28",
+      "items": "2.02,9.01",
+      "report_date": "2025-08-28"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-05",
+    "form": "10-Q"
+  },
+  "sic": 6199,
+  "sic_description": "Finance Services",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "IREN"
+}

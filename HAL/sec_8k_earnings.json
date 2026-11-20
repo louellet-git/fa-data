@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "45012",
   "filings": [
     {
@@ -200,6 +201,12 @@
       "report_date": "2018-10-22"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-23",
+    "form": "10-Q"
+  },
+  "sic": 1389,
+  "sic_description": "Oil & Gas Field Services, NEC",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "HAL"
 }

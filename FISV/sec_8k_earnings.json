@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "798354",
   "filings": [
     {
@@ -200,6 +201,12 @@
       "report_date": "2019-10-03"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-04",
+    "form": "10-Q"
+  },
+  "sic": 7389,
+  "sic_description": "Services-Business Services, NEC",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "FISV"
 }

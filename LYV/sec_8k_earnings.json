@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1335258",
   "filings": [
     {
@@ -338,6 +339,12 @@
       "report_date": "2013-02-26"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-05",
+    "form": "10-Q"
+  },
+  "sic": 7900,
+  "sic_description": "Services-Amusement & Recreation Services",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "LYV"
 }

@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "49071",
   "filings": [
     {
@@ -218,6 +219,12 @@
       "report_date": "2018-05-02"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-06",
+    "form": "10-Q"
+  },
+  "sic": 6324,
+  "sic_description": "Hospital & Medical Service Plans",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "HUM"
 }

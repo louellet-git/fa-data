@@ -1,0 +1,32 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2098430",
+  "filings": [
+    {
+      "accession": "0001628280-26-070539",
+      "filed": "2026-11-05",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-05"
+    },
+    {
+      "accession": "0001628280-26-050771",
+      "filed": "2026-07-30",
+      "items": "2.02,9.01",
+      "report_date": "2026-07-30"
+    },
+    {
+      "accession": "0001628280-26-033860",
+      "filed": "2026-05-12",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-12"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-05",
+    "form": "10-Q"
+  },
+  "sic": 3564,
+  "sic_description": "Industrial & Commercial Fans & Blowers & Air Purifing Equip",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "MAIR"
+}

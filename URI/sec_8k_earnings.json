@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1067701",
   "filings": [
     {
@@ -266,6 +267,12 @@
       "report_date": "2016-01-27"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-21",
+    "form": "10-Q"
+  },
+  "sic": 7359,
+  "sic_description": "Services-Equipment Rental & Leasing, NEC",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "URI"
 }

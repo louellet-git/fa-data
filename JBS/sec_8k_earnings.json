@@ -1,0 +1,26 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1791942",
+  "filings": [
+    {
+      "accession": "0001791942-26-000009",
+      "filed": "2026-11-09",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-09"
+    },
+    {
+      "accession": "0001213900-26-087444",
+      "filed": "2026-08-11",
+      "items": "2.02,5.02,7.01,9.01",
+      "report_date": "2026-08-10"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-09",
+    "form": "10-Q"
+  },
+  "sic": 2011,
+  "sic_description": "Meat Packing Plants",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "JBS"
+}

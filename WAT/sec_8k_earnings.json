@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1000697",
   "filings": [
     {
@@ -290,6 +291,12 @@
       "report_date": "2015-04-28"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-10",
+    "form": "10-Q"
+  },
+  "sic": 3826,
+  "sic_description": "Laboratory Analytical Instruments",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "WAT"
 }

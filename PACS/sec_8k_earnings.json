@@ -1,0 +1,68 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2001184",
+  "filings": [
+    {
+      "accession": "0002001184-26-000039",
+      "filed": "2026-11-03",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-03"
+    },
+    {
+      "accession": "0002001184-26-000031",
+      "filed": "2026-08-04",
+      "items": "2.02,9.01",
+      "report_date": "2026-08-04"
+    },
+    {
+      "accession": "0002001184-26-000024",
+      "filed": "2026-05-11",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-11"
+    },
+    {
+      "accession": "0002001184-26-000002",
+      "filed": "2026-02-26",
+      "items": "2.02,9.01",
+      "report_date": "2026-02-26"
+    },
+    {
+      "accession": "0002001184-25-000072",
+      "filed": "2025-11-19",
+      "items": "2.02,9.01",
+      "report_date": "2025-11-19"
+    },
+    {
+      "accession": "0002001184-25-000047",
+      "filed": "2025-09-11",
+      "items": "2.02,9.01",
+      "report_date": "2025-09-11"
+    },
+    {
+      "accession": "0002001184-24-000041",
+      "filed": "2024-11-06",
+      "items": "2.02,9.01",
+      "report_date": "2024-11-06"
+    },
+    {
+      "accession": "0002001184-24-000037",
+      "filed": "2024-08-12",
+      "items": "2.02,9.01",
+      "report_date": "2024-08-12"
+    },
+    {
+      "accession": "0002001184-24-000012",
+      "filed": "2024-05-13",
+      "items": "2.02,9.01",
+      "report_date": "2024-05-13"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-03",
+    "form": "10-Q"
+  },
+  "sic": 8051,
+  "sic_description": "Services-Skilled Nursing Care Facilities",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "PACS"
+}

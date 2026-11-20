@@ -1,0 +1,50 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1673743",
+  "filings": [
+    {
+      "accession": "0001628280-26-068872",
+      "filed": "2026-11-02",
+      "items": "2.02,5.02,7.01,9.01",
+      "report_date": "2026-10-29"
+    },
+    {
+      "accession": "0001628280-26-052558",
+      "filed": "2026-08-04",
+      "items": "2.02,7.01,8.01,9.01",
+      "report_date": "2026-07-29"
+    },
+    {
+      "accession": "0001628280-26-030499",
+      "filed": "2026-05-05",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-05-05"
+    },
+    {
+      "accession": "0001628280-26-006826",
+      "filed": "2026-02-10",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-02-10"
+    },
+    {
+      "accession": "0001193125-25-264667",
+      "filed": "2025-11-04",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2025-11-04"
+    },
+    {
+      "accession": "0000950170-25-103024",
+      "filed": "2025-08-05",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2025-08-05"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-09",
+    "form": "10-Q"
+  },
+  "sic": 7374,
+  "sic_description": "Services-Computer Processing & Data Preparation",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "HNGE"
+}

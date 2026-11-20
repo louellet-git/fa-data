@@ -1,0 +1,26 @@
+{
+  "checked": "2026-11-20",
+  "cik": "924805",
+  "filings": [
+    {
+      "accession": "0000924805-24-000018",
+      "filed": "2024-02-13",
+      "items": "2.02,9.01",
+      "report_date": "2024-02-12"
+    },
+    {
+      "accession": "0001038838-11-000115",
+      "filed": "2011-04-18",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2011-04-18"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-16",
+    "form": "10-Q"
+  },
+  "sic": 6211,
+  "sic_description": "Security Brokers, Dealers & Flotation Companies",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "FRHC"
+}

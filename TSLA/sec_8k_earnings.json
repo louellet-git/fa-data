@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1318605",
   "filings": [
     {
@@ -422,6 +423,12 @@
       "report_date": "2018-07-02"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-22",
+    "form": "10-Q"
+  },
+  "sic": 3711,
+  "sic_description": "Motor Vehicles & Passenger Car Bodies",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "TSLA"
 }

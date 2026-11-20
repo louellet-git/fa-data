@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "320187",
   "filings": [
     {
@@ -338,6 +339,12 @@
       "report_date": "2015-12-22"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-02",
+    "form": "10-Q"
+  },
+  "sic": 3021,
+  "sic_description": "Rubber & Plastics Footwear",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "NKE"
 }

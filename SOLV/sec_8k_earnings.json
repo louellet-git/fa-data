@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1964738",
   "filings": [
     {
@@ -68,6 +69,12 @@
       "report_date": "2024-05-09"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-05",
+    "form": "10-Q"
+  },
+  "sic": 3841,
+  "sic_description": "Surgical & Medical Instruments & Apparatus",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "SOLV"
 }

@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "105634",
   "filings": [
     {
@@ -260,6 +261,12 @@
       "report_date": "2016-07-28"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-29",
+    "form": "10-Q"
+  },
+  "sic": 1731,
+  "sic_description": "Electrical Work",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "EME"
 }

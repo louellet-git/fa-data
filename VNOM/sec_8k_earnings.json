@@ -1,0 +1,44 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2074176",
+  "filings": [
+    {
+      "accession": "0002074176-26-000062",
+      "filed": "2026-11-02",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-02"
+    },
+    {
+      "accession": "0002074176-26-000050",
+      "filed": "2026-08-03",
+      "items": "2.02,9.01",
+      "report_date": "2026-08-03"
+    },
+    {
+      "accession": "0002074176-26-000025",
+      "filed": "2026-05-04",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-04"
+    },
+    {
+      "accession": "0002074176-26-000005",
+      "filed": "2026-02-23",
+      "items": "2.02,9.01",
+      "report_date": "2026-02-23"
+    },
+    {
+      "accession": "0002074176-25-000048",
+      "filed": "2025-11-03",
+      "items": "2.02,9.01",
+      "report_date": "2025-11-03"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-04",
+    "form": "10-Q"
+  },
+  "sic": 1311,
+  "sic_description": "Crude Petroleum & Natural Gas",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "VNOM"
+}

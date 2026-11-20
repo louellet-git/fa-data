@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1075531",
   "filings": [
     {
@@ -296,6 +297,12 @@
       "report_date": "2015-02-19"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-03",
+    "form": "10-Q"
+  },
+  "sic": 4700,
+  "sic_description": "Transportation Services",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "BKNG"
 }

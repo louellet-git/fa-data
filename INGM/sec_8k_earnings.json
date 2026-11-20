@@ -1,0 +1,68 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1897762",
+  "filings": [
+    {
+      "accession": "0001628280-26-068232",
+      "filed": "2026-10-29",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2026-10-29"
+    },
+    {
+      "accession": "0001628280-26-051043",
+      "filed": "2026-07-30",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2026-07-30"
+    },
+    {
+      "accession": "0001897762-26-000005",
+      "filed": "2026-04-30",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2026-04-30"
+    },
+    {
+      "accession": "0001628280-26-013222",
+      "filed": "2026-03-02",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2026-03-02"
+    },
+    {
+      "accession": "0001628280-25-047529",
+      "filed": "2025-10-30",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2025-10-30"
+    },
+    {
+      "accession": "0001628280-25-038331",
+      "filed": "2025-08-06",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2025-08-06"
+    },
+    {
+      "accession": "0001628280-25-023804",
+      "filed": "2025-05-08",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2025-05-08"
+    },
+    {
+      "accession": "0001628280-25-009909",
+      "filed": "2025-03-04",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2025-03-04"
+    },
+    {
+      "accession": "0001628280-24-047161",
+      "filed": "2024-11-12",
+      "items": "2.02,9.01",
+      "report_date": "2024-11-12"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-10-29",
+    "form": "10-Q"
+  },
+  "sic": 5045,
+  "sic_description": "Wholesale-Computers & Peripheral Equipment & Software",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "INGM"
+}

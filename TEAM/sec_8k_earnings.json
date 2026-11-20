@@ -1,0 +1,68 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1650372",
+  "filings": [
+    {
+      "accession": "0001650372-26-000049",
+      "filed": "2026-11-05",
+      "items": "2.02,5.02,9.01",
+      "report_date": "2026-11-05"
+    },
+    {
+      "accession": "0001650372-26-000031",
+      "filed": "2026-08-06",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2026-08-06"
+    },
+    {
+      "accession": "0001650372-26-000024",
+      "filed": "2026-04-30",
+      "items": "2.02,9.01",
+      "report_date": "2026-04-30"
+    },
+    {
+      "accession": "0001650372-26-000008",
+      "filed": "2026-02-05",
+      "items": "2.02,9.01",
+      "report_date": "2026-02-05"
+    },
+    {
+      "accession": "0001650372-25-000064",
+      "filed": "2025-10-30",
+      "items": "2.02,5.02,8.01,9.01",
+      "report_date": "2025-10-30"
+    },
+    {
+      "accession": "0001650372-25-000028",
+      "filed": "2025-08-07",
+      "items": "2.02,5.02,9.01",
+      "report_date": "2025-08-07"
+    },
+    {
+      "accession": "0001650372-25-000018",
+      "filed": "2025-05-01",
+      "items": "2.02,9.01",
+      "report_date": "2025-05-01"
+    },
+    {
+      "accession": "0001650372-25-000005",
+      "filed": "2025-01-30",
+      "items": "2.02,9.01",
+      "report_date": "2025-01-30"
+    },
+    {
+      "accession": "0001650372-24-000054",
+      "filed": "2024-10-31",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2024-10-31"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-06",
+    "form": "10-Q"
+  },
+  "sic": 7372,
+  "sic_description": "Services-Prepackaged Software",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "TEAM"
+}

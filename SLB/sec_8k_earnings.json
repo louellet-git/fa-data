@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "87347",
   "filings": [
     {
@@ -188,6 +189,12 @@
       "report_date": "2019-04-18"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-28",
+    "form": "10-Q"
+  },
+  "sic": 1389,
+  "sic_description": "Oil & Gas Field Services, NEC",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "SLB"
 }

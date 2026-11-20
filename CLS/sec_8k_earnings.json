@@ -1,0 +1,62 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1030894",
+  "filings": [
+    {
+      "accession": "0001030894-26-000049",
+      "filed": "2026-10-26",
+      "items": "2.02,9.01",
+      "report_date": "2026-10-26"
+    },
+    {
+      "accession": "0001030894-26-000043",
+      "filed": "2026-07-27",
+      "items": "2.02,9.01",
+      "report_date": "2026-07-27"
+    },
+    {
+      "accession": "0001030894-26-000030",
+      "filed": "2026-04-27",
+      "items": "2.02,9.01",
+      "report_date": "2026-04-27"
+    },
+    {
+      "accession": "0001030894-26-000006",
+      "filed": "2026-01-28",
+      "items": "2.02,9.01",
+      "report_date": "2026-01-28"
+    },
+    {
+      "accession": "0001030894-25-000052",
+      "filed": "2025-10-27",
+      "items": "2.02,9.01",
+      "report_date": "2025-10-27"
+    },
+    {
+      "accession": "0001030894-25-000046",
+      "filed": "2025-07-28",
+      "items": "2.02,9.01",
+      "report_date": "2025-07-28"
+    },
+    {
+      "accession": "0001030894-25-000027",
+      "filed": "2025-04-24",
+      "items": "2.02,9.01",
+      "report_date": "2025-04-24"
+    },
+    {
+      "accession": "0001030894-25-000004",
+      "filed": "2025-01-29",
+      "items": "2.02,9.01",
+      "report_date": "2025-01-29"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-10-26",
+    "form": "10-Q"
+  },
+  "sic": 3672,
+  "sic_description": "Printed Circuit Boards",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "CLS"
+}

@@ -1,0 +1,50 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2041385",
+  "filings": [
+    {
+      "accession": "0002041385-26-000070",
+      "filed": "2026-11-04",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-04"
+    },
+    {
+      "accession": "0002041385-26-000062",
+      "filed": "2026-07-30",
+      "items": "2.02,9.01",
+      "report_date": "2026-07-30"
+    },
+    {
+      "accession": "0002041385-26-000043",
+      "filed": "2026-05-12",
+      "items": "2.02",
+      "report_date": "2026-05-12"
+    },
+    {
+      "accession": "0002041385-26-000004",
+      "filed": "2026-02-04",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2026-02-04"
+    },
+    {
+      "accession": "0002041385-25-000067",
+      "filed": "2025-11-05",
+      "items": "2.02,9.01",
+      "report_date": "2025-11-05"
+    },
+    {
+      "accession": "0002041385-25-000036",
+      "filed": "2025-08-11",
+      "items": "2.02,9.01",
+      "report_date": "2025-08-11"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-04",
+    "form": "10-Q"
+  },
+  "sic": 3823,
+  "sic_description": "Industrial Instruments For Measurement, Display, and Control",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "RAL"
+}

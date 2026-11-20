@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "2115436",
   "filings": [
     {
@@ -14,6 +15,12 @@
       "report_date": "2026-07-31"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-02",
+    "form": "10-Q"
+  },
+  "sic": 2911,
+  "sic_description": "Petroleum Refining",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "XOM"
 }

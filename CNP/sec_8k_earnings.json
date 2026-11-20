@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1130310",
   "filings": [
     {
@@ -314,6 +315,12 @@
       "report_date": "2015-05-11"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-27",
+    "form": "10-Q"
+  },
+  "sic": 4911,
+  "sic_description": "Electric Services",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "CNP"
 }

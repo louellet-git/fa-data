@@ -1,0 +1,50 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1579878",
+  "filings": [
+    {
+      "accession": "0001628280-26-070133",
+      "filed": "2026-11-04",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-04"
+    },
+    {
+      "accession": "0001628280-26-053331",
+      "filed": "2026-08-05",
+      "items": "2.02,9.01",
+      "report_date": "2026-08-05"
+    },
+    {
+      "accession": "0001628280-26-035087",
+      "filed": "2026-05-14",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-14"
+    },
+    {
+      "accession": "0001628280-26-009024",
+      "filed": "2026-02-18",
+      "items": "2.02,9.01",
+      "report_date": "2026-02-18"
+    },
+    {
+      "accession": "0001628280-25-049555",
+      "filed": "2025-11-05",
+      "items": "2.02,9.01",
+      "report_date": "2025-11-05"
+    },
+    {
+      "accession": "0001579878-25-000026",
+      "filed": "2025-09-03",
+      "items": "2.02,9.01",
+      "report_date": "2025-09-03"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-04",
+    "form": "10-Q"
+  },
+  "sic": 7372,
+  "sic_description": "Services-Prepackaged Software",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "FIG"
+}

@@ -1,0 +1,56 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1937926",
+  "filings": [
+    {
+      "accession": "0001171843-26-005272",
+      "filed": "2026-08-06",
+      "items": "2.02,9.01",
+      "report_date": "2026-08-05"
+    },
+    {
+      "accession": "0001171843-26-003183",
+      "filed": "2026-05-08",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-08"
+    },
+    {
+      "accession": "0001104659-26-010078",
+      "filed": "2026-02-04",
+      "items": "2.02,5.02,9.01",
+      "report_date": "2026-02-03"
+    },
+    {
+      "accession": "0001171843-25-007121",
+      "filed": "2025-11-07",
+      "items": "2.02,9.01",
+      "report_date": "2025-11-07"
+    },
+    {
+      "accession": "0001171843-25-005074",
+      "filed": "2025-08-06",
+      "items": "2.02,9.01",
+      "report_date": "2025-08-06"
+    },
+    {
+      "accession": "0001171843-25-002778",
+      "filed": "2025-05-06",
+      "items": "2.02,9.01",
+      "report_date": "2025-05-06"
+    },
+    {
+      "accession": "0001171843-25-000758",
+      "filed": "2025-02-12",
+      "items": "2.02,9.01",
+      "report_date": "2025-02-12"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-09",
+    "form": "10-Q"
+  },
+  "sic": 6282,
+  "sic_description": "Investment Advice",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "BAM"
+}

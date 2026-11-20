@@ -1,0 +1,62 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1594805",
+  "filings": [
+    {
+      "accession": "0001594805-26-000067",
+      "filed": "2026-11-03",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-03"
+    },
+    {
+      "accession": "0001594805-26-000046",
+      "filed": "2026-08-05",
+      "items": "2.02,9.01",
+      "report_date": "2026-08-05"
+    },
+    {
+      "accession": "0001594805-26-000018",
+      "filed": "2026-05-05",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-05"
+    },
+    {
+      "accession": "0001594805-26-000006",
+      "filed": "2026-02-11",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-02-11"
+    },
+    {
+      "accession": "0001594805-25-000088",
+      "filed": "2025-11-04",
+      "items": "2.02,9.01",
+      "report_date": "2025-11-04"
+    },
+    {
+      "accession": "0001594805-25-000072",
+      "filed": "2025-08-06",
+      "items": "2.02,9.01",
+      "report_date": "2025-08-06"
+    },
+    {
+      "accession": "0001594805-25-000045",
+      "filed": "2025-05-08",
+      "items": "2.02,9.01",
+      "report_date": "2025-05-08"
+    },
+    {
+      "accession": "0001594805-25-000011",
+      "filed": "2025-02-11",
+      "items": "2.02,9.01",
+      "report_date": "2025-02-11"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-03",
+    "form": "10-Q"
+  },
+  "sic": 7372,
+  "sic_description": "Services-Prepackaged Software",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "SHOP"
+}

@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1324424",
   "filings": [
     {
@@ -236,6 +237,12 @@
       "report_date": "2017-04-27"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-05",
+    "form": "10-Q"
+  },
+  "sic": 4700,
+  "sic_description": "Transportation Services",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "EXPE"
 }

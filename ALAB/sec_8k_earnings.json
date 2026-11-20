@@ -1,0 +1,80 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1736297",
+  "filings": [
+    {
+      "accession": "0001736297-26-000044",
+      "filed": "2026-11-03",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-03"
+    },
+    {
+      "accession": "0001736297-26-000033",
+      "filed": "2026-08-04",
+      "items": "2.02,9.01",
+      "report_date": "2026-08-04"
+    },
+    {
+      "accession": "0001736297-26-000017",
+      "filed": "2026-05-05",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-05"
+    },
+    {
+      "accession": "0001736297-26-000005",
+      "filed": "2026-02-10",
+      "items": "2.02,9.01",
+      "report_date": "2026-02-10"
+    },
+    {
+      "accession": "0001736297-25-000145",
+      "filed": "2025-11-04",
+      "items": "2.02,9.01",
+      "report_date": "2025-11-04"
+    },
+    {
+      "accession": "0001736297-25-000097",
+      "filed": "2025-08-05",
+      "items": "2.02,9.01",
+      "report_date": "2025-08-05"
+    },
+    {
+      "accession": "0001736297-25-000029",
+      "filed": "2025-05-06",
+      "items": "2.02,9.01",
+      "report_date": "2025-05-06"
+    },
+    {
+      "accession": "0001736297-25-000001",
+      "filed": "2025-02-10",
+      "items": "2.02,9.01",
+      "report_date": "2025-02-10"
+    },
+    {
+      "accession": "0001736297-24-000042",
+      "filed": "2024-11-04",
+      "items": "2.02,9.01",
+      "report_date": "2024-11-04"
+    },
+    {
+      "accession": "0001736297-24-000016",
+      "filed": "2024-08-06",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2024-08-06"
+    },
+    {
+      "accession": "0001736297-24-000004",
+      "filed": "2024-05-07",
+      "items": "2.02,9.01",
+      "report_date": "2024-05-07"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-04",
+    "form": "10-Q"
+  },
+  "sic": 3674,
+  "sic_description": "Semiconductors & Related Devices",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "ALAB"
+}

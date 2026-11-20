@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "12927",
   "filings": [
     {
@@ -200,6 +201,12 @@
       "report_date": "2019-04-24"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-27",
+    "form": "10-Q"
+  },
+  "sic": 3721,
+  "sic_description": "Aircraft",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "BA"
 }

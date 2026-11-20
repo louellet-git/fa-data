@@ -1,0 +1,38 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1159152",
+  "filings": [
+    {
+      "accession": "0001628280-26-071067",
+      "filed": "2026-11-05",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-05"
+    },
+    {
+      "accession": "0001628280-26-054382",
+      "filed": "2026-08-06",
+      "items": "2.02,9.01",
+      "report_date": "2026-08-06"
+    },
+    {
+      "accession": "0001628280-26-049246",
+      "filed": "2026-07-23",
+      "items": "2.02,9.01",
+      "report_date": "2026-07-22"
+    },
+    {
+      "accession": "0001628280-26-036497",
+      "filed": "2026-05-19",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-19"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-05",
+    "form": "10-Q"
+  },
+  "sic": 3272,
+  "sic_description": "Concrete Products, Except Block & Brick",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "JHX"
+}

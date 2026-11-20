@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "21344",
   "filings": [
     {
@@ -200,6 +201,12 @@
       "report_date": "2018-10-30"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-28",
+    "form": "10-Q"
+  },
+  "sic": 2080,
+  "sic_description": "Beverages",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "KO"
 }

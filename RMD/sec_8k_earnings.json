@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "943819",
   "filings": [
     {
@@ -200,6 +201,12 @@
       "report_date": "2019-01-24"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-30",
+    "form": "10-Q"
+  },
+  "sic": 3841,
+  "sic_description": "Surgical & Medical Instruments & Apparatus",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "RMD"
 }

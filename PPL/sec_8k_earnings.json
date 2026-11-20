@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "922224",
   "filings": [
     {
@@ -236,6 +237,12 @@
       "report_date": "2018-02-22"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-06",
+    "form": "10-Q"
+  },
+  "sic": 4911,
+  "sic_description": "Electric Services",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "PPL"
 }

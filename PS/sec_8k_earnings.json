@@ -1,0 +1,26 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2026053",
+  "filings": [
+    {
+      "accession": "0001193125-26-443749",
+      "filed": "2026-11-02",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-11-02"
+    },
+    {
+      "accession": "0001193125-26-347123",
+      "filed": "2026-08-12",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-08-12"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-06",
+    "form": "10-Q"
+  },
+  "sic": 6282,
+  "sic_description": "Investment Advice",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "PS"
+}

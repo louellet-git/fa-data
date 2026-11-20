@@ -1,0 +1,50 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1876042",
+  "filings": [
+    {
+      "accession": "0001876042-26-000309",
+      "filed": "2026-11-04",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-04"
+    },
+    {
+      "accession": "0001876042-26-000246",
+      "filed": "2026-08-05",
+      "items": "2.02,9.01",
+      "report_date": "2026-08-05"
+    },
+    {
+      "accession": "0001876042-26-000148",
+      "filed": "2026-05-11",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2026-05-11"
+    },
+    {
+      "accession": "0001876042-26-000032",
+      "filed": "2026-02-25",
+      "items": "2.02,9.01",
+      "report_date": "2026-02-25"
+    },
+    {
+      "accession": "0001876042-25-000045",
+      "filed": "2025-11-12",
+      "items": "2.02,9.01",
+      "report_date": "2025-11-12"
+    },
+    {
+      "accession": "0001628280-25-039749",
+      "filed": "2025-08-12",
+      "items": "2.02,9.01",
+      "report_date": "2025-08-12"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-04",
+    "form": "10-Q"
+  },
+  "sic": 6199,
+  "sic_description": "Finance Services",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "CRCL"
+}

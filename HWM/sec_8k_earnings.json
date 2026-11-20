@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "4281",
   "filings": [
     {
@@ -254,6 +255,12 @@
       "report_date": "2017-04-25"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-29",
+    "form": "10-Q"
+  },
+  "sic": 3350,
+  "sic_description": "Rolling Drawing & Extruding of  Nonferrous Metals",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "HWM"
 }

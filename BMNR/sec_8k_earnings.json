@@ -1,0 +1,44 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1829311",
+  "filings": [
+    {
+      "accession": "0001493152-25-024555",
+      "filed": "2025-11-21",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2025-11-21"
+    },
+    {
+      "accession": "0001683168-25-000291",
+      "filed": "2025-01-13",
+      "items": "2.02,9.01",
+      "report_date": "2025-01-13"
+    },
+    {
+      "accession": "0001683168-24-008650",
+      "filed": "2024-12-11",
+      "items": "2.02,9.01",
+      "report_date": "2024-12-09"
+    },
+    {
+      "accession": "0001683168-24-004936",
+      "filed": "2024-07-18",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2024-07-16"
+    },
+    {
+      "accession": "0001683168-24-001223",
+      "filed": "2024-02-28",
+      "items": "2.02,9.01",
+      "report_date": "2024-02-28"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-10",
+    "form": "10-K"
+  },
+  "sic": 6199,
+  "sic_description": "Finance Services",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "BMNR"
+}

@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "72331",
   "filings": [
     {
@@ -272,6 +273,12 @@
       "report_date": "2015-12-10"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-08-20",
+    "form": "10-Q"
+  },
+  "sic": 3569,
+  "sic_description": "General Industrial Machinery & Equipment, NEC",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "NDSN"
 }

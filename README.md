@@ -34,7 +34,7 @@ git -C data/raw pull --depth 1
 | Data | Files | Source |
 |---|---|---|
 | SEC company facts | `<TICKER>/company_facts.json.gz` | SEC EDGAR |
-| SEC list of earnings reports | `<TICKER>/sec_8k_earnings.json` | SEC EDGAR |
+| SEC list of earnings reports, SIC code (read with `mapcheck::sec::company_sic`) | `<TICKER>/sec_8k_earnings.json` | SEC EDGAR |
 | 10-K filing files | `<TICKER>/filings/` | SEC EDGAR |
 | SEC ticker list | `_sec/company_tickers.json` | SEC EDGAR |
 | Daily prices | `<TICKER>/prices.json`, `<TICKER>/prices.meta.json` (the source of each file) | Nasdaq site; some files from Yahoo |

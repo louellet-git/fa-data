@@ -1,0 +1,26 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2093536",
+  "filings": [
+    {
+      "accession": "0001193125-26-323755",
+      "filed": "2026-07-29",
+      "items": "2.02,9.01",
+      "report_date": "2026-07-29"
+    },
+    {
+      "accession": "0001193125-26-243574",
+      "filed": "2026-05-28",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-27"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-10-29",
+    "form": "10-Q"
+  },
+  "sic": 3728,
+  "sic_description": "Aircraft Parts & Auxiliary Equipment, NEC",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "ARXS"
+}

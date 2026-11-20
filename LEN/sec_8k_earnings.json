@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "920760",
   "filings": [
     {
@@ -284,6 +285,12 @@
       "report_date": "2015-09-21"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-02",
+    "form": "10-Q"
+  },
+  "sic": 1520,
+  "sic_description": "General Bldg Contractors - Residential Bldgs",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "LEN"
 }

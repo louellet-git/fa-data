@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "100517",
   "filings": [
     {
@@ -290,6 +291,12 @@
       "report_date": "2017-07-11"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-21",
+    "form": "10-Q"
+  },
+  "sic": 4512,
+  "sic_description": "Air Transportation, Scheduled",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "UAL"
 }

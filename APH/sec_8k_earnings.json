@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "820313",
   "filings": [
     {
@@ -350,6 +351,12 @@
       "report_date": "2014-07-23"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-30",
+    "form": "10-Q"
+  },
+  "sic": 3678,
+  "sic_description": "Electronic Connectors",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "APH"
 }

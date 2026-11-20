@@ -1,0 +1,80 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1991792",
+  "filings": [
+    {
+      "accession": "0001991792-26-000011",
+      "filed": "2026-11-06",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-06"
+    },
+    {
+      "accession": "0001193125-26-336886",
+      "filed": "2026-08-06",
+      "items": "2.02,8.01,9.01",
+      "report_date": "2026-08-06"
+    },
+    {
+      "accession": "0001193125-26-213440",
+      "filed": "2026-05-08",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-08"
+    },
+    {
+      "accession": "0001193125-26-079452",
+      "filed": "2026-02-27",
+      "items": "2.02,9.01",
+      "report_date": "2026-02-27"
+    },
+    {
+      "accession": "0001193125-25-281672",
+      "filed": "2025-11-14",
+      "items": "2.02,9.01",
+      "report_date": "2025-11-14"
+    },
+    {
+      "accession": "0000950170-25-105487",
+      "filed": "2025-08-08",
+      "items": "2.02,9.01",
+      "report_date": "2025-08-08"
+    },
+    {
+      "accession": "0000950170-25-069825",
+      "filed": "2025-05-13",
+      "items": "2.02,9.01",
+      "report_date": "2025-05-13"
+    },
+    {
+      "accession": "0000950170-25-046335",
+      "filed": "2025-03-28",
+      "items": "2.02,9.01",
+      "report_date": "2025-03-28"
+    },
+    {
+      "accession": "0000950170-24-124636",
+      "filed": "2024-11-12",
+      "items": "2.02,9.01",
+      "report_date": "2024-11-12"
+    },
+    {
+      "accession": "0000950170-24-093237",
+      "filed": "2024-08-08",
+      "items": "2.02,9.01",
+      "report_date": "2024-08-08"
+    },
+    {
+      "accession": "0001193125-24-134805",
+      "filed": "2024-05-09",
+      "items": "2.02,9.01",
+      "report_date": "2024-05-09"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-06",
+    "form": "10-Q"
+  },
+  "sic": 2836,
+  "sic_description": "Biological Products, (No Diagnostic Substances)",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "CGON"
+}

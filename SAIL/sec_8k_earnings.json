@@ -1,0 +1,56 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2030781",
+  "filings": [
+    {
+      "accession": "0001628280-26-061015",
+      "filed": "2026-09-09",
+      "items": "2.02,9.01",
+      "report_date": "2026-09-09"
+    },
+    {
+      "accession": "0002030781-26-000008",
+      "filed": "2026-06-09",
+      "items": "2.02,9.01",
+      "report_date": "2026-06-09"
+    },
+    {
+      "accession": "0001628280-26-019034",
+      "filed": "2026-03-18",
+      "items": "2.02,9.01",
+      "report_date": "2026-03-18"
+    },
+    {
+      "accession": "0002030781-25-000048",
+      "filed": "2025-12-09",
+      "items": "2.02,9.01",
+      "report_date": "2025-12-09"
+    },
+    {
+      "accession": "0002030781-25-000031",
+      "filed": "2025-09-09",
+      "items": "2.02,9.01",
+      "report_date": "2025-09-09"
+    },
+    {
+      "accession": "0002030781-25-000018",
+      "filed": "2025-06-11",
+      "items": "2.02",
+      "report_date": "2025-06-11"
+    },
+    {
+      "accession": "0002030781-25-000005",
+      "filed": "2025-03-26",
+      "items": "2.02,9.01",
+      "report_date": "2025-03-26"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-09-10",
+    "form": "10-Q"
+  },
+  "sic": 7372,
+  "sic_description": "Services-Prepackaged Software",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "SAIL"
+}

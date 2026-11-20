@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "202058",
   "filings": [
     {
@@ -212,6 +213,12 @@
       "report_date": "2018-10-15"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-29",
+    "form": "10-Q"
+  },
+  "sic": 3812,
+  "sic_description": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "LHX"
 }

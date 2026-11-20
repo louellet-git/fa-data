@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1059556",
   "filings": [
     {
@@ -200,6 +201,12 @@
       "report_date": "2019-02-15"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-21",
+    "form": "10-Q"
+  },
+  "sic": 7320,
+  "sic_description": "Services-Consumer Credit Reporting, Collection Agencies",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "MCO"
 }

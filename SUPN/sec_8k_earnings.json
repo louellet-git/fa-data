@@ -1,0 +1,56 @@
+{
+  "checked": "2026-11-20",
+  "cik": "1625297",
+  "filings": [
+    {
+      "accession": "0001193125-26-436953",
+      "filed": "2026-10-29",
+      "items": "2.02,9.01",
+      "report_date": "2026-10-29"
+    },
+    {
+      "accession": "0001193125-26-329520",
+      "filed": "2026-08-03",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-08-03"
+    },
+    {
+      "accession": "0001193125-26-193925",
+      "filed": "2026-04-30",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-04-30"
+    },
+    {
+      "accession": "0001193125-26-073363",
+      "filed": "2026-02-26",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-02-26"
+    },
+    {
+      "accession": "0001193125-25-257381",
+      "filed": "2025-10-30",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2025-10-30"
+    },
+    {
+      "accession": "0001193125-25-169947",
+      "filed": "2025-07-31",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2025-07-31"
+    },
+    {
+      "accession": "0001193125-25-091736",
+      "filed": "2025-04-24",
+      "items": "2.02,9.01",
+      "report_date": "2025-04-24"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-10-29",
+    "form": "10-Q"
+  },
+  "sic": 2834,
+  "sic_description": "Pharmaceutical Preparations",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "SUPN"
+}

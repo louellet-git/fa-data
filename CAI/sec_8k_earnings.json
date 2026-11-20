@@ -1,0 +1,56 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2019410",
+  "filings": [
+    {
+      "accession": "0002019410-26-000067",
+      "filed": "2026-11-04",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-04"
+    },
+    {
+      "accession": "0002019410-26-000053",
+      "filed": "2026-08-05",
+      "items": "2.02,9.01",
+      "report_date": "2026-08-05"
+    },
+    {
+      "accession": "0002019410-26-000040",
+      "filed": "2026-05-07",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-07"
+    },
+    {
+      "accession": "0002019410-26-000011",
+      "filed": "2026-02-26",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-02-26"
+    },
+    {
+      "accession": "0002019410-26-000005",
+      "filed": "2026-01-12",
+      "items": "2.02,7.01,9.01",
+      "report_date": "2026-01-12"
+    },
+    {
+      "accession": "0002019410-25-000026",
+      "filed": "2025-11-05",
+      "items": "2.02,9.01",
+      "report_date": "2025-11-05"
+    },
+    {
+      "accession": "0002019410-25-000011",
+      "filed": "2025-08-12",
+      "items": "2.02,9.01",
+      "report_date": "2025-08-12"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-04",
+    "form": "10-Q"
+  },
+  "sic": 8071,
+  "sic_description": "Services-Medical Laboratories",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "CAI"
+}

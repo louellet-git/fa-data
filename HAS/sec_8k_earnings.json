@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "46080",
   "filings": [
     {
@@ -236,6 +237,12 @@
       "report_date": "2017-10-23"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-10-29",
+    "form": "10-Q"
+  },
+  "sic": 3944,
+  "sic_description": "Games, Toys & Children's Vehicles (No Dolls & Bicycles)",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "HAS"
 }

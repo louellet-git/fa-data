@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "731802",
   "filings": [
     {
@@ -302,6 +303,12 @@
       "report_date": "2015-05-06"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-16",
+    "form": "10-K"
+  },
+  "sic": 4924,
+  "sic_description": "Natural Gas Distribution",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "ATO"
 }

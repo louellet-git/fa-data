@@ -1,0 +1,44 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2080126",
+  "filings": [
+    {
+      "accession": "0002080126-26-000045",
+      "filed": "2026-11-12",
+      "items": "2.02,9.01",
+      "report_date": "2026-11-12"
+    },
+    {
+      "accession": "0001193125-26-428945",
+      "filed": "2026-10-22",
+      "items": "2.02,9.01",
+      "report_date": "2026-10-22"
+    },
+    {
+      "accession": "0002080126-26-000034",
+      "filed": "2026-09-15",
+      "items": "2.02,9.01",
+      "report_date": "2026-09-15"
+    },
+    {
+      "accession": "0002080126-26-000017",
+      "filed": "2026-05-14",
+      "items": "2.02,9.01",
+      "report_date": "2026-05-14"
+    },
+    {
+      "accession": "0002080126-26-000010",
+      "filed": "2026-03-16",
+      "items": "2.02,9.01",
+      "report_date": "2026-03-16"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-11-12",
+    "form": "10-Q"
+  },
+  "sic": 3620,
+  "sic_description": "Electrical Industrial Apparatus",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "FPS"
+}

@@ -1,4 +1,5 @@
 {
+  "checked": "2026-11-20",
   "cik": "1751008",
   "filings": [
     {
@@ -140,6 +141,12 @@
       "report_date": "2021-05-12"
     }
   ],
+  "latest_periodic": {
+    "filed": "2026-11-04",
+    "form": "10-Q"
+  },
+  "sic": 7370,
+  "sic_description": "Services-Computer Programming, Data Processing, Etc.",
   "source": "sec submissions, form 8-K with item 2.02",
   "ticker": "APP"
 }

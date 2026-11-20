@@ -1,0 +1,26 @@
+{
+  "checked": "2026-11-20",
+  "cik": "2127043",
+  "filings": [
+    {
+      "accession": "0002127043-26-000015",
+      "filed": "2026-10-28",
+      "items": "2.02,9.01",
+      "report_date": "2026-10-28"
+    },
+    {
+      "accession": "0002127043-26-000008",
+      "filed": "2026-09-09",
+      "items": "2.02,9.01",
+      "report_date": "2026-09-09"
+    }
+  ],
+  "latest_periodic": {
+    "filed": "2026-10-28",
+    "form": "10-Q"
+  },
+  "sic": 5812,
+  "sic_description": "Retail-Eating  Places",
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "JMKE"
+}
