@@ -1,0 +1,14 @@
+{
+  "ticker": "DRI",
+  "updated": "2026-11-19",
+  "past": [],
+  "next": {
+    "date": "2026-12-17",
+    "time": "not-supplied",
+    "fiscal_quarter": "2026-11",
+    "eps_forecast": 2.28,
+    "estimates": 11.0,
+    "source": "nasdaq calendar"
+  },
+  "scanned_through": "2027-01-15"
+}

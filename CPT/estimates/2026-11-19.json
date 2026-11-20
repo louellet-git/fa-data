@@ -1,0 +1,96 @@
+{
+  "ticker": "CPT",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.66,
+      "low": 1.65,
+      "high": 1.66,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 1.7,
+      "low": 1.65,
+      "high": 1.76,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 1.64,
+      "low": 1.58,
+      "high": 1.69,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.69,
+      "low": 1.64,
+      "high": 1.73,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.75,
+      "low": 1.71,
+      "high": 1.78,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 6.76,
+      "low": 6.74,
+      "high": 6.77,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+1y": {
+      "avg": 6.81,
+      "low": 6.62,
+      "high": 6.9,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+2y": {
+      "avg": 7.05,
+      "low": 6.77,
+      "high": 7.24,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 109.09,
+    "low": 101.0,
+    "high": 132.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 4.0,
+    "hold": 8.0,
+    "sell": 1.0
+  }
+}

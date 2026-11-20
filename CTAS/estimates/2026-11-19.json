@@ -1,0 +1,105 @@
+{
+  "ticker": "CTAS",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.36,
+      "low": 1.34,
+      "high": 1.39,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.35,
+      "low": 1.31,
+      "high": 1.39,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 1.45,
+      "low": 1.4,
+      "high": 1.48,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.54,
+      "low": 1.51,
+      "high": 1.58,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.52,
+      "low": 1.5,
+      "high": 1.54,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.53,
+      "low": 5.46,
+      "high": 5.62,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 6.14,
+      "low": 6.01,
+      "high": 6.26,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 6.88,
+      "low": 6.77,
+      "high": 7.02,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 7.57,
+      "low": 7.52,
+      "high": 7.62,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 225.18,
+    "low": 181.0,
+    "high": 250.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-11",
+    "+1q": "2027-02",
+    "+2q": "2027-05",
+    "+3q": "2027-08",
+    "+4q": "2027-11",
+    "0y": "2027-05",
+    "+1y": "2028-05",
+    "+2y": "2029-05",
+    "+3y": "2030-05"
+  },
+  "ratings": {
+    "buy": 9.0,
+    "hold": 4.0,
+    "sell": 1.0
+  }
+}

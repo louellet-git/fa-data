@@ -1,0 +1,14 @@
+{
+  "ticker": "DE",
+  "updated": "2026-11-19",
+  "past": [],
+  "next": {
+    "date": "2026-11-25",
+    "time": "pre-market",
+    "fiscal_quarter": "2026-10",
+    "eps_forecast": 4.07,
+    "estimates": 1.0,
+    "source": "nasdaq calendar"
+  },
+  "scanned_through": "2027-01-15"
+}

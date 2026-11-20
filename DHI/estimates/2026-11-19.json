@@ -1,0 +1,105 @@
+{
+  "ticker": "DHI",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.37,
+      "low": 1.17,
+      "high": 2.21,
+      "numberOfAnalysts": 21.0,
+      "up": 0.0,
+      "down": 14.0
+    },
+    "+1q": {
+      "avg": 1.85,
+      "low": 1.53,
+      "high": 2.55,
+      "numberOfAnalysts": 20.0,
+      "up": 0.0,
+      "down": 13.0
+    },
+    "+2q": {
+      "avg": 2.61,
+      "low": 1.81,
+      "high": 3.4,
+      "numberOfAnalysts": 20.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.88,
+      "low": 1.97,
+      "high": 3.8,
+      "numberOfAnalysts": 20.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.71,
+      "low": 1.33,
+      "high": 2.1,
+      "numberOfAnalysts": 12.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 8.84,
+      "low": 6.84,
+      "high": 12.1,
+      "numberOfAnalysts": 22.0,
+      "up": 0.0,
+      "down": 18.0
+    },
+    "+1y": {
+      "avg": 10.82,
+      "low": 8.35,
+      "high": 15.76,
+      "numberOfAnalysts": 17.0,
+      "up": 0.0,
+      "down": 8.0
+    },
+    "+2y": {
+      "avg": 12.93,
+      "low": 9.15,
+      "high": 20.18,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 20.29,
+      "low": 16.0,
+      "high": 24.58,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 146.92,
+    "low": 114.0,
+    "high": 186.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-09",
+    "+1y": "2028-09",
+    "+2y": "2029-09",
+    "+3y": "2030-09"
+  },
+  "ratings": {
+    "buy": 3.0,
+    "hold": 9.0,
+    "sell": 3.0
+  }
+}

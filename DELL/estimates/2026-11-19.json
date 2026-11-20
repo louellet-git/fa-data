@@ -1,0 +1,96 @@
+{
+  "ticker": "DELL",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 6.48,
+      "low": 6.23,
+      "high": 7.75,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 7.34,
+      "low": 6.86,
+      "high": 9.43,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 6.87,
+      "low": 5.01,
+      "high": 9.39,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 7.27,
+      "low": 6.33,
+      "high": 8.92,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 7.86,
+      "low": 6.72,
+      "high": 9.12,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 25.19,
+      "low": 24.55,
+      "high": 28.63,
+      "numberOfAnalysts": 10.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 29.5,
+      "low": 23.26,
+      "high": 37.57,
+      "numberOfAnalysts": 9.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 31.25,
+      "low": 27.82,
+      "high": 34.74,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 1.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 589.32,
+    "low": 403.0,
+    "high": 735.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-10",
+    "+1q": "2027-01",
+    "+2q": "2027-04",
+    "+3q": "2027-07",
+    "+4q": "2027-10",
+    "0y": "2027-01",
+    "+1y": "2028-01",
+    "+2y": "2029-01"
+  },
+  "ratings": {
+    "buy": 14.0,
+    "hold": 7.0,
+    "sell": 0.0
+  }
+}

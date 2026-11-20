@@ -1,0 +1,96 @@
+{
+  "ticker": "DOC",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.43,
+      "low": 0.4,
+      "high": 0.44,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 0.44,
+      "low": 0.43,
+      "high": 0.44,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 0.44,
+      "low": 0.44,
+      "high": 0.45,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.45,
+      "low": 0.44,
+      "high": 0.45,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.45,
+      "low": 0.44,
+      "high": 0.45,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 1.77,
+      "low": 1.76,
+      "high": 1.78,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 1.79,
+      "low": 1.76,
+      "high": 1.83,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 1.83,
+      "low": 1.79,
+      "high": 1.88,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 21.7,
+    "low": 20.0,
+    "high": 24.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 3.0,
+    "hold": 9.0,
+    "sell": 0.0
+  }
+}

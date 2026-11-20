@@ -1,0 +1,105 @@
+{
+  "ticker": "DHR",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.49,
+      "low": 2.47,
+      "high": 2.59,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 5.0
+    },
+    "+1q": {
+      "avg": 2.23,
+      "low": 2.16,
+      "high": 2.26,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 2.12,
+      "low": 2.1,
+      "high": 2.15,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.26,
+      "low": 2.19,
+      "high": 2.3,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.68,
+      "low": 2.64,
+      "high": 2.8,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 8.59,
+      "low": 8.58,
+      "high": 8.61,
+      "numberOfAnalysts": 8.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 9.3,
+      "low": 9.25,
+      "high": 9.4,
+      "numberOfAnalysts": 10.0,
+      "up": 5.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 10.25,
+      "low": 10.07,
+      "high": 10.6,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 12.4,
+      "low": 12.4,
+      "high": 12.4,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 258.0,
+    "low": 210.0,
+    "high": 275.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 13.0,
+    "hold": 0.0,
+    "sell": 0.0
+  }
+}

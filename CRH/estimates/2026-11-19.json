@@ -1,0 +1,105 @@
+{
+  "ticker": "CRH",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.55,
+      "low": 1.46,
+      "high": 1.64,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": -0.12,
+      "low": -0.2,
+      "high": -0.04,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 2.38,
+      "low": 2.34,
+      "high": 2.43,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.53,
+      "low": 2.47,
+      "high": 2.59,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.6,
+      "low": 1.52,
+      "high": 1.68,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.55,
+      "low": 5.52,
+      "high": 5.57,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+1y": {
+      "avg": 6.49,
+      "low": 6.29,
+      "high": 6.74,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 7.31,
+      "low": 6.88,
+      "high": 7.51,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 8.92,
+      "low": 8.92,
+      "high": 8.92,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 121.62,
+    "low": 107.0,
+    "high": 150.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 12.0,
+    "hold": 1.0,
+    "sell": 0.0
+  }
+}

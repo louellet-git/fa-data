@@ -1,0 +1,105 @@
+{
+  "ticker": "DECK",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.54,
+      "low": 2.79,
+      "high": 3.82,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 5.0
+    },
+    "+1q": {
+      "avg": 1.15,
+      "low": 0.98,
+      "high": 1.81,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 5.0
+    },
+    "+2q": {
+      "avg": 1.09,
+      "low": 1.0,
+      "high": 1.28,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.11,
+      "low": 1.88,
+      "high": 2.3,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.64,
+      "low": 3.06,
+      "high": 3.8,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 7.8,
+      "low": 6.99,
+      "high": 7.95,
+      "numberOfAnalysts": 11.0,
+      "up": 10.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 8.12,
+      "low": 7.64,
+      "high": 8.41,
+      "numberOfAnalysts": 11.0,
+      "up": 1.0,
+      "down": 9.0
+    },
+    "+2y": {
+      "avg": 9.35,
+      "low": 9.22,
+      "high": 9.43,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 10.3,
+      "low": 10.3,
+      "high": 10.3,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 99.29,
+    "low": 70.0,
+    "high": 137.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-03",
+    "+1y": "2028-03",
+    "+2y": "2029-03",
+    "+3y": "2030-03"
+  },
+  "ratings": {
+    "buy": 9.0,
+    "hold": 7.0,
+    "sell": 4.0
+  }
+}

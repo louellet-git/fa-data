@@ -1,0 +1,105 @@
+{
+  "ticker": "CRM",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.41,
+      "low": 2.37,
+      "high": 2.48,
+      "numberOfAnalysts": 13.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 2.31,
+      "low": 2.23,
+      "high": 2.44,
+      "numberOfAnalysts": 13.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 2.71,
+      "low": 2.32,
+      "high": 3.31,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.82,
+      "low": 2.46,
+      "high": 3.47,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.81,
+      "low": 2.52,
+      "high": 3.57,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 12.82,
+      "low": 12.74,
+      "high": 13.06,
+      "numberOfAnalysts": 19.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 11.53,
+      "low": 10.29,
+      "high": 14.19,
+      "numberOfAnalysts": 16.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 13.47,
+      "low": 11.97,
+      "high": 16.32,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 18.92,
+      "low": 18.92,
+      "high": 18.92,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 279.88,
+    "low": 195.0,
+    "high": 400.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-10",
+    "+1q": "2027-01",
+    "+2q": "2027-04",
+    "+3q": "2027-07",
+    "+4q": "2027-10",
+    "0y": "2027-01",
+    "+1y": "2028-01",
+    "+2y": "2029-01",
+    "+3y": "2030-01"
+  },
+  "ratings": {
+    "buy": 30.0,
+    "hold": 9.0,
+    "sell": 0.0
+  }
+}

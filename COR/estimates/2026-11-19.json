@@ -1,0 +1,105 @@
+{
+  "ticker": "COR",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 4.53,
+      "low": 4.34,
+      "high": 4.65,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 5.26,
+      "low": 5.19,
+      "high": 5.3,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 5.03,
+      "low": 4.85,
+      "high": 5.27,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 4.98,
+      "low": 4.9,
+      "high": 5.11,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 4.8,
+      "low": 4.77,
+      "high": 4.82,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 19.58,
+      "low": 19.53,
+      "high": 19.62,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 21.66,
+      "low": 21.43,
+      "high": 22.02,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 23.8,
+      "low": 23.66,
+      "high": 23.94,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 25.73,
+      "low": 25.73,
+      "high": 25.73,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 387.73,
+    "low": 330.0,
+    "high": 415.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-09",
+    "+1y": "2028-09",
+    "+2y": "2029-09",
+    "+3y": "2030-09"
+  },
+  "ratings": {
+    "buy": 8.0,
+    "hold": 2.0,
+    "sell": 0.0
+  }
+}

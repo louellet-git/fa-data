@@ -1,0 +1,105 @@
+{
+  "ticker": "CVX",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 5.75,
+      "low": 4.79,
+      "high": 7.0,
+      "numberOfAnalysts": 7.0,
+      "up": 3.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 5.21,
+      "low": 4.45,
+      "high": 6.43,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 5.45,
+      "low": 4.7,
+      "high": 5.71,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+3q": {
+      "avg": 5.01,
+      "low": 4.05,
+      "high": 5.66,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.58,
+      "low": 0.9,
+      "high": 5.2,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 18.64,
+      "low": 17.54,
+      "high": 20.33,
+      "numberOfAnalysts": 10.0,
+      "up": 7.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 18.01,
+      "low": 14.51,
+      "high": 22.5,
+      "numberOfAnalysts": 10.0,
+      "up": 6.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 13.75,
+      "low": 9.15,
+      "high": 17.74,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 12.27,
+      "low": 9.22,
+      "high": 13.87,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 241.69,
+    "low": 218.0,
+    "high": 268.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 13.0,
+    "hold": 5.0,
+    "sell": 0.0
+  }
+}

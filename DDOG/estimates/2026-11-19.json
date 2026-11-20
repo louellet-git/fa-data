@@ -1,0 +1,105 @@
+{
+  "ticker": "DDOG",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.21,
+      "low": 0.18,
+      "high": 0.23,
+      "numberOfAnalysts": 11.0,
+      "up": 9.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 0.17,
+      "low": 0.04,
+      "high": 0.25,
+      "numberOfAnalysts": 11.0,
+      "up": 4.0,
+      "down": 4.0
+    },
+    "+2q": {
+      "avg": 0.23,
+      "low": 0.17,
+      "high": 0.28,
+      "numberOfAnalysts": 11.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.3,
+      "low": 0.25,
+      "high": 0.37,
+      "numberOfAnalysts": 11.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.3,
+      "low": 0.2,
+      "high": 0.36,
+      "numberOfAnalysts": 11.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 0.84,
+      "low": 0.69,
+      "high": 0.89,
+      "numberOfAnalysts": 15.0,
+      "up": 11.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 1.03,
+      "low": 0.72,
+      "high": 1.59,
+      "numberOfAnalysts": 15.0,
+      "up": 6.0,
+      "down": 4.0
+    },
+    "+2y": {
+      "avg": 1.49,
+      "low": 1.29,
+      "high": 1.65,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 2.03,
+      "low": 2.03,
+      "high": 2.03,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 276.92,
+    "low": 171.0,
+    "high": 335.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 29.0,
+    "hold": 1.0,
+    "sell": 1.0
+  }
+}

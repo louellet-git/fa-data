@@ -1,0 +1,105 @@
+{
+  "ticker": "DRI",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.28,
+      "low": 2.2,
+      "high": 2.45,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 3.26,
+      "low": 3.2,
+      "high": 3.35,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 3.7,
+      "low": 3.6,
+      "high": 3.75,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.27,
+      "low": 2.22,
+      "high": 2.4,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.54,
+      "low": 2.41,
+      "high": 2.8,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 11.24,
+      "low": 11.12,
+      "high": 11.32,
+      "numberOfAnalysts": 13.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 12.42,
+      "low": 12.1,
+      "high": 12.8,
+      "numberOfAnalysts": 12.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 13.27,
+      "low": 12.93,
+      "high": 13.67,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 13.86,
+      "low": 13.86,
+      "high": 13.86,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 238.0,
+    "low": 210.0,
+    "high": 276.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-11",
+    "+1q": "2027-02",
+    "+2q": "2027-05",
+    "+3q": "2027-08",
+    "+4q": "2027-11",
+    "0y": "2027-05",
+    "+1y": "2028-05",
+    "+2y": "2029-05",
+    "+3y": "2030-05"
+  },
+  "ratings": {
+    "buy": 14.0,
+    "hold": 5.0,
+    "sell": 0.0
+  }
+}
