@@ -1,0 +1,105 @@
+{
+  "ticker": "WFC",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.88,
+      "low": 1.82,
+      "high": 1.92,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 1.76,
+      "low": 1.68,
+      "high": 1.8,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 2.06,
+      "low": 2.02,
+      "high": 2.14,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.12,
+      "low": 2.05,
+      "high": 2.21,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.14,
+      "low": 1.99,
+      "high": 2.28,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 7.27,
+      "low": 7.21,
+      "high": 7.31,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 8.02,
+      "low": 7.61,
+      "high": 8.35,
+      "numberOfAnalysts": 11.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 8.95,
+      "low": 7.8,
+      "high": 9.58,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 8.63,
+      "low": 8.63,
+      "high": 8.63,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 97.0,
+    "low": 88.0,
+    "high": 108.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 12.0,
+    "hold": 5.0,
+    "sell": 0.0
+  }
+}

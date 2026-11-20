@@ -1,0 +1,96 @@
+{
+  "ticker": "VMRK",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.04,
+      "low": 1.03,
+      "high": 1.06,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 1.03,
+      "low": 1.01,
+      "high": 1.06,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 1.06,
+      "low": 1.05,
+      "high": 1.07,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.08,
+      "low": 1.06,
+      "high": 1.09,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.11,
+      "low": 1.09,
+      "high": 1.13,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 4.08,
+      "low": 4.05,
+      "high": 4.1,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 4.27,
+      "low": 4.22,
+      "high": 4.31,
+      "numberOfAnalysts": 10.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 4.53,
+      "low": 4.47,
+      "high": 4.57,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 71.77,
+    "low": 66.0,
+    "high": 80.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 7.0,
+    "hold": 10.0,
+    "sell": 0.0
+  }
+}

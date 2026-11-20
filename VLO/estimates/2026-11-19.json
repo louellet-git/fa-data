@@ -1,0 +1,105 @@
+{
+  "ticker": "VLO",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 19.32,
+      "low": 13.92,
+      "high": 22.44,
+      "numberOfAnalysts": 6.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 14.38,
+      "low": 11.12,
+      "high": 17.51,
+      "numberOfAnalysts": 5.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 14.96,
+      "low": 12.36,
+      "high": 16.02,
+      "numberOfAnalysts": 5.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 14.04,
+      "low": 11.94,
+      "high": 15.94,
+      "numberOfAnalysts": 5.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 11.64,
+      "low": 9.02,
+      "high": 13.38,
+      "numberOfAnalysts": 5.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 58.33,
+      "low": 46.76,
+      "high": 63.1,
+      "numberOfAnalysts": 8.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 56.04,
+      "low": 48.42,
+      "high": 67.94,
+      "numberOfAnalysts": 9.0,
+      "up": 8.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 28.98,
+      "low": 17.0,
+      "high": 51.45,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 13.78,
+      "low": 13.78,
+      "high": 13.78,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 446.53,
+    "low": 358.0,
+    "high": 530.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 8.0,
+    "hold": 8.0,
+    "sell": 1.0
+  }
+}

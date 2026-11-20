@@ -1,0 +1,96 @@
+{
+  "ticker": "VRTX",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.59,
+      "low": 3.12,
+      "high": 4.51,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 6.0
+    },
+    "+1q": {
+      "avg": 4.27,
+      "low": 3.68,
+      "high": 4.7,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 4.49,
+      "low": 3.96,
+      "high": 4.81,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 4.67,
+      "low": 4.02,
+      "high": 5.12,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 4.89,
+      "low": 4.22,
+      "high": 5.31,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 16.1,
+      "low": 15.48,
+      "high": 17.13,
+      "numberOfAnalysts": 10.0,
+      "up": 1.0,
+      "down": 6.0
+    },
+    "+1y": {
+      "avg": 17.92,
+      "low": 15.86,
+      "high": 19.66,
+      "numberOfAnalysts": 11.0,
+      "up": 1.0,
+      "down": 8.0
+    },
+    "+2y": {
+      "avg": 18.77,
+      "low": 18.74,
+      "high": 18.8,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 613.56,
+    "low": 442.0,
+    "high": 725.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 20.0,
+    "hold": 2.0,
+    "sell": 0.0
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ticker": "WDAY",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.28,
+      "low": 1.08,
+      "high": 1.54,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.4,
+      "low": 1.16,
+      "high": 1.67,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 1.6,
+      "low": 1.25,
+      "high": 1.92,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.72,
+      "low": 1.39,
+      "high": 2.02,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.76,
+      "low": 1.33,
+      "high": 2.05,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.32,
+      "low": 4.53,
+      "high": 5.94,
+      "numberOfAnalysts": 14.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 7.15,
+      "low": 5.6,
+      "high": 7.98,
+      "numberOfAnalysts": 12.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 8.86,
+      "low": 6.65,
+      "high": 10.15,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 211.65,
+    "low": 164.0,
+    "high": 275.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-10",
+    "+1q": "2027-01",
+    "+2q": "2027-04",
+    "+3q": "2027-07",
+    "+4q": "2027-10",
+    "0y": "2027-01",
+    "+1y": "2028-01",
+    "+2y": "2029-01"
+  },
+  "ratings": {
+    "buy": 14.0,
+    "hold": 15.0,
+    "sell": 1.0
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "ticker": "WAT",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 4.63,
+      "low": 4.6,
+      "high": 4.65,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 3.15,
+      "low": 3.07,
+      "high": 3.37,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 3.65,
+      "low": 3.52,
+      "high": 3.82,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 4.58,
+      "low": 4.46,
+      "high": 4.67,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 5.14,
+      "low": 4.83,
+      "high": 5.38,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 14.65,
+      "low": 14.61,
+      "high": 14.67,
+      "numberOfAnalysts": 9.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 16.58,
+      "low": 16.45,
+      "high": 16.92,
+      "numberOfAnalysts": 9.0,
+      "up": 5.0,
+      "down": 3.0
+    },
+    "+2y": {
+      "avg": 18.98,
+      "low": 18.4,
+      "high": 20.23,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 24.61,
+      "low": 24.61,
+      "high": 24.61,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 500.67,
+    "low": 430.0,
+    "high": 536.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 11.0,
+    "hold": 4.0,
+    "sell": 0.0
+  }
+}

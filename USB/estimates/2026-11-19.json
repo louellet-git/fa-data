@@ -1,0 +1,105 @@
+{
+  "ticker": "USB",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.43,
+      "low": 1.38,
+      "high": 1.57,
+      "numberOfAnalysts": 10.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.32,
+      "low": 1.29,
+      "high": 1.39,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 1.46,
+      "low": 1.45,
+      "high": 1.47,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.53,
+      "low": 1.48,
+      "high": 1.56,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.55,
+      "low": 1.51,
+      "high": 1.63,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.3,
+      "low": 5.25,
+      "high": 5.44,
+      "numberOfAnalysts": 12.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 5.86,
+      "low": 5.76,
+      "high": 6.04,
+      "numberOfAnalysts": 12.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 6.37,
+      "low": 6.13,
+      "high": 6.69,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 6.36,
+      "low": 6.36,
+      "high": 6.36,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 68.66,
+    "low": 61.0,
+    "high": 76.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 11.0,
+    "hold": 6.0,
+    "sell": 0.0
+  }
+}

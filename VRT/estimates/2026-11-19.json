@@ -1,0 +1,105 @@
+{
+  "ticker": "VRT",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.28,
+      "low": 2.23,
+      "high": 2.33,
+      "numberOfAnalysts": 7.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.83,
+      "low": 1.65,
+      "high": 2.0,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 2.29,
+      "low": 2.02,
+      "high": 2.52,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.83,
+      "low": 2.59,
+      "high": 3.18,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.02,
+      "low": 2.88,
+      "high": 3.35,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 7.18,
+      "low": 7.13,
+      "high": 7.24,
+      "numberOfAnalysts": 9.0,
+      "up": 8.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 9.76,
+      "low": 9.16,
+      "high": 10.31,
+      "numberOfAnalysts": 9.0,
+      "up": 8.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 12.8,
+      "low": 11.58,
+      "high": 13.33,
+      "numberOfAnalysts": 7.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 15.66,
+      "low": 14.89,
+      "high": 16.42,
+      "numberOfAnalysts": 2.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 316.06,
+    "low": 187.0,
+    "high": 376.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 14.0,
+    "hold": 2.0,
+    "sell": 1.0
+  }
+}

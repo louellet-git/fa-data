@@ -1,0 +1,105 @@
+{
+  "ticker": "VRSN",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.45,
+      "low": 2.42,
+      "high": 2.47,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 2.62,
+      "low": 2.61,
+      "high": 2.63,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 2.67,
+      "low": 2.65,
+      "high": 2.68,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.67,
+      "low": 2.66,
+      "high": 2.67,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.81,
+      "low": 2.76,
+      "high": 2.85,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 9.57,
+      "low": 9.53,
+      "high": 9.6,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 10.83,
+      "low": 10.69,
+      "high": 10.97,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 12.37,
+      "low": 11.84,
+      "high": 12.7,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 14.35,
+      "low": 14.32,
+      "high": 14.37,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 352.0,
+    "low": 316.0,
+    "high": 380.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 3.0,
+    "hold": 1.0,
+    "sell": 0.0
+  }
+}

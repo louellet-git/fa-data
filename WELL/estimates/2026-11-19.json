@@ -1,0 +1,96 @@
+{
+  "ticker": "WELL",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.75,
+      "low": 1.72,
+      "high": 1.78,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 1.81,
+      "low": 1.76,
+      "high": 1.85,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 1.86,
+      "low": 1.8,
+      "high": 1.94,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.9,
+      "low": 1.86,
+      "high": 1.98,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.97,
+      "low": 1.89,
+      "high": 2.04,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 6.5,
+      "low": 6.47,
+      "high": 6.53,
+      "numberOfAnalysts": 6.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 7.56,
+      "low": 7.38,
+      "high": 7.77,
+      "numberOfAnalysts": 7.0,
+      "up": 4.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 8.51,
+      "low": 8.19,
+      "high": 8.93,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 266.2,
+    "low": 246.0,
+    "high": 292.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 14.0,
+    "hold": 1.0,
+    "sell": 0.0
+  }
+}

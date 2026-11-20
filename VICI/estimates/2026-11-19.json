@@ -1,0 +1,96 @@
+{
+  "ticker": "VICI",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.62,
+      "low": 0.62,
+      "high": 0.63,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 0.63,
+      "low": 0.63,
+      "high": 0.64,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 0.64,
+      "low": 0.63,
+      "high": 0.64,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.64,
+      "low": 0.64,
+      "high": 0.64,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.65,
+      "low": 0.64,
+      "high": 0.65,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 2.47,
+      "low": 2.47,
+      "high": 2.48,
+      "numberOfAnalysts": 7.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 2.57,
+      "low": 2.53,
+      "high": 2.7,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 2.65,
+      "low": 2.63,
+      "high": 2.69,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 28.48,
+    "low": 24.0,
+    "high": 32.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 7.0,
+    "hold": 7.0,
+    "sell": 0.0
+  }
+}
