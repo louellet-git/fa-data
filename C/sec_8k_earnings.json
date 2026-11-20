@@ -1,0 +1,31 @@
+{
+  "cik": "831001",
+  "filings": [
+    {
+      "accession": "0001104659-26-115323",
+      "filed": "2026-10-13",
+      "items": "2.02,9.01",
+      "report_date": "2026-10-13"
+    },
+    {
+      "accession": "0001104659-26-083383",
+      "filed": "2026-07-14",
+      "items": "2.02,9.01",
+      "report_date": "2026-07-14"
+    },
+    {
+      "accession": "0001104659-26-042942",
+      "filed": "2026-04-14",
+      "items": "2.02,9.01",
+      "report_date": "2026-04-14"
+    },
+    {
+      "accession": "0001104659-26-003604",
+      "filed": "2026-01-14",
+      "items": "2.02,9.01",
+      "report_date": "2026-01-14"
+    }
+  ],
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "C"
+}
