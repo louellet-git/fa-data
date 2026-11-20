@@ -1,0 +1,105 @@
+{
+  "ticker": "UBER",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.94,
+      "low": 0.75,
+      "high": 0.97,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 0.99,
+      "low": 0.95,
+      "high": 1.02,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 1.12,
+      "low": 1.03,
+      "high": 1.42,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.15,
+      "low": 1.12,
+      "high": 1.18,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.22,
+      "low": 1.02,
+      "high": 1.31,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 3.27,
+      "low": 2.51,
+      "high": 3.38,
+      "numberOfAnalysts": 9.0,
+      "up": 4.0,
+      "down": 3.0
+    },
+    "+1y": {
+      "avg": 4.47,
+      "low": 3.99,
+      "high": 4.85,
+      "numberOfAnalysts": 10.0,
+      "up": 4.0,
+      "down": 5.0
+    },
+    "+2y": {
+      "avg": 5.63,
+      "low": 5.56,
+      "high": 5.73,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 7.53,
+      "low": 7.53,
+      "high": 7.53,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 103.0,
+    "low": 70.0,
+    "high": 150.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 20.0,
+    "hold": 2.0,
+    "sell": 0.0
+  }
+}

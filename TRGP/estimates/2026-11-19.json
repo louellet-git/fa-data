@@ -1,0 +1,96 @@
+{
+  "ticker": "TRGP",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.89,
+      "low": 2.44,
+      "high": 3.12,
+      "numberOfAnalysts": 8.0,
+      "up": 5.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 2.86,
+      "low": 2.39,
+      "high": 3.15,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 3.07,
+      "low": 2.79,
+      "high": 3.34,
+      "numberOfAnalysts": 6.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.24,
+      "low": 2.75,
+      "high": 3.79,
+      "numberOfAnalysts": 6.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.41,
+      "low": 3.01,
+      "high": 3.93,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 11.71,
+      "low": 11.34,
+      "high": 11.96,
+      "numberOfAnalysts": 9.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 12.69,
+      "low": 11.25,
+      "high": 14.13,
+      "numberOfAnalysts": 9.0,
+      "up": 6.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 14.95,
+      "low": 9.87,
+      "high": 18.55,
+      "numberOfAnalysts": 6.0,
+      "up": 4.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 332.24,
+    "low": 294.0,
+    "high": 362.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 17.0,
+    "hold": 0.0,
+    "sell": 0.0
+  }
+}

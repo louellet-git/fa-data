@@ -1,0 +1,77 @@
+{
+  "ticker": "TPL",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.32,
+      "low": 2.32,
+      "high": 2.32,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 2.39,
+      "low": 2.39,
+      "high": 2.39,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 2.37,
+      "low": 2.37,
+      "high": 2.37,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.39,
+      "low": 2.39,
+      "high": 2.39,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.49,
+      "low": 2.49,
+      "high": 2.49,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 8.88,
+      "low": 8.88,
+      "high": 8.88,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 9.64,
+      "low": 9.64,
+      "high": 9.64,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {},
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12"
+  }
+}

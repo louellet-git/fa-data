@@ -1,0 +1,105 @@
+{
+  "ticker": "SWK",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.54,
+      "low": 1.45,
+      "high": 1.69,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+1q": {
+      "avg": 1.11,
+      "low": 1.02,
+      "high": 1.18,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 1.61,
+      "low": 1.44,
+      "high": 1.79,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.83,
+      "low": 1.66,
+      "high": 2.03,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.84,
+      "low": 1.76,
+      "high": 1.91,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 6.11,
+      "low": 6.1,
+      "high": 6.12,
+      "numberOfAnalysts": 3.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 6.35,
+      "low": 6.11,
+      "high": 6.58,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 7.0,
+      "low": 6.61,
+      "high": 7.42,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 8.33,
+      "low": 8.15,
+      "high": 8.52,
+      "numberOfAnalysts": 2.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 111.38,
+    "low": 96.0,
+    "high": 140.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 1.0,
+    "hold": 6.0,
+    "sell": 0.0
+  }
+}

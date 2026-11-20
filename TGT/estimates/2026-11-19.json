@@ -1,0 +1,105 @@
+{
+  "ticker": "TGT",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.68,
+      "low": 2.53,
+      "high": 2.9,
+      "numberOfAnalysts": 12.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 1.87,
+      "low": 1.74,
+      "high": 2.26,
+      "numberOfAnalysts": 10.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 2.64,
+      "low": 2.5,
+      "high": 2.76,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.17,
+      "low": 1.94,
+      "high": 2.43,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.75,
+      "low": 2.08,
+      "high": 2.89,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 8.92,
+      "low": 8.6,
+      "high": 9.25,
+      "numberOfAnalysts": 10.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 9.53,
+      "low": 8.85,
+      "high": 10.35,
+      "numberOfAnalysts": 17.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 10.4,
+      "low": 10.1,
+      "high": 11.07,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 11.08,
+      "low": 10.6,
+      "high": 11.85,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 174.17,
+    "low": 141.0,
+    "high": 205.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2027-01",
+    "+1q": "2027-04",
+    "+2q": "2027-07",
+    "+3q": "2027-10",
+    "+4q": "2028-01",
+    "0y": "2027-01",
+    "+1y": "2028-01",
+    "+2y": "2029-01",
+    "+3y": "2030-01"
+  },
+  "ratings": {
+    "buy": 12.0,
+    "hold": 17.0,
+    "sell": 2.0
+  }
+}

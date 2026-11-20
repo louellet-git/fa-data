@@ -1,0 +1,105 @@
+{
+  "ticker": "SYK",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 5.03,
+      "low": 5.01,
+      "high": 5.06,
+      "numberOfAnalysts": 9.0,
+      "up": 2.0,
+      "down": 5.0
+    },
+    "+1q": {
+      "avg": 2.93,
+      "low": 2.83,
+      "high": 3.13,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 4.0,
+      "low": 3.87,
+      "high": 4.08,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.87,
+      "low": 3.83,
+      "high": 3.92,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 5.46,
+      "low": 5.38,
+      "high": 5.52,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 14.85,
+      "low": 14.82,
+      "high": 14.88,
+      "numberOfAnalysts": 11.0,
+      "up": 1.0,
+      "down": 10.0
+    },
+    "+1y": {
+      "avg": 16.24,
+      "low": 16.0,
+      "high": 16.42,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 11.0
+    },
+    "+2y": {
+      "avg": 17.9,
+      "low": 17.01,
+      "high": 18.36,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 19.34,
+      "low": 18.58,
+      "high": 19.82,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 343.25,
+    "low": 290.0,
+    "high": 405.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 18.0,
+    "hold": 3.0,
+    "sell": 0.0
+  }
+}

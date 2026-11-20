@@ -1,0 +1,105 @@
+{
+  "ticker": "TTWO",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.28,
+      "low": 2.24,
+      "high": 4.32,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.14,
+      "low": 0.23,
+      "high": 2.18,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 1.09,
+      "low": 1.01,
+      "high": 1.16,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.2,
+      "low": 1.69,
+      "high": 2.7,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.26,
+      "low": 2.1,
+      "high": 2.42,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.19,
+      "low": 4.12,
+      "high": 6.44,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 8.51,
+      "low": 6.97,
+      "high": 10.65,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 8.73,
+      "low": 7.47,
+      "high": 9.41,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 7.8,
+      "low": 7.8,
+      "high": 7.8,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 290.5,
+    "low": 262.0,
+    "high": 330.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-03",
+    "+1y": "2028-03",
+    "+2y": "2029-03",
+    "+3y": "2030-03"
+  },
+  "ratings": {
+    "buy": 16.0,
+    "hold": 0.0,
+    "sell": 0.0
+  }
+}

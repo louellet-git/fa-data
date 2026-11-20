@@ -1,0 +1,105 @@
+{
+  "ticker": "TMO",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 7.12,
+      "low": 7.0,
+      "high": 7.25,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 7.0
+    },
+    "+1q": {
+      "avg": 5.96,
+      "low": 5.64,
+      "high": 6.13,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 6.57,
+      "low": 6.41,
+      "high": 6.63,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 7.22,
+      "low": 7.04,
+      "high": 7.35,
+      "numberOfAnalysts": 5.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 7.88,
+      "low": 7.77,
+      "high": 8.03,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 25.26,
+      "low": 25.15,
+      "high": 25.4,
+      "numberOfAnalysts": 12.0,
+      "up": 11.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 27.81,
+      "low": 27.02,
+      "high": 29.31,
+      "numberOfAnalysts": 12.0,
+      "up": 10.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 30.45,
+      "low": 29.56,
+      "high": 31.98,
+      "numberOfAnalysts": 5.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 34.51,
+      "low": 34.51,
+      "high": 34.51,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 763.0,
+    "low": 650.0,
+    "high": 830.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 14.0,
+    "hold": 3.0,
+    "sell": 0.0
+  }
+}

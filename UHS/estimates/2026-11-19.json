@@ -1,0 +1,105 @@
+{
+  "ticker": "UHS",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 5.74,
+      "low": 5.55,
+      "high": 6.09,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 5.35,
+      "low": 4.87,
+      "high": 5.75,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+2q": {
+      "avg": 5.75,
+      "low": 5.57,
+      "high": 5.92,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 5.56,
+      "low": 4.97,
+      "high": 5.95,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 6.34,
+      "low": 5.96,
+      "high": 7.07,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 22.57,
+      "low": 22.38,
+      "high": 22.9,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 7.0
+    },
+    "+1y": {
+      "avg": 22.72,
+      "low": 21.89,
+      "high": 23.77,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 8.0
+    },
+    "+2y": {
+      "avg": 25.27,
+      "low": 22.87,
+      "high": 26.8,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 28.69,
+      "low": 28.69,
+      "high": 28.69,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 196.67,
+    "low": 156.0,
+    "high": 250.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 5.0,
+    "hold": 10.0,
+    "sell": 1.0
+  }
+}

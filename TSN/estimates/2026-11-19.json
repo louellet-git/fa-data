@@ -1,0 +1,87 @@
+{
+  "ticker": "TSN",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.96,
+      "low": 0.76,
+      "high": 1.09,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 0.93,
+      "low": 0.83,
+      "high": 1.06,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 0.96,
+      "low": 0.84,
+      "high": 1.05,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.93,
+      "low": 0.76,
+      "high": 1.1,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.07,
+      "low": 1.01,
+      "high": 1.12,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 3.68,
+      "low": 3.33,
+      "high": 4.3,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 4.39,
+      "low": 4.1,
+      "high": 4.69,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 70.57,
+    "low": 65.0,
+    "high": 75.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-09",
+    "+1y": "2028-09"
+  },
+  "ratings": {
+    "buy": 4.0,
+    "hold": 3.0,
+    "sell": 0.0
+  }
+}

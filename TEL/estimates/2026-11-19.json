@@ -1,0 +1,105 @@
+{
+  "ticker": "TEL",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.3,
+      "low": 3.3,
+      "high": 3.31,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 3.23,
+      "low": 3.22,
+      "high": 3.25,
+      "numberOfAnalysts": 2.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 3.4,
+      "low": 3.37,
+      "high": 3.43,
+      "numberOfAnalysts": 2.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.62,
+      "low": 3.61,
+      "high": 3.63,
+      "numberOfAnalysts": 2.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.72,
+      "low": 3.72,
+      "high": 3.72,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 13.52,
+      "low": 13.05,
+      "high": 13.9,
+      "numberOfAnalysts": 6.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 15.25,
+      "low": 14.84,
+      "high": 15.5,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 17.74,
+      "low": 17.74,
+      "high": 17.74,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 19.55,
+      "low": 19.55,
+      "high": 19.55,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 270.63,
+    "low": 235.0,
+    "high": 304.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-09",
+    "+1y": "2028-09",
+    "+2y": "2029-09",
+    "+3y": "2030-09"
+  },
+  "ratings": {
+    "buy": 6.0,
+    "hold": 2.0,
+    "sell": 0.0
+  }
+}

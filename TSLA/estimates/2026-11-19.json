@@ -1,0 +1,96 @@
+{
+  "ticker": "TSLA",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.24,
+      "low": 0.1,
+      "high": 0.79,
+      "numberOfAnalysts": 10.0,
+      "up": 2.0,
+      "down": 6.0
+    },
+    "+1q": {
+      "avg": 0.21,
+      "low": 0.02,
+      "high": 0.42,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 0.25,
+      "low": 0.0,
+      "high": 0.52,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.3,
+      "low": 0.01,
+      "high": 0.61,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.31,
+      "low": 0.06,
+      "high": 0.69,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 0.67,
+      "low": 0.38,
+      "high": 1.22,
+      "numberOfAnalysts": 14.0,
+      "up": 3.0,
+      "down": 9.0
+    },
+    "+1y": {
+      "avg": 1.06,
+      "low": 0.06,
+      "high": 2.19,
+      "numberOfAnalysts": 14.0,
+      "up": 7.0,
+      "down": 6.0
+    },
+    "+2y": {
+      "avg": 1.36,
+      "low": 0.07,
+      "high": 2.51,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 411.86,
+    "low": 24.86,
+    "high": 550.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 13.0,
+    "hold": 10.0,
+    "sell": 2.0
+  }
+}
