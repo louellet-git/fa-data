@@ -1,0 +1,105 @@
+{
+  "ticker": "RCL",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.58,
+      "low": 3.54,
+      "high": 3.62,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 5.0
+    },
+    "+1q": {
+      "avg": 3.75,
+      "low": 3.61,
+      "high": 3.89,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 4.95,
+      "low": 4.78,
+      "high": 5.27,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 7.24,
+      "low": 6.18,
+      "high": 7.54,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 4.29,
+      "low": 3.95,
+      "high": 4.65,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 17.94,
+      "low": 17.9,
+      "high": 18.0,
+      "numberOfAnalysts": 9.0,
+      "up": 9.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 20.42,
+      "low": 19.42,
+      "high": 21.44,
+      "numberOfAnalysts": 9.0,
+      "up": 7.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 23.21,
+      "low": 22.62,
+      "high": 23.94,
+      "numberOfAnalysts": 6.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 26.61,
+      "low": 26.61,
+      "high": 26.61,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 360.45,
+    "low": 298.0,
+    "high": 425.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 19.0,
+    "hold": 2.0,
+    "sell": 0.0
+  }
+}

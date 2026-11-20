@@ -1,0 +1,105 @@
+{
+  "ticker": "PANW",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.55,
+      "low": 0.48,
+      "high": 0.65,
+      "numberOfAnalysts": 15.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 0.54,
+      "low": 0.49,
+      "high": 0.64,
+      "numberOfAnalysts": 15.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 0.7,
+      "low": 0.63,
+      "high": 0.76,
+      "numberOfAnalysts": 15.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.61,
+      "low": 0.53,
+      "high": 0.77,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.65,
+      "low": 0.52,
+      "high": 0.86,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 2.32,
+      "low": 2.23,
+      "high": 2.52,
+      "numberOfAnalysts": 21.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 2.78,
+      "low": 2.51,
+      "high": 3.39,
+      "numberOfAnalysts": 18.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 3.54,
+      "low": 2.78,
+      "high": 4.2,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 4.79,
+      "low": 4.79,
+      "high": 4.79,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 423.43,
+    "low": 300.0,
+    "high": 510.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2027-01",
+    "+1q": "2027-04",
+    "+2q": "2027-07",
+    "+3q": "2027-10",
+    "+4q": "2028-01",
+    "0y": "2027-07",
+    "+1y": "2028-07",
+    "+2y": "2029-07",
+    "+3y": "2030-07"
+  },
+  "ratings": {
+    "buy": 32.0,
+    "hold": 8.0,
+    "sell": 0.0
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "ticker": "PAYX",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.3,
+      "low": 1.27,
+      "high": 1.37,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.87,
+      "low": 1.84,
+      "high": 1.91,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 1.46,
+      "low": 1.43,
+      "high": 1.51,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.44,
+      "low": 1.41,
+      "high": 1.48,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.43,
+      "low": 1.37,
+      "high": 1.49,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.96,
+      "low": 5.93,
+      "high": 6.0,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 6.33,
+      "low": 6.0,
+      "high": 6.45,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 6.71,
+      "low": 6.59,
+      "high": 6.86,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 6.99,
+      "low": 6.99,
+      "high": 6.99,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 116.64,
+    "low": 96.0,
+    "high": 150.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-11",
+    "+1q": "2027-02",
+    "+2q": "2027-05",
+    "+3q": "2027-08",
+    "+4q": "2027-11",
+    "0y": "2027-05",
+    "+1y": "2028-05",
+    "+2y": "2029-05",
+    "+3y": "2030-05"
+  },
+  "ratings": {
+    "buy": 1.0,
+    "hold": 14.0,
+    "sell": 2.0
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "ticker": "PTC",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.61,
+      "low": 1.45,
+      "high": 1.73,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.84,
+      "low": 1.68,
+      "high": 2.0,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 1.67,
+      "low": 1.55,
+      "high": 1.83,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.01,
+      "low": 1.73,
+      "high": 2.49,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 7.12,
+      "low": 6.64,
+      "high": 7.63,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 8.18,
+      "low": 8.02,
+      "high": 8.34,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 205.0,
+    "low": 205.0,
+    "high": 205.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "0y": "2027-09",
+    "+1y": "2028-09"
+  },
+  "ratings": {
+    "buy": 0.0,
+    "hold": 14.0,
+    "sell": 0.0
+  }
+}

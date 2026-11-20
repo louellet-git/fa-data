@@ -1,0 +1,105 @@
+{
+  "ticker": "PSX",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 11.23,
+      "low": 10.45,
+      "high": 12.57,
+      "numberOfAnalysts": 6.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 8.3,
+      "low": 6.4,
+      "high": 9.8,
+      "numberOfAnalysts": 5.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 9.33,
+      "low": 8.56,
+      "high": 10.63,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 8.73,
+      "low": 7.98,
+      "high": 9.78,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 6.63,
+      "low": 5.03,
+      "high": 7.32,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 33.79,
+      "low": 28.42,
+      "high": 36.36,
+      "numberOfAnalysts": 8.0,
+      "up": 5.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 33.94,
+      "low": 27.99,
+      "high": 38.1,
+      "numberOfAnalysts": 8.0,
+      "up": 6.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 22.81,
+      "low": 14.25,
+      "high": 36.09,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 17.63,
+      "low": 17.63,
+      "high": 17.63,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 299.13,
+    "low": 258.0,
+    "high": 346.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 6.0,
+    "hold": 8.0,
+    "sell": 0.0
+  }
+}

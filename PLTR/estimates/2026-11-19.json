@@ -1,0 +1,105 @@
+{
+  "ticker": "PLTR",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.41,
+      "low": 0.38,
+      "high": 0.45,
+      "numberOfAnalysts": 11.0,
+      "up": 6.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 0.42,
+      "low": 0.34,
+      "high": 0.45,
+      "numberOfAnalysts": 8.0,
+      "up": 5.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 0.46,
+      "low": 0.36,
+      "high": 0.52,
+      "numberOfAnalysts": 8.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.53,
+      "low": 0.41,
+      "high": 0.6,
+      "numberOfAnalysts": 8.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.59,
+      "low": 0.48,
+      "high": 0.68,
+      "numberOfAnalysts": 8.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 1.36,
+      "low": 1.33,
+      "high": 1.39,
+      "numberOfAnalysts": 13.0,
+      "up": 8.0,
+      "down": 2.0
+    },
+    "+1y": {
+      "avg": 1.98,
+      "low": 1.58,
+      "high": 2.38,
+      "numberOfAnalysts": 14.0,
+      "up": 6.0,
+      "down": 4.0
+    },
+    "+2y": {
+      "avg": 3.09,
+      "low": 2.93,
+      "high": 3.33,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 4.51,
+      "low": 4.51,
+      "high": 4.51,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 229.09,
+    "low": 80.0,
+    "high": 273.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 18.0,
+    "hold": 5.0,
+    "sell": 2.0
+  }
+}

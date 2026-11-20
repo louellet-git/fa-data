@@ -1,0 +1,105 @@
+{
+  "ticker": "PKG",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.82,
+      "low": 2.8,
+      "high": 2.84,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 3.12,
+      "low": 2.86,
+      "high": 3.72,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 3.34,
+      "low": 2.82,
+      "high": 4.21,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.75,
+      "low": 3.12,
+      "high": 4.59,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.46,
+      "low": 3.19,
+      "high": 4.1,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 10.59,
+      "low": 10.41,
+      "high": 10.67,
+      "numberOfAnalysts": 7.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 13.98,
+      "low": 12.45,
+      "high": 16.79,
+      "numberOfAnalysts": 8.0,
+      "up": 6.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 15.64,
+      "low": 13.94,
+      "high": 18.96,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 14.98,
+      "low": 14.98,
+      "high": 14.98,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 282.4,
+    "low": 245.0,
+    "high": 322.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 4.0,
+    "hold": 2.0,
+    "sell": 0.0
+  }
+}

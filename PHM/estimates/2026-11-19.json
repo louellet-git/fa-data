@@ -1,0 +1,96 @@
+{
+  "ticker": "PHM",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.47,
+      "low": 2.38,
+      "high": 2.56,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 5.0
+    },
+    "+1q": {
+      "avg": 1.82,
+      "low": 1.79,
+      "high": 1.86,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 2.36,
+      "low": 2.21,
+      "high": 2.46,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+3q": {
+      "avg": 2.24,
+      "low": 1.95,
+      "high": 2.51,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+4q": {
+      "avg": 2.44,
+      "low": 2.19,
+      "high": 2.7,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 9.27,
+      "low": 9.17,
+      "high": 9.35,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 7.0
+    },
+    "+1y": {
+      "avg": 9.08,
+      "low": 7.9,
+      "high": 10.42,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 7.0
+    },
+    "+2y": {
+      "avg": 9.74,
+      "low": 9.21,
+      "high": 10.28,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 1.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 136.43,
+    "low": 109.0,
+    "high": 162.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 6.0,
+    "hold": 7.0,
+    "sell": 0.0
+  }
+}

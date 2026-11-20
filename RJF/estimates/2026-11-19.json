@@ -1,0 +1,105 @@
+{
+  "ticker": "RJF",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.33,
+      "low": 3.13,
+      "high": 3.49,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 3.43,
+      "low": 3.36,
+      "high": 3.55,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 3.61,
+      "low": 3.55,
+      "high": 3.66,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.94,
+      "low": 3.88,
+      "high": 3.97,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.93,
+      "low": 3.89,
+      "high": 3.97,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 14.21,
+      "low": 13.41,
+      "high": 14.96,
+      "numberOfAnalysts": 9.0,
+      "up": 5.0,
+      "down": 3.0
+    },
+    "+1y": {
+      "avg": 16.12,
+      "low": 13.4,
+      "high": 17.66,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 14.87,
+      "low": 14.87,
+      "high": 14.87,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 17.5,
+      "low": 17.5,
+      "high": 17.5,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 177.78,
+    "low": 160.0,
+    "high": 203.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-09",
+    "+1y": "2028-09",
+    "+2y": "2029-09",
+    "+3y": "2030-09"
+  },
+  "ratings": {
+    "buy": 2.0,
+    "hold": 8.0,
+    "sell": 0.0
+  }
+}

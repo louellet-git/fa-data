@@ -1,0 +1,96 @@
+{
+  "ticker": "QCOM",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.35,
+      "low": 1.26,
+      "high": 1.54,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 5.0
+    },
+    "+1q": {
+      "avg": 1.6,
+      "low": 1.46,
+      "high": 1.81,
+      "numberOfAnalysts": 9.0,
+      "up": 4.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 1.77,
+      "low": 1.63,
+      "high": 1.92,
+      "numberOfAnalysts": 9.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.04,
+      "low": 1.82,
+      "high": 2.38,
+      "numberOfAnalysts": 9.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.12,
+      "low": 1.82,
+      "high": 2.52,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 6.75,
+      "low": 6.02,
+      "high": 7.28,
+      "numberOfAnalysts": 13.0,
+      "up": 2.0,
+      "down": 10.0
+    },
+    "+1y": {
+      "avg": 9.06,
+      "low": 8.25,
+      "high": 10.46,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 12.15,
+      "low": 12.15,
+      "high": 12.15,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 190.11,
+    "low": 150.0,
+    "high": 300.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-09",
+    "+1y": "2028-09",
+    "+2y": "2029-09"
+  },
+  "ratings": {
+    "buy": 4.0,
+    "hold": 13.0,
+    "sell": 2.0
+  }
+}

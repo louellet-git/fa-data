@@ -1,0 +1,105 @@
+{
+  "ticker": "PCAR",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.7,
+      "low": 1.61,
+      "high": 1.93,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 1.51,
+      "low": 1.47,
+      "high": 1.55,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 1.64,
+      "low": 1.55,
+      "high": 1.75,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+3q": {
+      "avg": 1.73,
+      "low": 1.64,
+      "high": 1.93,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+4q": {
+      "avg": 1.87,
+      "low": 1.74,
+      "high": 2.24,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 5.85,
+      "low": 5.77,
+      "high": 6.11,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 4.0
+    },
+    "+1y": {
+      "avg": 6.86,
+      "low": 6.48,
+      "high": 7.38,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 6.0
+    },
+    "+2y": {
+      "avg": 7.73,
+      "low": 6.5,
+      "high": 9.89,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+3y": {
+      "avg": 10.06,
+      "low": 10.06,
+      "high": 10.06,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 125.1,
+    "low": 113.0,
+    "high": 150.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 6.0,
+    "hold": 4.0,
+    "sell": 0.0
+  }
+}

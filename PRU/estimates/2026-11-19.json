@@ -1,0 +1,96 @@
+{
+  "ticker": "PRU",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.99,
+      "low": 2.83,
+      "high": 3.09,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 5.0
+    },
+    "+1q": {
+      "avg": 3.23,
+      "low": 2.81,
+      "high": 3.67,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 3.42,
+      "low": 3.23,
+      "high": 3.83,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.54,
+      "low": 3.37,
+      "high": 3.68,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.41,
+      "low": 3.27,
+      "high": 3.63,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 13.63,
+      "low": 13.45,
+      "high": 13.9,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 6.0
+    },
+    "+1y": {
+      "avg": 13.69,
+      "low": 13.3,
+      "high": 14.0,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 6.0
+    },
+    "+2y": {
+      "avg": 15.45,
+      "low": 14.62,
+      "high": 16.55,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 109.02,
+    "low": 5.2313325,
+    "high": 136.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 1.0,
+    "hold": 9.0,
+    "sell": 3.0
+  }
+}

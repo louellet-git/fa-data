@@ -1,0 +1,105 @@
+{
+  "ticker": "PYPL",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.43,
+      "low": 1.42,
+      "high": 1.45,
+      "numberOfAnalysts": 11.0,
+      "up": 10.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.42,
+      "low": 1.36,
+      "high": 1.47,
+      "numberOfAnalysts": 10.0,
+      "up": 4.0,
+      "down": 5.0
+    },
+    "+2q": {
+      "avg": 1.45,
+      "low": 1.35,
+      "high": 1.5,
+      "numberOfAnalysts": 10.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.53,
+      "low": 1.41,
+      "high": 1.67,
+      "numberOfAnalysts": 10.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.51,
+      "low": 1.41,
+      "high": 1.58,
+      "numberOfAnalysts": 10.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.59,
+      "low": 5.37,
+      "high": 5.62,
+      "numberOfAnalysts": 14.0,
+      "up": 14.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 5.9,
+      "low": 5.78,
+      "high": 6.08,
+      "numberOfAnalysts": 15.0,
+      "up": 12.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 6.31,
+      "low": 5.73,
+      "high": 6.57,
+      "numberOfAnalysts": 8.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 7.7,
+      "low": 7.7,
+      "high": 7.7,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 57.75,
+    "low": 45.0,
+    "high": 70.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 3.0,
+    "hold": 20.0,
+    "sell": 5.0
+  }
+}
