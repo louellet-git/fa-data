@@ -1,0 +1,95 @@
+{
+  "ticker": "HONA",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.13,
+      "low": 2.02,
+      "high": 2.22,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 1.84,
+      "low": 1.84,
+      "high": 1.84,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 2.07,
+      "low": 2.02,
+      "high": 2.12,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.23,
+      "low": 2.14,
+      "high": 2.32,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.59,
+      "low": 2.45,
+      "high": 2.73,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 7.93,
+      "low": 7.9,
+      "high": 8.0,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 8.65,
+      "low": 7.99,
+      "high": 9.14,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 9.86,
+      "low": 9.59,
+      "high": 10.25,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 11.0,
+      "low": 10.7,
+      "high": 11.3,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {},
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  }
+}

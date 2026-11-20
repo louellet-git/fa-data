@@ -1,0 +1,105 @@
+{
+  "ticker": "HSY",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.77,
+      "low": 1.75,
+      "high": 1.8,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 6.0
+    },
+    "+1q": {
+      "avg": 2.72,
+      "low": 2.56,
+      "high": 2.84,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 2.03,
+      "low": 1.89,
+      "high": 2.18,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.64,
+      "low": 2.55,
+      "high": 2.76,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.07,
+      "low": 1.71,
+      "high": 2.5,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 8.63,
+      "low": 8.38,
+      "high": 8.69,
+      "numberOfAnalysts": 9.0,
+      "up": 8.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 9.42,
+      "low": 9.31,
+      "high": 9.6,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 8.0
+    },
+    "+2y": {
+      "avg": 10.06,
+      "low": 9.77,
+      "high": 10.48,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 10.47,
+      "low": 10.26,
+      "high": 10.69,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 174.0,
+    "low": 160.0,
+    "high": 200.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 2.0,
+    "hold": 11.0,
+    "sell": 0.0
+  }
+}

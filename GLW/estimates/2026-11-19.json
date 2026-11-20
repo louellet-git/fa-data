@@ -1,0 +1,105 @@
+{
+  "ticker": "GLW",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.98,
+      "low": 0.97,
+      "high": 0.98,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 0.92,
+      "low": 0.89,
+      "high": 0.96,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 1.03,
+      "low": 1.02,
+      "high": 1.05,
+      "numberOfAnalysts": 3.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.16,
+      "low": 1.1,
+      "high": 1.22,
+      "numberOfAnalysts": 3.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.21,
+      "low": 1.15,
+      "high": 1.27,
+      "numberOfAnalysts": 3.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 3.38,
+      "low": 3.36,
+      "high": 3.41,
+      "numberOfAnalysts": 8.0,
+      "up": 8.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 4.5,
+      "low": 4.19,
+      "high": 4.99,
+      "numberOfAnalysts": 8.0,
+      "up": 7.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 5.94,
+      "low": 5.68,
+      "high": 6.05,
+      "numberOfAnalysts": 4.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 7.69,
+      "low": 7.47,
+      "high": 7.91,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 172.75,
+    "low": 120.0,
+    "high": 220.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 10.0,
+    "hold": 4.0,
+    "sell": 0.0
+  }
+}

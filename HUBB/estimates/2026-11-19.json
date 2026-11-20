@@ -1,0 +1,105 @@
+{
+  "ticker": "HUBB",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 5.25,
+      "low": 5.18,
+      "high": 5.33,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 4.65,
+      "low": 4.5,
+      "high": 4.8,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 6.16,
+      "low": 6.08,
+      "high": 6.32,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 6.48,
+      "low": 6.13,
+      "high": 6.85,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 5.78,
+      "low": 5.65,
+      "high": 6.02,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 20.55,
+      "low": 20.41,
+      "high": 20.62,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 23.05,
+      "low": 22.74,
+      "high": 23.99,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 25.55,
+      "low": 24.53,
+      "high": 26.51,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 27.16,
+      "low": 26.08,
+      "high": 28.23,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 546.88,
+    "low": 470.0,
+    "high": 600.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 4.0,
+    "hold": 3.0,
+    "sell": 0.0
+  }
+}

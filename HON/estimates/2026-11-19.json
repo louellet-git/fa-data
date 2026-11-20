@@ -1,0 +1,105 @@
+{
+  "ticker": "HON",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.47,
+      "low": 2.43,
+      "high": 2.51,
+      "numberOfAnalysts": 3.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 2.16,
+      "low": 2.09,
+      "high": 2.25,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 2.43,
+      "low": 2.36,
+      "high": 2.5,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.52,
+      "low": 2.46,
+      "high": 2.59,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.76,
+      "low": 2.7,
+      "high": 2.81,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 8.44,
+      "low": 8.4,
+      "high": 8.46,
+      "numberOfAnalysts": 5.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 9.99,
+      "low": 9.71,
+      "high": 10.44,
+      "numberOfAnalysts": 7.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 10.92,
+      "low": 10.67,
+      "high": 11.24,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 11.76,
+      "low": 11.5,
+      "high": 12.03,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 258.67,
+    "low": 231.0,
+    "high": 290.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 4.0,
+    "hold": 5.0,
+    "sell": 0.0
+  }
+}

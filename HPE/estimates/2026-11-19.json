@@ -1,0 +1,96 @@
+{
+  "ticker": "HPE",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.17,
+      "low": 1.07,
+      "high": 1.26,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 0.99,
+      "low": 0.88,
+      "high": 1.08,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 1.02,
+      "low": 0.94,
+      "high": 1.11,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.13,
+      "low": 1.05,
+      "high": 1.23,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.21,
+      "low": 0.94,
+      "high": 1.48,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 3.35,
+      "low": 3.27,
+      "high": 3.47,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 4.34,
+      "low": 3.88,
+      "high": 4.83,
+      "numberOfAnalysts": 9.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 5.49,
+      "low": 5.25,
+      "high": 5.77,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 71.13,
+    "low": 62.0,
+    "high": 86.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-10",
+    "+1q": "2027-01",
+    "+2q": "2027-04",
+    "+3q": "2027-07",
+    "+4q": "2027-10",
+    "0y": "2026-10",
+    "+1y": "2027-10",
+    "+2y": "2028-10"
+  },
+  "ratings": {
+    "buy": 10.0,
+    "hold": 8.0,
+    "sell": 0.0
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ticker": "HST",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.51,
+      "low": 0.5,
+      "high": 0.54,
+      "numberOfAnalysts": 8.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 0.66,
+      "low": 0.63,
+      "high": 0.68,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 0.62,
+      "low": 0.57,
+      "high": 0.65,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.39,
+      "low": 0.37,
+      "high": 0.42,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.54,
+      "low": 0.51,
+      "high": 0.57,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 2.21,
+      "low": 2.17,
+      "high": 2.23,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 2.24,
+      "low": 2.12,
+      "high": 2.33,
+      "numberOfAnalysts": 8.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 2.25,
+      "low": 2.16,
+      "high": 2.42,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 26.06,
+    "low": 23.0,
+    "high": 27.75
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 6.0,
+    "hold": 6.0,
+    "sell": 0.0
+  }
+}

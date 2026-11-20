@@ -1,0 +1,105 @@
+{
+  "ticker": "HCA",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 8.17,
+      "low": 7.76,
+      "high": 8.51,
+      "numberOfAnalysts": 9.0,
+      "up": 4.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 7.54,
+      "low": 7.2,
+      "high": 7.94,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 5.0
+    },
+    "+2q": {
+      "avg": 7.74,
+      "low": 7.02,
+      "high": 7.96,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 7.5,
+      "low": 6.87,
+      "high": 8.14,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+4q": {
+      "avg": 8.91,
+      "low": 8.48,
+      "high": 9.45,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 30.14,
+      "low": 29.7,
+      "high": 30.48,
+      "numberOfAnalysts": 10.0,
+      "up": 8.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 31.46,
+      "low": 30.3,
+      "high": 32.5,
+      "numberOfAnalysts": 11.0,
+      "up": 1.0,
+      "down": 8.0
+    },
+    "+2y": {
+      "avg": 34.91,
+      "low": 33.58,
+      "high": 36.77,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+3y": {
+      "avg": 37.93,
+      "low": 37.93,
+      "high": 37.93,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 469.31,
+    "low": 380.0,
+    "high": 570.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 7.0,
+    "hold": 7.0,
+    "sell": 1.0
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "ticker": "GWW",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 11.42,
+      "low": 10.94,
+      "high": 11.66,
+      "numberOfAnalysts": 7.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 12.98,
+      "low": 12.56,
+      "high": 13.24,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 12.87,
+      "low": 12.54,
+      "high": 13.15,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+3q": {
+      "avg": 13.71,
+      "low": 12.98,
+      "high": 14.38,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 12.48,
+      "low": 11.78,
+      "high": 12.74,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 47.58,
+      "low": 47.14,
+      "high": 47.85,
+      "numberOfAnalysts": 8.0,
+      "up": 8.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 52.16,
+      "low": 51.14,
+      "high": 53.72,
+      "numberOfAnalysts": 8.0,
+      "up": 8.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 57.5,
+      "low": 54.72,
+      "high": 59.89,
+      "numberOfAnalysts": 6.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 63.33,
+      "low": 60.0,
+      "high": 66.66,
+      "numberOfAnalysts": 2.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 1494.0,
+    "low": 1355.0,
+    "high": 1645.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 3.0,
+    "hold": 7.0,
+    "sell": 2.0
+  }
+}

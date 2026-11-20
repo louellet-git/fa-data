@@ -1,0 +1,105 @@
+{
+  "ticker": "HII",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 5.14,
+      "low": 4.38,
+      "high": 5.98,
+      "numberOfAnalysts": 10.0,
+      "up": 4.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 4.36,
+      "low": 3.81,
+      "high": 4.64,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 5.07,
+      "low": 4.88,
+      "high": 5.53,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 5.37,
+      "low": 5.09,
+      "high": 6.27,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 5.58,
+      "low": 5.29,
+      "high": 6.11,
+      "numberOfAnalysts": 8.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 19.55,
+      "low": 18.83,
+      "high": 20.53,
+      "numberOfAnalysts": 11.0,
+      "up": 8.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 21.58,
+      "low": 19.16,
+      "high": 34.58,
+      "numberOfAnalysts": 11.0,
+      "up": 2.0,
+      "down": 7.0
+    },
+    "+2y": {
+      "avg": 26.61,
+      "low": 21.29,
+      "high": 51.29,
+      "numberOfAnalysts": 9.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 34.77,
+      "low": 24.97,
+      "high": 69.77,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 360.83,
+    "low": 340.0,
+    "high": 406.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 3.0,
+    "hold": 3.0,
+    "sell": 0.0
+  }
+}

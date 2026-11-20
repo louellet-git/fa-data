@@ -1,0 +1,96 @@
+{
+  "ticker": "GL",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.6,
+      "low": 3.54,
+      "high": 3.65,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 5.0
+    },
+    "+1q": {
+      "avg": 3.82,
+      "low": 3.65,
+      "high": 4.01,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 3.93,
+      "low": 3.76,
+      "high": 4.09,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 4.51,
+      "low": 4.05,
+      "high": 4.84,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 4.1,
+      "low": 3.91,
+      "high": 4.26,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 15.48,
+      "low": 15.41,
+      "high": 15.55,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 7.0
+    },
+    "+1y": {
+      "avg": 16.39,
+      "low": 16.11,
+      "high": 16.56,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 5.0
+    },
+    "+2y": {
+      "avg": 17.82,
+      "low": 17.41,
+      "high": 18.33,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 188.67,
+    "low": 165.0,
+    "high": 218.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 5.0,
+    "hold": 1.0,
+    "sell": 0.0
+  }
+}

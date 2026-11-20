@@ -1,0 +1,105 @@
+{
+  "ticker": "GD",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 4.52,
+      "low": 4.44,
+      "high": 4.64,
+      "numberOfAnalysts": 7.0,
+      "up": 3.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 4.34,
+      "low": 4.28,
+      "high": 4.44,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 4.65,
+      "low": 4.55,
+      "high": 4.79,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 4.8,
+      "low": 4.58,
+      "high": 5.07,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 5.25,
+      "low": 5.14,
+      "high": 5.35,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 17.32,
+      "low": 17.21,
+      "high": 17.47,
+      "numberOfAnalysts": 6.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 18.87,
+      "low": 17.78,
+      "high": 19.65,
+      "numberOfAnalysts": 9.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 20.75,
+      "low": 19.7,
+      "high": 21.25,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 23.0,
+      "low": 22.86,
+      "high": 23.15,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 411.64,
+    "low": 309.0,
+    "high": 480.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 6.0,
+    "hold": 5.0,
+    "sell": 1.0
+  }
+}

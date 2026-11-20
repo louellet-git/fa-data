@@ -1,0 +1,105 @@
+{
+  "ticker": "FTNT",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.84,
+      "low": 0.79,
+      "high": 0.85,
+      "numberOfAnalysts": 13.0,
+      "up": 12.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 0.76,
+      "low": 0.68,
+      "high": 0.81,
+      "numberOfAnalysts": 13.0,
+      "up": 6.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 0.85,
+      "low": 0.79,
+      "high": 0.91,
+      "numberOfAnalysts": 13.0,
+      "up": 9.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.9,
+      "low": 0.83,
+      "high": 0.97,
+      "numberOfAnalysts": 13.0,
+      "up": 9.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.96,
+      "low": 0.86,
+      "high": 1.06,
+      "numberOfAnalysts": 13.0,
+      "up": 12.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 3.21,
+      "low": 3.09,
+      "high": 3.23,
+      "numberOfAnalysts": 16.0,
+      "up": 14.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 3.52,
+      "low": 3.22,
+      "high": 4.16,
+      "numberOfAnalysts": 17.0,
+      "up": 12.0,
+      "down": 3.0
+    },
+    "+2y": {
+      "avg": 3.91,
+      "low": 3.62,
+      "high": 4.29,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 4.23,
+      "low": 4.23,
+      "high": 4.23,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 150.76,
+    "low": 110.0,
+    "high": 225.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 7.0,
+    "hold": 18.0,
+    "sell": 4.0
+  }
+}

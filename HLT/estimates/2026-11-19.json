@@ -1,0 +1,105 @@
+{
+  "ticker": "HLT",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.41,
+      "low": 2.37,
+      "high": 2.54,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 2.14,
+      "low": 1.83,
+      "high": 2.3,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 2.71,
+      "low": 2.61,
+      "high": 2.77,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.73,
+      "low": 2.58,
+      "high": 2.87,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.91,
+      "low": 2.65,
+      "high": 3.07,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 9.17,
+      "low": 9.09,
+      "high": 9.3,
+      "numberOfAnalysts": 8.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 10.47,
+      "low": 9.97,
+      "high": 11.11,
+      "numberOfAnalysts": 9.0,
+      "up": 2.0,
+      "down": 4.0
+    },
+    "+2y": {
+      "avg": 12.67,
+      "low": 11.84,
+      "high": 13.05,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 15.49,
+      "low": 15.49,
+      "high": 15.49,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 379.94,
+    "low": 316.0,
+    "high": 421.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 12.0,
+    "hold": 6.0,
+    "sell": 0.0
+  }
+}
