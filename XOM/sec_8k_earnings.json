@@ -1,0 +1,19 @@
+{
+  "cik": "2115436",
+  "filings": [
+    {
+      "accession": "0002115436-26-000018",
+      "filed": "2026-10-30",
+      "items": "2.02,7.01",
+      "report_date": "2026-10-30"
+    },
+    {
+      "accession": "0002115436-26-000006",
+      "filed": "2026-07-31",
+      "items": "2.02,7.01",
+      "report_date": "2026-07-31"
+    }
+  ],
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "XOM"
+}
