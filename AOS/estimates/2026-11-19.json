@@ -1,0 +1,105 @@
+{
+  "ticker": "AOS",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.84,
+      "low": 0.83,
+      "high": 0.86,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+1q": {
+      "avg": 0.86,
+      "low": 0.84,
+      "high": 0.87,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 1.05,
+      "low": 1.04,
+      "high": 1.06,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.96,
+      "low": 0.93,
+      "high": 0.98,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.95,
+      "low": 0.93,
+      "high": 0.97,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 3.47,
+      "low": 3.45,
+      "high": 3.5,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+1y": {
+      "avg": 3.78,
+      "low": 3.73,
+      "high": 3.85,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+2y": {
+      "avg": 4.08,
+      "low": 4.08,
+      "high": 4.08,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 4.43,
+      "low": 4.43,
+      "high": 4.43,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 64.86,
+    "low": 58.0,
+    "high": 72.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 1.0,
+    "hold": 4.0,
+    "sell": 2.0
+  }
+}

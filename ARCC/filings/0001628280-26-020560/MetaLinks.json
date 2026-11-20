@@ -1,0 +1,3996 @@
+{
+ "version": "2.2",
+ "instance": {
+  "arcc-20251231.htm": {
+   "nsprefix": "arcc",
+   "nsuri": "http://www.arescapitalcorp.com/20251231",
+   "dts": {
+    "inline": {
+     "local": [
+      "arcc-20251231.htm"
+     ]
+    },
+    "schema": {
+     "local": [
+      "arcc-20251231.xsd"
+     ],
+     "remote": [
+      "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+      "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+      "http://www.xbrl.org/2006/ref-2006-02-27.xsd",
+      "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+      "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+      "https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd",
+      "https://www.xbrl.org/dtr/type/2020-01-21/types.xsd",
+      "https://www.xbrl.org/dtr/type/2024-01-31/types.xsd",
+      "https://xbrl.fasb.org/srt/2025/elts/srt-2025.xsd",
+      "https://xbrl.fasb.org/srt/2025/elts/srt-roles-2025.xsd",
+      "https://xbrl.fasb.org/srt/2025/elts/srt-types-2025.xsd",
+      "https://xbrl.fasb.org/us-gaap/2025/elts/us-gaap-2025.xsd",
+      "https://xbrl.fasb.org/us-gaap/2025/elts/us-roles-2025.xsd",
+      "https://xbrl.fasb.org/us-gaap/2025/elts/us-types-2025.xsd",
+      "https://xbrl.sec.gov/country/2025/country-2025.xsd",
+      "https://xbrl.sec.gov/dei/2025/dei-2025.xsd",
+      "https://xbrl.sec.gov/ecd/2025/ecd-2025.xsd",
+      "https://xbrl.sec.gov/stpr/2025/stpr-2025.xsd"
+     ]
+    },
+    "labelLink": {
+     "local": [
+      "arcc-20251231_lab.xml"
+     ]
+    },
+    "presentationLink": {
+     "local": [
+      "arcc-20251231_pre.xml"
+     ]
+    }
+   },
+   "keyStandard": 40,
+   "keyCustom": 0,
+   "axisStandard": 0,
+   "axisCustom": 0,
+   "memberStandard": 0,
+   "memberCustom": 0,
+   "hidden": {
+    "total": 4,
+    "http://xbrl.sec.gov/dei/2025": 4
+   },
+   "contextCount": 3,
+   "entityCount": 1,
+   "segmentCount": 0,
+   "elementCount": 149,
+   "unitCount": 2,
+   "baseTaxonomies": {
+    "http://xbrl.sec.gov/dei/2025": 39,
+    "http://xbrl.sec.gov/ecd/2025": 1
+   },
+   "report": {
+    "R1": {
+     "role": "http://www.arescapitalcorp.com/role/CoverPage",
+     "longName": "0000001 - Document - Cover Page",
+     "shortName": "Cover Page",
+     "isDefault": "true",
+     "groupType": "document",
+     "subGroupType": "",
+     "menuCat": "Cover",
+     "order": "1",
+     "firstAnchor": {
+      "contextRef": "c-1",
+      "name": "dei:DocumentType",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "span",
+       "div",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "arcc-20251231.htm",
+      "first": true,
+      "unique": true
+     },
+     "uniqueAnchor": {
+      "contextRef": "c-1",
+      "name": "dei:DocumentType",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "span",
+       "div",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "arcc-20251231.htm",
+      "first": true,
+      "unique": true
+     }
+    },
+    "R2": {
+     "role": "http://www.arescapitalcorp.com/role/AuditInformation",
+     "longName": "0000002 - Document - Audit Information",
+     "shortName": "Audit Information",
+     "isDefault": "false",
+     "groupType": "document",
+     "subGroupType": "",
+     "menuCat": "Cover",
+     "order": "2",
+     "firstAnchor": {
+      "contextRef": "c-1",
+      "name": "dei:AuditorName",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "span",
+       "div",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "arcc-20251231.htm",
+      "first": true,
+      "unique": true
+     },
+     "uniqueAnchor": {
+      "contextRef": "c-1",
+      "name": "dei:AuditorName",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "span",
+       "div",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "arcc-20251231.htm",
+      "first": true,
+      "unique": true
+     }
+    },
+    "R3": {
+     "role": "http://www.arescapitalcorp.com/role/Cover",
+     "longName": "0000003 - Document - Cover",
+     "shortName": "Cover",
+     "isDefault": "false",
+     "groupType": "document",
+     "subGroupType": "",
+     "menuCat": "Cover",
+     "order": "3",
+     "firstAnchor": {
+      "contextRef": "c-1",
+      "name": "dei:DocumentsIncorporatedByReferenceTextBlock",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "arcc-20251231.htm",
+      "first": true
+     },
+     "uniqueAnchor": null
+    },
+    "R4": {
+     "role": "http://xbrl.sec.gov/ecd/role/InsiderTradingPoliciesProc",
+     "longName": "995447 - Disclosure - Insider Trading Policies and Procedures",
+     "shortName": "Insider Trading Policies and Procedures",
+     "isDefault": "false",
+     "groupType": "disclosure",
+     "subGroupType": "",
+     "menuCat": "Notes",
+     "order": "4",
+     "firstAnchor": {
+      "contextRef": "c-1",
+      "name": "ecd:InsiderTrdPoliciesProcAdoptedFlag",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "span",
+       "td",
+       "tr",
+       "table",
+       "div",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "arcc-20251231.htm",
+      "first": true,
+      "unique": true
+     },
+     "uniqueAnchor": {
+      "contextRef": "c-1",
+      "name": "ecd:InsiderTrdPoliciesProcAdoptedFlag",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "span",
+       "td",
+       "tr",
+       "table",
+       "div",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "arcc-20251231.htm",
+      "first": true,
+      "unique": true
+     }
+    }
+   },
+   "tag": {
+    "ecd_Additional402vDisclosureTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "Additional402vDisclosureTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Additional 402(v) Disclosure",
+        "label": "Additional 402(v) Disclosure [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r39"
+     ]
+    },
+    "ecd_AdjToCompAmt": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AdjToCompAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Adjustment to Compensation, Amount",
+        "label": "Adjustment to Compensation Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r52"
+     ]
+    },
+    "ecd_AdjToCompAxis": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AdjToCompAxis",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Adjustment to Compensation:",
+        "label": "Adjustment to Compensation [Axis]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r52"
+     ]
+    },
+    "ecd_AdjToNonPeoNeoCompFnTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AdjToNonPeoNeoCompFnTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Adjustment to Non-PEO NEO Compensation Footnote",
+        "label": "Adjustment to Non-PEO NEO Compensation Footnote [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r52"
+     ]
+    },
+    "ecd_AdjToPeoCompFnTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AdjToPeoCompFnTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Adjustment To PEO Compensation, Footnote",
+        "label": "Adjustment To PEO Compensation, Footnote [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r52"
+     ]
+    },
+    "ecd_AggtChngPnsnValInSummryCompstnTblForAplblYrMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AggtChngPnsnValInSummryCompstnTblForAplblYrMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Aggregate Change in Present Value of Accumulated Benefit for All Pension Plans Reported in Summary Compensation Table",
+        "label": "Aggregate Change in Present Value of Accumulated Benefit for All Pension Plans Reported in Summary Compensation Table [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r86"
+     ]
+    },
+    "ecd_AggtErrCompAmt": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AggtErrCompAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Aggregate Erroneous Compensation Amount",
+        "label": "Aggregate Erroneous Compensation Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r10",
+      "r21",
+      "r31",
+      "r64"
+     ]
+    },
+    "ecd_AggtErrCompNotYetDeterminedTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AggtErrCompNotYetDeterminedTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Aggregate Erroneous Compensation Not Yet Determined",
+        "label": "Aggregate Erroneous Compensation Not Yet Determined [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r13",
+      "r24",
+      "r34",
+      "r67"
+     ]
+    },
+    "ecd_AggtPnsnAdjsSvcCstMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AggtPnsnAdjsSvcCstMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Aggregate Pension Adjustments Service Cost",
+        "label": "Aggregate Pension Adjustments Service Cost [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r87"
+     ]
+    },
+    "ecd_AllAdjToCompMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AllAdjToCompMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "All Adjustments to Compensation",
+        "label": "All Adjustments to Compensation [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r52"
+     ]
+    },
+    "ecd_AllExecutiveCategoriesMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AllExecutiveCategoriesMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "All Executive Categories",
+        "label": "All Executive Categories [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r59"
+     ]
+    },
+    "ecd_AllIndividualsMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AllIndividualsMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure",
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure",
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements",
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "All Individuals",
+        "label": "All Individuals [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r14",
+      "r25",
+      "r35",
+      "r59",
+      "r68",
+      "r72",
+      "r80"
+     ]
+    },
+    "ecd_AllTradingArrangementsMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AllTradingArrangementsMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "All Trading Arrangements",
+        "label": "All Trading Arrangements [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r78"
+     ]
+    },
+    "dei_AmendmentFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "AmendmentFlag",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Amendment Flag",
+        "label": "Amendment Flag",
+        "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "arcc_AuditInformationAbstract": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://www.arescapitalcorp.com/20251231",
+     "localname": "AuditInformationAbstract",
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Audit Information [Abstract]",
+        "documentation": "Audit Information [Abstract]"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_AuditorFirmId": {
+     "xbrltype": "nonemptySequenceNumberItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "AuditorFirmId",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/AuditInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Auditor Firm ID",
+        "label": "Auditor Firm ID",
+        "documentation": "PCAOB issued Audit Firm Identifier"
+       }
+      }
+     },
+     "auth_ref": [
+      "r4",
+      "r5",
+      "r17"
+     ]
+    },
+    "dei_AuditorLocation": {
+     "xbrltype": "internationalNameItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "AuditorLocation",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/AuditInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Auditor Location",
+        "label": "Auditor Location"
+       }
+      }
+     },
+     "auth_ref": [
+      "r4",
+      "r5",
+      "r17"
+     ]
+    },
+    "dei_AuditorName": {
+     "xbrltype": "internationalNameItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "AuditorName",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/AuditInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Auditor Name",
+        "label": "Auditor Name"
+       }
+      }
+     },
+     "auth_ref": [
+      "r4",
+      "r5",
+      "r17"
+     ]
+    },
+    "ecd_AwardExrcPrice": {
+     "xbrltype": "perShareItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AwardExrcPrice",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Exercise Price",
+        "label": "Award Exercise Price"
+       }
+      }
+     },
+     "auth_ref": [
+      "r75"
+     ]
+    },
+    "ecd_AwardGrantDateFairValue": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AwardGrantDateFairValue",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Fair Value as of Grant Date",
+        "label": "Award Grant Date Fair Value"
+       }
+      }
+     },
+     "auth_ref": [
+      "r76"
+     ]
+    },
+    "ecd_AwardTmgDiscLineItems": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AwardTmgDiscLineItems",
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Award Timing Disclosures [Line Items]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r71"
+     ]
+    },
+    "ecd_AwardTmgHowMnpiCnsdrdTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AwardTmgHowMnpiCnsdrdTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Award Timing, How MNPI Considered",
+        "label": "Award Timing, How MNPI Considered [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r71"
+     ]
+    },
+    "ecd_AwardTmgMethodTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AwardTmgMethodTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Award Timing Method",
+        "label": "Award Timing Method [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r71"
+     ]
+    },
+    "ecd_AwardTmgMnpiCnsdrdFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AwardTmgMnpiCnsdrdFlag",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Award Timing MNPI Considered",
+        "label": "Award Timing MNPI Considered [Flag]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r71"
+     ]
+    },
+    "ecd_AwardTmgMnpiDiscTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AwardTmgMnpiDiscTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Award Timing MNPI Disclosure",
+        "label": "Award Timing MNPI Disclosure [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r71"
+     ]
+    },
+    "ecd_AwardTmgPredtrmndFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AwardTmgPredtrmndFlag",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Award Timing Predetermined",
+        "label": "Award Timing Predetermined [Flag]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r71"
+     ]
+    },
+    "us-gaap_AwardTypeAxis": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://fasb.org/us-gaap/2025",
+     "localname": "AwardTypeAxis",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Award Type",
+        "label": "Award Type [Axis]"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "ecd_AwardUndrlygSecuritiesAmt": {
+     "xbrltype": "decimalItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AwardUndrlygSecuritiesAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Underlying Securities",
+        "label": "Award Underlying Securities Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r74"
+     ]
+    },
+    "ecd_AwardsCloseToMnpiDiscIndName": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AwardsCloseToMnpiDiscIndName",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Name",
+        "label": "Awards Close in Time to MNPI Disclosures, Individual Name"
+       }
+      }
+     },
+     "auth_ref": [
+      "r73"
+     ]
+    },
+    "ecd_AwardsCloseToMnpiDiscTable": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AwardsCloseToMnpiDiscTable",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Awards Close in Time to MNPI Disclosures",
+        "label": "Awards Close in Time to MNPI Disclosures [Table]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r72"
+     ]
+    },
+    "ecd_AwardsCloseToMnpiDiscTableTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "AwardsCloseToMnpiDiscTableTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Awards Close in Time to MNPI Disclosures, Table",
+        "label": "Awards Close in Time to MNPI Disclosures [Table Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r72"
+     ]
+    },
+    "ecd_ChangedPeerGroupFnTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "ChangedPeerGroupFnTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Changed Peer Group, Footnote",
+        "label": "Changed Peer Group, Footnote [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r50"
+     ]
+    },
+    "ecd_ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "ChngInFrValAsOfVstngDtOfPrrYrEqtyAwrdsVstdInCvrdYrMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Change in Fair Value as of Vesting Date of Prior Year Equity Awards Vested in Covered Year",
+        "label": "Change in Fair Value as of Vesting Date of Prior Year Equity Awards Vested in Covered Year [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r47"
+     ]
+    },
+    "ecd_ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "ChngInFrValOfOutsdngAndUnvstdEqtyAwrdsGrntdInPrrYrsMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Year-over-Year Change in Fair Value of Equity Awards Granted in Prior Years That are Outstanding and Unvested",
+        "label": "Year-over-Year Change in Fair Value of Equity Awards Granted in Prior Years That are Outstanding and Unvested [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r45"
+     ]
+    },
+    "dei_CityAreaCode": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "CityAreaCode",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "City Area Code",
+        "label": "City Area Code",
+        "documentation": "Area code of city"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "ecd_CoSelectedMeasureAmt": {
+     "xbrltype": "decimalItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "CoSelectedMeasureAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Company Selected Measure Amount",
+        "label": "Company Selected Measure Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r51"
+     ]
+    },
+    "ecd_CoSelectedMeasureName": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "CoSelectedMeasureName",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Company Selected Measure Name",
+        "label": "Company Selected Measure Name"
+       }
+      }
+     },
+     "auth_ref": [
+      "r51"
+     ]
+    },
+    "ecd_CompActuallyPaidVsCoSelectedMeasureTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "CompActuallyPaidVsCoSelectedMeasureTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Compensation Actually Paid vs. Company Selected Measure",
+        "label": "Compensation Actually Paid vs. Company Selected Measure [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r56"
+     ]
+    },
+    "ecd_CompActuallyPaidVsNetIncomeTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "CompActuallyPaidVsNetIncomeTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Compensation Actually Paid vs. Net Income",
+        "label": "Compensation Actually Paid vs. Net Income [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r55"
+     ]
+    },
+    "ecd_CompActuallyPaidVsOtherMeasureTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "CompActuallyPaidVsOtherMeasureTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Compensation Actually Paid vs. Other Measure",
+        "label": "Compensation Actually Paid vs. Other Measure [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r57"
+     ]
+    },
+    "ecd_CompActuallyPaidVsTotalShareholderRtnTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "CompActuallyPaidVsTotalShareholderRtnTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Compensation Actually Paid vs. Total Shareholder Return",
+        "label": "Compensation Actually Paid vs. Total Shareholder Return [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r54"
+     ]
+    },
+    "dei_CoverAbstract": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "CoverAbstract",
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Cover [Abstract]",
+        "documentation": "Cover page."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_CurrentFiscalYearEndDate": {
+     "xbrltype": "gMonthDayItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "CurrentFiscalYearEndDate",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "verboseLabel": "Current Fiscal Year End Date",
+        "label": "Current Fiscal Year End Date",
+        "documentation": "End date of current fiscal year in the format --MM-DD."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentAnnualReport": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentAnnualReport",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Document Annual Report",
+        "label": "Document Annual Report",
+        "documentation": "Boolean flag that is true only for a form used as an annual report."
+       }
+      }
+     },
+     "auth_ref": [
+      "r4",
+      "r5",
+      "r17"
+     ]
+    },
+    "dei_DocumentFinStmtErrorCorrectionFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentFinStmtErrorCorrectionFlag",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Document Financial Statement Error Correction",
+        "label": "Document Financial Statement Error Correction [Flag]",
+        "documentation": "Indicates whether any of the financial statement period in the filing include a restatement due to error correction."
+       }
+      }
+     },
+     "auth_ref": [
+      "r4",
+      "r5",
+      "r17",
+      "r60"
+     ]
+    },
+    "dei_DocumentFiscalPeriodFocus": {
+     "xbrltype": "fiscalPeriodItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentFiscalPeriodFocus",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Document Fiscal Period Focus",
+        "label": "Document Fiscal Period Focus",
+        "documentation": "Fiscal period values are FY, Q1, Q2, and Q3. 1st, 2nd and 3rd quarter 10-Q or 10-QT statements have value Q1, Q2, and Q3 respectively, with 10-K, 10-KT or other fiscal year statements having FY."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentFiscalYearFocus": {
+     "xbrltype": "gYearItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentFiscalYearFocus",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Document Fiscal Year Focus",
+        "label": "Document Fiscal Year Focus",
+        "documentation": "This is focus fiscal year of the document report in YYYY format. For a 2006 annual report, which may also provide financial information from prior periods, fiscal 2006 should be given as the fiscal year focus. Example: 2006."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentPeriodEndDate": {
+     "xbrltype": "dateItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentPeriodEndDate",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Document Period End Date",
+        "label": "Document Period End Date",
+        "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentTransitionReport": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentTransitionReport",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Document Transition Report",
+        "label": "Document Transition Report",
+        "documentation": "Boolean flag that is true only for a form used as a transition report."
+       }
+      }
+     },
+     "auth_ref": [
+      "r38"
+     ]
+    },
+    "dei_DocumentType": {
+     "xbrltype": "submissionTypeItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentType",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Document Type",
+        "label": "Document Type",
+        "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentsIncorporatedByReferenceTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentsIncorporatedByReferenceTextBlock",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/Cover",
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Documents Incorporated by Reference",
+        "label": "Documents Incorporated by Reference [Text Block]",
+        "documentation": "Documents incorporated by reference."
+       }
+      }
+     },
+     "auth_ref": [
+      "r2"
+     ]
+    },
+    "ecd_DvddsOrOthrErngsPdOnEqtyAwrdsNtOthrwsRflctdInTtlCompForCvrdYrMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "DvddsOrOthrErngsPdOnEqtyAwrdsNtOthrwsRflctdInTtlCompForCvrdYrMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Dividends or Other Earnings Paid on Equity Awards not Otherwise Reflected in Total Compensation for Covered Year",
+        "label": "Dividends or Other Earnings Paid on Equity Awards not Otherwise Reflected in Total Compensation for Covered Year [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r49"
+     ]
+    },
+    "us-gaap_EmployeeStockOptionMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://fasb.org/us-gaap/2025",
+     "localname": "EmployeeStockOptionMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Employee Stock Option",
+        "label": "Share-Based Payment Arrangement, Option [Member]"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressAddressLine1": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressAddressLine1",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Address, Address Line One",
+        "label": "Entity Address, Address Line One",
+        "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressAddressLine2": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressAddressLine2",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Address, Address Line Two",
+        "label": "Entity Address, Address Line Two",
+        "documentation": "Address Line 2 such as Street or Suite number"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressCityOrTown": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressCityOrTown",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Address, City or Town",
+        "label": "Entity Address, City or Town",
+        "documentation": "Name of the City or Town"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressPostalZipCode": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressPostalZipCode",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Address, Postal Zip Code",
+        "label": "Entity Address, Postal Zip Code",
+        "documentation": "Code for the postal or zip code"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressStateOrProvince": {
+     "xbrltype": "stateOrProvinceItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressStateOrProvince",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Address, State or Province",
+        "label": "Entity Address, State or Province",
+        "documentation": "Name of the state or province."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityCentralIndexKey": {
+     "xbrltype": "centralIndexKeyItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityCentralIndexKey",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Central Index Key",
+        "label": "Entity Central Index Key",
+        "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityCommonStockSharesOutstanding": {
+     "xbrltype": "sharesItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityCommonStockSharesOutstanding",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Common Stock, Shares Outstanding",
+        "label": "Entity Common Stock, Shares Outstanding",
+        "documentation": "Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityCurrentReportingStatus": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityCurrentReportingStatus",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Current Reporting Status",
+        "label": "Entity Current Reporting Status",
+        "documentation": "Indicate 'Yes' or 'No' whether registrants (1) have filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that registrants were required to file such reports), and (2) have been subject to such filing requirements for the past 90 days. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityEmergingGrowthCompany": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityEmergingGrowthCompany",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Emerging Growth Company",
+        "label": "Entity Emerging Growth Company",
+        "documentation": "Indicate if registrant meets the emerging growth company criteria."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityFileNumber": {
+     "xbrltype": "fileNumberItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityFileNumber",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Securities Act File Number",
+        "label": "Securities Act File Number",
+        "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityFilerCategory": {
+     "xbrltype": "filerCategoryItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityFilerCategory",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Filer Category",
+        "label": "Entity Filer Category",
+        "documentation": "Indicate whether the registrant is one of the following: Large Accelerated Filer, Accelerated Filer, Non-accelerated Filer. Definitions of these categories are stated in Rule 12b-2 of the Exchange Act. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityIncorporationStateCountryCode": {
+     "xbrltype": "edgarStateCountryItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityIncorporationStateCountryCode",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Incorporation, State or Country Code",
+        "label": "Entity Incorporation, State or Country Code",
+        "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityInteractiveDataCurrent": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityInteractiveDataCurrent",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Interactive Data Current",
+        "label": "Entity Interactive Data Current",
+        "documentation": "Boolean flag that is true when the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files)."
+       }
+      }
+     },
+     "auth_ref": [
+      "r89"
+     ]
+    },
+    "dei_EntityPublicFloat": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityPublicFloat",
+     "crdr": "credit",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Public Float",
+        "label": "Entity Public Float",
+        "documentation": "The aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant's most recently completed second fiscal quarter."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityRegistrantName": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityRegistrantName",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Registrant Name",
+        "label": "Entity Registrant Name",
+        "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityShellCompany": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityShellCompany",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Shell Company",
+        "label": "Entity Shell Company",
+        "documentation": "Boolean flag that is true when the registrant is a shell company as defined in Rule 12b-2 of the Exchange Act."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntitySmallBusiness": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntitySmallBusiness",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Small Business",
+        "label": "Entity Small Business",
+        "documentation": "Indicates that the company is a Smaller Reporting Company (SRC)."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityTaxIdentificationNumber": {
+     "xbrltype": "employerIdItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityTaxIdentificationNumber",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Tax Identification Number",
+        "label": "Entity Tax Identification Number",
+        "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityVoluntaryFilers": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityVoluntaryFilers",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Voluntary Filers",
+        "label": "Entity Voluntary Filers",
+        "documentation": "Indicate 'Yes' or 'No' if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityWellKnownSeasonedIssuer": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityWellKnownSeasonedIssuer",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Well-known Seasoned Issuer",
+        "label": "Entity Well-known Seasoned Issuer",
+        "documentation": "Indicate 'Yes' or 'No' if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Is used on Form Type: 10-K, 10-Q, 8-K, 20-F, 6-K, 10-K/A, 10-Q/A, 20-F/A, 6-K/A, N-CSR, N-Q, N-1A."
+       }
+      }
+     },
+     "auth_ref": [
+      "r90"
+     ]
+    },
+    "ecd_EqtyAwrdsAdjFnTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "EqtyAwrdsAdjFnTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Equity Awards Adjustments, Footnote",
+        "label": "Equity Awards Adjustments, Footnote [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r43"
+     ]
+    },
+    "ecd_EqtyAwrdsAdjsExclgValRprtdInSummryCompstnTblMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "EqtyAwrdsAdjsExclgValRprtdInSummryCompstnTblMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Equity Awards Adjustments, Excluding Value Reported in Compensation Table",
+        "label": "Equity Awards Adjustments, Excluding Value Reported in the Compensation Table [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r85"
+     ]
+    },
+    "ecd_EqtyAwrdsAdjsMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "EqtyAwrdsAdjsMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Equity Awards Adjustments",
+        "label": "Equity Awards Adjustments [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r85"
+     ]
+    },
+    "ecd_EqtyAwrdsInSummryCompstnTblForAplblYrMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "EqtyAwrdsInSummryCompstnTblForAplblYrMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Aggregate Grant Date Fair Value of Equity Award Amounts Reported in Summary Compensation Table",
+        "label": "Aggregate Grant Date Fair Value of Equity Award Amounts Reported in Summary Compensation Table [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r85"
+     ]
+    },
+    "ecd_EquityValuationAssumptionDifferenceFnTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "EquityValuationAssumptionDifferenceFnTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Equity Valuation Assumption Difference, Footnote",
+        "label": "Equity Valuation Assumption Difference, Footnote [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r53"
+     ]
+    },
+    "ecd_ErrCompAnalysisTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "ErrCompAnalysisTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Erroneous Compensation Analysis",
+        "label": "Erroneous Compensation Analysis [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r10",
+      "r21",
+      "r31",
+      "r64"
+     ]
+    },
+    "ecd_ErrCompRecoveryTable": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "ErrCompRecoveryTable",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Erroneously Awarded Compensation Recovery",
+        "label": "Erroneously Awarded Compensation Recovery [Table]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r7",
+      "r18",
+      "r28",
+      "r61"
+     ]
+    },
+    "ecd_ExecutiveCategoryAxis": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "ExecutiveCategoryAxis",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Executive Category:",
+        "label": "Executive Category [Axis]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r59"
+     ]
+    },
+    "ecd_ForgoneRecoveryDueToDisqualificationOfTaxBenefitsAmt": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "ForgoneRecoveryDueToDisqualificationOfTaxBenefitsAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Forgone Recovery due to Disqualification of Tax Benefits, Amount",
+        "label": "Forgone Recovery due to Disqualification of Tax Benefits, Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r14",
+      "r25",
+      "r35",
+      "r68"
+     ]
+    },
+    "ecd_ForgoneRecoveryDueToExpenseOfEnforcementAmt": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "ForgoneRecoveryDueToExpenseOfEnforcementAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Forgone Recovery due to Expense of Enforcement, Amount",
+        "label": "Forgone Recovery due to Expense of Enforcement, Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r14",
+      "r25",
+      "r35",
+      "r68"
+     ]
+    },
+    "ecd_ForgoneRecoveryDueToViolationOfHomeCountryLawAmt": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "ForgoneRecoveryDueToViolationOfHomeCountryLawAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Forgone Recovery due to Violation of Home Country Law, Amount",
+        "label": "Forgone Recovery due to Violation of Home Country Law, Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r14",
+      "r25",
+      "r35",
+      "r68"
+     ]
+    },
+    "ecd_ForgoneRecoveryExplanationOfImpracticabilityTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "ForgoneRecoveryExplanationOfImpracticabilityTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Forgone Recovery, Explanation of Impracticability",
+        "label": "Forgone Recovery, Explanation of Impracticability [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r14",
+      "r25",
+      "r35",
+      "r68"
+     ]
+    },
+    "ecd_ForgoneRecoveryIndName": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "ForgoneRecoveryIndName",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Name",
+        "label": "Forgone Recovery, Individual Name"
+       }
+      }
+     },
+     "auth_ref": [
+      "r14",
+      "r25",
+      "r35",
+      "r68"
+     ]
+    },
+    "ecd_FrValAsOfPrrYrEndOfEqtyAwrdsGrntdInPrrYrsFldVstngCondsDrngCvrdYrMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "FrValAsOfPrrYrEndOfEqtyAwrdsGrntdInPrrYrsFldVstngCondsDrngCvrdYrMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Prior Year End Fair Value of Equity Awards Granted in Any Prior Year that Fail to Meet Applicable Vesting Conditions During Covered Year",
+        "label": "Prior Year End Fair Value of Equity Awards Granted in Any Prior Year that Fail to Meet Applicable Vesting Conditions During Covered Year [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r48"
+     ]
+    },
+    "dei_IcfrAuditorAttestationFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "IcfrAuditorAttestationFlag",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "ICFR Auditor Attestation Flag",
+        "label": "ICFR Auditor Attestation Flag"
+       }
+      }
+     },
+     "auth_ref": [
+      "r4",
+      "r5",
+      "r17"
+     ]
+    },
+    "ecd_IndividualAxis": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "IndividualAxis",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure",
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure",
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements",
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Individual:",
+        "label": "Individual [Axis]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r14",
+      "r25",
+      "r35",
+      "r59",
+      "r68",
+      "r72",
+      "r80"
+     ]
+    },
+    "ecd_InsiderTradingArrLineItems": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "InsiderTradingArrLineItems",
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Insider Trading Arrangements [Line Items]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r78"
+     ]
+    },
+    "ecd_InsiderTradingPoliciesProcLineItems": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "InsiderTradingPoliciesProcLineItems",
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Insider Trading Policies and Procedures [Line Items]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r6",
+      "r84"
+     ]
+    },
+    "ecd_InsiderTrdPoliciesProcAdoptedFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "InsiderTrdPoliciesProcAdoptedFlag",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingPoliciesProc"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Insider Trading Policies and Procedures Adopted",
+        "label": "Insider Trading Policies and Procedures Adopted [Flag]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r6",
+      "r84"
+     ]
+    },
+    "ecd_InsiderTrdPoliciesProcNotAdoptedTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "InsiderTrdPoliciesProcNotAdoptedTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingPoliciesProc"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Insider Trading Policies and Procedures Not Adopted",
+        "label": "Insider Trading Policies and Procedures Not Adopted [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r6",
+      "r84"
+     ]
+    },
+    "dei_LocalPhoneNumber": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "LocalPhoneNumber",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Local Phone Number",
+        "label": "Local Phone Number",
+        "documentation": "Local phone number for entity."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "ecd_MeasureAxis": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "MeasureAxis",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Measure:",
+        "label": "Measure [Axis]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r51"
+     ]
+    },
+    "ecd_MeasureName": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "MeasureName",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Name",
+        "label": "Measure Name"
+       }
+      }
+     },
+     "auth_ref": [
+      "r51"
+     ]
+    },
+    "ecd_MnpiDiscTimedForCompValFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "MnpiDiscTimedForCompValFlag",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "MNPI Disclosure Timed for Compensation Value",
+        "label": "MNPI Disclosure Timed for Compensation Value [Flag]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r71"
+     ]
+    },
+    "ecd_MtrlTermsOfTrdArrTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "MtrlTermsOfTrdArrTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Material Terms of Trading Arrangement",
+        "label": "Material Terms of Trading Arrangement [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r79"
+     ]
+    },
+    "ecd_NamedExecutiveOfficersFnTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "NamedExecutiveOfficersFnTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Named Executive Officers, Footnote",
+        "label": "Named Executive Officers, Footnote [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r52"
+     ]
+    },
+    "ecd_NonGaapMeasureDescriptionTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "NonGaapMeasureDescriptionTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Non-GAAP Measure Description",
+        "label": "Non-GAAP Measure Description [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r51"
+     ]
+    },
+    "ecd_NonNeosMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "NonNeosMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Non-NEOs",
+        "label": "Non-NEOs [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r14",
+      "r25",
+      "r35",
+      "r59",
+      "r68"
+     ]
+    },
+    "ecd_NonPeoNeoAvgCompActuallyPaidAmt": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "NonPeoNeoAvgCompActuallyPaidAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Non-PEO NEO Average Compensation Actually Paid Amount",
+        "label": "Non-PEO NEO Average Compensation Actually Paid Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r42"
+     ]
+    },
+    "ecd_NonPeoNeoAvgTotalCompAmt": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "NonPeoNeoAvgTotalCompAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Non-PEO NEO Average Total Compensation Amount",
+        "label": "Non-PEO NEO Average Total Compensation Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r41"
+     ]
+    },
+    "ecd_NonPeoNeoMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "NonPeoNeoMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Non-PEO NEO",
+        "label": "Non-PEO NEO [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r59"
+     ]
+    },
+    "ecd_NonRule10b51ArrAdoptedFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "NonRule10b51ArrAdoptedFlag",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Non-Rule 10b5-1 Arrangement Adopted",
+        "label": "Non-Rule 10b5-1 Arrangement Adopted [Flag]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r79"
+     ]
+    },
+    "ecd_NonRule10b51ArrTrmntdFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "NonRule10b51ArrTrmntdFlag",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Non-Rule 10b5-1 Arrangement Terminated",
+        "label": "Non-Rule 10b5-1 Arrangement Terminated [Flag]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r79"
+     ]
+    },
+    "ecd_OtherPerfMeasureAmt": {
+     "xbrltype": "decimalItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "OtherPerfMeasureAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Other Performance Measure, Amount",
+        "label": "Other Performance Measure, Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r51"
+     ]
+    },
+    "ecd_OutstandingAggtErrCompAmt": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "OutstandingAggtErrCompAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Outstanding Aggregate Erroneous Compensation Amount",
+        "label": "Outstanding Aggregate Erroneous Compensation Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r12",
+      "r23",
+      "r33",
+      "r66"
+     ]
+    },
+    "ecd_OutstandingRecoveryCompAmt": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "OutstandingRecoveryCompAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Compensation Amount",
+        "label": "Outstanding Recovery Compensation Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r15",
+      "r26",
+      "r36",
+      "r69"
+     ]
+    },
+    "ecd_OutstandingRecoveryIndName": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "OutstandingRecoveryIndName",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Name",
+        "label": "Outstanding Recovery, Individual Name"
+       }
+      }
+     },
+     "auth_ref": [
+      "r15",
+      "r26",
+      "r36",
+      "r69"
+     ]
+    },
+    "ecd_PayVsPerformanceDisclosureLineItems": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "PayVsPerformanceDisclosureLineItems",
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Pay vs Performance Disclosure [Line Items]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r40"
+     ]
+    },
+    "ecd_PeerGroupIssuersFnTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "PeerGroupIssuersFnTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Peer Group Issuers, Footnote",
+        "label": "Peer Group Issuers, Footnote [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r50"
+     ]
+    },
+    "ecd_PeerGroupTotalShareholderRtnAmt": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "PeerGroupTotalShareholderRtnAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Peer Group Total Shareholder Return Amount",
+        "label": "Peer Group Total Shareholder Return Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r50"
+     ]
+    },
+    "ecd_PeoActuallyPaidCompAmt": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "PeoActuallyPaidCompAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "PEO Actually Paid Compensation Amount",
+        "label": "PEO Actually Paid Compensation Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r42"
+     ]
+    },
+    "ecd_PeoMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "PeoMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "PEO",
+        "label": "PEO [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r59"
+     ]
+    },
+    "ecd_PeoName": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "PeoName",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "PEO Name",
+        "label": "PEO Name"
+       }
+      }
+     },
+     "auth_ref": [
+      "r52"
+     ]
+    },
+    "ecd_PeoTotalCompAmt": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "PeoTotalCompAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "PEO Total Compensation Amount",
+        "label": "PEO Total Compensation Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r41"
+     ]
+    },
+    "ecd_PnsnAdjsPrrSvcCstMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "PnsnAdjsPrrSvcCstMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Pension Adjustments Prior Service Cost",
+        "label": "Pension Adjustments Prior Service Cost [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r43"
+     ]
+    },
+    "ecd_PnsnAdjsSvcCstMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "PnsnAdjsSvcCstMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Pension Adjustments Service Cost",
+        "label": "Pension Adjustments Service Cost [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r88"
+     ]
+    },
+    "ecd_PnsnBnftsAdjFnTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "PnsnBnftsAdjFnTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Pension Benefits Adjustments, Footnote",
+        "label": "Pension Benefits Adjustments, Footnote [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r42"
+     ]
+    },
+    "ecd_PvpTable": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "PvpTable",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Pay vs Performance Disclosure",
+        "label": "Pay vs Performance Disclosure [Table]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r40"
+     ]
+    },
+    "ecd_PvpTableTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "PvpTableTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Pay vs Performance Disclosure, Table",
+        "label": "Pay vs Performance [Table Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r40"
+     ]
+    },
+    "ecd_RecoveryOfErrCompDisclosureLineItems": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "RecoveryOfErrCompDisclosureLineItems",
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Recovery of Erroneously Awarded Compensation Disclosure [Line Items]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r7",
+      "r18",
+      "r28",
+      "r61"
+     ]
+    },
+    "ecd_RestatementDateAxis": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "RestatementDateAxis",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Restatement Determination Date:",
+        "label": "Restatement Determination Date [Axis]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r8",
+      "r19",
+      "r29",
+      "r62"
+     ]
+    },
+    "ecd_RestatementDeterminationDate": {
+     "xbrltype": "dateItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "RestatementDeterminationDate",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Restatement Determination Date",
+        "label": "Restatement Determination Date"
+       }
+      }
+     },
+     "auth_ref": [
+      "r9",
+      "r20",
+      "r30",
+      "r63"
+     ]
+    },
+    "ecd_RestatementDoesNotRequireRecoveryTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "RestatementDoesNotRequireRecoveryTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Restatement does not require Recovery",
+        "label": "Restatement Does Not Require Recovery [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r16",
+      "r27",
+      "r37",
+      "r70"
+     ]
+    },
+    "ecd_Rule10b51ArrAdoptedFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "Rule10b51ArrAdoptedFlag",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Rule 10b5-1 Arrangement Adopted",
+        "label": "Rule 10b5-1 Arrangement Adopted [Flag]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r79"
+     ]
+    },
+    "ecd_Rule10b51ArrTrmntdFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "Rule10b51ArrTrmntdFlag",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Rule 10b5-1 Arrangement Terminated",
+        "label": "Rule 10b5-1 Arrangement Terminated [Flag]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r79"
+     ]
+    },
+    "dei_Security12bTitle": {
+     "xbrltype": "securityTitleItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "Security12bTitle",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Title of 12(b) Security",
+        "label": "Title of 12(b) Security",
+        "documentation": "Title of a 12(b) registered security."
+       }
+      }
+     },
+     "auth_ref": [
+      "r0"
+     ]
+    },
+    "dei_SecurityExchangeName": {
+     "xbrltype": "edgarExchangeCodeItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "SecurityExchangeName",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Security Exchange Name",
+        "label": "Security Exchange Name",
+        "documentation": "Name of the Exchange on which a security is registered."
+       }
+      }
+     },
+     "auth_ref": [
+      "r3"
+     ]
+    },
+    "us-gaap_ShareBasedCompensationArrangementsByShareBasedPaymentAwardAwardTypeAndPlanNameDomain": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://fasb.org/us-gaap/2025",
+     "localname": "ShareBasedCompensationArrangementsByShareBasedPaymentAwardAwardTypeAndPlanNameDomain",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "All Award Types",
+        "label": "Award Type [Domain]"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "ecd_StkPrcOrTsrEstimationMethodTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "StkPrcOrTsrEstimationMethodTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/ErrCompDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Stock Price or TSR Estimation Method",
+        "label": "Stock Price or TSR Estimation Method [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r11",
+      "r22",
+      "r32",
+      "r65"
+     ]
+    },
+    "us-gaap_StockAppreciationRightsSARSMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://fasb.org/us-gaap/2025",
+     "localname": "StockAppreciationRightsSARSMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Stock Appreciation Rights (SARs)",
+        "label": "Stock Appreciation Rights (SARs) [Member]"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "ecd_TabularListTableTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "TabularListTableTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Tabular List, Table",
+        "label": "Tabular List [Table Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r58"
+     ]
+    },
+    "ecd_TotalShareholderRtnAmt": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "TotalShareholderRtnAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Total Shareholder Return Amount",
+        "label": "Total Shareholder Return Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r50"
+     ]
+    },
+    "ecd_TotalShareholderRtnVsPeerGroupTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "TotalShareholderRtnVsPeerGroupTextBlock",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Total Shareholder Return Vs Peer Group",
+        "label": "Total Shareholder Return Vs Peer Group [Text Block]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r57"
+     ]
+    },
+    "ecd_TradingArrAxis": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "TradingArrAxis",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Trading Arrangement:",
+        "label": "Trading Arrangement [Axis]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r78"
+     ]
+    },
+    "ecd_TradingArrByIndTable": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "TradingArrByIndTable",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Trading Arrangements, by Individual",
+        "label": "Trading Arrangements, by Individual [Table]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r80"
+     ]
+    },
+    "dei_TradingSymbol": {
+     "xbrltype": "tradingSymbolItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "TradingSymbol",
+     "presentation": [
+      "http://www.arescapitalcorp.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Trading Symbol",
+        "label": "Trading Symbol",
+        "documentation": "Trading symbol of an instrument as listed on an exchange."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "ecd_TrdArrAdoptionDate": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "TrdArrAdoptionDate",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Adoption Date",
+        "label": "Trading Arrangement Adoption Date"
+       }
+      }
+     },
+     "auth_ref": [
+      "r81"
+     ]
+    },
+    "ecd_TrdArrDuration": {
+     "xbrltype": "durationItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "TrdArrDuration",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Arrangement Duration",
+        "label": "Trading Arrangement Duration"
+       }
+      }
+     },
+     "auth_ref": [
+      "r82"
+     ]
+    },
+    "ecd_TrdArrExpirationDate": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "TrdArrExpirationDate",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Expiration Date",
+        "label": "Trading Arrangement Expiration Date"
+       }
+      }
+     },
+     "auth_ref": [
+      "r82"
+     ]
+    },
+    "ecd_TrdArrIndName": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "TrdArrIndName",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Name",
+        "label": "Trading Arrangement, Individual Name"
+       }
+      }
+     },
+     "auth_ref": [
+      "r80"
+     ]
+    },
+    "ecd_TrdArrIndTitle": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "TrdArrIndTitle",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Title",
+        "label": "Trading Arrangement, Individual Title"
+       }
+      }
+     },
+     "auth_ref": [
+      "r80"
+     ]
+    },
+    "ecd_TrdArrSecuritiesAggAvailAmt": {
+     "xbrltype": "sharesItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "TrdArrSecuritiesAggAvailAmt",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Aggregate Available",
+        "label": "Trading Arrangement, Securities Aggregate Available Amount"
+       }
+      }
+     },
+     "auth_ref": [
+      "r83"
+     ]
+    },
+    "ecd_TrdArrTerminationDate": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "TrdArrTerminationDate",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/InsiderTradingArrangements"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Termination Date",
+        "label": "Trading Arrangement Termination Date"
+       }
+      }
+     },
+     "auth_ref": [
+      "r81"
+     ]
+    },
+    "ecd_UndrlygSecurityMktPriceChngPct": {
+     "xbrltype": "pureItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "UndrlygSecurityMktPriceChngPct",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/AwardTimingDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Underlying Security Market Price Change",
+        "label": "Underlying Security Market Price Change, Percent"
+       }
+      }
+     },
+     "auth_ref": [
+      "r77"
+     ]
+    },
+    "ecd_VstngDtFrValOfEqtyAwrdsGrntdAndVstdInCvrdYrMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "VstngDtFrValOfEqtyAwrdsGrntdAndVstdInCvrdYrMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Vesting Date Fair Value of Equity Awards Granted and Vested in Covered Year",
+        "label": "Vesting Date Fair Value of Equity Awards Granted and Vested in Covered Year [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r46"
+     ]
+    },
+    "ecd_YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://xbrl.sec.gov/ecd/2025",
+     "localname": "YrEndFrValOfEqtyAwrdsGrntdInCvrdYrOutsdngAndUnvstdMember",
+     "presentation": [
+      "http://xbrl.sec.gov/ecd/role/PvpDisclosure"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Year-end Fair Value of Equity Awards Granted in Covered Year that are Outstanding and Unvested",
+        "label": "Year-end Fair Value of Equity Awards Granted in Covered Year that are Outstanding and Unvested [Member]"
+       }
+      }
+     },
+     "auth_ref": [
+      "r44"
+     ]
+    }
+   }
+  }
+ },
+ "std_ref": {
+  "r0": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "b"
+  },
+  "r1": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "b-2"
+  },
+  "r2": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "b-23"
+  },
+  "r3": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "d1-1"
+  },
+  "r4": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 10-K",
+   "Number": "249",
+   "Section": "310"
+  },
+  "r5": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 20-F",
+   "Number": "249",
+   "Section": "220",
+   "Subsection": "f"
+  },
+  "r6": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 20-F",
+   "Section": "16",
+   "Subsection": "J",
+   "Paragraph": "a"
+  },
+  "r7": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 20-F",
+   "Section": "6",
+   "Subsection": "F",
+   "Paragraph": "1"
+  },
+  "r8": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 20-F",
+   "Section": "6",
+   "Subsection": "F",
+   "Paragraph": "1",
+   "Subparagraph": "i"
+  },
+  "r9": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 20-F",
+   "Section": "6",
+   "Subsection": "F",
+   "Paragraph": "1",
+   "Subparagraph": "i",
+   "Sentence": "A"
+  },
+  "r10": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 20-F",
+   "Section": "6",
+   "Subsection": "F",
+   "Paragraph": "1",
+   "Subparagraph": "i",
+   "Sentence": "B"
+  },
+  "r11": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 20-F",
+   "Section": "6",
+   "Subsection": "F",
+   "Paragraph": "1",
+   "Subparagraph": "i",
+   "Sentence": "C"
+  },
+  "r12": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 20-F",
+   "Section": "6",
+   "Subsection": "F",
+   "Paragraph": "1",
+   "Subparagraph": "i",
+   "Sentence": "D"
+  },
+  "r13": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 20-F",
+   "Section": "6",
+   "Subsection": "F",
+   "Paragraph": "1",
+   "Subparagraph": "i",
+   "Sentence": "E"
+  },
+  "r14": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 20-F",
+   "Section": "6",
+   "Subsection": "F",
+   "Paragraph": "1",
+   "Subparagraph": "ii"
+  },
+  "r15": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 20-F",
+   "Section": "6",
+   "Subsection": "F",
+   "Paragraph": "1",
+   "Subparagraph": "iii"
+  },
+  "r16": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 20-F",
+   "Section": "6",
+   "Subsection": "F",
+   "Paragraph": "2"
+  },
+  "r17": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 40-F",
+   "Number": "249",
+   "Section": "240",
+   "Subsection": "f"
+  },
+  "r18": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 40-F",
+   "Section": "19",
+   "Paragraph": "a"
+  },
+  "r19": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 40-F",
+   "Section": "19",
+   "Paragraph": "a",
+   "Subparagraph": "1"
+  },
+  "r20": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 40-F",
+   "Section": "19",
+   "Paragraph": "a",
+   "Subparagraph": "1",
+   "Sentence": "i"
+  },
+  "r21": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 40-F",
+   "Section": "19",
+   "Paragraph": "a",
+   "Subparagraph": "1",
+   "Sentence": "ii"
+  },
+  "r22": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 40-F",
+   "Section": "19",
+   "Paragraph": "a",
+   "Subparagraph": "1",
+   "Sentence": "iii"
+  },
+  "r23": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 40-F",
+   "Section": "19",
+   "Paragraph": "a",
+   "Subparagraph": "1",
+   "Sentence": "iv"
+  },
+  "r24": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 40-F",
+   "Section": "19",
+   "Paragraph": "a",
+   "Subparagraph": "1",
+   "Sentence": "v"
+  },
+  "r25": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 40-F",
+   "Section": "19",
+   "Paragraph": "a",
+   "Subparagraph": "2"
+  },
+  "r26": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 40-F",
+   "Section": "19",
+   "Paragraph": "a",
+   "Subparagraph": "3"
+  },
+  "r27": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 40-F",
+   "Section": "19",
+   "Paragraph": "b"
+  },
+  "r28": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form N-CSR",
+   "Section": "18",
+   "Paragraph": "a"
+  },
+  "r29": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form N-CSR",
+   "Section": "18",
+   "Paragraph": "a",
+   "Subparagraph": "1"
+  },
+  "r30": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form N-CSR",
+   "Section": "18",
+   "Paragraph": "a",
+   "Subparagraph": "1",
+   "Sentence": "i"
+  },
+  "r31": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form N-CSR",
+   "Section": "18",
+   "Paragraph": "a",
+   "Subparagraph": "1",
+   "Sentence": "ii"
+  },
+  "r32": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form N-CSR",
+   "Section": "18",
+   "Paragraph": "a",
+   "Subparagraph": "1",
+   "Sentence": "iii"
+  },
+  "r33": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form N-CSR",
+   "Section": "18",
+   "Paragraph": "a",
+   "Subparagraph": "1",
+   "Sentence": "iv"
+  },
+  "r34": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form N-CSR",
+   "Section": "18",
+   "Paragraph": "a",
+   "Subparagraph": "1",
+   "Sentence": "v"
+  },
+  "r35": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form N-CSR",
+   "Section": "18",
+   "Paragraph": "a",
+   "Subparagraph": "2"
+  },
+  "r36": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form N-CSR",
+   "Section": "18",
+   "Paragraph": "a",
+   "Subparagraph": "3"
+  },
+  "r37": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form N-CSR",
+   "Section": "18",
+   "Paragraph": "b"
+  },
+  "r38": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Forms 10-K, 10-Q, 20-F",
+   "Number": "240",
+   "Section": "13",
+   "Subsection": "a-1"
+  },
+  "r39": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v"
+  },
+  "r40": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "1"
+  },
+  "r41": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "2",
+   "Subparagraph": "ii"
+  },
+  "r42": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "2",
+   "Subparagraph": "iii"
+  },
+  "r43": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "2",
+   "Subparagraph": "iii",
+   "Sentence": "B",
+   "Clause": "1",
+   "Subclause": "ii"
+  },
+  "r44": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "2",
+   "Subparagraph": "iii",
+   "Sentence": "C",
+   "Clause": "1",
+   "Subclause": "i"
+  },
+  "r45": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "2",
+   "Subparagraph": "iii",
+   "Sentence": "C",
+   "Clause": "1",
+   "Subclause": "ii"
+  },
+  "r46": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "2",
+   "Subparagraph": "iii",
+   "Sentence": "C",
+   "Clause": "1",
+   "Subclause": "iii"
+  },
+  "r47": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "2",
+   "Subparagraph": "iii",
+   "Sentence": "C",
+   "Clause": "1",
+   "Subclause": "iv"
+  },
+  "r48": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "2",
+   "Subparagraph": "iii",
+   "Sentence": "C",
+   "Clause": "1",
+   "Subclause": "v"
+  },
+  "r49": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "2",
+   "Subparagraph": "iii",
+   "Sentence": "C",
+   "Clause": "1",
+   "Subclause": "vi"
+  },
+  "r50": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "2",
+   "Subparagraph": "iv"
+  },
+  "r51": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "2",
+   "Subparagraph": "vi"
+  },
+  "r52": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "3"
+  },
+  "r53": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "4"
+  },
+  "r54": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "5",
+   "Subparagraph": "i"
+  },
+  "r55": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "5",
+   "Subparagraph": "ii"
+  },
+  "r56": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "5",
+   "Subparagraph": "iii"
+  },
+  "r57": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "5",
+   "Subparagraph": "iv"
+  },
+  "r58": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "6"
+  },
+  "r59": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "6",
+   "Subparagraph": "i"
+  },
+  "r60": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "w"
+  },
+  "r61": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "w",
+   "Paragraph": "1"
+  },
+  "r62": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "w",
+   "Paragraph": "1",
+   "Subparagraph": "i"
+  },
+  "r63": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "w",
+   "Paragraph": "1",
+   "Subparagraph": "i",
+   "Sentence": "A"
+  },
+  "r64": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "w",
+   "Paragraph": "1",
+   "Subparagraph": "i",
+   "Sentence": "B"
+  },
+  "r65": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "w",
+   "Paragraph": "1",
+   "Subparagraph": "i",
+   "Sentence": "C"
+  },
+  "r66": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "w",
+   "Paragraph": "1",
+   "Subparagraph": "i",
+   "Sentence": "D"
+  },
+  "r67": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "w",
+   "Paragraph": "1",
+   "Subparagraph": "i",
+   "Sentence": "E"
+  },
+  "r68": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "w",
+   "Paragraph": "1",
+   "Subparagraph": "ii"
+  },
+  "r69": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "w",
+   "Paragraph": "1",
+   "Subparagraph": "iii"
+  },
+  "r70": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "w",
+   "Paragraph": "2"
+  },
+  "r71": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "x",
+   "Paragraph": "1"
+  },
+  "r72": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "x",
+   "Paragraph": "2"
+  },
+  "r73": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "x",
+   "Paragraph": "2",
+   "Subparagraph": "ii",
+   "Sentence": "A"
+  },
+  "r74": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "x",
+   "Paragraph": "2",
+   "Subparagraph": "ii",
+   "Sentence": "C"
+  },
+  "r75": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "x",
+   "Paragraph": "2",
+   "Subparagraph": "ii",
+   "Sentence": "D"
+  },
+  "r76": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "x",
+   "Paragraph": "2",
+   "Subparagraph": "ii",
+   "Sentence": "E"
+  },
+  "r77": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "x",
+   "Paragraph": "2",
+   "Subparagraph": "ii",
+   "Sentence": "F"
+  },
+  "r78": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "408",
+   "Subsection": "a"
+  },
+  "r79": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "408",
+   "Subsection": "a",
+   "Paragraph": "1"
+  },
+  "r80": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "408",
+   "Subsection": "a",
+   "Paragraph": "2",
+   "Subparagraph": "A"
+  },
+  "r81": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "408",
+   "Subsection": "a",
+   "Paragraph": "2",
+   "Subparagraph": "B"
+  },
+  "r82": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "408",
+   "Subsection": "a",
+   "Paragraph": "2",
+   "Subparagraph": "C"
+  },
+  "r83": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "408",
+   "Subsection": "a",
+   "Paragraph": "2",
+   "Subparagraph": "D"
+  },
+  "r84": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "408",
+   "Subsection": "b",
+   "Paragraph": "1"
+  },
+  "r85": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Section": "402",
+   "Number": "229",
+   "Subsection": "v",
+   "Paragraph": "2",
+   "Subparagraph": "iii",
+   "Sentence": "C",
+   "Clause": "1"
+  },
+  "r86": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "2",
+   "Subparagraph": "iii",
+   "Sentence": "A",
+   "Number": "229"
+  },
+  "r87": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "2",
+   "Subparagraph": "iii",
+   "Sentence": "B",
+   "Clause": "1",
+   "Number": "229"
+  },
+  "r88": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Section": "402",
+   "Subsection": "v",
+   "Paragraph": "2",
+   "Subparagraph": "iii",
+   "Sentence": "B",
+   "Clause": "1",
+   "Subclause": "i",
+   "Number": "229"
+  },
+  "r89": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-T",
+   "Number": "232",
+   "Section": "405"
+  },
+  "r90": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Securities Act",
+   "Number": "230",
+   "Section": "405"
+  }
+ }
+}

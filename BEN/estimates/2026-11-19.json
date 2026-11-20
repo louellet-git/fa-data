@@ -1,0 +1,105 @@
+{
+  "ticker": "BEN",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.73,
+      "low": 0.72,
+      "high": 0.74,
+      "numberOfAnalysts": 3.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 0.76,
+      "low": 0.74,
+      "high": 0.78,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 0.82,
+      "low": 0.8,
+      "high": 0.84,
+      "numberOfAnalysts": 3.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.88,
+      "low": 0.84,
+      "high": 0.92,
+      "numberOfAnalysts": 3.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.86,
+      "low": 0.85,
+      "high": 0.86,
+      "numberOfAnalysts": 2.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 3.27,
+      "low": 3.15,
+      "high": 3.58,
+      "numberOfAnalysts": 8.0,
+      "up": 4.0,
+      "down": 2.0
+    },
+    "+1y": {
+      "avg": 3.63,
+      "low": 3.39,
+      "high": 4.01,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 3.64,
+      "low": 3.12,
+      "high": 4.16,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 3.31,
+      "low": 3.31,
+      "high": 3.31,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 37.17,
+    "low": 30.0,
+    "high": 44.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-09",
+    "+1y": "2028-09",
+    "+2y": "2029-09",
+    "+3y": "2030-09"
+  },
+  "ratings": {
+    "buy": 4.0,
+    "hold": 5.0,
+    "sell": 2.0
+  }
+}

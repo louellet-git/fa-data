@@ -1,0 +1,105 @@
+{
+  "ticker": "APP",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 4.66,
+      "low": 4.47,
+      "high": 4.97,
+      "numberOfAnalysts": 9.0,
+      "up": 8.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 4.78,
+      "low": 4.53,
+      "high": 5.09,
+      "numberOfAnalysts": 9.0,
+      "up": 5.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 4.98,
+      "low": 4.7,
+      "high": 5.36,
+      "numberOfAnalysts": 9.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 5.34,
+      "low": 5.03,
+      "high": 5.62,
+      "numberOfAnalysts": 9.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 5.73,
+      "low": 5.31,
+      "high": 6.16,
+      "numberOfAnalysts": 9.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 16.25,
+      "low": 15.61,
+      "high": 16.58,
+      "numberOfAnalysts": 10.0,
+      "up": 10.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 20.86,
+      "low": 19.96,
+      "high": 22.24,
+      "numberOfAnalysts": 10.0,
+      "up": 7.0,
+      "down": 3.0
+    },
+    "+2y": {
+      "avg": 25.79,
+      "low": 23.96,
+      "high": 28.11,
+      "numberOfAnalysts": 6.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 30.65,
+      "low": 30.65,
+      "high": 30.65,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 456.88,
+    "low": 347.0,
+    "high": 600.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 12.0,
+    "hold": 5.0,
+    "sell": 0.0
+  }
+}

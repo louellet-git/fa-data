@@ -1,0 +1,105 @@
+{
+  "ticker": "BIIB",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.73,
+      "low": 2.45,
+      "high": 3.21,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 9.0
+    },
+    "+1q": {
+      "avg": 3.68,
+      "low": 3.03,
+      "high": 4.18,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 4.31,
+      "low": 3.71,
+      "high": 4.73,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 4.26,
+      "low": 4.08,
+      "high": 4.42,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 4.18,
+      "low": 3.84,
+      "high": 4.37,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 12.46,
+      "low": 12.22,
+      "high": 13.0,
+      "numberOfAnalysts": 13.0,
+      "up": 8.0,
+      "down": 4.0
+    },
+    "+1y": {
+      "avg": 15.94,
+      "low": 8.51,
+      "high": 18.67,
+      "numberOfAnalysts": 15.0,
+      "up": 7.0,
+      "down": 5.0
+    },
+    "+2y": {
+      "avg": 18.43,
+      "low": 15.9,
+      "high": 21.94,
+      "numberOfAnalysts": 8.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 20.11,
+      "low": 17.53,
+      "high": 25.52,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 267.04,
+    "low": 175.0,
+    "high": 325.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 17.0,
+    "hold": 7.0,
+    "sell": 1.0
+  }
+}

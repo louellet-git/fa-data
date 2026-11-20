@@ -1,0 +1,105 @@
+{
+  "ticker": "AZO",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 35.98,
+      "low": 34.25,
+      "high": 39.37,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 32.34,
+      "low": 31.14,
+      "high": 34.93,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 43.12,
+      "low": 41.83,
+      "high": 44.77,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 60.08,
+      "low": 57.95,
+      "high": 63.08,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 41.69,
+      "low": 39.88,
+      "high": 43.79,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 170.25,
+      "low": 165.02,
+      "high": 182.14,
+      "numberOfAnalysts": 15.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+1y": {
+      "avg": 193.4,
+      "low": 185.05,
+      "high": 208.0,
+      "numberOfAnalysts": 13.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 219.47,
+      "low": 216.0,
+      "high": 220.99,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 254.15,
+      "low": 248.8,
+      "high": 259.49,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 3613.55,
+    "low": 3000.0,
+    "high": 4230.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-11",
+    "+1q": "2027-02",
+    "+2q": "2027-05",
+    "+3q": "2027-08",
+    "+4q": "2027-11",
+    "0y": "2027-08",
+    "+1y": "2028-08",
+    "+2y": "2029-08",
+    "+3y": "2030-08"
+  },
+  "ratings": {
+    "buy": 19.0,
+    "hold": 2.0,
+    "sell": 0.0
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ticker": "BG",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.26,
+      "low": 3.14,
+      "high": 3.37,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 2.28,
+      "low": 2.28,
+      "high": 2.28,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 2.72,
+      "low": 2.72,
+      "high": 2.72,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.65,
+      "low": 2.65,
+      "high": 2.65,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.61,
+      "low": 3.61,
+      "high": 3.61,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 9.63,
+      "low": 9.5,
+      "high": 9.75,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 11.48,
+      "low": 11.21,
+      "high": 11.75,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 12.09,
+      "low": 11.88,
+      "high": 12.3,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 146.8,
+    "low": 139.0,
+    "high": 155.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 5.0,
+    "hold": 0.0,
+    "sell": 0.0
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ticker": "AXON",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.5,
+      "low": 0.18,
+      "high": 0.81,
+      "numberOfAnalysts": 7.0,
+      "up": 3.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 0.51,
+      "low": 0.26,
+      "high": 0.79,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 6.0
+    },
+    "+2q": {
+      "avg": 0.67,
+      "low": 0.5,
+      "high": 0.94,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.84,
+      "low": 0.46,
+      "high": 1.16,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.05,
+      "low": 0.81,
+      "high": 1.49,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 1.65,
+      "low": 1.23,
+      "high": 1.95,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 5.0
+    },
+    "+1y": {
+      "avg": 3.06,
+      "low": 2.22,
+      "high": 4.17,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 6.0
+    },
+    "+2y": {
+      "avg": 4.74,
+      "low": 4.52,
+      "high": 4.95,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 549.38,
+    "low": 380.0,
+    "high": 750.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 11.0,
+    "hold": 2.0,
+    "sell": 0.0
+  }
+}

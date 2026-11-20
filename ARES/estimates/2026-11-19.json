@@ -1,0 +1,105 @@
+{
+  "ticker": "ARES",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.87,
+      "low": 1.77,
+      "high": 2.03,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 1.52,
+      "low": 1.42,
+      "high": 1.68,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 1.57,
+      "low": 1.44,
+      "high": 1.65,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.65,
+      "low": 1.61,
+      "high": 1.69,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.3,
+      "low": 2.24,
+      "high": 2.33,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.7,
+      "low": 5.56,
+      "high": 5.89,
+      "numberOfAnalysts": 10.0,
+      "up": 1.0,
+      "down": 5.0
+    },
+    "+1y": {
+      "avg": 7.12,
+      "low": 6.68,
+      "high": 7.45,
+      "numberOfAnalysts": 11.0,
+      "up": 2.0,
+      "down": 5.0
+    },
+    "+2y": {
+      "avg": 8.27,
+      "low": 7.84,
+      "high": 8.68,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 9.47,
+      "low": 9.15,
+      "high": 9.8,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 148.83,
+    "low": 130.0,
+    "high": 171.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 8.0,
+    "hold": 4.0,
+    "sell": 0.0
+  }
+}

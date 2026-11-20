@@ -1,0 +1,105 @@
+{
+  "ticker": "AWK",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.46,
+      "low": 1.39,
+      "high": 1.52,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.1,
+      "low": 1.09,
+      "high": 1.13,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 1.69,
+      "low": 1.65,
+      "high": 1.74,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.26,
+      "low": 2.24,
+      "high": 2.27,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.54,
+      "low": 1.51,
+      "high": 1.56,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 6.09,
+      "low": 6.06,
+      "high": 6.1,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 6.62,
+      "low": 6.56,
+      "high": 6.81,
+      "numberOfAnalysts": 9.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 7.28,
+      "low": 7.09,
+      "high": 7.55,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 7.97,
+      "low": 7.89,
+      "high": 8.04,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 148.5,
+    "low": 127.0,
+    "high": 165.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 1.0,
+    "hold": 3.0,
+    "sell": 1.0
+  }
+}

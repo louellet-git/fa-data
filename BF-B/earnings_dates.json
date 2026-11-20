@@ -1,0 +1,14 @@
+{
+  "ticker": "BF-B",
+  "updated": "2026-11-19",
+  "past": [],
+  "next": {
+    "date": "2026-12-03",
+    "time": "pre-market",
+    "fiscal_quarter": "2026-10",
+    "eps_forecast": 0.46,
+    "estimates": 4.0,
+    "source": "nasdaq calendar"
+  },
+  "scanned_through": "2027-01-15"
+}

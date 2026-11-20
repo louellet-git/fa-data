@@ -1,0 +1,105 @@
+{
+  "ticker": "BDX",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.4,
+      "low": 2.34,
+      "high": 2.7,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+1q": {
+      "avg": 3.05,
+      "low": 3.01,
+      "high": 3.15,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 3.51,
+      "low": 3.47,
+      "high": 3.53,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 4.33,
+      "low": 4.26,
+      "high": 4.43,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.71,
+      "low": 2.63,
+      "high": 2.78,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 13.21,
+      "low": 13.15,
+      "high": 13.3,
+      "numberOfAnalysts": 7.0,
+      "up": 4.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 14.17,
+      "low": 13.8,
+      "high": 14.39,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 15.17,
+      "low": 15.17,
+      "high": 15.17,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 16.21,
+      "low": 16.21,
+      "high": 16.21,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 222.4,
+    "low": 182.0,
+    "high": 242.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-09",
+    "+1y": "2028-09",
+    "+2y": "2029-09",
+    "+3y": "2030-09"
+  },
+  "ratings": {
+    "buy": 5.0,
+    "hold": 5.0,
+    "sell": 1.0
+  }
+}
