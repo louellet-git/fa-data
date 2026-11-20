@@ -1,0 +1,25 @@
+{
+  "cik": "2082247",
+  "filings": [
+    {
+      "accession": "0001628280-26-068228",
+      "filed": "2026-10-29",
+      "items": "2.02,9.01",
+      "report_date": "2026-10-29"
+    },
+    {
+      "accession": "0001628280-26-054314",
+      "filed": "2026-08-06",
+      "items": "2.02,9.01",
+      "report_date": "2026-08-06"
+    },
+    {
+      "accession": "0001628280-26-045515",
+      "filed": "2026-06-25",
+      "items": "2.02,9.01",
+      "report_date": "2026-06-25"
+    }
+  ],
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "FDXF"
+}
