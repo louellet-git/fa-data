@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xbrl
+  xml:lang="en-US"
+  xmlns="http://www.xbrl.org/2003/instance"
+  xmlns:dei="http://xbrl.sec.gov/dei/2025"
+  xmlns:iso4217="http://www.xbrl.org/2003/iso4217"
+  xmlns:link="http://www.xbrl.org/2003/linkbase"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <link:schemaRef xlink:href="hasi-20251231.xsd" xlink:type="simple"/>
+    <context id="c-1">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0001561894</identifier>
+        </entity>
+        <period>
+            <startDate>2025-01-01</startDate>
+            <endDate>2025-12-31</endDate>
+        </period>
+    </context>
+    <context id="c-2">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0001561894</identifier>
+        </entity>
+        <period>
+            <instant>2025-06-30</instant>
+        </period>
+    </context>
+    <context id="c-3">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0001561894</identifier>
+        </entity>
+        <period>
+            <instant>2026-03-23</instant>
+        </period>
+    </context>
+    <unit id="usd">
+        <measure>iso4217:USD</measure>
+    </unit>
+    <unit id="shares">
+        <measure>shares</measure>
+    </unit>
+    <dei:AmendmentFlag contextRef="c-1" id="f-35">true</dei:AmendmentFlag>
+    <dei:DocumentFiscalYearFocus contextRef="c-1" id="f-36">2025</dei:DocumentFiscalYearFocus>
+    <dei:DocumentFiscalPeriodFocus contextRef="c-1" id="f-37">FY</dei:DocumentFiscalPeriodFocus>
+    <dei:EntityCentralIndexKey contextRef="c-1" id="f-38">0001561894</dei:EntityCentralIndexKey>
+    <dei:DocumentType contextRef="c-1" id="f-1">10-K/A</dei:DocumentType>
+    <dei:DocumentAnnualReport contextRef="c-1" id="f-2">true</dei:DocumentAnnualReport>
+    <dei:DocumentPeriodEndDate contextRef="c-1" id="f-3">2025-12-31</dei:DocumentPeriodEndDate>
+    <dei:CurrentFiscalYearEndDate contextRef="c-1" id="f-4">--12-31</dei:CurrentFiscalYearEndDate>
+    <dei:DocumentTransitionReport contextRef="c-1" id="f-5">false</dei:DocumentTransitionReport>
+    <dei:EntityFileNumber contextRef="c-1" id="f-6">001-35877</dei:EntityFileNumber>
+    <dei:EntityRegistrantName contextRef="c-1" id="f-7">HA SUSTAINABLE INFRASTRUCTURE CAPITAL, INC.</dei:EntityRegistrantName>
+    <dei:EntityIncorporationStateCountryCode contextRef="c-1" id="f-8">DE</dei:EntityIncorporationStateCountryCode>
+    <dei:EntityTaxIdentificationNumber contextRef="c-1" id="f-9">46-1347456</dei:EntityTaxIdentificationNumber>
+    <dei:EntityAddressAddressLine1 contextRef="c-1" id="f-10">One Park Place Suite 200</dei:EntityAddressAddressLine1>
+    <dei:EntityAddressCityOrTown contextRef="c-1" id="f-11">Annapolis,</dei:EntityAddressCityOrTown>
+    <dei:EntityAddressStateOrProvince contextRef="c-1" id="f-12">MD</dei:EntityAddressStateOrProvince>
+    <dei:EntityAddressPostalZipCode contextRef="c-1" id="f-13">21401</dei:EntityAddressPostalZipCode>
+    <dei:CityAreaCode contextRef="c-1" id="f-14">410</dei:CityAreaCode>
+    <dei:LocalPhoneNumber contextRef="c-1" id="f-15">571-9860</dei:LocalPhoneNumber>
+    <dei:Security12bTitle contextRef="c-1" id="f-16">Common Stock, $0.01 par value per share</dei:Security12bTitle>
+    <dei:TradingSymbol contextRef="c-1" id="f-17">HASI</dei:TradingSymbol>
+    <dei:SecurityExchangeName contextRef="c-1" id="f-18">NYSE</dei:SecurityExchangeName>
+    <dei:EntityWellKnownSeasonedIssuer contextRef="c-1" id="f-19">Yes</dei:EntityWellKnownSeasonedIssuer>
+    <dei:EntityVoluntaryFilers contextRef="c-1" id="f-20">No</dei:EntityVoluntaryFilers>
+    <dei:EntityCurrentReportingStatus contextRef="c-1" id="f-21">Yes</dei:EntityCurrentReportingStatus>
+    <dei:EntityInteractiveDataCurrent contextRef="c-1" id="f-22">Yes</dei:EntityInteractiveDataCurrent>
+    <dei:EntityFilerCategory contextRef="c-1" id="f-23">Large Accelerated Filer</dei:EntityFilerCategory>
+    <dei:EntitySmallBusiness contextRef="c-1" id="f-24">false</dei:EntitySmallBusiness>
+    <dei:EntityEmergingGrowthCompany contextRef="c-1" id="f-25">false</dei:EntityEmergingGrowthCompany>
+    <dei:IcfrAuditorAttestationFlag contextRef="c-1" id="f-26">true</dei:IcfrAuditorAttestationFlag>
+    <dei:DocumentFinStmtErrorCorrectionFlag contextRef="c-1" id="f-27">false</dei:DocumentFinStmtErrorCorrectionFlag>
+    <dei:EntityShellCompany contextRef="c-1" id="f-28">false</dei:EntityShellCompany>
+    <dei:EntityPublicFloat contextRef="c-2" decimals="-8" id="f-29" unitRef="usd">3300000000</dei:EntityPublicFloat>
+    <dei:EntityCommonStockSharesOutstanding contextRef="c-3" decimals="INF" id="f-30" unitRef="shares">128420364</dei:EntityCommonStockSharesOutstanding>
+    <dei:DocumentsIncorporatedByReferenceTextBlock contextRef="c-1" id="f-31">Portions of the registrant&#x2019;s proxy statement for the 2026 annual meeting of stockholders are incorporated by reference into Part III of this Annual Report on Form 10-K.</dei:DocumentsIncorporatedByReferenceTextBlock>
+    <dei:AuditorName contextRef="c-1" id="f-32">Ernst &amp; Young LLP</dei:AuditorName>
+    <dei:AuditorLocation contextRef="c-1" id="f-33">Tysons, VA</dei:AuditorLocation>
+    <dei:AuditorFirmId contextRef="c-1" id="f-34">42</dei:AuditorFirmId>
+    <dei:AmendmentDescription contextRef="c-1" id="f-39">EXPLANATORY NOTEHA Sustainable Infrastructure Capital, Inc. (the &#x201c;Company,&#x201d; &#x201c;we,&#x201d; &#x201c;our,&#x201d; or &#x201c;us&#x201d;) is filing this amendment (the &#x201c;Form 10-K/A&#x201d;) to our Annual Report on Form&#160;10-K for the year ended December&#160;31, 2025, originally filed with the Securities and Exchange Commission (&#x201c;SEC&#x201d;) on February 13, 2026 (the &#x201c;Original Form 10-K&#x201d;), solely for the purpose of complying with Regulation S-X, Rule&#160;3-09 ("Rule 3-09"). Rule&#160;3-09 requires that Form&#160;10-K contain separate financial statements for unconsolidated subsidiaries and investees accounted for by the equity method when such entities are individually significant. We have determined that our equity method investment in Palmetto HASI Holdings LLC and its subsidiaries, which is not consolidated in our financial statements, was significant under the income test of Rule 3-09 in relationship to our financial results for the year ended December 31, 2025, and that our equity method investment in Daggett Renewable Holdco LLC and its subsidiaries, which is not consolidated in our financial statements, was significant under the income test of Rule 3-09 in relationship to our financial results for the years ended December 31, 2024 and December 31, 2023. Since the financial statements as of and for the year ended December 31, 2025, of the aforementioned investees were not available until after the date of the filing of our Original Form&#160;10-K, Rule&#160;3-09 provides that the financial statements may be filed as an amendment to our Original Form&#160;10-K within 90 days after the end of our fiscal year ended December&#160;31, 2025. Therefore, this Form&#160;10-K/A amends Item 15 of our Original Form&#160;10-K, to include the following Exhibits:&#160;&#x2022;Exhibit 23.2 -- Consent of CohnReznick LLP for the consolidated financial statements of Palmetto HASI Holdings LLC and Subsidiaries &#x2022;Exhibit 23.3 -- Consent of PricewaterhouseCoopers LLP for the consolidated financial statements of Daggett Renewable Holdco LLC and Subsidiaries &#x2022;Exhibit 23.4  -- Consent of Ernst &amp; Young LLP for the consolidated financial statements of Daggett Renewable Holdco LLC and Subsidiaries &#x2022;Exhibit 99.1 --  Consolidated financial statements as of December 31, 2025 and 2024 and for the periods then ended of Palmetto HASI Holdings LLC and Subsidiaries &#x2022;Exhibit 99.2 --  Consolidated financial statements as of December 31, 2025 and 2024 and for the periods ended December 31, 2025, 2024 and 2023 of Daggett Renewable Holdco LLC and Subsidiaries &#x2022;Exhibit 99.3 -- Consolidated financial statements as of December 31, 2023 and the period then ended of Daggett Renewable Holdco LLC and Subsidiaries This&#160;Form&#160;10-K/A&#160;does not amend or otherwise update any other information in the Original Form 10-K (including its  exhibits, except for Exhibits&#160;31.1, 31.2, 32.1 and 32.2). Accordingly, this&#160;Form&#160;10-K/A&#160;should be read in conjunction with our Original Form 10-K and with our filings with the SEC subsequent to the Original Form 10-K filing. In addition, in accordance with applicable rules and regulations promulgated by the SEC, this&#160;Form&#160;10-K/A&#160;includes updated certifications from our Chief Executive Officer and Chief Financial Officer as Exhibits&#160;31.1, 31.2, 32.1 and 32.2.</dei:AmendmentDescription>
+</xbrl>

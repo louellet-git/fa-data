@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xbrl
+  xmlns="http://www.xbrl.org/2003/instance"
+  xmlns:dei="http://xbrl.sec.gov/dei/2024"
+  xmlns:iso4217="http://www.xbrl.org/2003/iso4217"
+  xmlns:link="http://www.xbrl.org/2003/linkbase"
+  xmlns:us-gaap="http://fasb.org/us-gaap/2024"
+  xmlns:xbrldi="http://xbrl.org/2006/xbrldi"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+    <link:schemaRef xlink:href="imkt-20250927.xsd" xlink:type="simple"/>
+    <context id="As_Of_3_29_2025">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000050493</identifier>
+        </entity>
+        <period>
+            <instant>2025-03-29</instant>
+        </period>
+    </context>
+    <context id="As_Of_11_24_2025_us-gaap_StatementClassOfStockAxis_us-gaap_CommonClassBMember">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000050493</identifier>
+            <segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassBMember</xbrldi:explicitMember>
+            </segment>
+        </entity>
+        <period>
+            <instant>2025-11-24</instant>
+        </period>
+    </context>
+    <context id="As_Of_11_24_2025_us-gaap_StatementClassOfStockAxis_us-gaap_CommonClassAMember">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000050493</identifier>
+            <segment>
+                <xbrldi:explicitMember dimension="us-gaap:StatementClassOfStockAxis">us-gaap:CommonClassAMember</xbrldi:explicitMember>
+            </segment>
+        </entity>
+        <period>
+            <instant>2025-11-24</instant>
+        </period>
+    </context>
+    <context id="Duration_9_29_2024_To_9_27_2025">
+        <entity>
+            <identifier scheme="http://www.sec.gov/CIK">0000050493</identifier>
+        </entity>
+        <period>
+            <startDate>2024-09-29</startDate>
+            <endDate>2025-09-27</endDate>
+        </period>
+    </context>
+    <unit id="Unit12">
+        <measure>iso4217:USD</measure>
+    </unit>
+    <unit id="Unit1">
+        <measure>shares</measure>
+    </unit>
+    <dei:AmendmentFlag
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-13f0719d-1581-4118-83f6-dc694fa1a514">false</dei:AmendmentFlag>
+    <dei:DocumentFiscalPeriodFocus
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-7bd93744-899e-4056-8b49-6c2dbf1160f7">FY</dei:DocumentFiscalPeriodFocus>
+    <dei:DocumentFiscalYearFocus
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-ea37f95e-c150-46b6-aad5-2ea17c6f90fe">2025</dei:DocumentFiscalYearFocus>
+    <dei:EntityCentralIndexKey
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-92bdb016-5dc4-4d7a-8e10-a50d6102fd88">0000050493</dei:EntityCentralIndexKey>
+    <dei:EntityCurrentReportingStatus
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-e58b7844-fa0f-4b6c-8231-cfb14a7e6b02">Yes</dei:EntityCurrentReportingStatus>
+    <dei:EntityInteractiveDataCurrent
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-b8d83c57-fbfe-4c7b-9c68-9a683d20950e">Yes</dei:EntityInteractiveDataCurrent>
+    <dei:EntityVoluntaryFilers
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-1c75b45e-bff4-41b3-b6d5-0de9ff0bc1b7">No</dei:EntityVoluntaryFilers>
+    <dei:EntityWellKnownSeasonedIssuer
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-05fb1172-1f90-4571-96be-23980ddccc2d">No</dei:EntityWellKnownSeasonedIssuer>
+    <dei:DocumentType
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-b25f6b34-438e-43bd-8bfe-284708502c41">10-K/A</dei:DocumentType>
+    <dei:DocumentAnnualReport
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-911a423b-7807-4acb-b3a4-3f5a35a81396">true</dei:DocumentAnnualReport>
+    <dei:CurrentFiscalYearEndDate
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-62ca0a16-aa26-4f08-981f-e248e64eae66">--09-27</dei:CurrentFiscalYearEndDate>
+    <dei:DocumentPeriodEndDate
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-987bbfe8-6db8-44df-beb7-76250a809377">2025-09-27</dei:DocumentPeriodEndDate>
+    <dei:DocumentTransitionReport
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-54dd7dd7-dc1b-4735-8ebc-02e2121efea6">false</dei:DocumentTransitionReport>
+    <dei:EntityFileNumber
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-57b0d216-3e89-4cba-a8ff-179edafa24c4">0-14706</dei:EntityFileNumber>
+    <dei:EntityRegistrantName
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-3ba044f0-8afa-4ea9-bb0d-67231284ee11">INGLES MARKETS, INCORPORATED</dei:EntityRegistrantName>
+    <dei:EntityIncorporationStateCountryCode
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-1db3963b-c0a1-4c6a-a990-b8c796f0dd67">NC</dei:EntityIncorporationStateCountryCode>
+    <dei:EntityTaxIdentificationNumber
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-67153109-5be8-436d-a753-e25a933abd6c">56-0846267</dei:EntityTaxIdentificationNumber>
+    <dei:EntityAddressAddressLine1
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-8cc5e23b-37ef-4121-b90e-5e5fbd255785">2913 U.S. Hwy. 70 West</dei:EntityAddressAddressLine1>
+    <dei:EntityAddressCityOrTown
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-c57badc6-dbe1-49ec-9a08-261a3e5df1aa">Black Mountain</dei:EntityAddressCityOrTown>
+    <dei:EntityAddressStateOrProvince
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-f6a7f476-29ea-4b58-8e9f-66ad47734340">NC</dei:EntityAddressStateOrProvince>
+    <dei:EntityAddressPostalZipCode
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-885f06f8-4852-4d2c-a976-345a7c81296f">28711</dei:EntityAddressPostalZipCode>
+    <dei:CityAreaCode
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-58c91483-0a3a-44b9-ba58-0d6fb4871eb1">828</dei:CityAreaCode>
+    <dei:LocalPhoneNumber
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-eb816e53-40d8-4535-9f50-9b98109c1481">669-2941</dei:LocalPhoneNumber>
+    <dei:Security12bTitle
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-f3836de5-5ad0-4202-96b4-b46156dcac0c">Class A Common Stock, $0.05 par value per share</dei:Security12bTitle>
+    <dei:TradingSymbol
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-e73defb4-8487-4c6f-8d89-ed530819ab4a">IMKTA</dei:TradingSymbol>
+    <dei:SecurityExchangeName
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-eb322c96-d026-4d58-95ca-d4d1153dd065">NASDAQ</dei:SecurityExchangeName>
+    <dei:EntityFilerCategory
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-3c263051-07b7-4ec2-afa1-5479513ca9f8">Large Accelerated Filer</dei:EntityFilerCategory>
+    <dei:EntitySmallBusiness
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-8548cd9b-649b-440d-8e86-558e93bb85ba">false</dei:EntitySmallBusiness>
+    <dei:EntityEmergingGrowthCompany
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-bfc65e70-8606-420f-9d26-1bede8a5367a">false</dei:EntityEmergingGrowthCompany>
+    <dei:IcfrAuditorAttestationFlag
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-e2836648-a13f-42ba-8e94-7dddcf33ee87">true</dei:IcfrAuditorAttestationFlag>
+    <dei:DocumentFinStmtErrorCorrectionFlag
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-f8a6bec2-92bb-4077-8d5a-6ba2d388c76d">false</dei:DocumentFinStmtErrorCorrectionFlag>
+    <dei:EntityShellCompany
+      contextRef="Duration_9_29_2024_To_9_27_2025"
+      id="ct-nonNumeric-0ea91401-e1ab-4eaa-a60a-a1c46c85ebd4">false</dei:EntityShellCompany>
+    <dei:EntityPublicFloat
+      contextRef="As_Of_3_29_2025"
+      decimals="-5"
+      id="ct-nonFraction-6b857918-a69c-4c67-90d7-27628b3ce296"
+      unitRef="Unit12">938100000</dei:EntityPublicFloat>
+    <dei:EntityCommonStockSharesOutstanding
+      contextRef="As_Of_11_24_2025_us-gaap_StatementClassOfStockAxis_us-gaap_CommonClassAMember"
+      decimals="INF"
+      id="ct-nonFraction-d732bc40-59cc-4e97-80a1-97a8daed006e"
+      unitRef="Unit1">14548611</dei:EntityCommonStockSharesOutstanding>
+    <dei:EntityCommonStockSharesOutstanding
+      contextRef="As_Of_11_24_2025_us-gaap_StatementClassOfStockAxis_us-gaap_CommonClassBMember"
+      decimals="INF"
+      id="ct-nonFraction-d749aa60-d5f4-4106-867c-8617f84ab59f"
+      unitRef="Unit1">4445765</dei:EntityCommonStockSharesOutstanding>
+</xbrl>

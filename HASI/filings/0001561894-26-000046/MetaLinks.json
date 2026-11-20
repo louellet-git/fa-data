@@ -1,0 +1,1029 @@
+{
+ "version": "2.2",
+ "instance": {
+  "hasi-20251231.htm": {
+   "nsprefix": "hasi",
+   "nsuri": "http://hannonarmstrong.com/20251231",
+   "dts": {
+    "inline": {
+     "local": [
+      "hasi-20251231.htm"
+     ]
+    },
+    "schema": {
+     "local": [
+      "hasi-20251231.xsd"
+     ],
+     "remote": [
+      "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+      "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+      "http://www.xbrl.org/lrr/role/negated-2009-12-16.xsd",
+      "http://www.xbrl.org/lrr/role/net-2009-12-16.xsd",
+      "https://www.xbrl.org/dtr/type/2024-01-31/types.xsd",
+      "https://xbrl.sec.gov/dei/2025/dei-2025.xsd"
+     ]
+    },
+    "labelLink": {
+     "local": [
+      "hasi-20251231_lab.xml"
+     ]
+    },
+    "presentationLink": {
+     "local": [
+      "hasi-20251231_pre.xml"
+     ]
+    }
+   },
+   "keyStandard": 39,
+   "keyCustom": 0,
+   "axisStandard": 0,
+   "axisCustom": 0,
+   "memberStandard": 0,
+   "memberCustom": 0,
+   "hidden": {
+    "total": 4,
+    "http://xbrl.sec.gov/dei/2025": 4
+   },
+   "contextCount": 3,
+   "entityCount": 1,
+   "segmentCount": 0,
+   "elementCount": 41,
+   "unitCount": 2,
+   "baseTaxonomies": {
+    "http://xbrl.sec.gov/dei/2025": 39
+   },
+   "report": {
+    "R1": {
+     "role": "http://hannonarmstrong.com/role/CoverPage",
+     "longName": "0000001 - Document - Cover Page",
+     "shortName": "Cover Page",
+     "isDefault": "true",
+     "groupType": "document",
+     "subGroupType": "",
+     "menuCat": "Cover",
+     "order": "1",
+     "firstAnchor": {
+      "contextRef": "c-1",
+      "name": "dei:DocumentType",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "span",
+       "div",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "hasi-20251231.htm",
+      "first": true,
+      "unique": true
+     },
+     "uniqueAnchor": {
+      "contextRef": "c-1",
+      "name": "dei:DocumentType",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "span",
+       "div",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "hasi-20251231.htm",
+      "first": true,
+      "unique": true
+     }
+    },
+    "R2": {
+     "role": "http://hannonarmstrong.com/role/AuditInformation",
+     "longName": "0000002 - Document - Audit Information",
+     "shortName": "Audit Information",
+     "isDefault": "false",
+     "groupType": "document",
+     "subGroupType": "",
+     "menuCat": "Cover",
+     "order": "2",
+     "firstAnchor": {
+      "contextRef": "c-1",
+      "name": "dei:AuditorName",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "span",
+       "td",
+       "tr",
+       "table",
+       "div",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "hasi-20251231.htm",
+      "first": true,
+      "unique": true
+     },
+     "uniqueAnchor": {
+      "contextRef": "c-1",
+      "name": "dei:AuditorName",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "span",
+       "td",
+       "tr",
+       "table",
+       "div",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "hasi-20251231.htm",
+      "first": true,
+      "unique": true
+     }
+    }
+   },
+   "tag": {
+    "dei_AmendmentDescription": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "AmendmentDescription",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Amendment Description",
+        "label": "Amendment Description",
+        "documentation": "Description of changes contained within amended document."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_AmendmentFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "AmendmentFlag",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Amendment Flag",
+        "label": "Amendment Flag",
+        "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_AuditorFirmId": {
+     "xbrltype": "nonemptySequenceNumberItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "AuditorFirmId",
+     "presentation": [
+      "http://hannonarmstrong.com/role/AuditInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Auditor Firm ID",
+        "label": "Auditor Firm ID",
+        "documentation": "PCAOB issued Audit Firm Identifier"
+       }
+      }
+     },
+     "auth_ref": [
+      "r4",
+      "r5",
+      "r6"
+     ]
+    },
+    "hasi_AuditorInformationAbstract": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://hannonarmstrong.com/20251231",
+     "localname": "AuditorInformationAbstract",
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Auditor Information [Abstract]",
+        "documentation": "Auditor Information [Abstract]"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_AuditorLocation": {
+     "xbrltype": "internationalNameItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "AuditorLocation",
+     "presentation": [
+      "http://hannonarmstrong.com/role/AuditInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Auditor Location",
+        "label": "Auditor Location"
+       }
+      }
+     },
+     "auth_ref": [
+      "r4",
+      "r5",
+      "r6"
+     ]
+    },
+    "dei_AuditorName": {
+     "xbrltype": "internationalNameItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "AuditorName",
+     "presentation": [
+      "http://hannonarmstrong.com/role/AuditInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Auditor Name",
+        "label": "Auditor Name"
+       }
+      }
+     },
+     "auth_ref": [
+      "r4",
+      "r5",
+      "r6"
+     ]
+    },
+    "dei_CityAreaCode": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "CityAreaCode",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "City Area Code",
+        "label": "City Area Code",
+        "documentation": "Area code of city"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_CoverAbstract": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "CoverAbstract",
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Cover [Abstract]",
+        "label": "Cover [Abstract]",
+        "documentation": "Cover page."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_CurrentFiscalYearEndDate": {
+     "xbrltype": "gMonthDayItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "CurrentFiscalYearEndDate",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Current Fiscal Year End Date",
+        "label": "Current Fiscal Year End Date",
+        "documentation": "End date of current fiscal year in the format --MM-DD."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentAnnualReport": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentAnnualReport",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Document Annual Report",
+        "label": "Document Annual Report",
+        "documentation": "Boolean flag that is true only for a form used as an annual report."
+       }
+      }
+     },
+     "auth_ref": [
+      "r4",
+      "r5",
+      "r6"
+     ]
+    },
+    "dei_DocumentFinStmtErrorCorrectionFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentFinStmtErrorCorrectionFlag",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Document Financial Statement Error Correction [Flag]",
+        "label": "Document Financial Statement Error Correction [Flag]",
+        "documentation": "Indicates whether any of the financial statement period in the filing include a restatement due to error correction."
+       }
+      }
+     },
+     "auth_ref": [
+      "r4",
+      "r5",
+      "r6",
+      "r8"
+     ]
+    },
+    "dei_DocumentFiscalPeriodFocus": {
+     "xbrltype": "fiscalPeriodItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentFiscalPeriodFocus",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Document Fiscal Period Focus",
+        "label": "Document Fiscal Period Focus",
+        "documentation": "Fiscal period values are FY, Q1, Q2, and Q3. 1st, 2nd and 3rd quarter 10-Q or 10-QT statements have value Q1, Q2, and Q3 respectively, with 10-K, 10-KT or other fiscal year statements having FY."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentFiscalYearFocus": {
+     "xbrltype": "gYearItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentFiscalYearFocus",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Document Fiscal Year Focus",
+        "label": "Document Fiscal Year Focus",
+        "documentation": "This is focus fiscal year of the document report in YYYY format. For a 2006 annual report, which may also provide financial information from prior periods, fiscal 2006 should be given as the fiscal year focus. Example: 2006."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentPeriodEndDate": {
+     "xbrltype": "dateItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentPeriodEndDate",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Document Period End Date",
+        "label": "Document Period End Date",
+        "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentTransitionReport": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentTransitionReport",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Document Transition Report",
+        "label": "Document Transition Report",
+        "documentation": "Boolean flag that is true only for a form used as a transition report."
+       }
+      }
+     },
+     "auth_ref": [
+      "r7"
+     ]
+    },
+    "dei_DocumentType": {
+     "xbrltype": "submissionTypeItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentType",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Document Type",
+        "label": "Document Type",
+        "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentsIncorporatedByReferenceTextBlock": {
+     "xbrltype": "textBlockItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "DocumentsIncorporatedByReferenceTextBlock",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Documents Incorporated by Reference",
+        "label": "Documents Incorporated by Reference [Text Block]",
+        "documentation": "Documents incorporated by reference."
+       }
+      }
+     },
+     "auth_ref": [
+      "r2"
+     ]
+    },
+    "dei_EntityAddressAddressLine1": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressAddressLine1",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Address, Address Line One",
+        "label": "Entity Address, Address Line One",
+        "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressCityOrTown": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressCityOrTown",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Address, City or Town",
+        "label": "Entity Address, City or Town",
+        "documentation": "Name of the City or Town"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressPostalZipCode": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressPostalZipCode",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Address, Postal Zip Code",
+        "label": "Entity Address, Postal Zip Code",
+        "documentation": "Code for the postal or zip code"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressStateOrProvince": {
+     "xbrltype": "stateOrProvinceItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityAddressStateOrProvince",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Address, State or Province",
+        "label": "Entity Address, State or Province",
+        "documentation": "Name of the state or province."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityCentralIndexKey": {
+     "xbrltype": "centralIndexKeyItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityCentralIndexKey",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Central Index Key",
+        "label": "Entity Central Index Key",
+        "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityCommonStockSharesOutstanding": {
+     "xbrltype": "sharesItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityCommonStockSharesOutstanding",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Common Stock, Shares Outstanding",
+        "label": "Entity Common Stock, Shares Outstanding",
+        "documentation": "Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityCurrentReportingStatus": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityCurrentReportingStatus",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Current Reporting Status",
+        "label": "Entity Current Reporting Status",
+        "documentation": "Indicate 'Yes' or 'No' whether registrants (1) have filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that registrants were required to file such reports), and (2) have been subject to such filing requirements for the past 90 days. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityEmergingGrowthCompany": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityEmergingGrowthCompany",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Emerging Growth Company",
+        "label": "Entity Emerging Growth Company",
+        "documentation": "Indicate if registrant meets the emerging growth company criteria."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityFileNumber": {
+     "xbrltype": "fileNumberItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityFileNumber",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity File Number",
+        "label": "Entity File Number",
+        "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityFilerCategory": {
+     "xbrltype": "filerCategoryItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityFilerCategory",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Filer Category",
+        "label": "Entity Filer Category",
+        "documentation": "Indicate whether the registrant is one of the following: Large Accelerated Filer, Accelerated Filer, Non-accelerated Filer. Definitions of these categories are stated in Rule 12b-2 of the Exchange Act. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityIncorporationStateCountryCode": {
+     "xbrltype": "edgarStateCountryItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityIncorporationStateCountryCode",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Incorporation, State or Country Code",
+        "label": "Entity Incorporation, State or Country Code",
+        "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityInteractiveDataCurrent": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityInteractiveDataCurrent",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Interactive Data Current",
+        "label": "Entity Interactive Data Current",
+        "documentation": "Boolean flag that is true when the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files)."
+       }
+      }
+     },
+     "auth_ref": [
+      "r9"
+     ]
+    },
+    "dei_EntityPublicFloat": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityPublicFloat",
+     "crdr": "credit",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Public Float",
+        "label": "Entity Public Float",
+        "documentation": "The aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant's most recently completed second fiscal quarter."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityRegistrantName": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityRegistrantName",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Registrant Name",
+        "label": "Entity Registrant Name",
+        "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityShellCompany": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityShellCompany",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Shell Company",
+        "label": "Entity Shell Company",
+        "documentation": "Boolean flag that is true when the registrant is a shell company as defined in Rule 12b-2 of the Exchange Act."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntitySmallBusiness": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntitySmallBusiness",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Small Business",
+        "label": "Entity Small Business",
+        "documentation": "Indicates that the company is a Smaller Reporting Company (SRC)."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityTaxIdentificationNumber": {
+     "xbrltype": "employerIdItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityTaxIdentificationNumber",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Tax Identification Number",
+        "label": "Entity Tax Identification Number",
+        "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityVoluntaryFilers": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityVoluntaryFilers",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Voluntary Filers",
+        "label": "Entity Voluntary Filers",
+        "documentation": "Indicate 'Yes' or 'No' if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityWellKnownSeasonedIssuer": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "EntityWellKnownSeasonedIssuer",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Entity Well-known Seasoned Issuer",
+        "label": "Entity Well-known Seasoned Issuer",
+        "documentation": "Indicate 'Yes' or 'No' if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Is used on Form Type: 10-K, 10-Q, 8-K, 20-F, 6-K, 10-K/A, 10-Q/A, 20-F/A, 6-K/A, N-CSR, N-Q, N-1A."
+       }
+      }
+     },
+     "auth_ref": [
+      "r10"
+     ]
+    },
+    "dei_IcfrAuditorAttestationFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "IcfrAuditorAttestationFlag",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "ICFR Auditor Attestation Flag",
+        "label": "ICFR Auditor Attestation Flag"
+       }
+      }
+     },
+     "auth_ref": [
+      "r4",
+      "r5",
+      "r6"
+     ]
+    },
+    "dei_LocalPhoneNumber": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "LocalPhoneNumber",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Local Phone Number",
+        "label": "Local Phone Number",
+        "documentation": "Local phone number for entity."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_Security12bTitle": {
+     "xbrltype": "securityTitleItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "Security12bTitle",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Title of 12(b) Security",
+        "label": "Title of 12(b) Security",
+        "documentation": "Title of a 12(b) registered security."
+       }
+      }
+     },
+     "auth_ref": [
+      "r0"
+     ]
+    },
+    "dei_SecurityExchangeName": {
+     "xbrltype": "edgarExchangeCodeItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "SecurityExchangeName",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Security Exchange Name",
+        "label": "Security Exchange Name",
+        "documentation": "Name of the Exchange on which a security is registered."
+       }
+      }
+     },
+     "auth_ref": [
+      "r3"
+     ]
+    },
+    "dei_TradingSymbol": {
+     "xbrltype": "tradingSymbolItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2025",
+     "localname": "TradingSymbol",
+     "presentation": [
+      "http://hannonarmstrong.com/role/CoverPage"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "terseLabel": "Trading Symbol",
+        "label": "Trading Symbol",
+        "documentation": "Trading symbol of an instrument as listed on an exchange."
+       }
+      }
+     },
+     "auth_ref": []
+    }
+   }
+  }
+ },
+ "std_ref": {
+  "r0": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "b"
+  },
+  "r1": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "b-2"
+  },
+  "r2": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "b-23"
+  },
+  "r3": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "d1-1"
+  },
+  "r4": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 10-K",
+   "Number": "249",
+   "Section": "310"
+  },
+  "r5": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 20-F",
+   "Number": "249",
+   "Section": "220",
+   "Subsection": "f"
+  },
+  "r6": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 40-F",
+   "Number": "249",
+   "Section": "240",
+   "Subsection": "f"
+  },
+  "r7": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Forms 10-K, 10-Q, 20-F",
+   "Number": "240",
+   "Section": "13",
+   "Subsection": "a-1"
+  },
+  "r8": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "w"
+  },
+  "r9": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-T",
+   "Number": "232",
+   "Section": "405"
+  },
+  "r10": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Securities Act",
+   "Number": "230",
+   "Section": "405"
+  }
+ }
+}

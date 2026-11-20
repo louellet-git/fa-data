@@ -1,0 +1,939 @@
+{
+ "version": "2.2",
+ "instance": {
+  "imkt-20250927x10ka.htm": {
+   "nsprefix": "imkta",
+   "nsuri": "http://www.ingles-markets.com/20250927",
+   "dts": {
+    "schema": {
+     "local": [
+      "imkt-20250927.xsd"
+     ],
+     "remote": [
+      "http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xl-2003-12-31.xsd",
+      "http://www.xbrl.org/2003/xlink-2003-12-31.xsd",
+      "http://www.xbrl.org/2005/xbrldt-2005.xsd",
+      "http://www.xbrl.org/2006/ref-2006-02-27.xsd",
+      "https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd",
+      "https://www.xbrl.org/dtr/type/2020-01-21/types.xsd",
+      "https://www.xbrl.org/dtr/type/2022-03-31/types.xsd",
+      "https://xbrl.fasb.org/srt/2024/elts/srt-2024.xsd",
+      "https://xbrl.fasb.org/srt/2024/elts/srt-roles-2024.xsd",
+      "https://xbrl.fasb.org/srt/2024/elts/srt-types-2024.xsd",
+      "https://xbrl.fasb.org/us-gaap/2024/elts/us-gaap-2024.xsd",
+      "https://xbrl.fasb.org/us-gaap/2024/elts/us-roles-2024.xsd",
+      "https://xbrl.fasb.org/us-gaap/2024/elts/us-types-2024.xsd",
+      "https://xbrl.sec.gov/country/2024/country-2024.xsd",
+      "https://xbrl.sec.gov/dei/2024/dei-2024.xsd",
+      "https://xbrl.sec.gov/stpr/2024/stpr-2024.xsd"
+     ]
+    },
+    "definitionLink": {
+     "local": [
+      "imkt-20250927_def.xml"
+     ]
+    },
+    "labelLink": {
+     "local": [
+      "imkt-20250927_lab.xml"
+     ]
+    },
+    "presentationLink": {
+     "local": [
+      "imkt-20250927_pre.xml"
+     ]
+    },
+    "inline": {
+     "local": [
+      "imkt-20250927x10ka.htm"
+     ]
+    }
+   },
+   "keyStandard": 34,
+   "keyCustom": 0,
+   "axisStandard": 1,
+   "axisCustom": 0,
+   "memberStandard": 2,
+   "memberCustom": 0,
+   "hidden": {
+    "total": 8,
+    "http://xbrl.sec.gov/dei/2024": 8
+   },
+   "contextCount": 4,
+   "entityCount": 1,
+   "segmentCount": 2,
+   "elementCount": 41,
+   "unitCount": 2,
+   "baseTaxonomies": {
+    "http://xbrl.sec.gov/dei/2024": 35
+   },
+   "report": {
+    "R1": {
+     "role": "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation",
+     "longName": "00090 - Document - Document and Entity Information",
+     "shortName": "Document and Entity Information",
+     "isDefault": "true",
+     "groupType": "document",
+     "subGroupType": "",
+     "menuCat": "Cover",
+     "order": "1",
+     "firstAnchor": {
+      "contextRef": "Duration_9_29_2024_To_9_27_2025",
+      "name": "dei:DocumentType",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "p",
+       "div",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "imkt-20250927x10ka.htm",
+      "first": true,
+      "unique": true
+     },
+     "uniqueAnchor": {
+      "contextRef": "Duration_9_29_2024_To_9_27_2025",
+      "name": "dei:DocumentType",
+      "unitRef": null,
+      "xsiNil": "false",
+      "lang": "en-US",
+      "decimals": null,
+      "ancestors": [
+       "p",
+       "div",
+       "body",
+       "html"
+      ],
+      "reportCount": 1,
+      "baseRef": "imkt-20250927x10ka.htm",
+      "first": true,
+      "unique": true
+     }
+    }
+   },
+   "tag": {
+    "dei_AmendmentFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "AmendmentFlag",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Amendment Flag",
+        "terseLabel": "Amendment Flag",
+        "documentation": "Boolean flag that is true when the XBRL content amends previously-filed or accepted submission."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_CityAreaCode": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "CityAreaCode",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "City Area Code",
+        "documentation": "Area code of city"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "us-gaap_ClassOfStockDomain": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://fasb.org/us-gaap/2024",
+     "localname": "ClassOfStockDomain",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Class Of Stock [Domain]",
+        "terseLabel": "Class of Stock [Domain]"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "us-gaap_CommonClassAMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://fasb.org/us-gaap/2024",
+     "localname": "CommonClassAMember",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Common Class A [Member]",
+        "terseLabel": "Class A Common Stock"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "us-gaap_CommonClassBMember": {
+     "xbrltype": "domainItemType",
+     "nsuri": "http://fasb.org/us-gaap/2024",
+     "localname": "CommonClassBMember",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Common Class B [Member]",
+        "terseLabel": "Class B Common Stock"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_CoverAbstract": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "CoverAbstract",
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document and Entity Information [Abstract]",
+        "documentation": "Cover page."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_CurrentFiscalYearEndDate": {
+     "xbrltype": "gMonthDayItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "CurrentFiscalYearEndDate",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Current Fiscal Year End Date",
+        "terseLabel": "Current Fiscal Year End Date",
+        "documentation": "End date of current fiscal year in the format --MM-DD."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentAnnualReport": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "DocumentAnnualReport",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Annual Report",
+        "documentation": "Boolean flag that is true only for a form used as an annual report."
+       }
+      }
+     },
+     "auth_ref": [
+      "r3",
+      "r4",
+      "r5"
+     ]
+    },
+    "dei_DocumentFinStmtErrorCorrectionFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "DocumentFinStmtErrorCorrectionFlag",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Financial Statement Error Correction [Flag]",
+        "documentation": "Indicates whether any of the financial statement period in the filing include a restatement due to error correction."
+       }
+      }
+     },
+     "auth_ref": [
+      "r3",
+      "r4",
+      "r5",
+      "r7"
+     ]
+    },
+    "dei_DocumentFiscalPeriodFocus": {
+     "xbrltype": "fiscalPeriodItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "DocumentFiscalPeriodFocus",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Fiscal Period Focus",
+        "terseLabel": "Document Fiscal Period Focus",
+        "documentation": "Fiscal period values are FY, Q1, Q2, and Q3. 1st, 2nd and 3rd quarter 10-Q or 10-QT statements have value Q1, Q2, and Q3 respectively, with 10-K, 10-KT or other fiscal year statements having FY."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentFiscalYearFocus": {
+     "xbrltype": "gYearItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "DocumentFiscalYearFocus",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Fiscal Year Focus",
+        "terseLabel": "Document Fiscal Year Focus",
+        "documentation": "This is focus fiscal year of the document report in YYYY format. For a 2006 annual report, which may also provide financial information from prior periods, fiscal 2006 should be given as the fiscal year focus. Example: 2006."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentPeriodEndDate": {
+     "xbrltype": "dateItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "DocumentPeriodEndDate",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Period End Date",
+        "terseLabel": "Document Period End Date",
+        "documentation": "For the EDGAR submission types of Form 8-K: the date of the report, the date of the earliest event reported; for the EDGAR submission types of Form N-1A: the filing date; for all other submission types: the end of the reporting or transition period. The format of the date is YYYY-MM-DD."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_DocumentTransitionReport": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "DocumentTransitionReport",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Transition Report",
+        "documentation": "Boolean flag that is true only for a form used as a transition report."
+       }
+      }
+     },
+     "auth_ref": [
+      "r6"
+     ]
+    },
+    "dei_DocumentType": {
+     "xbrltype": "submissionTypeItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "DocumentType",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Document Type",
+        "terseLabel": "Document Type",
+        "documentation": "The type of document being provided (such as 10-K, 10-Q, 485BPOS, etc). The document type is limited to the same value as the supporting SEC submission type, or the word 'Other'."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressAddressLine1": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityAddressAddressLine1",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Address, Address Line One",
+        "documentation": "Address Line 1 such as Attn, Building Name, Street Name"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressCityOrTown": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityAddressCityOrTown",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Address, City or Town",
+        "documentation": "Name of the City or Town"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressPostalZipCode": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityAddressPostalZipCode",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Address, Postal Zip Code",
+        "documentation": "Code for the postal or zip code"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityAddressStateOrProvince": {
+     "xbrltype": "stateOrProvinceItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityAddressStateOrProvince",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Address, State or Province",
+        "documentation": "Name of the state or province."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityCentralIndexKey": {
+     "xbrltype": "centralIndexKeyItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityCentralIndexKey",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Central Index Key",
+        "terseLabel": "Entity Central Index Key",
+        "documentation": "A unique 10-digit SEC-issued value to identify entities that have filed disclosures with the SEC. It is commonly abbreviated as CIK."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityCommonStockSharesOutstanding": {
+     "xbrltype": "sharesItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityCommonStockSharesOutstanding",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Common Stock, Shares Outstanding",
+        "documentation": "Indicate number of shares or other units outstanding of each of registrant's classes of capital or common stock or other ownership interests, if and as stated on cover of related periodic report. Where multiple classes or units exist define each class/interest by adding class of stock items such as Common Class A [Member], Common Class B [Member] or Partnership Interest [Member] onto the Instrument [Domain] of the Entity Listings, Instrument."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityCurrentReportingStatus": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityCurrentReportingStatus",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Current Reporting Status",
+        "documentation": "Indicate 'Yes' or 'No' whether registrants (1) have filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that registrants were required to file such reports), and (2) have been subject to such filing requirements for the past 90 days. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityEmergingGrowthCompany": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityEmergingGrowthCompany",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Emerging Growth Company",
+        "documentation": "Indicate if registrant meets the emerging growth company criteria."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityFileNumber": {
+     "xbrltype": "fileNumberItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityFileNumber",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity File Number",
+        "documentation": "Commission file number. The field allows up to 17 characters. The prefix may contain 1-3 digits, the sequence number may contain 1-8 digits, the optional suffix may contain 1-4 characters, and the fields are separated with a hyphen."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityFilerCategory": {
+     "xbrltype": "filerCategoryItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityFilerCategory",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Filer Category",
+        "terseLabel": "Entity Filer Category",
+        "documentation": "Indicate whether the registrant is one of the following: Large Accelerated Filer, Accelerated Filer, Non-accelerated Filer. Definitions of these categories are stated in Rule 12b-2 of the Exchange Act. This information should be based on the registrant's current or most recent filing containing the related disclosure."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityIncorporationStateCountryCode": {
+     "xbrltype": "edgarStateCountryItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityIncorporationStateCountryCode",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Incorporation, State or Country Code",
+        "documentation": "Two-character EDGAR code representing the state or country of incorporation."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityInteractiveDataCurrent": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityInteractiveDataCurrent",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Interactive Data Current",
+        "documentation": "Boolean flag that is true when the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files)."
+       }
+      }
+     },
+     "auth_ref": [
+      "r8"
+     ]
+    },
+    "dei_EntityPublicFloat": {
+     "xbrltype": "monetaryItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityPublicFloat",
+     "crdr": "credit",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Public Float",
+        "documentation": "The aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant's most recently completed second fiscal quarter."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityRegistrantName": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityRegistrantName",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Registrant Name",
+        "documentation": "The exact name of the entity filing the report as specified in its charter, which is required by forms filed with the SEC."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityShellCompany": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityShellCompany",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Shell Company",
+        "documentation": "Boolean flag that is true when the registrant is a shell company as defined in Rule 12b-2 of the Exchange Act."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntitySmallBusiness": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntitySmallBusiness",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Small Business",
+        "documentation": "Indicates that the company is a Smaller Reporting Company (SRC)."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityTaxIdentificationNumber": {
+     "xbrltype": "employerIdItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityTaxIdentificationNumber",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Tax Identification Number",
+        "documentation": "The Tax Identification Number (TIN), also known as an Employer Identification Number (EIN), is a unique 9-digit value assigned by the IRS."
+       }
+      }
+     },
+     "auth_ref": [
+      "r1"
+     ]
+    },
+    "dei_EntityVoluntaryFilers": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityVoluntaryFilers",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Voluntary Filers",
+        "documentation": "Indicate 'Yes' or 'No' if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_EntityWellKnownSeasonedIssuer": {
+     "xbrltype": "yesNoItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "EntityWellKnownSeasonedIssuer",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Entity Well-known Seasoned Issuer",
+        "documentation": "Indicate 'Yes' or 'No' if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Is used on Form Type: 10-K, 10-Q, 8-K, 20-F, 6-K, 10-K/A, 10-Q/A, 20-F/A, 6-K/A, N-CSR, N-Q, N-1A."
+       }
+      }
+     },
+     "auth_ref": [
+      "r9"
+     ]
+    },
+    "dei_IcfrAuditorAttestationFlag": {
+     "xbrltype": "booleanItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "IcfrAuditorAttestationFlag",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "ICFR Auditor Attestation Flag"
+       }
+      }
+     },
+     "auth_ref": [
+      "r3",
+      "r4",
+      "r5"
+     ]
+    },
+    "dei_LocalPhoneNumber": {
+     "xbrltype": "normalizedStringItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "LocalPhoneNumber",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Local Phone Number",
+        "documentation": "Local phone number for entity."
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_Security12bTitle": {
+     "xbrltype": "securityTitleItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "Security12bTitle",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Title of 12(b) Security",
+        "documentation": "Title of a 12(b) registered security."
+       }
+      }
+     },
+     "auth_ref": [
+      "r0"
+     ]
+    },
+    "dei_SecurityExchangeName": {
+     "xbrltype": "edgarExchangeCodeItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "SecurityExchangeName",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Security Exchange Name",
+        "documentation": "Name of the Exchange on which a security is registered."
+       }
+      }
+     },
+     "auth_ref": [
+      "r2"
+     ]
+    },
+    "us-gaap_StatementClassOfStockAxis": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://fasb.org/us-gaap/2024",
+     "localname": "StatementClassOfStockAxis",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Statement Class Of Stock [Axis]"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "us-gaap_StatementLineItems": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://fasb.org/us-gaap/2024",
+     "localname": "StatementLineItems",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Statement [Line Items]"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "us-gaap_StatementTable": {
+     "xbrltype": "stringItemType",
+     "nsuri": "http://fasb.org/us-gaap/2024",
+     "localname": "StatementTable",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Statement [Table]"
+       }
+      }
+     },
+     "auth_ref": []
+    },
+    "dei_TradingSymbol": {
+     "xbrltype": "tradingSymbolItemType",
+     "nsuri": "http://xbrl.sec.gov/dei/2024",
+     "localname": "TradingSymbol",
+     "presentation": [
+      "http://www.ingles-markets.com/role/DocumentDocumentAndEntityInformation"
+     ],
+     "lang": {
+      "en-us": {
+       "role": {
+        "label": "Trading Symbol",
+        "documentation": "Trading symbol of an instrument as listed on an exchange."
+       }
+      }
+     },
+     "auth_ref": []
+    }
+   }
+  }
+ },
+ "std_ref": {
+  "r0": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "b"
+  },
+  "r1": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "b-2"
+  },
+  "r2": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Exchange Act",
+   "Number": "240",
+   "Section": "12",
+   "Subsection": "d1-1"
+  },
+  "r3": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 10-K",
+   "Number": "249",
+   "Section": "310"
+  },
+  "r4": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 20-F",
+   "Number": "249",
+   "Section": "220",
+   "Subsection": "f"
+  },
+  "r5": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Form 40-F",
+   "Number": "249",
+   "Section": "240",
+   "Subsection": "f"
+  },
+  "r6": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Forms 10-K, 10-Q, 20-F",
+   "Number": "240",
+   "Section": "13",
+   "Subsection": "a-1"
+  },
+  "r7": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-K",
+   "Number": "229",
+   "Section": "402",
+   "Subsection": "w"
+  },
+  "r8": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Regulation S-T",
+   "Number": "232",
+   "Section": "405"
+  },
+  "r9": {
+   "role": "http://www.xbrl.org/2003/role/presentationRef",
+   "Publisher": "SEC",
+   "Name": "Securities Act",
+   "Number": "230",
+   "Section": "405"
+  }
+ }
+}
