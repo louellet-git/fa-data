@@ -1,0 +1,96 @@
+{
+  "ticker": "BXP",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.84,
+      "low": 1.81,
+      "high": 1.88,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 1.68,
+      "low": 1.66,
+      "high": 1.71,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 1.78,
+      "low": 1.74,
+      "high": 1.83,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.8,
+      "low": 1.77,
+      "high": 1.83,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.83,
+      "low": 1.82,
+      "high": 1.85,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 7.07,
+      "low": 7.07,
+      "high": 7.07,
+      "numberOfAnalysts": 2.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 7.13,
+      "low": 7.0,
+      "high": 7.22,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 7.36,
+      "low": 7.29,
+      "high": 7.55,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 73.0,
+    "low": 65.0,
+    "high": 83.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 6.0,
+    "hold": 6.0,
+    "sell": 0.0
+  }
+}

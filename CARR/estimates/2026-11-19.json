@@ -1,0 +1,105 @@
+{
+  "ticker": "CARR",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.57,
+      "low": 0.5,
+      "high": 0.65,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+1q": {
+      "avg": 0.55,
+      "low": 0.48,
+      "high": 0.64,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 0.99,
+      "low": 0.96,
+      "high": 1.07,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.9,
+      "low": 0.8,
+      "high": 0.97,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.65,
+      "low": 0.57,
+      "high": 0.76,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 2.85,
+      "low": 2.8,
+      "high": 2.87,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 6.0
+    },
+    "+1y": {
+      "avg": 3.17,
+      "low": 2.99,
+      "high": 3.54,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 5.0
+    },
+    "+2y": {
+      "avg": 3.65,
+      "low": 3.4,
+      "high": 4.41,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 4.5,
+      "low": 3.78,
+      "high": 5.22,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 66.82,
+    "low": 60.0,
+    "high": 75.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 7.0,
+    "hold": 5.0,
+    "sell": 0.0
+  }
+}

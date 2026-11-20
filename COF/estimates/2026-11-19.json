@@ -1,0 +1,96 @@
+{
+  "ticker": "COF",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 4.95,
+      "low": 4.78,
+      "high": 5.17,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+1q": {
+      "avg": 5.78,
+      "low": 5.62,
+      "high": 6.08,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 5.95,
+      "low": 5.51,
+      "high": 6.32,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+3q": {
+      "avg": 6.39,
+      "low": 6.17,
+      "high": 6.81,
+      "numberOfAnalysts": 4.0,
+      "up": 4.0,
+      "down": 1.0
+    },
+    "+4q": {
+      "avg": 5.79,
+      "low": 5.08,
+      "high": 6.37,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 21.56,
+      "low": 19.85,
+      "high": 22.09,
+      "numberOfAnalysts": 8.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 24.01,
+      "low": 23.19,
+      "high": 25.0,
+      "numberOfAnalysts": 8.0,
+      "up": 3.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 27.5,
+      "low": 26.73,
+      "high": 28.31,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 255.38,
+    "low": 225.0,
+    "high": 290.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 13.0,
+    "hold": 3.0,
+    "sell": 0.0
+  }
+}

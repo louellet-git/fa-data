@@ -1,0 +1,105 @@
+{
+  "ticker": "BSX",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.78,
+      "low": 0.77,
+      "high": 0.79,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 7.0
+    },
+    "+1q": {
+      "avg": 0.72,
+      "low": 0.7,
+      "high": 0.77,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+2q": {
+      "avg": 19.59,
+      "low": 0.77,
+      "high": 76.0,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.77,
+      "low": 0.75,
+      "high": 0.8,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.81,
+      "low": 0.8,
+      "high": 0.83,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 3.17,
+      "low": 3.16,
+      "high": 3.18,
+      "numberOfAnalysts": 11.0,
+      "up": 1.0,
+      "down": 9.0
+    },
+    "+1y": {
+      "avg": 3.09,
+      "low": 3.02,
+      "high": 3.18,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 11.0
+    },
+    "+2y": {
+      "avg": 3.3,
+      "low": 3.24,
+      "high": 3.41,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 3.49,
+      "low": 3.4,
+      "high": 3.58,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 50.05,
+    "low": 44.0,
+    "high": 60.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 14.0,
+    "hold": 8.0,
+    "sell": 0.0
+  }
+}

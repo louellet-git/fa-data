@@ -1,0 +1,20 @@
+{
+  "ticker": "CBOE",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {},
+  "analyst_price_targets": {
+    "mean": 361.27,
+    "low": 300.0,
+    "high": 461.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "targets"
+  ],
+  "ratings": {
+    "buy": 4.0,
+    "hold": 7.0,
+    "sell": 1.0
+  }
+}

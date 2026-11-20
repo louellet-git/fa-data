@@ -1,0 +1,105 @@
+{
+  "ticker": "CMCSA",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.65,
+      "low": 0.58,
+      "high": 0.75,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 6.0
+    },
+    "+1q": {
+      "avg": 0.8,
+      "low": 0.59,
+      "high": 0.93,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 1.0,
+      "low": 0.93,
+      "high": 1.08,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.99,
+      "low": 0.98,
+      "high": 1.01,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.79,
+      "low": 0.68,
+      "high": 0.92,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 3.54,
+      "low": 3.41,
+      "high": 3.66,
+      "numberOfAnalysts": 6.0,
+      "up": 5.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 3.54,
+      "low": 3.32,
+      "high": 3.94,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 5.0
+    },
+    "+2y": {
+      "avg": 3.81,
+      "low": 3.31,
+      "high": 4.64,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 4.33,
+      "low": 3.36,
+      "high": 5.05,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 27.42,
+    "low": 23.0,
+    "high": 36.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 4.0,
+    "hold": 8.0,
+    "sell": 2.0
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "ticker": "CMG",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.25,
+      "low": 0.24,
+      "high": 0.36,
+      "numberOfAnalysts": 12.0,
+      "up": 1.0,
+      "down": 10.0
+    },
+    "+1q": {
+      "avg": 0.31,
+      "low": 0.29,
+      "high": 0.32,
+      "numberOfAnalysts": 9.0,
+      "up": 1.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 0.38,
+      "low": 0.37,
+      "high": 0.39,
+      "numberOfAnalysts": 9.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.34,
+      "low": 0.32,
+      "high": 0.36,
+      "numberOfAnalysts": 9.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.3,
+      "low": 0.27,
+      "high": 0.36,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 1.1,
+      "low": 1.08,
+      "high": 1.2,
+      "numberOfAnalysts": 15.0,
+      "up": 0.0,
+      "down": 13.0
+    },
+    "+1y": {
+      "avg": 1.32,
+      "low": 1.22,
+      "high": 1.4,
+      "numberOfAnalysts": 15.0,
+      "up": 2.0,
+      "down": 10.0
+    },
+    "+2y": {
+      "avg": 1.53,
+      "low": 1.42,
+      "high": 1.61,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 1.66,
+      "low": 1.58,
+      "high": 1.74,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 39.53,
+    "low": 32.0,
+    "high": 51.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 13.0,
+    "hold": 7.0,
+    "sell": 0.0
+  }
+}

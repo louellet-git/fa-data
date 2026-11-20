@@ -1,0 +1,105 @@
+{
+  "ticker": "CCL",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.22,
+      "low": 0.2,
+      "high": 0.26,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 0.16,
+      "low": 0.07,
+      "high": 0.3,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 0.45,
+      "low": 0.42,
+      "high": 0.48,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.54,
+      "low": 1.46,
+      "high": 1.6,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.4,
+      "low": 0.33,
+      "high": 0.53,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 2.26,
+      "low": 2.24,
+      "high": 2.3,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 2.56,
+      "low": 2.44,
+      "high": 2.72,
+      "numberOfAnalysts": 9.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 2.98,
+      "low": 2.83,
+      "high": 3.36,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 3.31,
+      "low": 3.31,
+      "high": 3.31,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 34.4,
+    "low": 28.7,
+    "high": 42.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-11",
+    "+1q": "2027-02",
+    "+2q": "2027-05",
+    "+3q": "2027-08",
+    "+4q": "2027-11",
+    "0y": "2026-11",
+    "+1y": "2027-11",
+    "+2y": "2028-11",
+    "+3y": "2029-11"
+  },
+  "ratings": {
+    "buy": 17.0,
+    "hold": 4.0,
+    "sell": 0.0
+  }
+}

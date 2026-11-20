@@ -1,0 +1,14 @@
+{
+  "ticker": "COIN",
+  "updated": "2026-11-19",
+  "past": [],
+  "next": {
+    "date": "2027-02-11",
+    "time": "-",
+    "fiscal_quarter": "",
+    "eps_forecast": null,
+    "estimates": null,
+    "source": "estimate: report date of a year ago + 364 days"
+  },
+  "scanned_through": "2027-01-15"
+}

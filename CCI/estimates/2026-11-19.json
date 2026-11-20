@@ -1,0 +1,105 @@
+{
+  "ticker": "CCI",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.18,
+      "low": 1.14,
+      "high": 1.24,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 1.13,
+      "low": 1.01,
+      "high": 1.19,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 1.15,
+      "low": 1.05,
+      "high": 1.22,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.22,
+      "low": 1.19,
+      "high": 1.26,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.22,
+      "low": 1.19,
+      "high": 1.27,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 4.42,
+      "low": 4.39,
+      "high": 4.49,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 4.76,
+      "low": 4.44,
+      "high": 5.0,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 4.95,
+      "low": 4.78,
+      "high": 5.16,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 5.36,
+      "low": 5.36,
+      "high": 5.36,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 91.38,
+    "low": 80.0,
+    "high": 105.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 7.0,
+    "hold": 5.0,
+    "sell": 1.0
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "ticker": "BX",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.71,
+      "low": 1.54,
+      "high": 1.85,
+      "numberOfAnalysts": 9.0,
+      "up": 2.0,
+      "down": 3.0
+    },
+    "+1q": {
+      "avg": 1.57,
+      "low": 1.38,
+      "high": 1.81,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 1.66,
+      "low": 1.47,
+      "high": 1.84,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.78,
+      "low": 1.61,
+      "high": 1.94,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.34,
+      "low": 1.92,
+      "high": 2.5,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.91,
+      "low": 5.73,
+      "high": 6.08,
+      "numberOfAnalysts": 11.0,
+      "up": 4.0,
+      "down": 3.0
+    },
+    "+1y": {
+      "avg": 7.43,
+      "low": 6.94,
+      "high": 8.02,
+      "numberOfAnalysts": 11.0,
+      "up": 5.0,
+      "down": 3.0
+    },
+    "+2y": {
+      "avg": 7.89,
+      "low": 7.04,
+      "high": 8.38,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 9.6,
+      "low": 9.21,
+      "high": 9.99,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 137.59,
+    "low": 118.0,
+    "high": 169.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 9.0,
+    "hold": 7.0,
+    "sell": 0.0
+  }
+}

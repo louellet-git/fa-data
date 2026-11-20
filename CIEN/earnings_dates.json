@@ -1,0 +1,14 @@
+{
+  "ticker": "CIEN",
+  "updated": "2026-11-19",
+  "past": [],
+  "next": {
+    "date": "2026-12-10",
+    "time": "pre-market",
+    "fiscal_quarter": "2026-10",
+    "eps_forecast": 1.77,
+    "estimates": 8.0,
+    "source": "nasdaq calendar"
+  },
+  "scanned_through": "2027-01-15"
+}

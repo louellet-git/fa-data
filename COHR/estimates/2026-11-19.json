@@ -1,0 +1,96 @@
+{
+  "ticker": "COHR",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.14,
+      "low": 2.05,
+      "high": 2.21,
+      "numberOfAnalysts": 9.0,
+      "up": 8.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 2.47,
+      "low": 2.23,
+      "high": 2.65,
+      "numberOfAnalysts": 9.0,
+      "up": 8.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 2.77,
+      "low": 2.3,
+      "high": 3.12,
+      "numberOfAnalysts": 9.0,
+      "up": 8.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.12,
+      "low": 2.81,
+      "high": 3.45,
+      "numberOfAnalysts": 8.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.48,
+      "low": 3.01,
+      "high": 3.82,
+      "numberOfAnalysts": 8.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 9.18,
+      "low": 8.47,
+      "high": 9.8,
+      "numberOfAnalysts": 11.0,
+      "up": 9.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 14.39,
+      "low": 12.34,
+      "high": 16.23,
+      "numberOfAnalysts": 10.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 20.36,
+      "low": 18.18,
+      "high": 22.64,
+      "numberOfAnalysts": 3.0,
+      "up": 3.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 350.87,
+    "low": 228.0,
+    "high": 500.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-06",
+    "+1y": "2028-06",
+    "+2y": "2029-06"
+  },
+  "ratings": {
+    "buy": 12.0,
+    "hold": 3.0,
+    "sell": 0.0
+  }
+}

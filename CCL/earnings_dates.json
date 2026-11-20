@@ -1,0 +1,14 @@
+{
+  "ticker": "CCL",
+  "updated": "2026-11-19",
+  "past": [],
+  "next": {
+    "date": "2026-12-18",
+    "time": "not-supplied",
+    "fiscal_quarter": "2026-11",
+    "eps_forecast": 0.22,
+    "estimates": 7.0,
+    "source": "nasdaq calendar"
+  },
+  "scanned_through": "2027-01-15"
+}

@@ -1,0 +1,105 @@
+{
+  "ticker": "CLX",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.08,
+      "low": 0.9,
+      "high": 1.57,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 5.0
+    },
+    "+1q": {
+      "avg": 1.56,
+      "low": 1.39,
+      "high": 1.91,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 5.0
+    },
+    "+2q": {
+      "avg": 1.67,
+      "low": 1.55,
+      "high": 1.77,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+3q": {
+      "avg": 1.33,
+      "low": 0.78,
+      "high": 1.74,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.31,
+      "low": 1.1,
+      "high": 1.67,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 5.74,
+      "low": 5.65,
+      "high": 5.8,
+      "numberOfAnalysts": 9.0,
+      "up": 4.0,
+      "down": 2.0
+    },
+    "+1y": {
+      "avg": 6.14,
+      "low": 5.82,
+      "high": 6.41,
+      "numberOfAnalysts": 8.0,
+      "up": 3.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 6.63,
+      "low": 6.03,
+      "high": 7.42,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+3y": {
+      "avg": 7.19,
+      "low": 6.74,
+      "high": 7.65,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 90.42,
+    "low": 74.0,
+    "high": 105.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-06",
+    "+1y": "2028-06",
+    "+2y": "2029-06",
+    "+3y": "2030-06"
+  },
+  "ratings": {
+    "buy": 0.0,
+    "hold": 9.0,
+    "sell": 3.0
+  }
+}
