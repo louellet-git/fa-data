@@ -1,0 +1,91 @@
+{
+  "ticker": "JNJ",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {
+    "0q": {
+      "avg": 26403974030.0,
+      "low": 26229000000.0,
+      "high": 26683000000.0,
+      "numberOfAnalysts": 15.0,
+      "yearAgoRevenue": 24564000000.0,
+      "growth": 0.0749,
+      "currency": null
+    },
+    "+1q": {
+      "avg": 25550550170.0,
+      "low": 25297000000.0,
+      "high": 26204000000.0,
+      "numberOfAnalysts": 6.0,
+      "yearAgoRevenue": 24062000000.0,
+      "growth": 0.0619,
+      "currency": null
+    },
+    "0y": {
+      "avg": 101210936420.0,
+      "low": 101000000000.0,
+      "high": 101468791000.0,
+      "numberOfAnalysts": 21.0,
+      "yearAgoRevenue": 94193000000.0,
+      "growth": 0.0745,
+      "currency": null
+    },
+    "+1y": {
+      "avg": 107640009600.0,
+      "low": 106298000000.0,
+      "high": 109954857040.0,
+      "numberOfAnalysts": 21.0,
+      "yearAgoRevenue": 101210936420.0,
+      "growth": 0.0635,
+      "currency": null
+    }
+  },
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.91563,
+      "low": 2.86,
+      "high": 2.97,
+      "yearAgoEps": 2.46,
+      "numberOfAnalysts": 17.0,
+      "growth": 0.1852,
+      "currency": null,
+      "methodology": null
+    },
+    "+1q": {
+      "avg": 2.67387,
+      "low": 2.57,
+      "high": 2.86706,
+      "yearAgoEps": 2.7,
+      "numberOfAnalysts": 7.0,
+      "growth": -0.0097,
+      "currency": null,
+      "methodology": null
+    },
+    "0y": {
+      "avg": 11.11973,
+      "low": 11.05,
+      "high": 11.28,
+      "yearAgoEps": 10.79,
+      "numberOfAnalysts": 21.0,
+      "growth": 0.0306,
+      "currency": null,
+      "methodology": null
+    },
+    "+1y": {
+      "avg": 11.60513,
+      "low": 10.75,
+      "high": 13.33585,
+      "yearAgoEps": 11.11973,
+      "numberOfAnalysts": 22.0,
+      "growth": 0.0437,
+      "currency": null,
+      "methodology": null
+    }
+  },
+  "analyst_price_targets": {
+    "current": 272.7,
+    "high": 320.0,
+    "low": 190.0,
+    "mean": 280.18182,
+    "median": 283.0
+  }
+}

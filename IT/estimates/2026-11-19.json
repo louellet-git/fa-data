@@ -1,0 +1,105 @@
+{
+  "ticker": "IT",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.82,
+      "low": 3.75,
+      "high": 3.88,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 3.78,
+      "low": 3.56,
+      "high": 3.92,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 4.87,
+      "low": 4.74,
+      "high": 4.96,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.65,
+      "low": 3.55,
+      "high": 3.71,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 4.41,
+      "low": 4.16,
+      "high": 4.61,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 15.02,
+      "low": 14.8,
+      "high": 15.15,
+      "numberOfAnalysts": 6.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 16.5,
+      "low": 15.07,
+      "high": 17.33,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 18.34,
+      "low": 16.77,
+      "high": 19.67,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 21.14,
+      "low": 18.53,
+      "high": 23.75,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 194.63,
+    "low": 170.0,
+    "high": 220.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 0.0,
+    "hold": 6.0,
+    "sell": 3.0
+  }
+}

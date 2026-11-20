@@ -1,0 +1,14 @@
+{
+  "ticker": "JBL",
+  "updated": "2026-11-19",
+  "past": [],
+  "next": {
+    "date": "2026-12-16",
+    "time": "not-supplied",
+    "fiscal_quarter": "2026-11",
+    "eps_forecast": 3.64,
+    "estimates": 4.0,
+    "source": "nasdaq calendar"
+  },
+  "scanned_through": "2027-01-15"
+}

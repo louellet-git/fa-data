@@ -1,0 +1,105 @@
+{
+  "ticker": "JBHT",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.03,
+      "low": 1.94,
+      "high": 2.16,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 1.82,
+      "low": 1.63,
+      "high": 2.0,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 2.35,
+      "low": 2.13,
+      "high": 2.45,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.71,
+      "low": 2.61,
+      "high": 2.76,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.88,
+      "low": 2.75,
+      "high": 3.04,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 7.25,
+      "low": 7.16,
+      "high": 7.38,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 9.67,
+      "low": 9.08,
+      "high": 10.2,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 10.88,
+      "low": 9.62,
+      "high": 12.3,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 11.68,
+      "low": 11.68,
+      "high": 11.68,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 283.55,
+    "low": 195.0,
+    "high": 325.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 12.0,
+    "hold": 7.0,
+    "sell": 1.0
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "ticker": "JBL",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.64,
+      "low": 3.54,
+      "high": 3.93,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 3.8,
+      "low": 3.44,
+      "high": 4.19,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 4.28,
+      "low": 4.14,
+      "high": 4.39,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 4.82,
+      "low": 4.2,
+      "high": 5.38,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 4.55,
+      "low": 4.23,
+      "high": 4.93,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 16.53,
+      "low": 16.45,
+      "high": 16.58,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 20.6,
+      "low": 19.53,
+      "high": 22.11,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 435.0,
+    "low": 378.0,
+    "high": 475.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-11",
+    "+1q": "2027-02",
+    "+2q": "2027-05",
+    "+3q": "2027-08",
+    "+4q": "2027-11",
+    "0y": "2027-08",
+    "+1y": "2028-08"
+  },
+  "ratings": {
+    "buy": 7.0,
+    "hold": 0.0,
+    "sell": 0.0
+  }
+}

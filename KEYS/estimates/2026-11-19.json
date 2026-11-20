@@ -1,0 +1,96 @@
+{
+  "ticker": "KEYS",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.09,
+      "low": 3.07,
+      "high": 3.11,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 2.81,
+      "low": 2.79,
+      "high": 2.83,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 3.0,
+      "low": 2.98,
+      "high": 3.01,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.18,
+      "low": 3.14,
+      "high": 3.21,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.45,
+      "low": 3.41,
+      "high": 3.48,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 10.33,
+      "low": 10.28,
+      "high": 10.44,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 13.06,
+      "low": 12.39,
+      "high": 14.56,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 13.37,
+      "low": 13.37,
+      "high": 13.37,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 429.25,
+    "low": 400.0,
+    "high": 487.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-10",
+    "+1q": "2027-01",
+    "+2q": "2027-04",
+    "+3q": "2027-07",
+    "+4q": "2027-10",
+    "0y": "2026-10",
+    "+1y": "2027-10",
+    "+2y": "2028-10"
+  },
+  "ratings": {
+    "buy": 4.0,
+    "hold": 1.0,
+    "sell": 0.0
+  }
+}

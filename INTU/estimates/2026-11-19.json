@@ -1,0 +1,105 @@
+{
+  "ticker": "INTU",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.47,
+      "low": 2.44,
+      "high": 2.5,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 3.7,
+      "low": 3.41,
+      "high": 4.05,
+      "numberOfAnalysts": 10.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 13.47,
+      "low": 13.02,
+      "high": 13.79,
+      "numberOfAnalysts": 9.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.46,
+      "low": 3.08,
+      "high": 3.83,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+4q": {
+      "avg": 3.11,
+      "low": 2.83,
+      "high": 3.54,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 23.03,
+      "low": 22.96,
+      "high": 23.07,
+      "numberOfAnalysts": 11.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 26.28,
+      "low": 24.69,
+      "high": 27.0,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 29.95,
+      "low": 27.94,
+      "high": 31.96,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 30.05,
+      "low": 30.05,
+      "high": 30.05,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 377.9,
+    "low": 290.0,
+    "high": 550.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-10",
+    "+1q": "2027-01",
+    "+2q": "2027-04",
+    "+3q": "2027-07",
+    "+4q": "2027-10",
+    "0y": "2027-07",
+    "+1y": "2028-07",
+    "+2y": "2029-07",
+    "+3y": "2030-07"
+  },
+  "ratings": {
+    "buy": 12.0,
+    "hold": 9.0,
+    "sell": 2.0
+  }
+}

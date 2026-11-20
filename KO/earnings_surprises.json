@@ -1,0 +1,35 @@
+{
+  "ticker": "KO",
+  "source": "nasdaq",
+  "fetched": "2026-11-19",
+  "rows": [
+    {
+      "fiscal_qtr_end": "2026-09",
+      "date": "2026-10-27",
+      "eps": 0.91,
+      "consensus": 0.87,
+      "pct": 4.6
+    },
+    {
+      "fiscal_qtr_end": "2026-06",
+      "date": "2026-07-28",
+      "eps": 0.97,
+      "consensus": 0.92,
+      "pct": 5.43
+    },
+    {
+      "fiscal_qtr_end": "2026-03",
+      "date": "2026-04-28",
+      "eps": 0.86,
+      "consensus": 0.81,
+      "pct": 6.17
+    },
+    {
+      "fiscal_qtr_end": "2025-12",
+      "date": "2026-02-10",
+      "eps": 0.58,
+      "consensus": 0.57,
+      "pct": 1.75
+    }
+  ]
+}

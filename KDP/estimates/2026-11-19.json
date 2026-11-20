@@ -1,0 +1,105 @@
+{
+  "ticker": "KDP",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.67,
+      "low": 0.61,
+      "high": 0.71,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 0.45,
+      "low": 0.34,
+      "high": 0.49,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 0.65,
+      "low": 0.61,
+      "high": 0.69,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+3q": {
+      "avg": 0.71,
+      "low": 0.68,
+      "high": 0.81,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+4q": {
+      "avg": 0.72,
+      "low": 0.67,
+      "high": 0.74,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 2.31,
+      "low": 2.29,
+      "high": 2.33,
+      "numberOfAnalysts": 7.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 2.53,
+      "low": 2.42,
+      "high": 2.67,
+      "numberOfAnalysts": 8.0,
+      "up": 2.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 2.76,
+      "low": 2.71,
+      "high": 2.87,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+3y": {
+      "avg": 2.99,
+      "low": 2.99,
+      "high": 2.99,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 39.69,
+    "low": 35.0,
+    "high": 42.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 12.0,
+    "hold": 1.0,
+    "sell": 0.0
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ticker": "IRM",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.45,
+      "low": 1.45,
+      "high": 1.45,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.42,
+      "low": 1.42,
+      "high": 1.42,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 1.44,
+      "low": 1.44,
+      "high": 1.44,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.5,
+      "low": 1.5,
+      "high": 1.5,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.62,
+      "low": 1.62,
+      "high": 1.62,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.51,
+      "low": 5.47,
+      "high": 5.54,
+      "numberOfAnalysts": 2.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 5.99,
+      "low": 5.99,
+      "high": 6.0,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 6.69,
+      "low": 6.69,
+      "high": 6.69,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 141.44,
+    "low": 124.0,
+    "high": 155.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 9.0,
+    "hold": 0.0,
+    "sell": 0.0
+  }
+}

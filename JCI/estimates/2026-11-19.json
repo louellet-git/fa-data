@@ -1,0 +1,105 @@
+{
+  "ticker": "JCI",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.16,
+      "low": 1.07,
+      "high": 1.21,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 1.47,
+      "low": 1.43,
+      "high": 1.52,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 1.72,
+      "low": 1.67,
+      "high": 1.76,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.94,
+      "low": 1.92,
+      "high": 1.99,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.37,
+      "low": 1.25,
+      "high": 1.5,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 6.3,
+      "low": 6.19,
+      "high": 6.36,
+      "numberOfAnalysts": 8.0,
+      "up": 5.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 7.51,
+      "low": 7.23,
+      "high": 7.73,
+      "numberOfAnalysts": 8.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 8.58,
+      "low": 8.25,
+      "high": 8.89,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 9.63,
+      "low": 9.24,
+      "high": 10.01,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 175.73,
+    "low": 160.0,
+    "high": 200.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-09",
+    "+1y": "2028-09",
+    "+2y": "2029-09",
+    "+3y": "2030-09"
+  },
+  "ratings": {
+    "buy": 6.0,
+    "hold": 6.0,
+    "sell": 0.0
+  }
+}

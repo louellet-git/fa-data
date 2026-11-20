@@ -1,0 +1,105 @@
+{
+  "ticker": "JPM",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 5.94,
+      "low": 5.65,
+      "high": 6.4,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 6.19,
+      "low": 6.04,
+      "high": 6.41,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 6.44,
+      "low": 6.33,
+      "high": 6.58,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 6.6,
+      "low": 6.53,
+      "high": 6.71,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 6.68,
+      "low": 6.45,
+      "high": 6.91,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 23.95,
+      "low": 23.48,
+      "high": 24.92,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+1y": {
+      "avg": 25.87,
+      "low": 25.33,
+      "high": 27.14,
+      "numberOfAnalysts": 10.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 27.49,
+      "low": 26.62,
+      "high": 28.29,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 28.25,
+      "low": 28.25,
+      "high": 28.25,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 373.81,
+    "low": 312.0,
+    "high": 425.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 10.0,
+    "hold": 7.0,
+    "sell": 0.0
+  }
+}

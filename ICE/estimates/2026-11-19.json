@@ -1,0 +1,105 @@
+{
+  "ticker": "ICE",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.93,
+      "low": 1.84,
+      "high": 2.0,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+1q": {
+      "avg": 2.18,
+      "low": 2.12,
+      "high": 2.23,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 2.2,
+      "low": 2.17,
+      "high": 2.25,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.29,
+      "low": 2.21,
+      "high": 2.34,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.3,
+      "low": 2.26,
+      "high": 2.36,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 8.21,
+      "low": 8.1,
+      "high": 8.36,
+      "numberOfAnalysts": 8.0,
+      "up": 3.0,
+      "down": 2.0
+    },
+    "+1y": {
+      "avg": 9.03,
+      "low": 8.87,
+      "high": 9.15,
+      "numberOfAnalysts": 8.0,
+      "up": 6.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 10.1,
+      "low": 9.87,
+      "high": 10.33,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 11.34,
+      "low": 11.08,
+      "high": 11.6,
+      "numberOfAnalysts": 2.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 191.36,
+    "low": 167.0,
+    "high": 245.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 8.0,
+    "hold": 2.0,
+    "sell": 1.0
+  }
+}

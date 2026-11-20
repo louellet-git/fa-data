@@ -1,0 +1,105 @@
+{
+  "ticker": "KMB",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.69,
+      "low": 1.49,
+      "high": 1.93,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 1.69,
+      "low": 1.65,
+      "high": 1.74,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 1.85,
+      "low": 1.82,
+      "high": 1.88,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.83,
+      "low": 1.81,
+      "high": 1.85,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.91,
+      "low": 1.81,
+      "high": 2.01,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 6.87,
+      "low": 3.58,
+      "high": 7.47,
+      "numberOfAnalysts": 7.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 7.1,
+      "low": 6.55,
+      "high": 7.47,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 7.93,
+      "low": 7.18,
+      "high": 8.58,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 8.23,
+      "low": 7.81,
+      "high": 8.66,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 116.36,
+    "low": 90.0,
+    "high": 162.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 4.0,
+    "hold": 7.0,
+    "sell": 0.0
+  }
+}

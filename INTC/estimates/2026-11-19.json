@@ -1,0 +1,96 @@
+{
+  "ticker": "INTC",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.15,
+      "low": 0.11,
+      "high": 0.17,
+      "numberOfAnalysts": 12.0,
+      "up": 0.0,
+      "down": 11.0
+    },
+    "+1q": {
+      "avg": 0.17,
+      "low": 0.1,
+      "high": 0.27,
+      "numberOfAnalysts": 12.0,
+      "up": 0.0,
+      "down": 11.0
+    },
+    "+2q": {
+      "avg": 0.25,
+      "low": 0.16,
+      "high": 0.34,
+      "numberOfAnalysts": 12.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.38,
+      "low": 0.23,
+      "high": 0.55,
+      "numberOfAnalysts": 12.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.45,
+      "low": 0.26,
+      "high": 0.79,
+      "numberOfAnalysts": 12.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 1.04,
+      "low": 0.76,
+      "high": 1.09,
+      "numberOfAnalysts": 17.0,
+      "up": 4.0,
+      "down": 9.0
+    },
+    "+1y": {
+      "avg": 1.31,
+      "low": 0.82,
+      "high": 1.83,
+      "numberOfAnalysts": 18.0,
+      "up": 4.0,
+      "down": 12.0
+    },
+    "+2y": {
+      "avg": 3.23,
+      "low": 3.23,
+      "high": 3.23,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 90.93,
+    "low": 70.0,
+    "high": 145.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 7.0,
+    "hold": 24.0,
+    "sell": 1.0
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ticker": "IQV",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.28,
+      "low": 3.25,
+      "high": 3.36,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 2.88,
+      "low": 2.86,
+      "high": 2.9,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 2.93,
+      "low": 2.8,
+      "high": 3.17,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.12,
+      "low": 3.06,
+      "high": 3.21,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.68,
+      "low": 3.52,
+      "high": 3.81,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 11.53,
+      "low": 11.45,
+      "high": 11.59,
+      "numberOfAnalysts": 8.0,
+      "up": 3.0,
+      "down": 4.0
+    },
+    "+1y": {
+      "avg": 12.65,
+      "low": 11.92,
+      "high": 13.66,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 6.0
+    },
+    "+2y": {
+      "avg": 14.13,
+      "low": 13.81,
+      "high": 14.45,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 314.14,
+    "low": 270.0,
+    "high": 346.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 12.0,
+    "hold": 2.0,
+    "sell": 0.0
+  }
+}

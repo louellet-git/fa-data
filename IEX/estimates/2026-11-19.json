@@ -1,0 +1,105 @@
+{
+  "ticker": "IEX",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.3,
+      "low": 2.27,
+      "high": 2.33,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 2.2,
+      "low": 2.16,
+      "high": 2.26,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 2.48,
+      "low": 2.41,
+      "high": 2.53,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.55,
+      "low": 2.47,
+      "high": 2.63,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.53,
+      "low": 2.47,
+      "high": 2.64,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 8.95,
+      "low": 8.92,
+      "high": 8.98,
+      "numberOfAnalysts": 9.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 9.81,
+      "low": 9.55,
+      "high": 10.15,
+      "numberOfAnalysts": 9.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 11.08,
+      "low": 10.93,
+      "high": 11.36,
+      "numberOfAnalysts": 3.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 12.64,
+      "low": 12.16,
+      "high": 13.11,
+      "numberOfAnalysts": 2.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 266.2,
+    "low": 245.0,
+    "high": 283.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 8.0,
+    "hold": 2.0,
+    "sell": 0.0
+  }
+}

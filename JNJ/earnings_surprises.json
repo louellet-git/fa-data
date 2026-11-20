@@ -1,0 +1,35 @@
+{
+  "ticker": "JNJ",
+  "source": "nasdaq",
+  "fetched": "2026-11-19",
+  "rows": [
+    {
+      "fiscal_qtr_end": "2026-09",
+      "date": "2026-10-13",
+      "eps": 2.59,
+      "consensus": 2.53,
+      "pct": 2.37
+    },
+    {
+      "fiscal_qtr_end": "2026-06",
+      "date": "2026-07-15",
+      "eps": 2.9,
+      "consensus": 2.84,
+      "pct": 2.11
+    },
+    {
+      "fiscal_qtr_end": "2026-03",
+      "date": "2026-04-14",
+      "eps": 2.7,
+      "consensus": 2.67,
+      "pct": 1.12
+    },
+    {
+      "fiscal_qtr_end": "2025-12",
+      "date": "2026-01-21",
+      "eps": 2.46,
+      "consensus": 2.43,
+      "pct": 1.23
+    }
+  ]
+}

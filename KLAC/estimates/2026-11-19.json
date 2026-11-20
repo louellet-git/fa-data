@@ -1,0 +1,105 @@
+{
+  "ticker": "KLAC",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.44,
+      "low": 1.43,
+      "high": 1.45,
+      "numberOfAnalysts": 7.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.49,
+      "low": 1.36,
+      "high": 1.56,
+      "numberOfAnalysts": 7.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 1.56,
+      "low": 1.44,
+      "high": 1.68,
+      "numberOfAnalysts": 7.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.66,
+      "low": 1.53,
+      "high": 1.79,
+      "numberOfAnalysts": 6.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.74,
+      "low": 1.58,
+      "high": 1.88,
+      "numberOfAnalysts": 6.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.73,
+      "low": 5.33,
+      "high": 5.9,
+      "numberOfAnalysts": 11.0,
+      "up": 9.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 7.01,
+      "low": 6.5,
+      "high": 7.62,
+      "numberOfAnalysts": 8.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 8.11,
+      "low": 6.64,
+      "high": 8.99,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 9.12,
+      "low": 8.33,
+      "high": 9.91,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 223.44,
+    "low": 180.0,
+    "high": 275.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-06",
+    "+1y": "2028-06",
+    "+2y": "2029-06",
+    "+3y": "2030-06"
+  },
+  "ratings": {
+    "buy": 13.0,
+    "hold": 4.0,
+    "sell": 0.0
+  }
+}

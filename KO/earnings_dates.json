@@ -1,0 +1,35 @@
+{
+  "ticker": "KO",
+  "updated": "2026-11-19",
+  "past": [
+    {
+      "date": "2026-10-27",
+      "fiscal_qtr_end": "2026-09",
+      "source": "nasdaq"
+    },
+    {
+      "date": "2026-07-28",
+      "fiscal_qtr_end": "2026-06",
+      "source": "nasdaq"
+    },
+    {
+      "date": "2026-04-28",
+      "fiscal_qtr_end": "2026-03",
+      "source": "nasdaq"
+    },
+    {
+      "date": "2026-02-10",
+      "fiscal_qtr_end": "2025-12",
+      "source": "nasdaq"
+    }
+  ],
+  "next": {
+    "date": "2027-02-09",
+    "time": "-",
+    "fiscal_quarter": "",
+    "eps_forecast": null,
+    "estimates": null,
+    "source": "estimate: report date of a year ago + 364 days"
+  },
+  "scanned_through": "2027-01-15"
+}
