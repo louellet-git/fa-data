@@ -51,6 +51,22 @@ government. The price, estimate and option data come from sites that have their 
 of use. The owner decided on 2026-11-20 that this repo is public for now. If a source
 asks, the owner makes the repo private or removes that data.
 
+## How the Head of Technology updates the store
+
+1. On one machine with the main repo built, bring the cache up to date: `fa sync` for the
+   data sets, or `fa prices get --tickers-file <list> --source nasdaq` for the prices. A
+   ticker that has a price file gets only the new days.
+2. Copy the changed files from `data/raw` into the clone of this repo. Do not copy
+   `company_facts.json` when `company_facts.json.gz` exists.
+3. Scan the new files for a key or a token before the push.
+4. Change the dates in `SNAPSHOT.md`.
+5. Commit and push in parts: less than 40 MB for compressed files, less than 70 MB for
+   text files.
+6. Tell the other heads that a newer copy is available.
+
+Git keeps each old version. When this repo is larger than about 1 GB, the owner decides
+if it starts again from one commit.
+
 ## Traps
 
 - A clone gives each file the time of the clone. Thus `fa sync --status` shows the data
