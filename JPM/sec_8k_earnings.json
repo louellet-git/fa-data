@@ -1,0 +1,31 @@
+{
+  "cik": "19617",
+  "filings": [
+    {
+      "accession": "0001628280-26-065582",
+      "filed": "2026-10-13",
+      "items": "2.02,9.01",
+      "report_date": "2026-10-13"
+    },
+    {
+      "accession": "0001628280-26-048078",
+      "filed": "2026-07-14",
+      "items": "2.02,9.01",
+      "report_date": "2026-07-14"
+    },
+    {
+      "accession": "0001628280-26-024990",
+      "filed": "2026-04-14",
+      "items": "2.02,9.01",
+      "report_date": "2026-04-14"
+    },
+    {
+      "accession": "0001628280-26-001902",
+      "filed": "2026-01-13",
+      "items": "2.02,9.01",
+      "report_date": "2026-01-13"
+    }
+  ],
+  "source": "sec submissions, form 8-K with item 2.02",
+  "ticker": "JPM"
+}
