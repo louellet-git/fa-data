@@ -1,0 +1,105 @@
+{
+  "ticker": "STZ",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.77,
+      "low": 2.63,
+      "high": 2.97,
+      "numberOfAnalysts": 8.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.91,
+      "low": 1.76,
+      "high": 2.1,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 3.33,
+      "low": 3.02,
+      "high": 3.5,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.85,
+      "low": 3.78,
+      "high": 3.95,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.9,
+      "low": 2.76,
+      "high": 3.19,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 11.85,
+      "low": 11.7,
+      "high": 11.99,
+      "numberOfAnalysts": 9.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 12.04,
+      "low": 11.72,
+      "high": 12.34,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 12.69,
+      "low": 12.24,
+      "high": 13.23,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 12.92,
+      "low": 12.92,
+      "high": 12.92,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 155.68,
+    "low": 122.0,
+    "high": 209.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-11",
+    "+1q": "2027-02",
+    "+2q": "2027-05",
+    "+3q": "2027-08",
+    "+4q": "2027-11",
+    "0y": "2027-02",
+    "+1y": "2028-02",
+    "+2y": "2029-02",
+    "+3y": "2030-02"
+  },
+  "ratings": {
+    "buy": 12.0,
+    "hold": 9.0,
+    "sell": 0.0
+  }
+}

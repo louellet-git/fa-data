@@ -1,0 +1,105 @@
+{
+  "ticker": "SOLV",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.77,
+      "low": 1.55,
+      "high": 1.9,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.57,
+      "low": 1.34,
+      "high": 1.69,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 2.02,
+      "low": 1.8,
+      "high": 2.38,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.85,
+      "low": 1.62,
+      "high": 1.95,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.96,
+      "low": 1.74,
+      "high": 2.08,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 7.26,
+      "low": 7.25,
+      "high": 7.28,
+      "numberOfAnalysts": 5.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 7.48,
+      "low": 7.18,
+      "high": 7.7,
+      "numberOfAnalysts": 8.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 8.25,
+      "low": 7.95,
+      "high": 8.49,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 8.79,
+      "low": 8.25,
+      "high": 9.33,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 102.13,
+    "low": 92.0,
+    "high": 115.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 5.0,
+    "hold": 3.0,
+    "sell": 0.0
+  }
+}

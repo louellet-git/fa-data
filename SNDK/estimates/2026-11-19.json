@@ -1,0 +1,87 @@
+{
+  "ticker": "SNDK",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 56.12,
+      "low": 55.48,
+      "high": 56.53,
+      "numberOfAnalysts": 6.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 57.93,
+      "low": 55.83,
+      "high": 59.63,
+      "numberOfAnalysts": 6.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 63.56,
+      "low": 58.19,
+      "high": 70.65,
+      "numberOfAnalysts": 6.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 67.68,
+      "low": 61.52,
+      "high": 73.97,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 70.95,
+      "low": 62.26,
+      "high": 77.19,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 226.01,
+      "low": 218.96,
+      "high": 234.32,
+      "numberOfAnalysts": 8.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 284.86,
+      "low": 241.55,
+      "high": 324.15,
+      "numberOfAnalysts": 7.0,
+      "up": 5.0,
+      "down": 1.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 2130.83,
+    "low": 1300.0,
+    "high": 3000.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-06",
+    "+1y": "2028-06"
+  },
+  "ratings": {
+    "buy": 11.0,
+    "hold": 3.0,
+    "sell": 0.0
+  }
+}

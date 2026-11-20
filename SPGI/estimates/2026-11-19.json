@@ -1,0 +1,105 @@
+{
+  "ticker": "SPGI",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 4.04,
+      "low": 3.95,
+      "high": 4.17,
+      "numberOfAnalysts": 7.0,
+      "up": 3.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 5.17,
+      "low": 4.98,
+      "high": 5.57,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 5.0
+    },
+    "+2q": {
+      "avg": 5.19,
+      "low": 5.01,
+      "high": 5.41,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 5.16,
+      "low": 5.08,
+      "high": 5.29,
+      "numberOfAnalysts": 7.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 4.66,
+      "low": 4.5,
+      "high": 4.9,
+      "numberOfAnalysts": 7.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 17.96,
+      "low": 17.81,
+      "high": 18.54,
+      "numberOfAnalysts": 9.0,
+      "up": 8.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 20.17,
+      "low": 19.69,
+      "high": 20.91,
+      "numberOfAnalysts": 10.0,
+      "up": 7.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 22.56,
+      "low": 22.02,
+      "high": 23.43,
+      "numberOfAnalysts": 5.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 25.01,
+      "low": 24.35,
+      "high": 26.23,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 532.43,
+    "low": 510.0,
+    "high": 572.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 14.0,
+    "hold": 0.0,
+    "sell": 0.0
+  }
+}

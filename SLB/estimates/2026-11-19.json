@@ -1,0 +1,105 @@
+{
+  "ticker": "SLB",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 0.73,
+      "low": 0.73,
+      "high": 0.75,
+      "numberOfAnalysts": 9.0,
+      "up": 2.0,
+      "down": 6.0
+    },
+    "+1q": {
+      "avg": 0.63,
+      "low": 0.55,
+      "high": 0.7,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 6.0
+    },
+    "+2q": {
+      "avg": 0.7,
+      "low": 0.66,
+      "high": 0.73,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 0.79,
+      "low": 0.76,
+      "high": 0.82,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 0.91,
+      "low": 0.88,
+      "high": 0.97,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 2.46,
+      "low": 2.44,
+      "high": 2.56,
+      "numberOfAnalysts": 11.0,
+      "up": 6.0,
+      "down": 4.0
+    },
+    "+1y": {
+      "avg": 3.06,
+      "low": 2.89,
+      "high": 3.36,
+      "numberOfAnalysts": 11.0,
+      "up": 1.0,
+      "down": 8.0
+    },
+    "+2y": {
+      "avg": 3.57,
+      "low": 3.34,
+      "high": 3.85,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 4.15,
+      "low": 4.15,
+      "high": 4.15,
+      "numberOfAnalysts": 1.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 62.13,
+    "low": 48.0,
+    "high": 71.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 15.0,
+    "hold": 1.0,
+    "sell": 0.0
+  }
+}

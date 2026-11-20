@@ -1,0 +1,96 @@
+{
+  "ticker": "RVTY",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.61,
+      "low": 1.57,
+      "high": 1.65,
+      "numberOfAnalysts": 7.0,
+      "up": 0.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 1.27,
+      "low": 1.19,
+      "high": 1.31,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 1.52,
+      "low": 1.51,
+      "high": 1.53,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "+3q": {
+      "avg": 1.47,
+      "low": 1.45,
+      "high": 1.49,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+4q": {
+      "avg": 1.7,
+      "low": 1.65,
+      "high": 1.77,
+      "numberOfAnalysts": 3.0,
+      "up": 0.0,
+      "down": 1.0
+    },
+    "0y": {
+      "avg": 5.42,
+      "low": 5.4,
+      "high": 5.44,
+      "numberOfAnalysts": 7.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 5.97,
+      "low": 5.93,
+      "high": 6.0,
+      "numberOfAnalysts": 7.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 6.55,
+      "low": 6.51,
+      "high": 6.58,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 173.0,
+    "low": 140.0,
+    "high": 200.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 6.0,
+    "hold": 7.0,
+    "sell": 0.0
+  }
+}

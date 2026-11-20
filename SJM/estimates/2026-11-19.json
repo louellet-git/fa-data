@@ -1,0 +1,105 @@
+{
+  "ticker": "SJM",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.57,
+      "low": 2.52,
+      "high": 2.62,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 2.56,
+      "low": 2.47,
+      "high": 2.65,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 2.54,
+      "low": 2.42,
+      "high": 2.66,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.6,
+      "low": 2.41,
+      "high": 2.87,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.77,
+      "low": 2.6,
+      "high": 2.86,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 10.71,
+      "low": 9.71,
+      "high": 11.0,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 10.91,
+      "low": 10.2,
+      "high": 11.22,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 11.47,
+      "low": 10.45,
+      "high": 12.24,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 11.41,
+      "low": 10.74,
+      "high": 12.08,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 145.25,
+    "low": 125.0,
+    "high": 160.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-10",
+    "+1q": "2027-01",
+    "+2q": "2027-04",
+    "+3q": "2027-07",
+    "+4q": "2027-10",
+    "0y": "2027-04",
+    "+1y": "2028-04",
+    "+2y": "2029-04",
+    "+3y": "2030-04"
+  },
+  "ratings": {
+    "buy": 9.0,
+    "hold": 6.0,
+    "sell": 0.0
+  }
+}

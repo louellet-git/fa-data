@@ -1,0 +1,105 @@
+{
+  "ticker": "SBAC",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.81,
+      "low": 2.78,
+      "high": 2.83,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 3.0
+    },
+    "+1q": {
+      "avg": 2.8,
+      "low": 2.75,
+      "high": 2.86,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+2q": {
+      "avg": 2.77,
+      "low": 2.72,
+      "high": 2.92,
+      "numberOfAnalysts": 4.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 2.86,
+      "low": 2.7,
+      "high": 2.93,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.84,
+      "low": 2.71,
+      "high": 2.99,
+      "numberOfAnalysts": 4.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 11.46,
+      "low": 11.33,
+      "high": 11.51,
+      "numberOfAnalysts": 6.0,
+      "up": 4.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 11.43,
+      "low": 10.87,
+      "high": 12.0,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 5.0
+    },
+    "+2y": {
+      "avg": 12.24,
+      "low": 12.1,
+      "high": 12.37,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 14.28,
+      "low": 14.28,
+      "high": 14.28,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 216.71,
+    "low": 200.0,
+    "high": 256.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 7.0,
+    "hold": 6.0,
+    "sell": 0.0
+  }
+}

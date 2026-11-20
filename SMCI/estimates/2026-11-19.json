@@ -1,0 +1,87 @@
+{
+  "ticker": "SMCI",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 1.66,
+      "low": 1.58,
+      "high": 1.76,
+      "numberOfAnalysts": 6.0,
+      "up": 6.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 1.29,
+      "low": 1.03,
+      "high": 1.65,
+      "numberOfAnalysts": 7.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 1.41,
+      "low": 1.16,
+      "high": 1.74,
+      "numberOfAnalysts": 7.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 1.56,
+      "low": 1.32,
+      "high": 1.81,
+      "numberOfAnalysts": 6.0,
+      "up": 4.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 1.67,
+      "low": 1.38,
+      "high": 1.93,
+      "numberOfAnalysts": 6.0,
+      "up": 5.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 5.9,
+      "low": 4.78,
+      "high": 6.66,
+      "numberOfAnalysts": 8.0,
+      "up": 7.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 6.39,
+      "low": 5.16,
+      "high": 7.64,
+      "numberOfAnalysts": 6.0,
+      "up": 4.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 42.55,
+    "low": 18.0,
+    "high": 65.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-06",
+    "+1y": "2028-06"
+  },
+  "ratings": {
+    "buy": 3.0,
+    "hold": 6.0,
+    "sell": 3.0
+  }
+}

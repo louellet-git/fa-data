@@ -1,0 +1,96 @@
+{
+  "ticker": "SNPS",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.09,
+      "low": 2.85,
+      "high": 3.18,
+      "numberOfAnalysts": 6.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 3.27,
+      "low": 2.96,
+      "high": 3.63,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+2q": {
+      "avg": 3.31,
+      "low": 3.09,
+      "high": 3.43,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.84,
+      "low": 3.36,
+      "high": 4.24,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 4.12,
+      "low": 3.1,
+      "high": 5.03,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 11.01,
+      "low": 10.66,
+      "high": 11.17,
+      "numberOfAnalysts": 7.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 14.1,
+      "low": 12.7,
+      "high": 15.37,
+      "numberOfAnalysts": 8.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+2y": {
+      "avg": 18.39,
+      "low": 18.32,
+      "high": 18.45,
+      "numberOfAnalysts": 2.0,
+      "up": 1.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 590.67,
+    "low": 420.0,
+    "high": 700.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-10",
+    "+1q": "2027-01",
+    "+2q": "2027-04",
+    "+3q": "2027-07",
+    "+4q": "2027-10",
+    "0y": "2026-10",
+    "+1y": "2027-10",
+    "+2y": "2028-10"
+  },
+  "ratings": {
+    "buy": 18.0,
+    "hold": 1.0,
+    "sell": 0.0
+  }
+}

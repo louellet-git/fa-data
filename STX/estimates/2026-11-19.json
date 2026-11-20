@@ -1,0 +1,96 @@
+{
+  "ticker": "STX",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 8.97,
+      "low": 8.95,
+      "high": 9.03,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+1q": {
+      "avg": 10.01,
+      "low": 8.75,
+      "high": 10.5,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 11.81,
+      "low": 9.63,
+      "high": 12.9,
+      "numberOfAnalysts": 4.0,
+      "up": 3.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 12.82,
+      "low": 10.36,
+      "high": 14.84,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 14.27,
+      "low": 11.15,
+      "high": 17.32,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 37.96,
+      "low": 34.86,
+      "high": 39.75,
+      "numberOfAnalysts": 7.0,
+      "up": 6.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 61.27,
+      "low": 45.48,
+      "high": 74.96,
+      "numberOfAnalysts": 5.0,
+      "up": 4.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 99.66,
+      "low": 99.66,
+      "high": 99.66,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 1028.87,
+    "low": 750.0,
+    "high": 1350.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2027-06",
+    "+1y": "2028-06",
+    "+2y": "2029-06"
+  },
+  "ratings": {
+    "buy": 14.0,
+    "hold": 3.0,
+    "sell": 0.0
+  }
+}

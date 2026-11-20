@@ -1,0 +1,96 @@
+{
+  "ticker": "SPG",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 3.58,
+      "low": 3.47,
+      "high": 3.82,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1q": {
+      "avg": 3.18,
+      "low": 3.05,
+      "high": 3.31,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 3.36,
+      "low": 3.32,
+      "high": 3.45,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.47,
+      "low": 3.35,
+      "high": 3.54,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 3.73,
+      "low": 3.62,
+      "high": 3.89,
+      "numberOfAnalysts": 5.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 13.35,
+      "low": 13.32,
+      "high": 13.38,
+      "numberOfAnalysts": 2.0,
+      "up": 2.0,
+      "down": 0.0
+    },
+    "+1y": {
+      "avg": 13.77,
+      "low": 13.67,
+      "high": 13.99,
+      "numberOfAnalysts": 6.0,
+      "up": 2.0,
+      "down": 1.0
+    },
+    "+2y": {
+      "avg": 14.2,
+      "low": 14.04,
+      "high": 14.38,
+      "numberOfAnalysts": 4.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 230.32,
+    "low": 207.0,
+    "high": 260.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 3.0,
+    "hold": 10.0,
+    "sell": 0.0
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "ticker": "SHW",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.33,
+      "low": 2.32,
+      "high": 2.36,
+      "numberOfAnalysts": 7.0,
+      "up": 2.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 2.64,
+      "low": 2.45,
+      "high": 3.23,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 3.87,
+      "low": 3.24,
+      "high": 4.17,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 3.87,
+      "low": 3.23,
+      "high": 4.09,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 2.76,
+      "low": 2.57,
+      "high": 3.24,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 12.01,
+      "low": 11.99,
+      "high": 12.12,
+      "numberOfAnalysts": 10.0,
+      "up": 1.0,
+      "down": 6.0
+    },
+    "+1y": {
+      "avg": 13.31,
+      "low": 12.9,
+      "high": 13.93,
+      "numberOfAnalysts": 11.0,
+      "up": 0.0,
+      "down": 8.0
+    },
+    "+2y": {
+      "avg": 14.84,
+      "low": 14.3,
+      "high": 15.39,
+      "numberOfAnalysts": 6.0,
+      "up": 0.0,
+      "down": 0.0
+    },
+    "+3y": {
+      "avg": 16.97,
+      "low": 16.97,
+      "high": 16.97,
+      "numberOfAnalysts": 1.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 374.72,
+    "low": 329.0,
+    "high": 420.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12",
+    "+3y": "2029-12"
+  },
+  "ratings": {
+    "buy": 10.0,
+    "hold": 9.0,
+    "sell": 0.0
+  }
+}

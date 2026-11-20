@@ -1,0 +1,96 @@
+{
+  "ticker": "STLD",
+  "snapshot_date": "2026-11-19",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 6.06,
+      "low": 5.45,
+      "high": 6.44,
+      "numberOfAnalysts": 5.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+1q": {
+      "avg": 6.76,
+      "low": 5.93,
+      "high": 7.38,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 1.0
+    },
+    "+2q": {
+      "avg": 6.72,
+      "low": 6.32,
+      "high": 7.07,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+3q": {
+      "avg": 6.01,
+      "low": 5.63,
+      "high": 6.32,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 4.96,
+      "low": 4.64,
+      "high": 5.38,
+      "numberOfAnalysts": 3.0,
+      "up": 1.0,
+      "down": 0.0
+    },
+    "0y": {
+      "avg": 17.77,
+      "low": 17.29,
+      "high": 18.25,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 2.0
+    },
+    "+1y": {
+      "avg": 24.04,
+      "low": 22.52,
+      "high": 25.74,
+      "numberOfAnalysts": 5.0,
+      "up": 1.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 18.08,
+      "low": 17.66,
+      "high": 18.5,
+      "numberOfAnalysts": 2.0,
+      "up": 0.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 277.36,
+    "low": 257.0,
+    "high": 300.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2026-12",
+    "+1q": "2027-03",
+    "+2q": "2027-06",
+    "+3q": "2027-09",
+    "+4q": "2027-12",
+    "0y": "2026-12",
+    "+1y": "2027-12",
+    "+2y": "2028-12"
+  },
+  "ratings": {
+    "buy": 5.0,
+    "hold": 4.0,
+    "sell": 0.0
+  }
+}
