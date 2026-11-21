@@ -1,14 +1,28 @@
 {
+  "added": 113,
+  "alpaca_rows": 260,
+  "corrected": 3,
+  "correction_file": 0,
+  "dropped": 43,
   "end": "2026-11-21",
+  "pending": 1,
   "requests": 41,
-  "rows": 260,
+  "rows": 330,
   "run_date": "2026-11-21",
   "sec_check_counts": {
-    "match": 153,
-    "mismatch": 12,
-    "no_sec_fact": 95
+    "match": 225,
+    "mismatch": 1,
+    "no_sec_fact": 104
   },
-  "source": "Alpaca corporate actions (GET /v1/corporate-actions, types forward_split,reverse_split); sec_check against us-gaap StockholdersEquityNoteStockSplitConversionRatio1",
+  "source": "Alpaca corporate actions (GET /v1/corporate-actions, types forward_split,reverse_split), cleaned by the rules of splits_rules.rs against the SEC cover share count (dei:EntityCommonStockSharesOutstanding) and the tag us-gaap StockholdersEquityNoteStockSplitConversionRatio1",
+  "source_counts": {
+    "SEC cover-count step": 113,
+    "SEC cover-count step; ex_date from alpaca corporate actions": 3,
+    "alpaca corporate actions; checked against SEC": 161,
+    "alpaca corporate actions; confirmed by SEC cover-count step": 27,
+    "alpaca corporate actions; no SEC fact": 25,
+    "alpaca corporate actions; not confirmed by SEC": 1
+  },
   "start": "2009-01-01",
   "ticker_count": 2003,
   "tickers": [
