@@ -47,3 +47,5 @@ Not stored: BAMLC0A0CM, BAMLH0A0HYM2 (ICE BofA spread series: the terms class wa
 
 
 NFCI was removed on 2026-11-21. The Chicago Fed legal notice does not permit a copy, and no model uses it now (the Head of Economics dropped it from the premium design).
+
+AAA and BAA (Moody's) were removed on 2026-11-21: no model uses them, and Moody's has no public source.
