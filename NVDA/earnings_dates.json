@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "past": [
     {
       "date": "2026-11-17",
@@ -31,5 +31,5 @@
     "estimates": null,
     "source": "estimate: report date of a year ago + 364 days"
   },
-  "scanned_through": "2027-01-15"
+  "scanned_through": "2027-01-18"
 }

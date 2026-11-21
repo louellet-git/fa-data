@@ -1,0 +1,105 @@
+{
+  "ticker": "NVDA",
+  "snapshot_date": "2026-11-20",
+  "revenue_estimate": {},
+  "earnings_estimate": {
+    "0q": {
+      "avg": 2.84,
+      "low": 2.44,
+      "high": 3.11,
+      "numberOfAnalysts": 15.0,
+      "up": 8.0,
+      "down": 4.0
+    },
+    "+1q": {
+      "avg": 3.27,
+      "low": 2.86,
+      "high": 3.63,
+      "numberOfAnalysts": 13.0,
+      "up": 8.0,
+      "down": 3.0
+    },
+    "+2q": {
+      "avg": 3.77,
+      "low": 3.35,
+      "high": 4.0,
+      "numberOfAnalysts": 13.0,
+      "up": 9.0,
+      "down": 1.0
+    },
+    "+3q": {
+      "avg": 4.33,
+      "low": 3.86,
+      "high": 4.68,
+      "numberOfAnalysts": 13.0,
+      "up": 10.0,
+      "down": 0.0
+    },
+    "+4q": {
+      "avg": 4.92,
+      "low": 4.37,
+      "high": 5.53,
+      "numberOfAnalysts": 13.0,
+      "up": 8.0,
+      "down": 2.0
+    },
+    "0y": {
+      "avg": 9.6,
+      "low": 9.12,
+      "high": 9.88,
+      "numberOfAnalysts": 18.0,
+      "up": 15.0,
+      "down": 1.0
+    },
+    "+1y": {
+      "avg": 16.09,
+      "low": 12.27,
+      "high": 17.3,
+      "numberOfAnalysts": 18.0,
+      "up": 11.0,
+      "down": 2.0
+    },
+    "+2y": {
+      "avg": 22.18,
+      "low": 19.95,
+      "high": 23.65,
+      "numberOfAnalysts": 9.0,
+      "up": 4.0,
+      "down": 2.0
+    },
+    "+3y": {
+      "avg": 26.9,
+      "low": 22.83,
+      "high": 30.66,
+      "numberOfAnalysts": 3.0,
+      "up": 2.0,
+      "down": 0.0
+    }
+  },
+  "analyst_price_targets": {
+    "mean": 232.59,
+    "low": 130.0,
+    "high": 350.0
+  },
+  "source": "nasdaq",
+  "endpoints": [
+    "forecast",
+    "targets"
+  ],
+  "period_ends": {
+    "0q": "2027-01",
+    "+1q": "2027-04",
+    "+2q": "2027-07",
+    "+3q": "2027-10",
+    "+4q": "2028-01",
+    "0y": "2027-01",
+    "+1y": "2028-01",
+    "+2y": "2029-01",
+    "+3y": "2030-01"
+  },
+  "ratings": {
+    "buy": 29.0,
+    "hold": 13.0,
+    "sell": 1.0
+  }
+}
