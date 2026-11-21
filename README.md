@@ -54,9 +54,9 @@ The SEC, Federal Reserve, Treasury and BLS data are public data of the United St
 government. The price, estimate and option data come from sites that have their own terms
 of use. Those terms do not permit a public copy (checked 2026-11-21). Thus the owner made
 this repo private on 2026-11-21. Only the two owners and their sessions read it. Do not make
-it public again, and do not copy its files to a public place. The FRED files leave this repo:
-each person gets them with `fa macro get` into `data/local/` (the FRED terms do not permit a
-shared copy).
+it public again, and do not copy its files to a public place. The FRED files (`macro/fred/`,
+`bonds/fred_*`) stay here only until each series has a replacement from its original public
+source (the FRED terms do not permit a stored copy).
 
 ## How the Head of Technology updates the store
 
