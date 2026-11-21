@@ -1,0 +1,53 @@
+{
+  "checked": "2026-11-21",
+  "files": {
+    "hqm_04_08": {
+      "bytes": 135168,
+      "fetched": "2026-11-21",
+      "url": "https://home.treasury.gov/system/files/226/hqm_04_08.xls"
+    },
+    "hqm_09_13": {
+      "bytes": 142848,
+      "fetched": "2026-11-21",
+      "url": "https://home.treasury.gov/system/files/226/hqm_09_13.xls"
+    },
+    "hqm_14_18": {
+      "bytes": 179712,
+      "fetched": "2026-11-21",
+      "url": "https://home.treasury.gov/system/files/226/hqm_14_18.xls"
+    },
+    "hqm_19_23": {
+      "bytes": 154624,
+      "fetched": "2026-11-21",
+      "url": "https://home.treasury.gov/system/files/226/hqm_19_23.xls"
+    },
+    "hqm_24_28": {
+      "bytes": 72192,
+      "fetched": "2026-11-21",
+      "url": "https://home.treasury.gov/system/files/226/hqm_24_28.xls"
+    },
+    "hqm_84_88": {
+      "bytes": 173056,
+      "fetched": "2026-11-21",
+      "url": "https://home.treasury.gov/system/files/226/hqm_84_88.xls"
+    },
+    "hqm_89_93": {
+      "bytes": 194560,
+      "fetched": "2026-11-21",
+      "url": "https://home.treasury.gov/system/files/226/hqm_89_93.xls"
+    },
+    "hqm_94_98": {
+      "bytes": 172032,
+      "fetched": "2026-11-21",
+      "url": "https://home.treasury.gov/system/files/226/hqm_94_98.xls"
+    },
+    "hqm_99_03": {
+      "bytes": 158720,
+      "fetched": "2026-11-21",
+      "url": "https://home.treasury.gov/system/files/226/hqm_99_03.xls"
+    }
+  },
+  "page": "https://home.treasury.gov/data/treasury-coupon-issues-and-corporate-bond-yield-curve/corporate-bond-yield-curve",
+  "source": "U.S. Treasury HQM",
+  "terms": "U.S. federal data; no reuse clause found on the site policy pages (2026-11-21)"
+}
