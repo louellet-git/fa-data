@@ -44,3 +44,6 @@ Not stored: BAMLC0A0CM, BAMLH0A0HYM2 (ICE BofA spread series: the terms class wa
 | `GDPA.csv` | 1929-01 | 2025-01-01 | Public Domain: Citation Requested | U.S. Bureau of Economic Analysis, Gross Domestic Product [GDPA], retrieved from FRED, Federal Reserve Bank of St. Louis |
 | `DFII10.csv` | 2003-01-02 | 2026-11-19 | Public Domain: Citation Requested | Board of Governors of the Federal Reserve System (US), Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis, Inflation-Indexed [DFII10], retrieved from FRED, Federal Reserve Bank of St. Louis |
 | `T10YIE.csv` | 2003-01-02 | 2026-11-20 | Copyrighted: Citation Required | Federal Reserve Bank of St. Louis, 10-Year Breakeven Inflation Rate [T10YIE], retrieved from FRED, Federal Reserve Bank of St. Louis |
+
+
+NFCI was removed on 2026-11-21. The Chicago Fed legal notice does not permit a copy, and no model uses it now (the Head of Economics dropped it from the premium design).
