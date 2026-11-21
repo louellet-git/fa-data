@@ -7,8 +7,8 @@ The date that each data set was downloaded from its source.
 | SEC company facts | 1,249 tickers | 2026-11-19 |
 | SEC list of earnings reports, SIC code and its description | 1,249 tickers (ARCC and PDI have no SIC code at the SEC) | 2026-11-20 |
 | 10-K filing files | 126 tickers | 2026-11-19 |
-| Daily prices, `sp500.txt` and SPY | 505 tickers, 10 years | 2026-11-19 |
-| Daily prices, `next500.txt` | 494 of 500 tickers, 10 years or the full history; the Nasdaq site does not have CFR, DDS, ET, MOG-A, SUN | 2026-11-20 |
+| Daily prices, `sp500.txt` and SPY | 505 tickers, 10 years | close of 2026-11-19 (refreshed 2026-11-21) |
+| Daily prices, `next500.txt` | 494 of 500 tickers, 10 years or the full history; the Nasdaq site does not have CFR, DDS, ET, MOG-A, SUN | close of 2026-11-19 (refreshed 2026-11-21) |
 | Estimates, price targets, earnings dates | 503 tickers | 2026-11-19 |
 | Option chain copies | IBM, JNJ (2026-11-19); SPX and SPXW with bid and ask (Alpaca, indicative feed, 32,046 quotes) | 2026-11-20 |
 | Rate curves (GSW, Treasury), CPI | `rates/` | 2026-11-19 |
