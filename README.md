@@ -52,8 +52,11 @@ The dates of the data and the number of tickers are in `SNAPSHOT.md`.
 
 The SEC, Federal Reserve, Treasury and BLS data are public data of the United States
 government. The price, estimate and option data come from sites that have their own terms
-of use. The owner decided on 2026-11-20 that this repo is public for now. If a source
-asks, the owner makes the repo private or removes that data.
+of use. Those terms do not permit a public copy (checked 2026-11-21). Thus the owner made
+this repo private on 2026-11-21. Only the two owners and their sessions read it. Do not make
+it public again, and do not copy its files to a public place. The FRED files leave this repo:
+each person gets them with `fa macro get` into `data/local/` (the FRED terms do not permit a
+shared copy).
 
 ## How the Head of Technology updates the store
 
