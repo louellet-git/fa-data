@@ -9,3 +9,27 @@
   do not use it. The FRED copy is the source of the NBER series here.
 - A commercial paper rate is a private short rate, above a bill rate: a joined series (commercial paper before 1934,
   bills after) has a step at the join. State it in each use.
+
+## More series (downloaded 2026-11-21, same method; terms read on each FRED series page first)
+
+| File | First | Last | Terms on FRED | Citation |
+|---|---|---|---|---|
+| `PAYEMS.csv` | 1939-01 | 2026-10-01 | Public Domain: Citation Requested | U.S. Bureau of Labor Statistics, All Employees, Total Nonfarm [PAYEMS], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `UNRATE.csv` | 1948-01 | 2026-10-01 | Public Domain: Citation Requested | U.S. Bureau of Labor Statistics, Unemployment Rate [UNRATE], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `ICSA.csv` | 1967-01 | 2026-11-14 | Public Domain: Citation Requested | U.S. Employment and Training Administration, Initial Claims [ICSA], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `CES0500000003.csv` | 2006-03 | 2026-10-01 | Public Domain: Citation Requested | U.S. Bureau of Labor Statistics, Average Hourly Earnings of All Employees, Total Private [CES0500000003], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `GDPC1.csv` | 1947-01 | 2026-07-01 | Public Domain: Citation Requested | U.S. Bureau of Economic Analysis, Real Gross Domestic Product [GDPC1], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `PCEPI.csv` | 1959-01 | 2026-09-01 | Public Domain: Citation Requested | U.S. Bureau of Economic Analysis, Personal Consumption Expenditures: Chain-type Price Index [PCEPI], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `PCEPILFE.csv` | 1959-01 | 2026-09-01 | Public Domain: Citation Requested | U.S. Bureau of Economic Analysis, Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index) [PCEPILFE], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `PCEC96.csv` | 2007-01 | 2026-09-01 | Public Domain: Citation Requested | U.S. Bureau of Economic Analysis, Real Personal Consumption Expenditures [PCEC96], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `RSAFS.csv` | 1992-01 | 2026-10-01 | Public Domain: Citation Requested | U.S. Census Bureau, Advance Retail Sales: Retail Trade and Food Services [RSAFS], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `NFCI.csv` | 1971-01 | 2026-11-13 | Copyrighted: Citation Required | Federal Reserve Bank of Chicago, Chicago Fed National Financial Conditions Index [NFCI], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `STLFSI4.csv` | 1993-12 | 2026-11-13 | Copyrighted: Citation Required | Federal Reserve Bank of St. Louis, St. Louis Fed Financial Stress Index [STLFSI4], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `SAHMREALTIME.csv` | 1959-12 | 2026-10-01 | Public Domain: Citation Requested | Sahm, Claudia, Real-time Sahm Rule Recession Indicator [SAHMREALTIME], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `T10Y3M.csv` | 1982-01 | 2026-11-20 | Copyrighted: Citation Required | Federal Reserve Bank of St. Louis, 10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity [T10Y3M], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `BAA.csv` | 1919-01 | 2026-10-01 | Copyrighted: Citation Required | Moody’s, Moody's Seasoned Baa Corporate Bond Yield [BAA], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `AAA.csv` | 1919-01 | 2026-10-01 | Copyrighted: Citation Required | Moody’s, Moody's Seasoned Aaa Corporate Bond Yield [AAA], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `GS10.csv` | 1953-04 | 2026-10-01 | Public Domain: Citation Requested | Board of Governors of the Federal Reserve System (US), Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis [GS10], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `CPIAUCNS.csv` | 1913-01 | 2026-10-01 | Public Domain: Citation Requested | U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers: All Items in U.S. City Average [CPIAUCNS], retrieved from FRED, Federal Reserve Bank of St. Louis |
+
+Not stored: BAMLC0A0CM, BAMLH0A0HYM2 (ICE BofA spread series: the terms class was not found on the page, and ICE limits these series on FRED). Use `fa bonds` (its own sources) for credit spreads.
