@@ -45,6 +45,7 @@ git -C data/raw pull --depth 1
 | Futures and the VIX history | `futures/`, `vix/` | Cboe, CFTC, Atlanta Fed |
 | Corporate bond series | `bonds/` | FRED |
 | Bars of the option bots | `trading/` | Yahoo |
+| FRED monthly series: the 3-month bill (from 1934) and the NBER commercial paper rate (1857-1971) | `macro/fred/` | FRED (Federal Reserve Bank of St. Louis), with the citation of each series |
 | Shiller monthly stock market data (price, dividends, earnings, CPI, long rate, CAPE, from 1871) | `macro/shiller/` | shillerdata.com (Robert J. Shiller) |
 
 The dates of the data and the number of tickers are in `SNAPSHOT.md`.
