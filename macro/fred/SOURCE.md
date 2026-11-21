@@ -33,3 +33,12 @@
 | `CPIAUCNS.csv` | 1913-01 | 2026-10-01 | Public Domain: Citation Requested | U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers: All Items in U.S. City Average [CPIAUCNS], retrieved from FRED, Federal Reserve Bank of St. Louis |
 
 Not stored: BAMLC0A0CM, BAMLH0A0HYM2 (ICE BofA spread series: the terms class was not found on the page, and ICE limits these series on FRED). Use `fa bonds` (its own sources) for credit spreads.
+
+## Series for a history note of the Head of Economics (downloaded 2026-11-21, same method)
+
+| File | First | Last | Terms on FRED | Citation |
+|---|---|---|---|---|
+| `A0292AUSA380NNBR.csv` | 1915-01 | 1946-01-01 | Copyrighted: Citation Required | National Bureau of Economic Research, Private Public Utility Construction, Value in Constant Prices for United States [A0292AUSA380NNBR], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `A02082USA374NNBR.csv` | 1831-01 | 1911-01-01 | Copyrighted: Citation Required | National Bureau of Economic Research, Increases in Railroad Mileage for United States [A02082USA374NNBR], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `C275RC1A027NBEA.csv` | 1929-01 | 2025-01-01 | Public Domain: Citation Requested | U.S. Bureau of Economic Analysis, Private fixed investment in equipment and software: Nonresidential: Information processing equipment and software: Communication equipment [C275RC1A027NBEA], retrieved from FRED, Federal Reserve Bank of St. Louis |
+| `GDPA.csv` | 1929-01 | 2025-01-01 | Public Domain: Citation Requested | U.S. Bureau of Economic Analysis, Gross Domestic Product [GDPA], retrieved from FRED, Federal Reserve Bank of St. Louis |
