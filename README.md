@@ -45,6 +45,7 @@ git -C data/raw pull --depth 1
 | Futures and the VIX history | `futures/`, `vix/` | Cboe, CFTC, Atlanta Fed |
 | Corporate bond series | `bonds/` | FRED |
 | Bars of the option bots | `trading/` | Yahoo |
+| Shiller monthly stock market data (price, dividends, earnings, CPI, long rate, CAPE, from 1871) | `macro/shiller/` | shillerdata.com (Robert J. Shiller) |
 
 The dates of the data and the number of tickers are in `SNAPSHOT.md`.
 
