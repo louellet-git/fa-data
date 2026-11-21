@@ -1,8 +1,8 @@
 {
   "source": "nasdaq",
   "adjusted": "splits",
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "first_date": "2019-03-29",
-  "last_date": "2026-11-19",
-  "rows": 1923
+  "last_date": "2026-11-20",
+  "rows": 1924
 }
