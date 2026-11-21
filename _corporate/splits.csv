@@ -23,7 +23,7 @@ APH,2021-03-05,1,2,2,forward,match,alpaca corporate actions; checked against SEC
 APH,2024-06-12,1,2,2,forward,match,alpaca corporate actions; checked against SEC,applied,false
 APH,2026-09-03,1,2,2,forward,match,alpaca corporate actions; checked against SEC,applied,false
 ARR,2023-10-02,5,1,0.2,reverse,match,alpaca corporate actions; checked against SEC,applied,false
-ASST,2024-07-02,5,1,0.2,reverse,no_sec_fact,alpaca corporate actions; no SEC fact,applied,false
+ASST,2024-07-02,5,1,0.2,reverse,no_sec_fact,alpaca corporate actions; confirmed by SEC share-count recast,applied,false
 ASST,2026-02-06,20,1,0.05,reverse,match,alpaca corporate actions; checked against SEC,applied,false
 AVGO,2024-07-15,1,10,10,forward,match,alpaca corporate actions; checked against SEC,applied,false
 AWI,2016-04-04,1,0.5,0.5,reverse,match,alpaca corporate actions; checked against SEC,applied,false
@@ -36,7 +36,7 @@ BF-B,2016-08-19,1,2,2,forward,match,alpaca corporate actions; checked against SE
 BF-B,2018-03-01,4,5,1.25,forward,no_sec_fact,alpaca corporate actions; no SEC fact,applied,false
 BKNG,2026-04-06,1,25,25,forward,no_sec_fact,alpaca corporate actions; confirmed by SEC cover-count step,applied,false
 BMI,2016-09-16,1,2,2,forward,match,alpaca corporate actions; checked against SEC,applied,false
-BMNR,2025-05-16,20,1,0.05,reverse,no_sec_fact,alpaca corporate actions; no SEC fact,applied,false
+BMNR,2025-05-16,20,1,0.05,reverse,no_sec_fact,alpaca corporate actions; confirmed by SEC share-count recast,applied,false
 BNL,2020-11-05,1,4,4,forward,no_sec_fact,SEC cover-count step,applied,true
 BPOP,2012-07-31,10,1,0.1,reverse,no_sec_fact,SEC cover-count step,applied,true
 BRO,2018-03-29,1,2,2,forward,match,alpaca corporate actions; checked against SEC,applied,false
@@ -44,7 +44,7 @@ BTU,2015-09-30,15,1,0.06666666666666667,reverse,no_sec_fact,SEC cover-count step
 BUSE,2015-11-06,3,1,0.3333333333333333,reverse,no_sec_fact,SEC cover-count step,applied,true
 BWA,2014-02-07,1,2,2,forward,match,SEC cover-count step,applied,true
 C,2011-06-30,10,1,0.1,reverse,no_sec_fact,SEC cover-count step,applied,true
-CASH,2018-10-05,1,3,3,forward,no_sec_fact,alpaca corporate actions; no SEC fact,applied,false
+CASH,2018-10-05,1,3,3,forward,no_sec_fact,alpaca corporate actions; confirmed by SEC share-count recast,applied,false
 CELH,2023-11-15,1,3,3,forward,match,alpaca corporate actions; checked against SEC,applied,false
 CF,2015-07-31,1,5,5,forward,match,SEC cover-count step,applied,true
 CGNX,2013-09-29,1,2,2,forward,match,SEC cover-count step,applied,true
@@ -64,7 +64,6 @@ COGT,2020-11-09,4,1,0.25,reverse,no_sec_fact,alpaca corporate actions; no SEC fa
 COKE,2025-05-27,1,10,10,forward,match,alpaca corporate actions; checked against SEC,applied,false
 COLM,2014-10-24,1,2,2,forward,match,SEC cover-count step,applied,true
 COO,2024-02-20,1,4,4,forward,match,alpaca corporate actions; checked against SEC,applied,false
-CORE,2016-06-28,1,2,2,forward,no_sec_fact,alpaca corporate actions; no SEC fact,applied,false
 CPRT,2012-06-07,1,2,2,forward,no_sec_fact,SEC cover-count step,applied,true
 CPRT,2017-04-11,1,2,2,forward,no_sec_fact,alpaca corporate actions; confirmed by SEC cover-count step,applied,false
 CPRT,2022-11-04,1,2,2,forward,match,alpaca corporate actions; checked against SEC,applied,false
@@ -132,7 +131,7 @@ GOOG,2022-07-18,1,20,20,forward,match,alpaca corporate actions; checked against 
 GOOGL,2022-07-18,1,20,20,forward,match,alpaca corporate actions; checked against SEC,applied,false
 GPN,2016-01-07,1,2,2,forward,match,SEC cover-count step,applied,true
 GRBK,2012-08-07,20,1,0.05,reverse,no_sec_fact,SEC cover-count step,applied,true
-GSAT,2025-02-11,15,1,0.06666666666666667,reverse,mismatch,alpaca corporate actions; not confirmed by SEC,applied,false
+GSAT,2025-02-11,15,1,0.06666666666666667,reverse,mismatch,alpaca corporate actions; confirmed by SEC share-count recast,applied,false
 HAE,2012-12-29,1,2,2,forward,match,SEC cover-count step,applied,true
 HAPN,2014-04-30,1,2,2,forward,match,SEC cover-count step,applied,true
 HAPN,2014-09-30,1,2,2,forward,match,SEC cover-count step,applied,true
@@ -147,15 +146,14 @@ HOMB,2013-08-02,1,2,2,forward,match,SEC cover-count step,applied,true
 HOMB,2016-06-09,1,2,2,forward,match,alpaca corporate actions; checked against SEC,applied,false
 HON,2026-06-29,2,1,0.5,reverse,match,alpaca corporate actions; checked against SEC,applied,false
 HRI,2016-08-02,15,1,0.06666666666666667,reverse,match,SEC cover-count step,applied,true
-HRL,2016-02-10,1,2,2,forward,no_sec_fact,alpaca corporate actions; no SEC fact,applied,false
+HRL,2016-02-10,1,2,2,forward,no_sec_fact,alpaca corporate actions; confirmed by SEC share-count recast,applied,false
 HSIC,2017-09-15,1,2,2,forward,no_sec_fact,alpaca corporate actions; confirmed by SEC cover-count step,applied,false
-HUBG,2024-01-29,1,2,2,forward,no_sec_fact,alpaca corporate actions; no SEC fact,applied,false
+HUBG,2024-01-29,1,2,2,forward,no_sec_fact,alpaca corporate actions; confirmed by SEC share-count recast,applied,false
 HWKN,2021-03-02,1,2,2,forward,no_sec_fact,alpaca corporate actions; confirmed by SEC cover-count step,applied,false
 HWM,2016-11-07,3,1,0.3333333333333333,reverse,match,SEC cover-count step,applied,true
 HYMC,2023-11-15,10,1,0.1,reverse,match,alpaca corporate actions; checked against SEC,applied,false
 IBKR,2025-06-18,1,4,4,forward,match,alpaca corporate actions; checked against SEC,applied,false
 ICE,2016-11-04,1,5,5,forward,match,alpaca corporate actions; checked against SEC,applied,false
-IDT,2018-03-27,1,0.5,0.5,reverse,no_sec_fact,alpaca corporate actions; no SEC fact,applied,false
 IDXX,2015-07-20,1,2,2,forward,match,SEC cover-count step,applied,true
 IESC,2026-08-24,1,2,2,forward,no_sec_fact,alpaca corporate actions; no SEC fact,applied,false
 ISRG,2017-10-06,1,3,3,forward,match,alpaca corporate actions; checked against SEC,applied,false
@@ -181,7 +179,7 @@ MBIN,2022-01-18,2,3,1.5,forward,match,alpaca corporate actions; checked against 
 MCHP,2021-10-13,1,2,2,forward,match,alpaca corporate actions; checked against SEC,applied,false
 MD,2014-01-31,1,2,2,forward,match,SEC cover-count step,applied,true
 MIDD,2014-08-01,1,3,3,forward,no_sec_fact,SEC cover-count step,applied,true
-MKC,2020-12-01,1,2,2,forward,no_sec_fact,alpaca corporate actions; no SEC fact,applied,false
+MKC,2020-12-01,1,2,2,forward,no_sec_fact,alpaca corporate actions; confirmed by SEC share-count recast,applied,false
 MLI,2014-04-22,1,2,2,forward,no_sec_fact,SEC cover-count step,applied,true
 MLI,2023-10-23,1,2,2,forward,match,alpaca corporate actions; checked against SEC,applied,false
 MLI,2026-07-01,1,2,2,forward,match,alpaca corporate actions; checked against SEC,applied,false
@@ -241,7 +239,6 @@ PII,2011-10-31,1,2,2,forward,no_sec_fact,SEC cover-count step,applied,true
 PIPR,2026-03-24,1,4,4,forward,match,alpaca corporate actions; checked against SEC,applied,false
 PLUS,2017-04-03,1,2,2,forward,match,alpaca corporate actions; checked against SEC,applied,false
 PLUS,2021-12-14,1,2,2,forward,match,alpaca corporate actions; checked against SEC,applied,false
-PNFP,2026-04-30,1,2,2,forward,no_sec_fact,SEC cover-count step,applied,true
 POWI,2020-08-19,1,2,2,forward,match,alpaca corporate actions; checked against SEC,applied,false
 POWL,2026-04-06,1,3,3,forward,match,alpaca corporate actions; checked against SEC,applied,false
 PPG,2015-06-30,1,2,2,forward,match,SEC cover-count step,applied,true
@@ -271,7 +268,7 @@ SFBS,2026-08-21,1,2,2,forward,match,alpaca corporate actions; checked against SE
 SFNC,2018-02-09,1,2,2,forward,match,alpaca corporate actions; checked against SEC,applied,false
 SGI,2021-02-15,1,4,4,forward,match,SEC cover-count step,applied,true
 SHOO,2018-10-12,2,3,1.5,forward,no_sec_fact,alpaca corporate actions; confirmed by SEC cover-count step,applied,false
-SHOP,2022-06-29,1,10,10,forward,no_sec_fact,alpaca corporate actions; no SEC fact,applied,false
+SHOP,2022-06-29,1,10,10,forward,no_sec_fact,alpaca corporate actions; confirmed by SEC share-count recast,applied,false
 SHW,2021-04-01,1,3,3,forward,match,alpaca corporate actions; checked against SEC,applied,false
 SIRI,2024-09-10,10,1,0.1,reverse,match,alpaca corporate actions; checked against SEC,applied,false
 SLGN,2017-07-31,1,2,2,forward,match,SEC cover-count step,applied,true
@@ -294,7 +291,7 @@ THC,2012-10-31,4,1,0.25,reverse,match,SEC cover-count step,applied,true
 TJX,2012-01-28,1,2,2,forward,match,SEC cover-count step,applied,true
 TJX,2018-11-07,1,2,2,forward,match,alpaca corporate actions; checked against SEC,applied,false
 TNDM,2017-10-10,10,1,0.1,reverse,match,alpaca corporate actions; checked against SEC,applied,false
-TOP,2026-08-03,5,1,0.2,reverse,no_sec_fact,alpaca corporate actions; no SEC fact,applied,false
+TOP,2026-08-03,5,1,0.2,reverse,no_sec_fact,alpaca corporate actions; confirmed by SEC share-count recast,applied,false
 TPL,2024-03-27,1,3,3,forward,match,alpaca corporate actions; checked against SEC,applied,false
 TPL,2025-12-23,1,3,3,forward,match,alpaca corporate actions; checked against SEC,applied,false
 TREX,2018-06-19,1,2,2,forward,match,alpaca corporate actions; checked against SEC,applied,false
