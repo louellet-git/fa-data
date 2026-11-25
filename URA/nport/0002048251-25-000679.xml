@@ -1,0 +1,1738 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/nport" xmlns:com="http://www.sec.gov/edgar/common" xmlns:ncom="http://www.sec.gov/edgar/nportcommon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sec.gov/edgar/nport eis_NPORT_Filer.xsd">
+  <headerData>
+    <submissionType>NPORT-P/A</submissionType>
+    <isConfidential>false</isConfidential>
+    <accessionNumber>0002048251-25-000573</accessionNumber>
+    <filerInfo>
+
+      <filer>
+        <issuerCredentials>
+          <cik>0001432353</cik>
+          <ccc>XXXXXXXX</ccc>
+        </issuerCredentials>
+      </filer>
+
+
+      <seriesClassInfo>
+        <seriesId>S000029442</seriesId>
+        <classId>C000090393</classId>
+      </seriesClassInfo>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <genInfo>
+      <regName>GLOBAL X FUNDS</regName>
+      <regFileNumber>811-22209</regFileNumber>
+      <regCik>0001432353</regCik>
+      <regLei>5493003RA4QUTSYF1N15</regLei>
+      <regStreet1>605 Third Avenue</regStreet1>
+      <regStreet2>43rd Floor</regStreet2>
+      <regCity>NEW YORK</regCity>
+      <regStateConditional regCountry="US" regState="US-NY"/>
+      <regZipOrPostalCode>10158</regZipOrPostalCode>
+      <regPhone>2126446110</regPhone>
+      <seriesName>Global X Uranium ETF</seriesName>
+      <seriesId>S000029442</seriesId>
+      <seriesLei>549300FJZ5SE0HHSHI40</seriesLei>
+      <repPdEnd>2025-10-31</repPdEnd>
+      <repPdDate>2025-07-31</repPdDate>
+      <isFinalFiling>N</isFinalFiling>
+    </genInfo>
+    <fundInfo>
+      <totAssets>4283162040.73</totAssets>
+      <totLiabs>123430915.90</totLiabs>
+      <netAssets>4159731124.83</netAssets>
+      <assetsAttrMiscSec>0.00000000</assetsAttrMiscSec>
+      <assetsInvested>0.00000000</assetsInvested>
+      <amtPayOneYrBanksBorr>0.00000000</amtPayOneYrBanksBorr>
+      <amtPayOneYrCtrldComp>0.00000000</amtPayOneYrCtrldComp>
+      <amtPayOneYrOthAffil>0.00000000</amtPayOneYrOthAffil>
+      <amtPayOneYrOther>0.00000000</amtPayOneYrOther>
+      <amtPayAftOneYrBanksBorr>0.00000000</amtPayAftOneYrBanksBorr>
+      <amtPayAftOneYrCtrldComp>0.00000000</amtPayAftOneYrCtrldComp>
+      <amtPayAftOneYrOthAffil>0.00000000</amtPayAftOneYrOthAffil>
+      <amtPayAftOneYrOther>0.00000000</amtPayAftOneYrOther>
+      <delayDeliv>0.00000000</delayDeliv>
+      <standByCommit>0.00000000</standByCommit>
+      <liquidPref>0.00000000</liquidPref>
+      <cshNotRptdInCorD>6862.72000000</cshNotRptdInCorD>
+      <borrowers>
+        <borrower aggrVal="7340850.79" lei="58PU97L1C0WSRCWADL48" name="Jefferies LLC"/>
+        <borrower aggrVal="43206.26" lei="RUC0QBLBRPRCU4W1NE59" name="BMO Capital Markets Corp"/>
+        <borrower aggrVal="34619200.63" lei="MP6I5ZYZBEU3UXPYFY54" name="HSBC BANK PLC"/>
+        <borrower aggrVal="131535311.50" lei="9R7GPTSO7KV3UQJZQ078" name="Morgan Stanley &amp; Co. LLC"/>
+        <borrower aggrVal="1323362" lei="549300JRHF1MHHWUAW04" name="National Financial Services LLC"/>
+        <borrower aggrVal="163268079.60" lei="549300HN4UKV1E2R3U73" name="BOFA SECURITIES INC"/>
+        <borrower aggrVal="11623163.49" lei="6EWKU0FGVX5QQJHFGT48" name="BNP Paribas Financial Markets"/>
+        <borrower aggrVal="51436275.49" lei="GGDZP1UYGU9STUHRDP48" name="Merrill Lynch International"/>
+        <borrower aggrVal="13177618" lei="MBNUM2BPBDO7JBLYG310" name="Citigroup Global Markets Inc."/>
+        <borrower aggrVal="1700018.35" lei="W22LROWP2IHZNBB6K528" name="Goldman Sachs International"/>
+        <borrower aggrVal="9268617.53" lei="4ZHCHI4KYZG2WVRT8631" name="Macquarie Bank Limited"/>
+        <borrower aggrVal="6620777.58" lei="XKZZ2JZF41MRHTR1V493" name="Citigroup Global Markets Limited"/>
+        <borrower aggrVal="369000" lei="VYVVCKR63DVZZN70PB21" name="Wells Fargo Securities LLC"/>
+        <borrower aggrVal="150783.13" lei="HPFHU0OQ28E4N0NFVK49" name="BANK OF NEW YORK MELLON"/>
+      </borrowers>
+      <aggregateCondition isNonCashCollateral="Y">
+        <aggregateInfos>
+          <aggregateInfo amt="68818084.62" collatrl="70091220.04">
+            <invstCat>UST</invstCat>
+          </aggregateInfo>
+        </aggregateInfos>
+      </aggregateCondition>
+      <returnInfo>
+        <monthlyTotReturns>
+          <monthlyTotReturn classId="C000090393" rtn1="1.93398700" rtn2="20.96069900" rtn3="27.72908400"/>
+        </monthlyTotReturns>
+        <monthlyReturnCats>
+          <commodityContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </commodityContracts>
+          <creditContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </creditContracts>
+          <equityContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </equityContracts>
+          <foreignExchgContracts>
+            <mon1 netRealizedGain="-36416.19000000" netUnrealizedAppr="1064.92000000"/>
+            <mon2 netRealizedGain="-29663.14000000" netUnrealizedAppr="-1068.08000000"/>
+            <mon3 netRealizedGain="-5775.96000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="-36416.19000000" netUnrealizedAppr="1064.92000000"/>
+              <instrMon2 netRealizedGain="-29663.14000000" netUnrealizedAppr="-1068.08000000"/>
+              <instrMon3 netRealizedGain="-5775.96000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </foreignExchgContracts>
+          <interestRtContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </interestRtContracts>
+          <otherContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </otherContracts>
+        </monthlyReturnCats>
+        <othMon1 netRealizedGain="8004259.38000000" netUnrealizedAppr="62186606.31000000"/>
+        <othMon2 netRealizedGain="42577059.90000000" netUnrealizedAppr="626153303.85000000"/>
+        <othMon3 netRealizedGain="55139564.80000000" netUnrealizedAppr="669279326.44000000"/>
+      </returnInfo>
+      <mon1Flow redemption="17717607.80000000" reinvestment="0.00000000" sales="276447658.24000000"/>
+      <mon2Flow redemption="98979802.57000000" reinvestment="0.00000000" sales="27847458.89000000"/>
+      <mon3Flow redemption="171151075.22000000" reinvestment="0.00000000" sales="2748990.69000000"/>
+
+      <varInfo>
+
+
+      </varInfo>
+    </fundInfo>
+    <invstOrSecs>
+      <invstOrSec>
+        <name>HYUNDAI ENGINEERING &amp; CONSTRUCTION CO.,LTD</name>
+        <lei>988400CEQG9N710HN313</lei>
+        <title>HYUNDAI ENGINEERING &amp; CONST COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="KR7000720003"/>
+        </identifiers>
+        <balance>3124583.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="KRW" exchangeRt="1386.80000000"/>
+        <valUSD>152083467.33000000</valUSD>
+        <pctVal>3.656088885702</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Alligator Energy Ltd</name>
+        <lei>N/A</lei>
+        <title>ALLIGATOR ENERGY LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000AGE2"/>
+        </identifiers>
+        <balance>198203467.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.55316000"/>
+        <valUSD>2935099.89000000</valUSD>
+        <pctVal>0.070559846343</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>CanAlaska Uranium Ltd</name>
+        <lei>254900J7UJWY3AWJ8D78</lei>
+        <title>CANALASKA URANIUM LTD COMMON STOCK</title>
+        <cusip>13709C100</cusip>
+        <identifiers>
+          <isin value="CA13709C1005"/>
+        </identifiers>
+        <balance>9009191.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>6646685.34000000</valUSD>
+        <pctVal>0.159786417451</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Skyharbour Resources Ltd</name>
+        <lei>549300DKX8CM6RVJBT88</lei>
+        <title>SKYHARBOUR RESOURCES LTD COMMON STOCK</title>
+        <cusip>830816609</cusip>
+        <identifiers>
+          <isin value="CA8308166096"/>
+        </identifiers>
+        <balance>10554946.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>2252149.34000000</valUSD>
+        <pctVal>0.054141704653</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Ur-Energy Inc</name>
+        <lei>5493004ZEMNWEC7T6X93</lei>
+        <title>UR-ENERGY INC COMMON STOCK</title>
+        <cusip>91688R108</cusip>
+        <identifiers>
+          <isin value="CA91688R1082"/>
+        </identifiers>
+        <balance>19879868.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>24054640.28000000</valUSD>
+        <pctVal>0.578273921033</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="370843.77"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>SIBANYE STILLWATER LIMITED</name>
+        <lei>378900F238434B74D281</lei>
+        <title>SIBANYE STILLWATER LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="ZAE000259701"/>
+        </identifiers>
+        <balance>64193348.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="ZAR" exchangeRt="18.08250000"/>
+        <valUSD>136214503.68000000</valUSD>
+        <pctVal>3.274598756321</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>ZA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="90592454.94"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>DOOSAN ENERBILITY CO., LTD.</name>
+        <lei>988400TK5NA3GLSTN506</lei>
+        <title>DOOSAN ENERBILITY CO LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="KR7034020008"/>
+        </identifiers>
+        <balance>4033861.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="KRW" exchangeRt="1386.80000000"/>
+        <valUSD>190814307.47000000</valUSD>
+        <pctVal>4.587178876322</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Mitsubishi Heavy Industries, Ltd.</name>
+        <lei>353800TJ98PCAZROVE69</lei>
+        <title>MITSUBISHI HEAVY INDUSTRIES COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="JP3900000005"/>
+        </identifiers>
+        <balance>4254133.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="JPY" exchangeRt="150.49500000"/>
+        <valUSD>102611400.98000000</valUSD>
+        <pctVal>2.466779652355</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>JP</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>SAMSUNG C&amp;T CORPORATION</name>
+        <lei>988400GFRE4IDFPE9E64</lei>
+        <title>SAMSUNG C&amp;T CORP COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="KR7028260008"/>
+        </identifiers>
+        <balance>697749.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="KRW" exchangeRt="1386.80000000"/>
+        <valUSD>84778415.42000000</valUSD>
+        <pctVal>2.038074406154</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BANNERMAN ENERGY LTD</name>
+        <lei>529900D04RI02L5UK707</lei>
+        <title>BANNERMAN ENERGY LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000BMN9"/>
+        </identifiers>
+        <balance>9286123.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.55316000"/>
+        <valUSD>15724396.39000000</valUSD>
+        <pctVal>0.378014730234</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="4514773.18"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BHP GROUP LIMITED</name>
+        <lei>WZE1WSENV6JSZFK0JC28</lei>
+        <title>BHP GROUP LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000BHP4"/>
+        </identifiers>
+        <balance>2315942.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.55316000"/>
+        <valUSD>58526309.91000000</valUSD>
+        <pctVal>1.406973387309</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Berkeley Energia Ltd</name>
+        <lei>213800JX3V4TPO7TCJ08</lei>
+        <title>BERKELEY ENERGIA LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000BKY0"/>
+        </identifiers>
+        <balance>22856273.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="EUR" exchangeRt="0.87371000"/>
+        <valUSD>7586406.44000000</valUSD>
+        <pctVal>0.182377327099</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>ES</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Laramide Resources Ltd</name>
+        <lei>2549000L2B3P9LPA0G54</lei>
+        <title>LARAMIDE RESOURCES COMMON STOCK</title>
+        <cusip>51669T101</cusip>
+        <identifiers>
+          <isin value="CA51669T1012"/>
+        </identifiers>
+        <balance>12016828.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>4519728.44000000</valUSD>
+        <pctVal>0.108654340974</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Mega Uranium Ltd</name>
+        <lei>529900ETMWH20UOMS233</lei>
+        <title>MEGA URANIUM LTD COMMON STOCK</title>
+        <cusip>58516W104</cusip>
+        <identifiers>
+          <isin value="CA58516W1041"/>
+        </identifiers>
+        <balance>18641315.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>3640486.82000000</valUSD>
+        <pctVal>0.087517358953</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>PENINSULA ENERGY LIMITED</name>
+        <lei>213800XBLFMYEQENEZ77</lei>
+        <title>PENINSULA ENERGY LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000PEN6"/>
+        </identifiers>
+        <balance>8430440.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.55316000"/>
+        <valUSD>3028783.59000000</valUSD>
+        <pctVal>0.072812003927</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="1052874.92"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Forsys Metals Corp</name>
+        <lei>529900IW82S76U8ZO822</lei>
+        <title>FORSYS METALS CORP COMMON STOCK</title>
+        <cusip>34660G104</cusip>
+        <identifiers>
+          <isin value="CA34660G1046"/>
+        </identifiers>
+        <balance>7029372.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>2745550.53000000</valUSD>
+        <pctVal>0.066003076824</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>DENISON MINES CORP.</name>
+        <lei>529900JWGSW17LJK6586</lei>
+        <title>DENISON MINES CORP COMMON STOCK</title>
+        <cusip>248356107</cusip>
+        <identifiers>
+          <isin value="CA2483561072"/>
+        </identifiers>
+        <balance>48848029.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>100695730.82000000</valUSD>
+        <pctVal>2.420726912346</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="1328547.84"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>AMERICAN LITHIUM CORP.</name>
+        <lei>5299003L5RONUC1YCA16</lei>
+        <title>AMERICAN LITHIUM CORP COMMON STOCK</title>
+        <cusip>027259209</cusip>
+        <identifiers>
+          <isin value="CA0272592092"/>
+        </identifiers>
+        <balance>10620887.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>3111250.40000000</valUSD>
+        <pctVal>0.074794507304</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Sprott Physical Uranium Trust</name>
+        <lei>N/A</lei>
+        <title>SPROTT PHYSICAL URANIUM TR MUTUAL FUND</title>
+        <cusip>85210A104</cusip>
+        <identifiers>
+          <isin value="CA85210A1049"/>
+        </identifiers>
+        <balance>14917646.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>240723794.63000000</valUSD>
+        <pctVal>5.787003712645</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="9048584.04"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Lotus Resources Ltd</name>
+        <lei>984500AB0D982CDB3754</lei>
+        <title>LOTUS RESOURCES LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU0000058737"/>
+        </identifiers>
+        <balance>105634971.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.55316000"/>
+        <valUSD>11222134.37000000</valUSD>
+        <pctVal>0.269780282264</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="5618428.73"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>CGN Mining Co Ltd</name>
+        <lei>529900LQYG057CZAZT41</lei>
+        <title>CGN MINING CO LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="KYG2029E1052"/>
+        </identifiers>
+        <balance>139271200.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="HKD" exchangeRt="7.85000000"/>
+        <valUSD>35837939.36000000</valUSD>
+        <pctVal>0.861544611527</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>HK</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="23485275.07"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>DAEWOO ENGINEERING &amp; CONSTRUCTION CO.,LTD</name>
+        <lei>988400P76EU13V47BI82</lei>
+        <title>DAEWOO ENGINEERING &amp; CONSTR COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="KR7047040001"/>
+        </identifiers>
+        <balance>10916238.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="KRW" exchangeRt="1386.80000000"/>
+        <valUSD>29518238.03000000</valUSD>
+        <pctVal>0.709618894687</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Nuscale Power Corp</name>
+        <lei>N/A</lei>
+        <title>NUSCALE POWER CORP COMMON STOCK</title>
+        <cusip>67079K100</cusip>
+        <identifiers>
+          <isin value="US67079K1007"/>
+        </identifiers>
+        <balance>5588549.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>280601045.29000000</valUSD>
+        <pctVal>6.745653429738</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="109027552.3"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>WESTERN URANIUM &amp; VANADIUM CORP.</name>
+        <lei>549300B2LQ6T4OJHXL41</lei>
+        <title>WESTERN URANIUM &amp; VANADIUM C COMMON STOCK</title>
+        <cusip>95985D100</cusip>
+        <identifiers>
+          <isin value="CA95985D1006"/>
+        </identifiers>
+        <balance>2776179.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>1686731.30000000</valUSD>
+        <pctVal>0.040549046305</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="615.47"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>URANIUM ENERGY CORP.</name>
+        <lei>549300VD69WD2USLIP04</lei>
+        <title>URANIUM ENERGY CORP COMMON STOCK</title>
+        <cusip>916896103</cusip>
+        <identifiers>
+          <isin value="US9168961038"/>
+        </identifiers>
+        <balance>22838086.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>198006205.62000000</valUSD>
+        <pctVal>4.760072218083</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="8141.84"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>GS Engineering &amp; Construction Corp</name>
+        <lei>988400BQ69DJXXFA0D28</lei>
+        <title>GS ENGINEERING &amp; CONSTRUCT COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="KR7006360002"/>
+        </identifiers>
+        <balance>3535268.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="KRW" exchangeRt="1386.80000000"/>
+        <valUSD>49327542.40000000</valUSD>
+        <pctVal>1.185834875373</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Yellow Cake PLC</name>
+        <lei>213800CVMYUGOA9EZY95</lei>
+        <title>YELLOW CAKE PLC COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="JE00BF50RG45"/>
+        </identifiers>
+        <balance>11940947.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="GBP" exchangeRt="0.75566000"/>
+        <valUSD>77398245.79000000</valUSD>
+        <pctVal>1.860655015128</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>GB</invCountry>
+
+        <isRestrictedSec>Y</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="9324055.56"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Uranium Royalty Corp</name>
+        <lei>5493005KEPCD7QSX6305</lei>
+        <title>URANIUM ROYALTY CORP COMMON STOCK</title>
+        <cusip>91702V101</cusip>
+        <identifiers>
+          <isin value="CA91702V1013"/>
+        </identifiers>
+        <balance>6135445.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>15887232.36000000</valUSD>
+        <pctVal>0.381929309449</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="2469364.6"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Anson Resources Ltd</name>
+        <lei>529900U2F9BSPAMFR394</lei>
+        <title>ANSON RESOURCES LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000ASN8"/>
+        </identifiers>
+        <balance>57348221.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.55316000"/>
+        <valUSD>4430829.10000000</valUSD>
+        <pctVal>0.106517199478</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="391860.30"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BANK OF NEW YORK (THE)</name>
+        <lei>HPFHU0OQ28E4N0NFVK49</lei>
+        <title>FX Forward Contract: HKD/USD SETTLE 2025-08-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTHKD__00218609"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="HKD" exchangeRt="7.85000000"/>
+        <valUSD>-3.16000000</valUSD>
+        <pctVal>-0.00000007596</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>HK</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BANK OF NEW YORK (THE)</counterpartyName>
+              <counterpartyLei>HPFHU0OQ28E4N0NFVK49</counterpartyLei>
+            </counterparties>
+            <amtCurSold>35773.75000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>280799.16000000</amtCurPur>
+            <curPur>HKD</curPur>
+            <settlementDt>2025-08-01</settlementDt>
+            <unrealizedAppr>-3.16000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>GROUPE AECON INC.</name>
+        <lei>549300VROCXVWXFR8B83</lei>
+        <title>AECON GROUP INC COMMON STOCK</title>
+        <cusip>00762V109</cusip>
+        <identifiers>
+          <isin value="CA00762V1094"/>
+        </identifiers>
+        <balance>3384866.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>45905202.34000000</valUSD>
+        <pctVal>1.103561767874</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>ENERGY FUELS INCORPORATED</name>
+        <lei>529900P0GCATXMGK8I62</lei>
+        <title>ENERGY FUELS INC COMMON STOCK</title>
+        <cusip>292671708</cusip>
+        <identifiers>
+          <isin value="CA2926717083"/>
+        </identifiers>
+        <balance>10554134.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>95957082.48000000</valUSD>
+        <pctVal>2.306809733620</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="44298777.96"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>KEPCO Engineering &amp; Construction Company, Inc</name>
+        <lei>N/A</lei>
+        <title>KEPCO ENGINEERING &amp; CONSTRUC COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="KR7052690005"/>
+        </identifiers>
+        <balance>987744.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="KRW" exchangeRt="1386.80000000"/>
+        <valUSD>65740388.81000000</valUSD>
+        <pctVal>1.580399954640</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Oklo Inc</name>
+        <lei>N/A</lei>
+        <title>OKLO INC COMMON STOCK</title>
+        <cusip>02156V109</cusip>
+        <identifiers>
+          <isin value="US02156V1098"/>
+        </identifiers>
+        <balance>3833612.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>293616343.08000000</valUSD>
+        <pctVal>7.058541388104</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="90843125.76"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BNYREPOS</name>
+        <lei>N/A</lei>
+        <title>BNYREPOS</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="N/A"/>
+          <ticker value="BNYREPOS"/>
+        </identifiers>
+        <balance>384089651</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>384089651</valUSD>
+        <pctVal>9.233521097248</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>RA</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>US</invCountry>
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <repurchaseAgrmt>
+          <transCat>Reverse repurchase</transCat>
+          <notClearedCentCparty isCleared="N">
+            <counterpartyInfos>
+              <counterpartyInfo lei="MMYX0N4ZEZ13Z4XCG897" name="BNYREPOS"/>
+            </counterpartyInfos>
+          </notClearedCentCparty>
+          <isTriParty>Y</isTriParty>
+          <repurchaseRt>4.36</repurchaseRt>
+          <maturityDt>N/A</maturityDt>
+          <repurchaseCollaterals>
+            <repurchaseCollateral>
+              <principalAmt>384089651</principalAmt>
+              <principalCd>USD</principalCd>
+              <collateralVal>384089651</collateralVal>
+              <collateralCd>USD</collateralCd>
+              <invstCat>UST</invstCat>
+            </repurchaseCollateral>
+          </repurchaseCollaterals>
+        </repurchaseAgrmt>
+        <securityLending>
+          <cashCollateralCondition cashCollateralVal="384089651" isCashCollateral="Y"/>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>NEXGEN ENERGY LTD.</name>
+        <lei>529900N0IXNXB3IP7F06</lei>
+        <title>NEXGEN ENERGY LTD COMMON STOCK</title>
+        <cusip>65340P106</cusip>
+        <identifiers>
+          <isin value="CA65340P1062"/>
+        </identifiers>
+        <balance>28565892.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>192154204.62000000</valUSD>
+        <pctVal>4.619390024345</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="24174.23"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Boss Energy Ltd</name>
+        <lei>9845000ED0A5F908A057</lei>
+        <title>BOSS ENERGY LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000BOE4"/>
+        </identifiers>
+        <balance>21078818.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.55316000"/>
+        <valUSD>23614529.94000000</valUSD>
+        <pctVal>0.567693661713</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="1998610.83"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>ISOENERGY LTD.</name>
+        <lei>5299000RYB4XC9F7VC32</lei>
+        <title>ISOENERGY LTD COMMON STOCK</title>
+        <cusip>46500E867</cusip>
+        <identifiers>
+          <isin value="CA46500E8678"/>
+        </identifiers>
+        <balance>1554240.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>9859089.94000000</valUSD>
+        <pctVal>0.237012673274</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="33018.36"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Aura Energy Ltd</name>
+        <lei>5493003D06RIWBKIKA27</lei>
+        <title>AURA ENERGY LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000AEE7"/>
+        </identifiers>
+        <balance>37078642.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.55316000"/>
+        <valUSD>3819685.49000000</valUSD>
+        <pctVal>0.091825297726</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="214906.61"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>ITOCHU Corporation</name>
+        <lei>J48DJYXDTLHM30UMYI18</lei>
+        <title>ITOCHU CORP COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="JP3143600009"/>
+        </identifiers>
+        <balance>1254982.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="JPY" exchangeRt="150.49500000"/>
+        <valUSD>66153508.13000000</valUSD>
+        <pctVal>1.590331349425</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>JP</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Joint stock company National atomic company Kazatomprom</name>
+        <lei>5493008JG5TXJP2JSY44</lei>
+        <title>NAC KAZATOMPROM JSC-GDR REGS DEPOSITARY RECEIPT</title>
+        <cusip>63253R201</cusip>
+        <identifiers>
+          <isin value="US63253R2013"/>
+        </identifiers>
+        <balance>3571183.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>147132739.60000000</valUSD>
+        <pctVal>3.537073315189</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>GB</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="70020.8"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>enCore Energy Corp</name>
+        <lei>5299007FNX2NVNJM3O59</lei>
+        <title>ENCORE ENERGY CORP COMMON STOCK</title>
+        <cusip>29259W700</cusip>
+        <identifiers>
+          <isin value="CA29259W7008"/>
+        </identifiers>
+        <balance>9821837.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>25645966.92000000</valUSD>
+        <pctVal>0.616529437850</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Global Atomic Corp</name>
+        <lei>529900EY4VQEZUOEO166</lei>
+        <title>GLOBAL ATOMIC CORP COMMON STOCK</title>
+        <cusip>37957M106</cusip>
+        <identifiers>
+          <isin value="CA37957M1068"/>
+        </identifiers>
+        <balance>12617667.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>5932142.45000000</valUSD>
+        <pctVal>0.142608795424</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="84154.31"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>F3 Uranium Corp</name>
+        <lei>529900LPUJAEJJNB3B78</lei>
+        <title>F3 URANIUM CORP COMMON STOCK</title>
+        <cusip>30336Y107</cusip>
+        <identifiers>
+          <isin value="CA30336Y1079"/>
+        </identifiers>
+        <balance>25853366.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>4487944.62000000</valUSD>
+        <pctVal>0.107890257454</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Elevate Uranium Ltd</name>
+        <lei>213800AKEDZ9BBYIRF62</lei>
+        <title>ELEVATE URANIUM LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU0000156416"/>
+        </identifiers>
+        <balance>16564877.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.55316000"/>
+        <valUSD>2826297.62000000</valUSD>
+        <pctVal>0.067944238105</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="419777.33"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Deep Yellow Ltd</name>
+        <lei>529900FL7FGTGTVII319</lei>
+        <title>DEEP YELLOW LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000DYL4"/>
+        </identifiers>
+        <balance>48978350.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.55316000"/>
+        <valUSD>47617314.70000000</valUSD>
+        <pctVal>1.144720975251</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>PALADIN ENERGY LTD</name>
+        <lei>549300M44UTJAP8J6B37</lei>
+        <title>PALADIN ENERGY LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000PDN8"/>
+        </identifiers>
+        <balance>20895483.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.55316000"/>
+        <valUSD>83546414.68000000</valUSD>
+        <pctVal>2.008457089481</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="19682136.45"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>CENTRUS ENERGY CORP.</name>
+        <lei>549300G6VDK9G8276661</lei>
+        <title>CENTRUS ENERGY CORP-CLASS A COMMON STOCK</title>
+        <cusip>15643U104</cusip>
+        <identifiers>
+          <isin value="US15643U1043"/>
+        </identifiers>
+        <balance>828461.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>178450499.40000000</valUSD>
+        <pctVal>4.289952740810</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="23419.76"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>CORPORATION CAMECO</name>
+        <lei>N4BHALMXL3GMZKCUON55</lei>
+        <title>CAMECO CORP COMMON STOCK</title>
+        <cusip>13321L108</cusip>
+        <identifiers>
+          <isin value="CA13321L1085"/>
+        </identifiers>
+        <balance>13089063.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.38255000"/>
+        <valUSD>984886784.49000000</valUSD>
+        <pctVal>23.67669339518</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Silex Systems Ltd</name>
+        <lei>5493003U7WMXGIEUEF14</lei>
+        <title>SILEX SYSTEMS LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000SLX4"/>
+        </identifiers>
+        <balance>10146057.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.55316000"/>
+        <valUSD>27763232.54000000</valUSD>
+        <pctVal>0.667428535807</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="17550769.41"/>
+        </securityLending>
+      </invstOrSec>
+    </invstOrSecs>
+    <signature>
+      <ncom:dateSigned>2025-07-31</ncom:dateSigned>
+      <ncom:nameOfApplicant>GLOBAL X FUNDS</ncom:nameOfApplicant>
+      <ncom:signature>Joe Costello</ncom:signature>
+      <ncom:signerName>Joe Costello</ncom:signerName>
+      <ncom:title>CCO</ncom:title>
+    </signature>
+  </formData>
+  <documents>XXXX</documents>
+</edgarSubmission>

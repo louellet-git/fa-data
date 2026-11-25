@@ -1,0 +1,3227 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/nport" xmlns:com="http://www.sec.gov/edgar/common" xmlns:ncom="http://www.sec.gov/edgar/nportcommon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sec.gov/edgar/nport eis_NPORT_Filer.xsd">
+  <headerData>
+    <submissionType>NPORT-P</submissionType>
+    <isConfidential>false</isConfidential>
+    <filerInfo>
+
+      <filer>
+        <issuerCredentials>
+          <cik>0001432353</cik>
+          <ccc>XXXXXXXX</ccc>
+        </issuerCredentials>
+      </filer>
+
+
+      <seriesClassInfo>
+        <seriesId>S000029442</seriesId>
+        <classId>C000090393</classId>
+      </seriesClassInfo>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <genInfo>
+      <regName>GLOBAL X FUNDS</regName>
+      <regFileNumber>811-22209</regFileNumber>
+      <regCik>0001432353</regCik>
+      <regLei>5493003RA4QUTSYF1N15</regLei>
+      <regStreet1>605 Third Avenue</regStreet1>
+      <regStreet2>43rd Floor</regStreet2>
+      <regCity>NEW YORK</regCity>
+      <regStateConditional regCountry="US" regState="US-NY"/>
+      <regZipOrPostalCode>10158</regZipOrPostalCode>
+      <regPhone>2126446110</regPhone>
+      <seriesName>Global X Uranium ETF</seriesName>
+      <seriesId>S000029442</seriesId>
+      <seriesLei>549300FJZ5SE0HHSHI40</seriesLei>
+      <repPdEnd>2024-10-31</repPdEnd>
+      <repPdDate>2024-01-31</repPdDate>
+      <isFinalFiling>N</isFinalFiling>
+    </genInfo>
+    <fundInfo>
+      <totAssets>3204709175.73</totAssets>
+      <totLiabs>340569267.42</totLiabs>
+      <netAssets>2864139908.31</netAssets>
+      <assetsAttrMiscSec>0.00000000</assetsAttrMiscSec>
+      <assetsInvested>0.00000000</assetsInvested>
+      <amtPayOneYrBanksBorr>0.00000000</amtPayOneYrBanksBorr>
+      <amtPayOneYrCtrldComp>0.00000000</amtPayOneYrCtrldComp>
+      <amtPayOneYrOthAffil>0.00000000</amtPayOneYrOthAffil>
+      <amtPayOneYrOther>0.00000000</amtPayOneYrOther>
+      <amtPayAftOneYrBanksBorr>0.00000000</amtPayAftOneYrBanksBorr>
+      <amtPayAftOneYrCtrldComp>0.00000000</amtPayAftOneYrCtrldComp>
+      <amtPayAftOneYrOthAffil>0.00000000</amtPayAftOneYrOthAffil>
+      <amtPayAftOneYrOther>0.00000000</amtPayAftOneYrOther>
+      <delayDeliv>0.00000000</delayDeliv>
+      <standByCommit>0.00000000</standByCommit>
+      <liquidPref>0.00000000</liquidPref>
+      <cshNotRptdInCorD>8292933.72000000</cshNotRptdInCorD>
+      <borrowers>
+        <borrower aggrVal="67779.10000000" lei="RCNB6OTYUAMMP879YW96" name="BNP Paribas PB"/>
+        <borrower aggrVal="3055673.56000000" lei="R0MUWSFPU8MPRO8K5P83" name="BNP Paribas S.A. (New York Branch)"/>
+        <borrower aggrVal="5633224.30000000" lei="549300BLWPABP1VNME36" name="Scotia Capital (USA) Inc"/>
+        <borrower aggrVal="5232675.29000000" lei="549300HN4UKV1E2R3U73" name="BofA Securities Inc."/>
+        <borrower aggrVal="16832726.32000000" lei="9R7GPTSO7KV3UQJZQ078" name="Morgan Stanley &amp; Co. LLC"/>
+        <borrower aggrVal="6691809.88000000" lei="AC28XWWI3WIBK2824319" name="Barclays Capital Inc."/>
+        <borrower aggrVal="1280818.98000000" lei="549300JRHF1MHHWUAW04" name="National Financial Services LLC"/>
+        <borrower aggrVal="2240629.57000000" lei="BFM8T61CT2L1QCEMIK50" name="UBS AG London Branch"/>
+        <borrower aggrVal="3062593.94000000" lei="MBNUM2BPBDO7JBLYG310" name="Citigroup Global Markets Inc"/>
+        <borrower aggrVal="5166250.88000000" lei="RUC0QBLBRPRCU4W1NE59" name="BMO Capital Markets Corp."/>
+        <borrower aggrVal="2386045.18000000" lei="549300F35UE0BOM1WJ55" name="SG Americas Securities LLC"/>
+        <borrower aggrVal="3257062.06000000" lei="ZBUT11V806EZRVTWT807" name="J.P. Morgan Securities LLC"/>
+        <borrower aggrVal="20588266.62000000" lei="FOR8UP27PHTHYVLBNG30" name="Goldman Sachs &amp; Co. LLC"/>
+      </borrowers>
+      <isNonCashCollateral>N</isNonCashCollateral>
+      <returnInfo>
+        <monthlyTotReturns>
+          <monthlyTotReturn classId="C000090393" rtn1="10.06856700" rtn2="2.49881000" rtn3="8.26415100"/>
+        </monthlyTotReturns>
+        <monthlyReturnCats>
+          <commodityContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </commodityContracts>
+          <creditContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </creditContracts>
+          <equityContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </equityContracts>
+          <foreignExchgContracts>
+            <mon1 netRealizedGain="431361.97000000" netUnrealizedAppr="89988.88000000"/>
+            <mon2 netRealizedGain="-4740.13000000" netUnrealizedAppr="-4251.07000000"/>
+            <mon3 netRealizedGain="53632.11000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="431361.97000000" netUnrealizedAppr="89988.88000000"/>
+              <instrMon2 netRealizedGain="-4740.13000000" netUnrealizedAppr="-4251.07000000"/>
+              <instrMon3 netRealizedGain="53632.11000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </foreignExchgContracts>
+          <interestRtContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </interestRtContracts>
+          <otherContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </otherContracts>
+        </monthlyReturnCats>
+        <othMon1 netRealizedGain="66149123.84000000" netUnrealizedAppr="183548734.18000000"/>
+        <othMon2 netRealizedGain="-13451269.39000000" netUnrealizedAppr="70620655.58000000"/>
+        <othMon3 netRealizedGain="5069293.95000000" netUnrealizedAppr="177514304.59000000"/>
+      </returnInfo>
+      <mon1Flow redemption="-83633324.86000000" reinvestment="0.00000000" sales="260787876.33000000"/>
+      <mon2Flow redemption="0.00000000" reinvestment="0.00000000" sales="99156483.79000000"/>
+      <mon3Flow redemption="-15894943.79000000" reinvestment="0.00000000" sales="83642585.34000000"/>
+
+      <varInfo>
+
+
+      </varInfo>
+    </fundInfo>
+    <invstOrSecs>
+      <invstOrSec>
+        <name>HYUNDAI ENGINEERING &amp; CONSTRUCTION CO.,LTD</name>
+        <lei>988400CEQG9N710HN313</lei>
+        <title>HYUNDAI ENGINEERING &amp; CONST COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="KR7000720003"/>
+        </identifiers>
+        <balance>2137255.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>55487120.78000000</valUSD>
+        <pctVal>1.937304829942</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Alligator Energy Ltd</name>
+        <lei>N/A</lei>
+        <title>ALLIGATOR ENERGY LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000AGE2"/>
+        </identifiers>
+        <balance>200889858.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>10092698.82000000</valUSD>
+        <pctVal>0.352381487744</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="2021330.24000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: AUD/USD SETTLE 2024-02-02</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTAUD__00175499"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>4248.49000000</valUSD>
+        <pctVal>0.000148333885</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>18456663.77000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>27926560.41000000</amtCurPur>
+            <curPur>AUD</curPur>
+            <settlementDt>2024-02-02</settlementDt>
+            <unrealizedAppr>4248.49000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: AUD/USD SETTLE 2024-02-02</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTAUD__00175501"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>212.49000000</valUSD>
+        <pctVal>0.000007418981</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>923139.15000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>1396790.96000000</amtCurPur>
+            <curPur>AUD</curPur>
+            <settlementDt>2024-02-02</settlementDt>
+            <unrealizedAppr>212.49000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>CanAlaska Uranium Ltd</name>
+        <lei>254900J7UJWY3AWJ8D78</lei>
+        <title>CANALASKA URANIUM LTD COMMON STOCK</title>
+        <cusip>13709C100</cusip>
+        <identifiers>
+          <isin value="CA13709C1005"/>
+        </identifiers>
+        <balance>7955732.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>3870533.14000000</valUSD>
+        <pctVal>0.135137711980</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Skyharbour Resources Ltd</name>
+        <lei>549300DKX8CM6RVJBT88</lei>
+        <title>SKYHARBOUR RESOURCES LTD COMMON STOCK</title>
+        <cusip>830816609</cusip>
+        <identifiers>
+          <isin value="CA8308166096"/>
+        </identifiers>
+        <balance>9306525.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>3900792.64000000</valUSD>
+        <pctVal>0.136194207157</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: GBP/USD SETTLE 2024-02-02</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTGBP__00175459"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="GBP" exchangeRt="0.78527000"/>
+        <valUSD>6556.77000000</valUSD>
+        <pctVal>0.000228926316</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>GB</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>2925889.41000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>2302762.01000000</amtCurPur>
+            <curPur>GBP</curPur>
+            <settlementDt>2024-02-02</settlementDt>
+            <unrealizedAppr>6556.77000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Ur-Energy Inc</name>
+        <lei>5493004ZEMNWEC7T6X93</lei>
+        <title>UR-ENERGY INC COMMON STOCK</title>
+        <cusip>91688R108</cusip>
+        <identifiers>
+          <isin value="CA91688R1082"/>
+        </identifiers>
+        <balance>14376016.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>26451869.44000000</valUSD>
+        <pctVal>0.923553677083</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="601962.25000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>SIBANYE STILLWATER LIMITED</name>
+        <lei>378900F238434B74D281</lei>
+        <title>SIBANYE STILLWATER LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="ZAE000259701"/>
+        </identifiers>
+        <balance>51355846.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="ZAR" exchangeRt="18.59875000"/>
+        <valUSD>63177458.51000000</valUSD>
+        <pctVal>2.205809092170</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>ZA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>DOOSAN ENERBILITY CO., LTD.</name>
+        <lei>988400TK5NA3GLSTN506</lei>
+        <title>DOOSAN ENERBILITY CO LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="KR7034020008"/>
+        </identifiers>
+        <balance>5115968.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>59184464.78000000</valUSD>
+        <pctVal>2.066395730469</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Mitsubishi Heavy Industries, Ltd.</name>
+        <lei>353800TJ98PCAZROVE69</lei>
+        <title>MITSUBISHI HEAVY INDUSTRIES COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="JP3900000005"/>
+        </identifiers>
+        <balance>906586.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="JPY" exchangeRt="146.17500000"/>
+        <valUSD>61660872.32000000</valUSD>
+        <pctVal>2.152858250433</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>JP</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175483"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-98.68000000</valUSD>
+        <pctVal>-0.00000344536</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>34333.19000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>45691084.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-98.68000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>5493006KMX1VFTPYPW14</lei>
+        <title>FX Forward Contract: HKD/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTHKD__00175162"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="HKD" exchangeRt="7.81725000"/>
+        <valUSD>1.15000000</valUSD>
+        <pctVal>0.000000040151</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>HK</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>5493006KMX1VFTPYPW14</counterpartyLei>
+            </counterparties>
+            <amtCurSold>56385.21000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>440786.30000000</amtCurPur>
+            <curPur>HKD</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>1.15000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>SAMSUNG C&amp;T CORPORATION</name>
+        <lei>988400GFRE4IDFPE9E64</lei>
+        <title>SAMSUNG C&amp;T CORP COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="KR7028260008"/>
+        </identifiers>
+        <balance>655687.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>67796655.30000000</valUSD>
+        <pctVal>2.367086017805</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BANNERMAN ENERGY LTD</name>
+        <lei>529900D04RI02L5UK707</lei>
+        <title>BANNERMAN ENERGY LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000BMN9"/>
+        </identifiers>
+        <balance>7544813.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>18104678.39000000</valUSD>
+        <pctVal>0.632115712555</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BHP GROUP LIMITED</name>
+        <lei>WZE1WSENV6JSZFK0JC28</lei>
+        <title>BHP GROUP LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000BHP4"/>
+        </identifiers>
+        <balance>1875867.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>58616968.61000000</valUSD>
+        <pctVal>2.046581887984</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175485"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-84.41000000</valUSD>
+        <pctVal>-0.00000294713</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>29369.94000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>39085930.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-84.41000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Berkeley Energia Ltd</name>
+        <lei>213800JX3V4TPO7TCJ08</lei>
+        <title>BERKELEY ENERGIA LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000BKY0"/>
+        </identifiers>
+        <balance>24447052.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="EUR" exchangeRt="0.92060000"/>
+        <valUSD>5563390.60000000</valUSD>
+        <pctVal>0.194242976184</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>ES</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="433130.17000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Laramide Resources Ltd</name>
+        <lei>2549000L2B3P9LPA0G54</lei>
+        <title>LARAMIDE RESOURCES COMMON STOCK</title>
+        <cusip>51669T101</cusip>
+        <identifiers>
+          <isin value="CA51669T1012"/>
+        </identifiers>
+        <balance>12621002.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>8312923.74000000</valUSD>
+        <pctVal>0.290241538686</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="421119.27000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Mega Uranium Ltd</name>
+        <lei>529900ETMWH20UOMS233</lei>
+        <title>MEGA URANIUM LTD COMMON STOCK</title>
+        <cusip>58516W104</cusip>
+        <identifiers>
+          <isin value="CA58516W1041"/>
+        </identifiers>
+        <balance>18112055.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>6371517.42000000</valUSD>
+        <pctVal>0.222458316422</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>5493006KMX1VFTPYPW14</lei>
+        <title>FX Forward Contract: HKD/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTHKD__00175160"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="HKD" exchangeRt="7.81725000"/>
+        <valUSD>0.54000000</valUSD>
+        <pctVal>0.000000018853</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>HK</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>5493006KMX1VFTPYPW14</counterpartyLei>
+            </counterparties>
+            <amtCurSold>26258.24000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>205271.45000000</amtCurPur>
+            <curPur>HKD</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>0.54000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175473"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-59.04000000</valUSD>
+        <pctVal>-0.00000206135</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>20540.33000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>27335360.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-59.04000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>PENINSULA ENERGY LIMITED</name>
+        <lei>213800XBLFMYEQENEZ77</lei>
+        <title>PENINSULA ENERGY LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000PEN6"/>
+        </identifiers>
+        <balance>71346193.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>6131261.88000000</valUSD>
+        <pctVal>0.214069915446</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Forsys Metals Corp</name>
+        <lei>529900IW82S76U8ZO822</lei>
+        <title>FORSYS METALS CORP COMMON STOCK</title>
+        <cusip>34660G104</cusip>
+        <identifiers>
+          <isin value="CA34660G1046"/>
+        </identifiers>
+        <balance>7448233.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>5630564.22000000</valUSD>
+        <pctVal>0.196588309239</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>DENISON MINES CORP.</name>
+        <lei>529900JWGSW17LJK6586</lei>
+        <title>DENISON MINES CORP COMMON STOCK</title>
+        <cusip>248356107</cusip>
+        <identifiers>
+          <isin value="CA2483561072"/>
+        </identifiers>
+        <balance>50800132.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>102661095.32000000</valUSD>
+        <pctVal>3.584360352723</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="96666.52000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>5493006KMX1VFTPYPW14</lei>
+        <title>FX Forward Contract: HKD/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTHKD__00175164"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="HKD" exchangeRt="7.81725000"/>
+        <valUSD>0.89000000</valUSD>
+        <pctVal>0.000000031073</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>HK</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>5493006KMX1VFTPYPW14</counterpartyLei>
+            </counterparties>
+            <amtCurSold>43674.86000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>341424.27000000</amtCurPur>
+            <curPur>HKD</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>0.89000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>5493006KMX1VFTPYPW14</lei>
+        <title>FX Forward Contract: HKD/USD SETTLE 2024-02-02</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTHKD__00175515"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="HKD" exchangeRt="7.81725000"/>
+        <valUSD>2.55000000</valUSD>
+        <pctVal>0.000000089031</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>HK</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>5493006KMX1VFTPYPW14</counterpartyLei>
+            </counterparties>
+            <amtCurSold>31148.11000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>243512.52000000</amtCurPur>
+            <curPur>HKD</curPur>
+            <settlementDt>2024-02-02</settlementDt>
+            <unrealizedAppr>2.55000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175471"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-140.83000000</valUSD>
+        <pctVal>-0.00000491700</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>48996.61000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>65205372.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-140.83000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175520"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-125.81000000</valUSD>
+        <pctVal>-0.00000439259</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>43769.84000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>58249510.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-125.81000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>AMERICAN LITHIUM CORP.</name>
+        <lei>5299003L5RONUC1YCA16</lei>
+        <title>AMERICAN LITHIUM CORP COMMON STOCK</title>
+        <cusip>027259209</cusip>
+        <identifiers>
+          <isin value="CA0272592092"/>
+        </identifiers>
+        <balance>11773248.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>10310018.46000000</valUSD>
+        <pctVal>0.359969093342</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="75701.68000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Sprott Physical Uranium Trust</name>
+        <lei>N/A</lei>
+        <title>SPROTT PHYSICAL URANIUM TRUS MUTUAL FUND</title>
+        <cusip>85210A104</cusip>
+        <identifiers>
+          <isin value="CA85210A1049"/>
+        </identifiers>
+        <balance>11366309.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>264665149.50000000</valUSD>
+        <pctVal>9.240650176763</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175475"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-98.47000000</valUSD>
+        <pctVal>-0.00000343803</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>34260.56000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>45594430.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-98.47000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175479"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-103.65000000</valUSD>
+        <pctVal>-0.00000361888</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>36063.33000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>47993590.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-103.65000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Lotus Resources Ltd</name>
+        <lei>N/A</lei>
+        <title>LOTUS RESOURCES LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU0000058737"/>
+        </identifiers>
+        <balance>82589686.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>19927572.08000000</valUSD>
+        <pctVal>0.695761126130</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="3476827.15000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175461"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-127.22000000</valUSD>
+        <pctVal>-0.00000444182</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>44261.00000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>58903152.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-127.22000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>CGN Mining Co Ltd</name>
+        <lei>529900LQYG057CZAZT41</lei>
+        <title>CGN MINING CO LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="KYG2029E1052"/>
+        </identifiers>
+        <balance>120598100.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="HKD" exchangeRt="7.81725000"/>
+        <valUSD>29003092.90000000</valUSD>
+        <pctVal>1.012628357150</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>HK</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="4442234.09000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>5493006KMX1VFTPYPW14</lei>
+        <title>FX Forward Contract: USD/AUD SETTLE 2024-02-02</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTUSD__00175513"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <curCd>USD</curCd>
+        <valUSD>-171.03000000</valUSD>
+        <pctVal>-0.00000597142</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>5493006KMX1VFTPYPW14</counterpartyLei>
+            </counterparties>
+            <amtCurSold>1124221.79000000</amtCurSold>
+            <curSold>AUD</curSold>
+            <amtCurPur>742998.18000000</amtCurPur>
+            <curPur>USD</curPur>
+            <settlementDt>2024-02-02</settlementDt>
+            <unrealizedAppr>-171.03000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>DAEWOO ENGINEERING &amp; CONSTRUCTION CO.,LTD</name>
+        <lei>988400P76EU13V47BI82</lei>
+        <title>DAEWOO ENGINEERING &amp; CONSTR COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="KR7047040001"/>
+        </identifiers>
+        <balance>9997143.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>29474961.75000000</valUSD>
+        <pctVal>1.029103419999</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>5493006KMX1VFTPYPW14</lei>
+        <title>FX Forward Contract: USD/AUD SETTLE 2024-02-02</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTUSD__00175497"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <curCd>USD</curCd>
+        <valUSD>-555.38000000</valUSD>
+        <pctVal>-0.00001939081</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>5493006KMX1VFTPYPW14</counterpartyLei>
+            </counterparties>
+            <amtCurSold>3650703.61000000</amtCurSold>
+            <curSold>AUD</curSold>
+            <amtCurPur>2412750.02000000</amtCurPur>
+            <curPur>USD</curPur>
+            <settlementDt>2024-02-02</settlementDt>
+            <unrealizedAppr>-555.38000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Fission Uranium Corp</name>
+        <lei>529900CBYH3A7AK6P676</lei>
+        <title>FISSION URANIUM CORP COMMON STOCK</title>
+        <cusip>33812R109</cusip>
+        <identifiers>
+          <isin value="CA33812R1091"/>
+        </identifiers>
+        <balance>37730592.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>35300505.22000000</valUSD>
+        <pctVal>1.232499331390</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="2777408.37000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Nuscale Power Corp</name>
+        <lei>N/A</lei>
+        <title>NUSCALE POWER CORP COMMON STOCK</title>
+        <cusip>67079K100</cusip>
+        <identifiers>
+          <isin value="US67079K1007"/>
+        </identifiers>
+        <balance>3351622.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>9686187.58000000</valUSD>
+        <pctVal>0.338188352876</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="7132361.29000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>URANIUM ENERGY CORP.</name>
+        <lei>549300VD69WD2USLIP04</lei>
+        <title>URANIUM ENERGY CORP COMMON STOCK</title>
+        <cusip>916896103</cusip>
+        <identifiers>
+          <isin value="US9168961038"/>
+        </identifiers>
+        <balance>17659066.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>134915264.24000000</valUSD>
+        <pctVal>4.710498389012</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>F3 Uranium Corp</name>
+        <lei>529900LPUJAEJJNB3B78</lei>
+        <title>F3 URANIUM CORP COMMON STOCK</title>
+        <cusip>30330R108</cusip>
+        <identifiers>
+          <isin value="CA30330R1082"/>
+        </identifiers>
+        <balance>22456889.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>8320167.70000000</valUSD>
+        <pctVal>0.290494457895</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="26180.43000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>GS Engineering &amp; Construction Corp</name>
+        <lei>988400BQ69DJXXFA0D28</lei>
+        <title>GS ENGINEERING &amp; CONSTRUCT COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="KR7006360002"/>
+        </identifiers>
+        <balance>3503835.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>39668037.95000000</valUSD>
+        <pctVal>1.384989533329</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175491"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-58.81000000</valUSD>
+        <pctVal>-0.00000205332</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>20463.84000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>27233570.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-58.81000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Yellow Cake PLC</name>
+        <lei>213800CVMYUGOA9EZY95</lei>
+        <title>YELLOW CAKE PLC COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="JE00BF50RG45"/>
+        </identifiers>
+        <balance>12106346.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="GBP" exchangeRt="0.78527000"/>
+        <valUSD>107223803.83000000</valUSD>
+        <pctVal>3.743665018559</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>GB</invCountry>
+
+        <isRestrictedSec>Y</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Uranium Royalty Corp</name>
+        <lei>5493005KEPCD7QSX6305</lei>
+        <title>URANIUM ROYALTY CORP COMMON STOCK</title>
+        <cusip>91702V101</cusip>
+        <identifiers>
+          <isin value="CA91702V1013"/>
+        </identifiers>
+        <balance>5285190.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>17959479.51000000</valUSD>
+        <pctVal>0.627046166910</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="1667988.47000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Anson Resources Ltd</name>
+        <lei>529900U2F9BSPAMFR394</lei>
+        <title>ANSON RESOURCES LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000ASN8"/>
+        </identifiers>
+        <balance>53933411.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>2994834.88000000</valUSD>
+        <pctVal>0.104563149003</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="1267171.72000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>5493006KMX1VFTPYPW14</lei>
+        <title>FX Forward Contract: USD/AUD SETTLE 2024-02-02</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTUSD__00175505"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <curCd>USD</curCd>
+        <valUSD>-95.03000000</valUSD>
+        <pctVal>-0.00000331792</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>5493006KMX1VFTPYPW14</counterpartyLei>
+            </counterparties>
+            <amtCurSold>624639.96000000</amtCurSold>
+            <curSold>AUD</curSold>
+            <amtCurPur>412824.55000000</amtCurPur>
+            <curPur>USD</curPur>
+            <settlementDt>2024-02-02</settlementDt>
+            <unrealizedAppr>-95.03000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: AUD/USD SETTLE 2024-02-02</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTAUD__00175511"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>1208.17000000</valUSD>
+        <pctVal>0.000042182646</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>5248652.80000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>7941674.68000000</amtCurPur>
+            <curPur>AUD</curPur>
+            <settlementDt>2024-02-02</settlementDt>
+            <unrealizedAppr>1208.17000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>GROUPE AECON INC.</name>
+        <lei>549300VROCXVWXFR8B83</lei>
+        <title>AECON GROUP INC COMMON STOCK</title>
+        <cusip>00762V109</cusip>
+        <identifiers>
+          <isin value="CA00762V1094"/>
+        </identifiers>
+        <balance>3470683.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>35900482.06000000</valUSD>
+        <pctVal>1.253447220083</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="2319913.62000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175457"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-115.37000000</valUSD>
+        <pctVal>-0.00000402808</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>40138.88000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>53417378.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-115.37000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Energy Fuels Inc.</name>
+        <lei>529900P0GCATXMGK8I62</lei>
+        <title>ENERGY FUELS INC COMMON STOCK</title>
+        <cusip>292671708</cusip>
+        <identifiers>
+          <isin value="CA2926717083"/>
+        </identifiers>
+        <balance>8921651.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>68111852.25000000</valUSD>
+        <pctVal>2.378090960304</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="31803029.67000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>KEPCO Engineering &amp; Construction Company, Inc</name>
+        <lei>N/A</lei>
+        <title>KEPCO ENGINEERING &amp; CONSTRUC COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="KR7052690005"/>
+        </identifiers>
+        <balance>896512.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>44064876.33000000</valUSD>
+        <pctVal>1.538502927254</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>ISOENERGY LTD.</name>
+        <lei>5299000RYB4XC9F7VC32</lei>
+        <title>ISOENERGY LTD COMMON STOCK</title>
+        <cusip>46500E107</cusip>
+        <identifiers>
+          <isin value="CA46500E1079"/>
+        </identifiers>
+        <balance>6229214.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>22239699.70000000</valUSD>
+        <pctVal>0.776487895562</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="271384.24000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175467"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-98.25000000</valUSD>
+        <pctVal>-0.00000343034</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>34182.50000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>45490549.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-98.25000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>5493006KMX1VFTPYPW14</lei>
+        <title>FX Forward Contract: JPY/USD SETTLE 2024-02-02</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTJPY__00175493"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="JPY" exchangeRt="146.17500000"/>
+        <valUSD>3015.74000000</valUSD>
+        <pctVal>0.000105293040</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>JP</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>5493006KMX1VFTPYPW14</counterpartyLei>
+            </counterparties>
+            <amtCurSold>12595003.74000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>1841515497.00000000</amtCurPur>
+            <curPur>JPY</curPur>
+            <settlementDt>2024-02-02</settlementDt>
+            <unrealizedAppr>3015.74000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>NEXGEN ENERGY LTD.</name>
+        <lei>529900N0IXNXB3IP7F06</lei>
+        <title>NEXGEN ENERGY LTD COMMON STOCK</title>
+        <cusip>65340P106</cusip>
+        <identifiers>
+          <isin value="CA65340P1062"/>
+        </identifiers>
+        <balance>21220625.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>163596001.27000000</valUSD>
+        <pctVal>5.711871853583</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Boss Energy Ltd</name>
+        <lei>9845000ED0A5F908A057</lei>
+        <title>BOSS ENERGY LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000BOE4"/>
+        </identifiers>
+        <balance>22356568.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>82318232.98000000</valUSD>
+        <pctVal>2.874099576670</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>5493006KMX1VFTPYPW14</lei>
+        <title>FX Forward Contract: JPY/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTJPY__00175166"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="JPY" exchangeRt="146.17500000"/>
+        <valUSD>539.72000000</valUSD>
+        <pctVal>0.000018844051</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>JP</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>5493006KMX1VFTPYPW14</counterpartyLei>
+            </counterparties>
+            <amtCurSold>47445.93000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>7014302.00000000</amtCurPur>
+            <curPur>JPY</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>539.72000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Aura Energy Ltd</name>
+        <lei>5493003D06RIWBKIKA27</lei>
+        <title>AURA ENERGY LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000AEE7"/>
+        </identifiers>
+        <balance>26941454.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>5075766.09000000</valUSD>
+        <pctVal>0.177217812414</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="660901.05000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>ITOCHU Corporation</name>
+        <lei>J48DJYXDTLHM30UMYI18</lei>
+        <title>ITOCHU CORP COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="JP3143600009"/>
+        </identifiers>
+        <balance>1281646.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="JPY" exchangeRt="146.17500000"/>
+        <valUSD>59200778.46000000</valUSD>
+        <pctVal>2.066965314377</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>JP</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Joint stock company National atomic company Kazatomprom</name>
+        <lei>5493008JG5TXJP2JSY44</lei>
+        <title>NAC KAZATOMPROM JSC-GDR REGS DEPOSITARY RECEIPT</title>
+        <cusip>63253R201</cusip>
+        <identifiers>
+          <isin value="US63253R2013"/>
+        </identifiers>
+        <balance>2964011.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>120042445.50000000</valUSD>
+        <pctVal>4.191221425730</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>GB</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Goviex Uranium Inc</name>
+        <lei>5299001I7FX6JUNIPU44</lei>
+        <title>GOVIEX URANIUM INC COMMON STOCK</title>
+        <cusip>383798105</cusip>
+        <identifiers>
+          <isin value="CA3837981057"/>
+        </identifiers>
+        <balance>40281239.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>6331394.93000000</valUSD>
+        <pctVal>0.221057459924</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="259112.96000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>enCore Energy Corp</name>
+        <lei>5299007FNX2NVNJM3O59</lei>
+        <title>ENCORE ENERGY CORP COMMON STOCK</title>
+        <cusip>29259W700</cusip>
+        <identifiers>
+          <isin value="CA29259W7008"/>
+        </identifiers>
+        <balance>9114719.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>41956155.72000000</valUSD>
+        <pctVal>1.464878010961</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="9984007.88000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175489"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-127.51000000</valUSD>
+        <pctVal>-0.00000445194</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>44367.10000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>59044364.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-127.51000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Global Atomic Corp</name>
+        <lei>529900EY4VQEZUOEO166</lei>
+        <title>GLOBAL ATOMIC CORP COMMON STOCK</title>
+        <cusip>37957M106</cusip>
+        <identifiers>
+          <isin value="CA37957M1068"/>
+        </identifiers>
+        <balance>10292561.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>25268216.07000000</valUSD>
+        <pctVal>0.882227016797</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="2398242.54000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>5493006KMX1VFTPYPW14</lei>
+        <title>FX Forward Contract: JPY/USD SETTLE 2024-02-02</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTJPY__00175495"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="JPY" exchangeRt="146.17500000"/>
+        <valUSD>581.54000000</valUSD>
+        <pctVal>0.000020304175</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>JP</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>5493006KMX1VFTPYPW14</counterpartyLei>
+            </counterparties>
+            <amtCurSold>2428745.39000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>355106864.00000000</amtCurPur>
+            <curPur>JPY</curPur>
+            <settlementDt>2024-02-02</settlementDt>
+            <unrealizedAppr>581.54000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>N/A</name>
+        <lei>N/A</lei>
+        <title>Fidelity Money Market Government Portfolio</title>
+        <cusip>31607A703</cusip>
+        <identifiers>
+          <isin value="US31607A7037"/>
+        </identifiers>
+        <balance>6617618.13000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>6617618.13000000</valUSD>
+        <pctVal>0.231050798559</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>STIV</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <cashCollateralCondition cashCollateralVal="6617618.13000000" isCashCollateral="Y"/>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: AUD/USD SETTLE 2024-02-02</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTAUD__00175503"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>125.58000000</valUSD>
+        <pctVal>0.000004384562</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>545561.25000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>825482.29000000</amtCurPur>
+            <curPur>AUD</curPur>
+            <settlementDt>2024-02-02</settlementDt>
+            <unrealizedAppr>125.58000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175469"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-131.85000000</valUSD>
+        <pctVal>-0.00000460347</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>45875.39000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>61051611.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-131.85000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175487"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-149.10000000</valUSD>
+        <pctVal>-0.00000520575</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>51876.16000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>69037524.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-149.10000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: AUD/USD SETTLE 2024-02-02</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTAUD__00175509"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>2189.18000000</valUSD>
+        <pctVal>0.000076434115</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>9510454.03000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>14390155.89000000</amtCurPur>
+            <curPur>AUD</curPur>
+            <settlementDt>2024-02-02</settlementDt>
+            <unrealizedAppr>2189.18000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: AUD/USD SETTLE 2024-02-02</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTAUD__00175507"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>405.74000000</valUSD>
+        <pctVal>0.000014166207</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>1762680.55000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>2667091.16000000</amtCurPur>
+            <curPur>AUD</curPur>
+            <settlementDt>2024-02-02</settlementDt>
+            <unrealizedAppr>405.74000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175465"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-182.15000000</valUSD>
+        <pctVal>-0.00000635967</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>63373.79000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>84338722.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-182.15000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Elevate Uranium Ltd</name>
+        <lei>213800AKEDZ9BBYIRF62</lei>
+        <title>ELEVATE URANIUM LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU0000156416"/>
+        </identifiers>
+        <balance>15124405.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>6048802.19000000</valUSD>
+        <pctVal>0.211190876969</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="1437376.11000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Deep Yellow Ltd</name>
+        <lei>529900FL7FGTGTVII319</lei>
+        <title>DEEP YELLOW LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000DYL4"/>
+        </identifiers>
+        <balance>41190057.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>39754011.41000000</valUSD>
+        <pctVal>1.387991253313</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <loanByFundCondition isLoanByFund="Y" loanVal="1921505.96000000"/>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: ZAR/USD SETTLE 2024-02-05</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTZAR__00175519"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="ZAR" exchangeRt="18.59875000"/>
+        <valUSD>69653.18000000</valUSD>
+        <pctVal>0.002431905641</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>ZA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>35930817.77000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>669829491.06000000</amtCurPur>
+            <curPur>ZAR</curPur>
+            <settlementDt>2024-02-05</settlementDt>
+            <unrealizedAppr>69653.18000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>5493006KMX1VFTPYPW14</lei>
+        <title>FX Forward Contract: JPY/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTJPY__00175142"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="JPY" exchangeRt="146.17500000"/>
+        <valUSD>698.52000000</valUSD>
+        <pctVal>0.000024388473</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>JP</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>5493006KMX1VFTPYPW14</counterpartyLei>
+            </counterparties>
+            <amtCurSold>61406.17000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>9078153.00000000</amtCurPur>
+            <curPur>JPY</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>698.52000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>PALADIN ENERGY LTD</name>
+        <lei>549300M44UTJAP8J6B37</lei>
+        <title>PALADIN ENERGY LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000PDN8"/>
+        </identifiers>
+        <balance>166130297.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>142217918.89000000</valUSD>
+        <pctVal>4.965466892080</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175463"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-69.19000000</valUSD>
+        <pctVal>-0.00000241573</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>24073.46000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>32037300.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-69.19000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175477"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-61.97000000</valUSD>
+        <pctVal>-0.00000216365</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>21559.99000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>28692330.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-61.97000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>N/A</lei>
+        <title>FX Forward Contract: KRW/USD SETTLE 2024-02-01</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTKRW__00175481"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <currencyConditional curCd="KRW" exchangeRt="1334.65000000"/>
+        <valUSD>-59.21000000</valUSD>
+        <pctVal>-0.00000206728</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>KR</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>N/A</counterpartyLei>
+            </counterparties>
+            <amtCurSold>20601.48000000</amtCurSold>
+            <curSold>USD</curSold>
+            <amtCurPur>27416735.00000000</amtCurPur>
+            <curPur>KRW</curPur>
+            <settlementDt>2024-02-01</settlementDt>
+            <unrealizedAppr>-59.21000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>CENTRUS ENERGY CORP.</name>
+        <lei>549300G6VDK9G8276661</lei>
+        <title>CENTRUS ENERGY CORP-CLASS A COMMON STOCK</title>
+        <cusip>15643U104</cusip>
+        <identifiers>
+          <isin value="US15643U1043"/>
+        </identifiers>
+        <balance>692164.00000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>34760476.08000000</valUSD>
+        <pctVal>1.213644486400</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>CORPORATION CAMECO</name>
+        <lei>N4BHALMXL3GMZKCUON55</lei>
+        <title>CAMECO CORP COMMON STOCK</title>
+        <cusip>13321L108</cusip>
+        <identifiers>
+          <isin value="CA13321L1085"/>
+        </identifiers>
+        <balance>13442647.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="CAD" exchangeRt="1.33605000"/>
+        <valUSD>645846720.50000000</valUSD>
+        <pctVal>22.54941243010</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>CA</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>BROWN BROTHERS HARRIMAN &amp; CO.</name>
+        <lei>5493006KMX1VFTPYPW14</lei>
+        <title>FX Forward Contract: USD/HKD SETTLE 2024-02-02</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FX Forwards" value="CCTUSD__00175517"/>
+        </identifiers>
+        <balance>1.00000000</balance>
+        <units>NC</units>
+        <curCd>USD</curCd>
+        <valUSD>-989.48000000</valUSD>
+        <pctVal>-0.00003454719</pctVal>
+        <payoffProfile>N/A</payoffProfile>
+        <assetCat>DFE</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <derivativeInfo>
+          <fwdDeriv derivCat="FWD">
+            <counterparties>
+              <counterpartyName>BROWN BROTHERS HARRIMAN &amp; CO.</counterpartyName>
+              <counterpartyLei>5493006KMX1VFTPYPW14</counterpartyLei>
+            </counterparties>
+            <amtCurSold>94486824.23000000</amtCurSold>
+            <curSold>HKD</curSold>
+            <amtCurPur>12085975.15000000</amtCurPur>
+            <curPur>USD</curPur>
+            <settlementDt>2024-02-02</settlementDt>
+            <unrealizedAppr>-989.48000000</unrealizedAppr>
+          </fwdDeriv>
+        </derivativeInfo>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Silex Systems Ltd</name>
+        <lei>5493003U7WMXGIEUEF14</lei>
+        <title>SILEX SYSTEMS LTD COMMON STOCK</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <isin value="AU000000SLX4"/>
+        </identifiers>
+        <balance>10297228.00000000</balance>
+        <units>NS</units>
+        <currencyConditional curCd="AUD" exchangeRt="1.51274000"/>
+        <valUSD>34988003.17000000</valUSD>
+        <pctVal>1.221588479965</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>EC</assetCat>
+        <issuerConditional desc="N/A" issuerCat="OTHER"/>
+        <invCountry>AU</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+    </invstOrSecs>
+    <signature>
+      <ncom:dateSigned>2024-01-31</ncom:dateSigned>
+      <ncom:nameOfApplicant>GLOBAL X FUNDS</ncom:nameOfApplicant>
+      <ncom:signature>Luis Berruga</ncom:signature>
+      <ncom:signerName>Luis Berruga</ncom:signerName>
+      <ncom:title>President</ncom:title>
+    </signature>
+  </formData>
+  <documents>XXXX</documents>
+</edgarSubmission>
