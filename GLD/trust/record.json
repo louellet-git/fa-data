@@ -1,0 +1,95 @@
+{
+  "files": {
+    "0001437749-23-032876.htm": {
+      "bytes": 1069970,
+      "fetched": "2026-11-26",
+      "note": "10-K for the period ending 2023-09-30, filed 2023-11-22",
+      "url": "https://www.sec.gov/Archives/edgar/data/1222333/000143774923032876/gld20230930_10k.htm"
+    },
+    "0001437749-24-003442.htm": {
+      "bytes": 432712,
+      "fetched": "2026-11-26",
+      "note": "10-Q for the period ending 2023-12-31, filed 2024-02-08",
+      "url": "https://www.sec.gov/Archives/edgar/data/1222333/000143774924003442/gld20231231_10q.htm"
+    },
+    "0001437749-24-015320.htm": {
+      "bytes": 547129,
+      "fetched": "2026-11-26",
+      "note": "10-Q for the period ending 2024-03-31, filed 2024-05-08",
+      "url": "https://www.sec.gov/Archives/edgar/data/1222333/000143774924015320/gld20240331_10q.htm"
+    },
+    "0001437749-24-024842.htm": {
+      "bytes": 546488,
+      "fetched": "2026-11-26",
+      "note": "10-Q for the period ending 2024-06-30, filed 2024-08-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/1222333/000143774924024842/gld20240630_10q.htm"
+    },
+    "0001437749-24-036161.htm": {
+      "bytes": 1056258,
+      "fetched": "2026-11-26",
+      "note": "10-K for the period ending 2024-09-30, filed 2024-11-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/1222333/000143774924036161/gld20240930_10k.htm"
+    },
+    "0001437749-25-002865.htm": {
+      "bytes": 455660,
+      "fetched": "2026-11-26",
+      "note": "10-Q for the period ending 2024-12-31, filed 2025-02-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/1222333/000143774925002865/gld20241231_10q.htm"
+    },
+    "0001437749-25-015077.htm": {
+      "bytes": 556231,
+      "fetched": "2026-11-26",
+      "note": "10-Q for the period ending 2025-03-31, filed 2025-05-07",
+      "url": "https://www.sec.gov/Archives/edgar/data/1222333/000143774925015077/gld20250331_10q.htm"
+    },
+    "0001437749-25-024998.htm": {
+      "bytes": 555345,
+      "fetched": "2026-11-26",
+      "note": "10-Q for the period ending 2025-06-30, filed 2025-08-06",
+      "url": "https://www.sec.gov/Archives/edgar/data/1222333/000143774925024998/gld20250630_10q.htm"
+    },
+    "0001437749-25-036305.htm": {
+      "bytes": 1069473,
+      "fetched": "2026-11-26",
+      "note": "10-K for the period ending 2025-09-30, filed 2025-11-25",
+      "url": "https://www.sec.gov/Archives/edgar/data/1222333/000143774925036305/gld20250930_10k.htm"
+    },
+    "0001437749-26-002987.htm": {
+      "bytes": 468126,
+      "fetched": "2026-11-26",
+      "note": "10-Q for the period ending 2025-12-31, filed 2026-02-04",
+      "url": "https://www.sec.gov/Archives/edgar/data/1222333/000143774926002987/gld20251231_10q.htm"
+    },
+    "0001437749-26-014926.htm": {
+      "bytes": 579884,
+      "fetched": "2026-11-26",
+      "note": "10-Q for the period ending 2026-03-31, filed 2026-05-05",
+      "url": "https://www.sec.gov/Archives/edgar/data/1222333/000143774926014926/gld20260331_10q.htm"
+    },
+    "0001437749-26-025680.htm": {
+      "bytes": 585332,
+      "fetched": "2026-11-26",
+      "note": "10-Q for the period ending 2026-06-30, filed 2026-08-04",
+      "url": "https://www.sec.gov/Archives/edgar/data/1222333/000143774926025680/gld20260630_10q.htm"
+    },
+    "0001437749-26-038190.htm": {
+      "bytes": 1094781,
+      "fetched": "2026-11-26",
+      "note": "10-K for the period ending 2026-09-30, filed 2026-11-24",
+      "url": "https://www.sec.gov/Archives/edgar/data/1222333/000143774926038190/gld20260930_10k.htm"
+    },
+    "company_facts.json": {
+      "bytes": 1349213,
+      "fetched": "2026-11-26",
+      "note": "XBRL companyfacts: SponsorFees (3-month), cross-check of net assets, shares, NAV per share",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001222333.json"
+    },
+    "submissions.json": {
+      "bytes": 179346,
+      "fetched": "2026-11-26",
+      "note": "the filing list; 10-Q and 10-K are used",
+      "url": "https://data.sec.gov/submissions/CIK0001222333.json"
+    }
+  },
+  "source": "SEC EDGAR (the SPDR Gold Trust, CIK 1222333)"
+}
