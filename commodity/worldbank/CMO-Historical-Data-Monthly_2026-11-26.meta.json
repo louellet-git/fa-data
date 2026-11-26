@@ -1,0 +1,16 @@
+{
+  "address": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
+  "bytes": 587760,
+  "date": "2026-11-26",
+  "definition": "Gold, spot average of daily rates, from June 2025; previously (UK), 99.5% fine, London afternoon fixing, average of daily rates",
+  "file_says": "Updated on November 03, 2026",
+  "first": "1960-01",
+  "last": "2026-10",
+  "licence": "CC BY 4.0 (https://datacatalog.worldbank.org/public-licenses): credit the World Bank, say if changed",
+  "months": 802,
+  "note": "private cache; not a vintage file: a later download can revise old values",
+  "page": "https://www.worldbank.org/en/research/commodity-markets",
+  "series": "gold",
+  "sha256": "3c8d9d8dbb48342fdbf24777c39a8ce8964cc2fd0958f72f6779e6e4ad99cde2",
+  "source": "World Bank, Commodity Price Data (The Pink Sheet), monthly prices"
+}
